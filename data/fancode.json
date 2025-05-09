@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:19 PM 09-05-2025",
+    "last_updated": "08:51:19 PM 09-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android 7.1.2) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 11,
-    "upcoming_matches": 7,
+    "total_matches": 16,
+    "live_matches": 10,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "MotoGP",
@@ -446,37 +446,6 @@
         },
         {
             "category": "Golf",
-            "title": "ONEflight Myrtle Beach Classic",
-            "tournament": "ONEflight Myrtle Beach Classic",
-            "short_name": "ONEflight Myrtle Beach Classic",
-            "match_id": 125309,
-            "status": "COMPLETED",
-            "startTime": "2025-05-08T00:00:00.000Z",
-            "endDate": "2025-05-11T18:15:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic_old.jpg",
-            "teams": [
-                {
-                    "id": 9875,
-                    "name": "ONEflight Myrtle Beach Classic",
-                    "shortName": "OMBC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-OMBC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-OMBC@2x.png",
-                    "color": "#499B6B"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
             "title": "World Feed - Day 2",
             "tournament": "Truist Championship",
             "short_name": "Truist Championship",
@@ -535,37 +504,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125231_english_hls_10091adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Greece Women vs Germany Women",
-            "tournament": "ECI-W Greece-Germany, 2025",
-            "short_name": "ECI-W Greece-Germany",
-            "match_id": 125373,
-            "status": "STARTED",
-            "startTime": "2025-05-09T00:00:00.000Z",
-            "endDate": "2025-05-09T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-W-Greece-Germany,-2025-old-match-card--(1).png",
-            "teams": [
-                {
-                    "id": 5230,
-                    "name": "Greece Women",
-                    "shortName": "GREW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-                    "color": "#1c50b1"
-                },
-                {
-                    "id": 1286,
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-                    "color": "#ea6363"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125373_english_hls_83329adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
