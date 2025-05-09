@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:19 PM 09-05-2025",
+    "last_updated": "09:19:19 PM 09-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android 7.1.2) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 10,
-    "upcoming_matches": 6,
+    "total_matches": 15,
+    "live_matches": 8,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "MotoGP",
@@ -16,7 +16,7 @@
             "tournament": "MICHELIN\u00ae GRAND PRIX DE FRANCE",
             "short_name": "France MotoGP",
             "match_id": 118551,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-09T00:00:00.000Z",
             "endDate": "2025-05-11T18:15:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_Sporty.jpg",
@@ -38,7 +38,7 @@
                     "color": "#EE0000"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/118551_english_hls_29757adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/122489_english_hls_34514adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Turkish Open",
-            "tournament": "Turkish Open",
-            "short_name": "Turkish Open",
-            "match_id": 125305,
-            "status": "STARTED",
-            "startTime": "2025-05-08T00:00:00.000Z",
-            "endDate": "2025-05-11T18:15:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg",
-            "teams": [
-                {
-                    "id": 9874,
-                    "name": "Turkish Open",
-                    "shortName": "TO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TUO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TUO@2x.png",
-                    "color": "#C80C0F"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125305_english_hls_88115adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
