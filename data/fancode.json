@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:37:56 AM 10-05-2025",
+    "last_updated": "02:44:56 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 8,
-    "live_matches": 3,
-    "upcoming_matches": 5,
+    "total_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Football",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Coventry City vs Sunderland",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 125155,
-            "status": "STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-03T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125155_4352_CVC_SUN_fc-app.jpg",
-            "teams": [
-                {
-                    "id": 2598,
-                    "name": "Coventry City",
-                    "shortName": "CVC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "color": "#199bbc"
-                },
-                {
-                    "id": 424,
-                    "name": "Sunderland",
-                    "shortName": "SUN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "color": "#cdb14c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125155_english_hls_81831adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,34 +197,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Jamaica Women vs Guyana Women",
-            "tournament": "CWI T20 Blaze Tournament, 2025",
-            "short_name": "CWI T20 Blaze",
-            "match_id": 124490,
-            "status": "STARTED",
-            "startTime": "2025-05-01T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_old.jpg",
+            "category": "Football",
+            "title": "Mallorca vs Real Valladolid",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125026,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://images.fancode.com/aig/match/v1/125026_CASACARDS_SPORTY_APP.png",
             "teams": [
                 {
-                    "id": 4801,
-                    "name": "Jamaica Women",
-                    "shortName": "JAM-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JAM@2x.png",
-                    "color": "#6BEFB5"
+                    "id": 1413,
+                    "name": "Mallorca",
+                    "shortName": "MRC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
+                    "color": "#FBCCD1"
                 },
                 {
-                    "id": 4805,
-                    "name": "Guyana Women",
-                    "shortName": "GY-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUYY@2x.png",
-                    "color": "#008b4b"
+                    "id": 946,
+                    "name": "Real Valladolid",
+                    "shortName": "VLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "color": "#F1948A"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124490_english_hls_89955adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
