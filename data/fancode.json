@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:20 AM 10-05-2025",
+    "last_updated": "12:37:20 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -229,37 +229,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Southern Spitfires vs Central Commanders",
-            "tournament": "ECS Jersey, Liberation Series, 2025",
-            "short_name": "ECS Jersey",
-            "match_id": 124773,
-            "status": "STARTED",
-            "startTime": "2025-05-05T00:00:00.000Z",
-            "endDate": "2025-05-09T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/124759_5155_SSP_CC_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 9859,
-                    "name": "Southern Spitfires",
-                    "shortName": "SSP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
-                    "color": "#969492"
-                },
-                {
-                    "id": 9855,
-                    "name": "Central Commanders",
-                    "shortName": "CC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
-                    "color": "#6c0303"
-                }
-            ],
-            "adfree_stream": "https://d2wemv5h0ll8px.cloudfront.net/out/v1/42768071f3754dc9adbbf56854a348d4/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Jamaica Women vs Guyana Women",
             "tournament": "CWI T20 Blaze Tournament, 2025",
             "short_name": "CWI T20 Blaze",
@@ -411,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125235_english_hls_12222adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Southern Spitfires vs Central Commanders",
+            "tournament": "ECS Jersey, Liberation Series, 2025",
+            "short_name": "ECS Jersey",
+            "match_id": 124773,
+            "status": "STARTED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-09T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/124759_5155_SSP_CC_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 9859,
+                    "name": "Southern Spitfires",
+                    "shortName": "SSP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
+                    "color": "#969492"
+                },
+                {
+                    "id": 9855,
+                    "name": "Central Commanders",
+                    "shortName": "CC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
+                    "color": "#6c0303"
+                }
+            ],
+            "adfree_stream": "https://d2wemv5h0ll8px.cloudfront.net/out/v1/42768071f3754dc9adbbf56854a348d4/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
