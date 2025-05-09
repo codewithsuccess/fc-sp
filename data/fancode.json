@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:26:19 PM 09-05-2025",
+    "last_updated": "10:30:24 PM 09-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 8,
+    "total_matches": 16,
+    "live_matches": 9,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "MotoGP",
-            "title": "Day 1",
-            "tournament": "MICHELIN\u00ae GRAND PRIX DE FRANCE",
-            "short_name": "France MotoGP",
-            "match_id": 118551,
-            "status": "COMPLETED",
-            "startTime": "2025-05-09T00:00:00.000Z",
-            "endDate": "2025-05-11T18:15:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/France_Moto-GP_Race_Sporty.jpg",
-            "teams": [
-                {
-                    "id": 9458,
-                    "name": "Day 1",
-                    "shortName": "PP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 9462,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "color": "#EE0000"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "KCA Emerald vs KCA Sapphire",
@@ -105,37 +74,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Netherlands vs Scotland",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124496,
-            "status": "NOT_STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_NED_vs_SCO_Sporty_match-card.jpg",
-            "teams": [
-                {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
-                },
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "CECC vs Salmiya Strikers",
             "tournament": "KCC T10 Challengers League, 2025",
             "short_name": "KCC T10",
@@ -160,6 +98,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
                     "color": "#f505e7"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Netherlands vs Scotland",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124496,
+            "status": "NOT_STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_2_NED_vs_SCO_Sporty_match-card.jpg",
+            "teams": [
+                {
+                    "id": 178,
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "color": "#2c5ab3"
+                },
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
                     "color": "#cdb14c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Valencia CF vs Getafe",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125028,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://images.fancode.com/aig/match/v1/125028_CASACARDS_SPORTY_APP.png",
+            "teams": [
+                {
+                    "id": 544,
+                    "name": "Valencia CF",
+                    "shortName": "VAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
+                    "color": "#4F7DE5"
+                },
+                {
+                    "id": 849,
+                    "name": "Getafe",
+                    "shortName": "GEF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "color": "#e0d405"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai-partner.fancode.com/primary/124216_english_hls_52551adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Southern Spitfires vs Central Commanders",
+            "tournament": "ECS Jersey, Liberation Series, 2025",
+            "short_name": "ECS Jersey",
+            "match_id": 124773,
+            "status": "STARTED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-09T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/124759_5155_SSP_CC_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 9859,
+                    "name": "Southern Spitfires",
+                    "shortName": "SSP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSP@2x.png",
+                    "color": "#969492"
+                },
+                {
+                    "id": 9855,
+                    "name": "Central Commanders",
+                    "shortName": "CC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCD@2x.png",
+                    "color": "#6c0303"
+                }
+            ],
+            "adfree_stream": "https://d2wemv5h0ll8px.cloudfront.net/out/v1/42768071f3754dc9adbbf56854a348d4/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
