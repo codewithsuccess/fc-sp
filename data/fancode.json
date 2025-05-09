@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:30:20 AM 10-05-2025",
+    "last_updated": "01:37:23 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -105,37 +105,6 @@
         },
         {
             "category": "Cricket",
-            "title": "CECC vs Salmiya Strikers",
-            "tournament": "KCC T10 Challengers League, 2025",
-            "short_name": "KCC T10",
-            "match_id": 123592,
-            "status": "COMPLETED",
-            "startTime": "2025-04-21T00:00:00.000Z",
-            "endDate": "2025-05-16T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10Challengers-league-sporty.jpg",
-            "teams": [
-                {
-                    "id": 5332,
-                    "name": "CECC",
-                    "shortName": "CEC-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "color": "#bf9737"
-                },
-                {
-                    "id": 9319,
-                    "name": "Salmiya Strikers",
-                    "shortName": "SAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
-                    "color": "#f505e7"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "KCA Amber vs KCA Ruby",
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
                     "color": "#e0d405"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Celta de Vigo vs Sevilla",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125024,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://images.fancode.com/aig/match/v1/125024_CASACARDS_SPORTY_APP.png",
+            "teams": [
+                {
+                    "id": 748,
+                    "name": "Celta de Vigo",
+                    "shortName": "CEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "color": "#b1d4f5"
+                },
+                {
+                    "id": 534,
+                    "name": "Sevilla",
+                    "shortName": "SEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "color": "#daa335"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
