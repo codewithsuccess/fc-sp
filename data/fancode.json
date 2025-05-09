@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:58:19 PM 09-05-2025",
+    "last_updated": "10:05:21 PM 09-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android 7.1.2) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 7,
+    "total_matches": 15,
+    "live_matches": 8,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/122489_english_hls_34514adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Brussels Warriors vs Antwerp",
+            "tournament": "ECSN Belgium, 2025",
+            "short_name": "ECSN Belgium",
+            "match_id": 124216,
+            "status": "STARTED",
+            "startTime": "2025-04-28T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/124216_5140_BRW_ANT_fc-Web.jpg",
+            "teams": [
+                {
+                    "id": 9804,
+                    "name": "Brussels Warriors",
+                    "shortName": "BRW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
+                    "color": "#829dc3"
+                },
+                {
+                    "id": 5182,
+                    "name": "Antwerp",
+                    "shortName": "ANT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ANT-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ANT-CR1@2x.png",
+                    "color": "#A6A8B1"
+                }
+            ],
+            "adfree_stream": "https://dai-partner.fancode.com/primary/124216_english_hls_52551adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
