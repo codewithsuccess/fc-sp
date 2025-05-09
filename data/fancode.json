@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:19 AM 10-05-2025",
+    "last_updated": "12:19:25 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 8,
-    "upcoming_matches": 6,
+    "live_matches": 10,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -47,7 +47,7 @@
             "tournament": "La Liga 2024-25",
             "short_name": "La Liga",
             "match_id": 125027,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2024-08-15T00:00:00.000Z",
             "endDate": "2025-05-31T00:00:00.000Z",
             "image": "https://images.fancode.com/aig/match/v1/125027_CASACARDS_SPORTY_APP.png",
@@ -69,7 +69,38 @@
                     "color": "#F77A1E"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Coventry City vs Sunderland",
+            "tournament": "EFL Championship 2024-25",
+            "short_name": "EFL Championship",
+            "match_id": 125155,
+            "status": "STARTED",
+            "startTime": "2024-08-09T18:30:00.000Z",
+            "endDate": "2025-05-03T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125155_4352_CVC_SUN_fc-app.jpg",
+            "teams": [
+                {
+                    "id": 2598,
+                    "name": "Coventry City",
+                    "shortName": "CVC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
+                    "color": "#199bbc"
+                },
+                {
+                    "id": 424,
+                    "name": "Sunderland",
+                    "shortName": "SUN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+                    "color": "#cdb14c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125155_english_hls_81831adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -160,37 +191,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
                     "color": "#1672c1"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Coventry City vs Sunderland",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 125155,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-03T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125155_4352_CVC_SUN_fc-app.jpg",
-            "teams": [
-                {
-                    "id": 2598,
-                    "name": "Coventry City",
-                    "shortName": "CVC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "color": "#199bbc"
-                },
-                {
-                    "id": 424,
-                    "name": "Sunderland",
-                    "shortName": "SUN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "color": "#cdb14c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
