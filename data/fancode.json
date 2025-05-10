@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:51:31 AM 11-05-2025",
+    "last_updated": "02:58:31 AM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 4,
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Atl\u00e9tico de Madrid vs Real Sociedad",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125021,
-            "status": "COMPLETED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125021_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 436,
-                    "name": "Atl\u00e9tico de Madrid",
-                    "shortName": "ATL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
-                    "color": "#ca2917"
-                },
-                {
-                    "id": 848,
-                    "name": "Real Sociedad",
-                    "shortName": "RS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
-                    "color": "#ae7a05"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "KCA Pearl vs KCA Ruby",
@@ -228,6 +197,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "ACE KRM Panthers vs CECC",
+            "tournament": "KCC T10 Challengers League, 2025",
+            "short_name": "KCC T10",
+            "match_id": 123594,
+            "status": "NOT_STARTED",
+            "startTime": "2025-04-21T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123594_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6091,
+                    "name": "ACE KRM Panthers",
+                    "shortName": "KRM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "color": "#5380de"
+                },
+                {
+                    "id": 5332,
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "color": "#bf9737"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Featured Group - Day 3",
             "tournament": "Truist Championship",
@@ -287,37 +287,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125283_english_hls_28391adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Holes - Day 3",
-            "tournament": "Truist Championship",
-            "short_name": "Truist Championship",
-            "match_id": 125282,
-            "status": "STARTED",
-            "startTime": "2025-05-08T02:00:00.000Z",
-            "endDate": "2025-05-11T21:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125282_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9870,
-                    "name": "Featured Holes - Day 3",
-                    "shortName": "TRC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "color": "#4E108D"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125282_english_hls_59395adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
