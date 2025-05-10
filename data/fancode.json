@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:32 AM 11-05-2025",
+    "last_updated": "12:30:32 AM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -167,6 +167,37 @@
         },
         {
             "category": "Football",
+            "title": "Legan\u00e9s vs Espanyol",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125030,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125030_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 843,
+                    "name": "Legan\u00e9s",
+                    "shortName": "LEG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "color": "#efd84e"
+                },
+                {
+                    "id": 781,
+                    "name": "Espanyol",
+                    "shortName": "ESL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "color": "#fff3db"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
             "title": "Mallorca vs Real Valladolid",
             "tournament": "La Liga 2024-25",
             "short_name": "La Liga",
@@ -191,37 +222,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
                     "color": "#F1948A"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Girona vs Villarreal",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125025,
-            "status": "COMPLETED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125025_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 881,
-                    "name": "Girona",
-                    "shortName": "GIR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "color": "#fbc573"
-                },
-                {
-                    "id": 553,
-                    "name": "Villarreal",
-                    "shortName": "VIL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VIL@2x.png",
-                    "color": "#ffc0cb"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
