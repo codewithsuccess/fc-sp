@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:13:00 PM 10-05-2025",
+    "last_updated": "12:20:00 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -260,37 +260,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Japan vs Cook Islands",
-            "tournament": "Cook Islands and Thailand tour of Japan, 2025",
-            "short_name": "Cook Islands and Thailand tour o",
-            "match_id": 125084,
-            "status": "STARTED",
-            "startTime": "2025-05-07T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125084_5169_JPN_CI_fc-Web.jpg",
-            "teams": [
-                {
-                    "id": 122,
-                    "name": "Japan",
-                    "shortName": "JPN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
-                    "color": "#9a0009"
-                },
-                {
-                    "id": 60,
-                    "name": "Cook Islands",
-                    "shortName": "CI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png",
-                    "color": "#1d388d"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125084_english_hls_95490adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "United Arab Emirates Women vs Qatar Women",
             "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
             "short_name": "ICC Women's T20 WC Asia Qualifie",
@@ -349,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/121962_english_hls_27428adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Kashiwa Reysol vs Fagiano Okayama",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121961,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/121961_4795_REY_FKO_fc-web_1745966247679.jpg",
+            "teams": [
+                {
+                    "id": 1768,
+                    "name": "Kashiwa Reysol",
+                    "shortName": "REY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+                    "color": "#1c3bac"
+                },
+                {
+                    "id": 9451,
+                    "name": "Fagiano Okayama",
+                    "shortName": "FKO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-FKO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-FKO@2x.png",
+                    "color": "#B6003D"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/121961_english_hls_37948adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
