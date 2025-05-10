@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:05:36 PM 10-05-2025",
+    "last_updated": "05:12:36 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 7,
+    "total_matches": 11,
+    "live_matches": 6,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -229,37 +229,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Greece Women vs Germany Women",
-            "tournament": "ECN Greece-Germany T20IW, 2025",
-            "short_name": "GRE vs GER",
-            "match_id": 125367,
-            "status": "STARTED",
-            "startTime": "2025-05-10T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Greece-Germany-T20Iw,-2025-old-match-card-.png",
-            "teams": [
-                {
-                    "id": 5230,
-                    "name": "Greece Women",
-                    "shortName": "GREW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GREE@2x.png",
-                    "color": "#1c50b1"
-                },
-                {
-                    "id": 1286,
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
-                    "color": "#ea6363"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125367_english_hls_66182adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Eastern Royals-W vs MCC Women",
             "tournament": "ECS-W Jersey, Liberation Series, 2025",
             "short_name": "ECS-W Jersey, Liberation Series",
@@ -287,37 +256,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125357_english_hls_93815adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Western Sydney Wanderers vs Melbourne Victory",
-            "tournament": "A League 2024-25",
-            "short_name": "A League",
-            "match_id": 125215,
-            "status": "STARTED",
-            "startTime": "2024-10-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125215_4567_SYW_MLV_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 1678,
-                    "name": "Western Sydney Wanderers",
-                    "shortName": "SYW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-                    "color": "#c60c30"
-                },
-                {
-                    "id": 1676,
-                    "name": "Melbourne Victory",
-                    "shortName": "MLV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-                    "color": "#031e2f"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125215_english_hls_64640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125306_english_hls_71719adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Western Sydney Wanderers vs Melbourne Victory",
+            "tournament": "A League 2024-25",
+            "short_name": "A League",
+            "match_id": 125215,
+            "status": "STARTED",
+            "startTime": "2024-10-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125215_4567_SYW_MLV_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 1678,
+                    "name": "Western Sydney Wanderers",
+                    "shortName": "SYW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
+                    "color": "#c60c30"
+                },
+                {
+                    "id": 1676,
+                    "name": "Melbourne Victory",
+                    "shortName": "MLV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+                    "color": "#031e2f"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125215_english_hls_64640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
