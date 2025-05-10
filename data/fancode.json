@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:44:36 PM 10-05-2025",
+    "last_updated": "03:51:37 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 8,
+    "total_matches": 13,
+    "live_matches": 9,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125215_english_hls_64640adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Turkish Open",
+            "tournament": "Turkish Open",
+            "short_name": "Turkish Open",
+            "match_id": 125306,
+            "status": "STARTED",
+            "startTime": "2025-05-08T00:00:00.000Z",
+            "endDate": "2025-05-11T18:15:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Turkish-Open_2025_match-card_Old_match-card.jpg",
+            "teams": [
+                {
+                    "id": 9874,
+                    "name": "Turkish Open",
+                    "shortName": "TO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TUO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TUO@2x.png",
+                    "color": "#C80C0F"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125306_english_hls_71719adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
