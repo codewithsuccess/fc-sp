@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:59 AM 10-05-2025",
+    "last_updated": "11:52:00 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 6,
+    "total_matches": 13,
+    "live_matches": 7,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -260,37 +260,6 @@
         },
         {
             "category": "Cricket",
-            "title": "91 Yards Club Women vs S.G.Club Women",
-            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Womens Summer Challenge",
-            "match_id": 124969,
-            "status": "STARTED",
-            "startTime": "2025-05-04T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/124969_5167_YCW_SG-W_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 8254,
-                    "name": "91 Yards Club Women",
-                    "shortName": "YCW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "color": "#ee6c70"
-                },
-                {
-                    "id": 9863,
-                    "name": "S.G.Club Women",
-                    "shortName": "SG-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "color": "#fdf251"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124969_english_hls_17852adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Japan vs Cook Islands",
             "tournament": "Cook Islands and Thailand tour of Japan, 2025",
             "short_name": "Cook Islands and Thailand tour o",
@@ -318,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125084_english_hls_95490adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Arab Emirates Women vs Qatar Women",
+            "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
+            "short_name": "ICC Women's T20 WC Asia Qualifie",
+            "match_id": 124511,
+            "status": "STARTED",
+            "startTime": "2025-05-09T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/124511_5150_UAE-W_QAT-W_fc-Web_1746781110330.jpg",
+            "teams": [
+                {
+                    "id": 941,
+                    "name": "United Arab Emirates Women",
+                    "shortName": "UAE-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "color": "#91a39f"
+                },
+                {
+                    "id": 3194,
+                    "name": "Qatar Women",
+                    "shortName": "QAT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
+                    "color": "#d15972"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124511_english_hls_58949adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125376_english_hls_62307adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "91 Yards Club Women vs S.G.Club Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124969,
+            "status": "STARTED",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/124969_5167_YCW_SG-W_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 8254,
+                    "name": "91 Yards Club Women",
+                    "shortName": "YCW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "color": "#ee6c70"
+                },
+                {
+                    "id": 9863,
+                    "name": "S.G.Club Women",
+                    "shortName": "SG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "color": "#fdf251"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124969_english_hls_17852adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
