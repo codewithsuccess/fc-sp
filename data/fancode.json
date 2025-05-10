@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:59 PM 10-05-2025",
+    "last_updated": "02:31:05 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 9,
+    "total_matches": 14,
+    "live_matches": 10,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -349,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125367_english_hls_66182adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Eastern Royals-W vs Western Towers-W",
+            "tournament": "ECS-W Jersey, Liberation Series, 2025",
+            "short_name": "ECS-W Jersey, Liberation Series",
+            "match_id": 125356,
+            "status": "STARTED",
+            "startTime": "2025-05-10T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125356_5183_ER-W_WT-W_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 9876,
+                    "name": "Eastern Royals-W",
+                    "shortName": "ER-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ER-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ER-CR2@2x.png",
+                    "color": "#16227A"
+                },
+                {
+                    "id": 9877,
+                    "name": "Western Towers-W",
+                    "shortName": "WT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
+                    "color": "#806100"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125356_english_hls_87717adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
