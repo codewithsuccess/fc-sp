@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:31 PM 10-05-2025",
+    "last_updated": "11:51:31 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -229,37 +229,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Royal Brussels vs Hasselt",
-            "tournament": "ECSN Belgium, 2025",
-            "short_name": "ECSN Belgium",
-            "match_id": 124218,
-            "status": "STARTED",
-            "startTime": "2025-04-28T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124218_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5184,
-                    "name": "Royal Brussels",
-                    "shortName": "RB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RB-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RB-CR1@2x.png",
-                    "color": "#D9D3BE"
-                },
-                {
-                    "id": 2400,
-                    "name": "Hasselt",
-                    "shortName": "HCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "color": "#197520"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124218_english_hls_55459adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Eastern Royals-W vs MCC Women",
             "tournament": "ECS-W Jersey, Liberation Series, 2025",
             "short_name": "ECS-W Jersey, Liberation Series",
@@ -442,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125282_english_hls_59395adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Brussels vs Hasselt",
+            "tournament": "ECSN Belgium, 2025",
+            "short_name": "ECSN Belgium",
+            "match_id": 124218,
+            "status": "STARTED",
+            "startTime": "2025-04-28T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124218_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5184,
+                    "name": "Royal Brussels",
+                    "shortName": "RB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RB-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RB-CR1@2x.png",
+                    "color": "#D9D3BE"
+                },
+                {
+                    "id": 2400,
+                    "name": "Hasselt",
+                    "shortName": "HCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
+                    "color": "#197520"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124218_english_hls_55459adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
