@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:12:55 AM 10-05-2025",
+    "last_updated": "08:19:56 AM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 4,
+    "total_matches": 12,
+    "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124509_english_hls_51272adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bangladesh A vs New Zealand A",
+            "tournament": "New Zealand A tour of Bangladesh, 2025",
+            "short_name": "BN-A vs NZ-A",
+            "match_id": 124913,
+            "status": "STARTED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/New-Zealand-A-tour-of-Bangladesh,-2025-old-match-card-_1746428215529.png",
+            "teams": [
+                {
+                    "id": 560,
+                    "name": "Bangladesh A",
+                    "shortName": "BN-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BN@2x.png",
+                    "color": "#d48020"
+                },
+                {
+                    "id": 782,
+                    "name": "New Zealand A",
+                    "shortName": "NZ-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NZA-CR1@2x.png",
+                    "color": "#4c64a7"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124913_english_hls_98447adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
