@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:19:32 AM 11-05-2025",
+    "last_updated": "01:26:35 AM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
+    "total_matches": 16,
     "live_matches": 10,
-    "upcoming_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Ai Octopus Challengers vs Salmiya Strikers",
-            "tournament": "KCC T10 Challengers League, 2025",
-            "short_name": "KCC T10",
-            "match_id": 123593,
-            "status": "STARTED",
-            "startTime": "2025-04-21T00:00:00.000Z",
-            "endDate": "2025-05-16T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123593_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 7441,
-                    "name": "Ai Octopus Challengers",
-                    "shortName": "AIOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
-                    "color": "#7cc4ba"
-                },
-                {
-                    "id": 9319,
-                    "name": "Salmiya Strikers",
-                    "shortName": "SAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
-                    "color": "#f505e7"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/123593_english_hls_2973adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Atl\u00e9tico de Madrid vs Real Sociedad",
@@ -129,6 +98,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
                     "color": "#0f60de"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ai Octopus Challengers vs Salmiya Strikers",
+            "tournament": "KCC T10 Challengers League, 2025",
+            "short_name": "KCC T10",
+            "match_id": 123593,
+            "status": "COMPLETED",
+            "startTime": "2025-04-21T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123593_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 7441,
+                    "name": "Ai Octopus Challengers",
+                    "shortName": "AIOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "color": "#7cc4ba"
+                },
+                {
+                    "id": 9319,
+                    "name": "Salmiya Strikers",
+                    "shortName": "SAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SST@2x.png",
+                    "color": "#f505e7"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -473,6 +473,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125310_english_hls_49899adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Tampa Bay Rays vs Milwaukee Brewers",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124604,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124604_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2334,
+                    "name": "Tampa Bay Rays",
+                    "shortName": "TAB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "color": "#4173b8"
+                },
+                {
+                    "id": 2344,
+                    "name": "Milwaukee Brewers",
+                    "shortName": "MB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
+                    "color": "#1f3b65"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124604_english_hls_221adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
