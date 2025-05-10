@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:37:37 PM 10-05-2025",
+    "last_updated": "05:44:36 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 9,
+    "total_matches": 12,
+    "live_matches": 8,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -69,7 +69,7 @@
                     "color": "#e0d405"
                 }
             ],
-            "adfree_stream": "",
+            "adfree_stream": "https://d2q1jg08azewal.cloudfront.net/out/v1/c1a78278698b45b7a8ff9de6c3d812c8/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,37 +380,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125280_english_hls_17940adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Western Sydney Wanderers vs Melbourne Victory",
-            "tournament": "A League 2024-25",
-            "short_name": "A League",
-            "match_id": 125215,
-            "status": "STARTED",
-            "startTime": "2024-10-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125215_4567_SYW_MLV_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 1678,
-                    "name": "Western Sydney Wanderers",
-                    "shortName": "SYW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SYWA@2x.png",
-                    "color": "#c60c30"
-                },
-                {
-                    "id": 1676,
-                    "name": "Melbourne Victory",
-                    "shortName": "MLV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
-                    "color": "#031e2f"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125215_english_hls_64640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
