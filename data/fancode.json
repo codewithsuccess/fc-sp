@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:51:31 PM 10-05-2025",
+    "last_updated": "07:58:31 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "live_matches": 9,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "MotoGP",
@@ -70,37 +70,6 @@
                 }
             ],
             "adfree_stream": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Valencia CF vs Getafe",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125028,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125028_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 544,
-                    "name": "Valencia CF",
-                    "shortName": "VAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "color": "#4F7DE5"
-                },
-                {
-                    "id": 849,
-                    "name": "Getafe",
-                    "shortName": "GEF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
-                    "color": "#e0d405"
-                }
-            ],
-            "adfree_stream": "https://d2q1jg08azewal.cloudfront.net/out/v1/c1a78278698b45b7a8ff9de6c3d812c8/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
                     "color": "#ae7a05"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Las Palmas vs Rayo Vallecano",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125027,
+            "status": "COMPLETED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125027_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 819,
+                    "name": "Las Palmas",
+                    "shortName": "LAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "color": "#FFFFFF"
+                },
+                {
+                    "id": 945,
+                    "name": "Rayo Vallecano",
+                    "shortName": "RVL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAV@2x.png",
+                    "color": "#F77A1E"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
