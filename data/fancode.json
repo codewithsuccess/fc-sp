@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:44:32 PM 10-05-2025",
+    "last_updated": "10:51:31 PM 10-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 12,
-    "upcoming_matches": 3,
+    "total_matches": 14,
+    "live_matches": 9,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Football",
@@ -70,68 +70,6 @@
                 }
             ],
             "adfree_stream": "https://d1akz16099hgkx.cloudfront.net/out/v1/be4c7a4d53c3473785d602c9904d2164/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Celta de Vigo vs Sevilla",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125024,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125024_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 748,
-                    "name": "Celta de Vigo",
-                    "shortName": "CEV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
-                    "color": "#b1d4f5"
-                },
-                {
-                    "id": 534,
-                    "name": "Sevilla",
-                    "shortName": "SEV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
-                    "color": "#daa335"
-                }
-            ],
-            "adfree_stream": "https://d2ljeoatbfxky7.cloudfront.net/out/v1/3908323de73345d5a4888d0e6d49becd/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Netherlands vs Scotland",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124496,
-            "status": "STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124496_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
-                },
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124496_english_hls_35963adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,34 +166,65 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Eastern Royals-W vs Western Towers-W",
-            "tournament": "ECS-W Jersey, Liberation Series, 2025",
-            "short_name": "ECS-W Jersey, Liberation Series",
-            "match_id": 125359,
-            "status": "STARTED",
-            "startTime": "2025-05-10T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125359_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "category": "Football",
+            "title": "Celta de Vigo vs Sevilla",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125024,
+            "status": "COMPLETED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125024_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9876,
-                    "name": "Eastern Royals-W",
-                    "shortName": "ER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ER-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ER-CR2@2x.png",
-                    "color": "#16227A"
+                    "id": 748,
+                    "name": "Celta de Vigo",
+                    "shortName": "CEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "color": "#b1d4f5"
                 },
                 {
-                    "id": 9877,
-                    "name": "Western Towers-W",
-                    "shortName": "WT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
-                    "color": "#806100"
+                    "id": 534,
+                    "name": "Sevilla",
+                    "shortName": "SEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "color": "#daa335"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125359_english_hls_83082adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Legan\u00e9s vs Espanyol",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125030,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125030_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 843,
+                    "name": "Legan\u00e9s",
+                    "shortName": "LEG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "color": "#efd84e"
+                },
+                {
+                    "id": 781,
+                    "name": "Espanyol",
+                    "shortName": "ESL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "color": "#fff3db"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
