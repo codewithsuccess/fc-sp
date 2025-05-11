@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:20:09 PM 11-05-2025",
+    "last_updated": "03:25:07 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 11,
-    "live_matches": 7,
-    "upcoming_matches": 4,
+    "live_matches": 6,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -78,7 +78,7 @@
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
             "match_id": 124540,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-05T00:00:00.000Z",
             "endDate": "2025-05-15T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124540_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -100,7 +100,7 @@
                     "color": "#FFD200"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124540_english_hls_60053adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -197,31 +197,31 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Legan\u00e9s vs Espanyol",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125030,
+            "category": "Cricket",
+            "title": "ACE KRM Panthers vs CECC",
+            "tournament": "KCC T10 Challengers League, 2025",
+            "short_name": "KCC T10",
+            "match_id": 123594,
             "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125030_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-04-21T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123594_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 843,
-                    "name": "Legan\u00e9s",
-                    "shortName": "LEG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
-                    "color": "#efd84e"
+                    "id": 6091,
+                    "name": "ACE KRM Panthers",
+                    "shortName": "KRM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "color": "#5380de"
                 },
                 {
-                    "id": 781,
-                    "name": "Espanyol",
-                    "shortName": "ESL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
-                    "color": "#fff3db"
+                    "id": 5332,
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "color": "#bf9737"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
