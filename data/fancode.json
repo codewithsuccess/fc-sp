@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:25:07 PM 11-05-2025",
+    "last_updated": "12:30:19 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 4,
-    "upcoming_matches": 5,
+    "live_matches": 5,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -73,6 +73,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "KCA Emerald vs KCA Amber",
+            "tournament": "KCA TCM Pink T20 Challengers, 2025",
+            "short_name": "Kerala Women's T20",
+            "match_id": 124540,
+            "status": "STARTED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124540_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3270,
+                    "name": "KCA Emerald",
+                    "shortName": "EME",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
+                    "color": "#3eb53e"
+                },
+                {
+                    "id": 3268,
+                    "name": "KCA Amber",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "color": "#FFD200"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124540_english_hls_60053adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "MotoGP",
             "title": "Day 2",
             "tournament": "MICHELIN\u00ae GRAND PRIX DE FRANCE",
@@ -98,37 +129,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
                     "color": "#EE0000"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "KCA Emerald vs KCA Amber",
-            "tournament": "KCA TCM Pink T20 Challengers, 2025",
-            "short_name": "Kerala Women's T20",
-            "match_id": 124540,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-05T00:00:00.000Z",
-            "endDate": "2025-05-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124540_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3270,
-                    "name": "KCA Emerald",
-                    "shortName": "EME",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
-                    "color": "#3eb53e"
-                },
-                {
-                    "id": 3268,
-                    "name": "KCA Amber",
-                    "shortName": "AMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
-                    "color": "#FFD200"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
