@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:19:32 AM 11-05-2025",
+    "last_updated": "09:27:37 AM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 3,
-    "upcoming_matches": 7,
+    "total_matches": 11,
+    "live_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -16,7 +16,7 @@
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
             "match_id": 124539,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-05T00:00:00.000Z",
             "endDate": "2025-05-15T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124539_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,7 +38,7 @@
                     "color": "#ce555d"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124539_english_hls_99398adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,96 +228,127 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Golf",
-            "title": "Featured Group - Day 3",
-            "tournament": "Truist Championship",
-            "short_name": "Truist Championship",
-            "match_id": 125281,
+            "category": "Cricket",
+            "title": "Japan vs Thailand",
+            "tournament": "Cook Islands and Thailand tour of Japan, 2025",
+            "short_name": "Cook Islands and Thailand tour o",
+            "match_id": 125085,
             "status": "STARTED",
-            "startTime": "2025-05-08T02:00:00.000Z",
-            "endDate": "2025-05-11T21:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125281_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-07T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125085_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9870,
-                    "name": "Featured Group - Day 3",
-                    "shortName": "TRC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "color": "#4E108D"
+                    "id": 122,
+                    "name": "Japan",
+                    "shortName": "JPN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+                    "color": "#9a0009"
                 },
                 {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "id": 230,
+                    "name": "Thailand",
+                    "shortName": "TL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THL@2x.png",
+                    "color": "#16369a"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125281_english_hls_48606adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125085_english_hls_54214adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Golf",
-            "title": "World Feed - Day 3",
-            "tournament": "Truist Championship",
-            "short_name": "Truist Championship",
-            "match_id": 125283,
+            "category": "Cricket",
+            "title": "S.G.Club Women vs Maharana AC Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124971,
             "status": "STARTED",
-            "startTime": "2025-05-08T02:00:00.000Z",
-            "endDate": "2025-05-11T21:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125283_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124971_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9870,
-                    "name": "World Feed - Day 3",
-                    "shortName": "TRC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TRC@2x.png",
-                    "color": "#4E108D"
+                    "id": 9863,
+                    "name": "S.G.Club Women",
+                    "shortName": "SG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "color": "#fdf251"
                 },
                 {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "id": 9862,
+                    "name": "Maharana AC Women",
+                    "shortName": "MA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
+                    "color": "#132f86"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125283_english_hls_28391adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124971_english_hls_57786adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Kashima Antlers vs Kawasaki Frontale",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121960,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121960_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1767,
+                    "name": "Kashima Antlers",
+                    "shortName": "ANL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAN@2x.png",
+                    "color": "#b13151"
+                },
+                {
+                    "id": 1769,
+                    "name": "Kawasaki Frontale",
+                    "shortName": "KAW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
+                    "color": "#11a4ea"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/121960_english_hls_40232adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Baseball",
-            "title": "Tampa Bay Rays vs Milwaukee Brewers",
+            "title": "Seattle Mariners vs Toronto Blue Jays",
             "tournament": "Major League Baseball, 2025",
             "short_name": "Major League Baseball",
-            "match_id": 124604,
+            "match_id": 124605,
             "status": "STARTED",
             "startTime": "2025-03-18T00:00:00.000Z",
             "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124604_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124605_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 2334,
-                    "name": "Tampa Bay Rays",
-                    "shortName": "TAB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
-                    "color": "#4173b8"
+                    "id": 2333,
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "color": "#11a6a8"
                 },
                 {
-                    "id": 2344,
-                    "name": "Milwaukee Brewers",
-                    "shortName": "MB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
-                    "color": "#1f3b65"
+                    "id": 2336,
+                    "name": "Toronto Blue Jays",
+                    "shortName": "TOJ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TORO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TORO@2x.png",
+                    "color": "#881b13"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124604_english_hls_221adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124605_english_hls_4014adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
