@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:40:10 PM 11-05-2025",
+    "last_updated": "09:45:09 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 8,
-    "upcoming_matches": 6,
+    "live_matches": 9,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Football",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://d3oejlwrjvzwzt.cloudfront.net/out/v1/d4e22196c60a4abdbddbf16cfef25b60/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Athletic Club vs Alav\u00e9s",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125029,
+            "status": "STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125029_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 437,
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "color": "#ff674d"
+                },
+                {
+                    "id": 835,
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "color": "#537096"
+                }
+            ],
+            "adfree_stream": "",
             "dai_stream": "Coming Soon"
         },
         {
@@ -98,37 +129,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
                     "color": "#34c6ba"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Athletic Club vs Alav\u00e9s",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125029,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125029_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 437,
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "color": "#ff674d"
-                },
-                {
-                    "id": 835,
-                    "name": "Alav\u00e9s",
-                    "shortName": "ALA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "color": "#537096"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
