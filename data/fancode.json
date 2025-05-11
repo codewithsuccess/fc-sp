@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:05:08 PM 11-05-2025",
+    "last_updated": "10:10:10 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 9,
+    "total_matches": 13,
+    "live_matches": 8,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Barcelona vs Real Madrid",
-            "tournament": "La Liga 2024-25",
-            "short_name": "La Liga",
-            "match_id": 125022,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125022_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 438,
-                    "name": "Barcelona",
-                    "shortName": "BAR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "color": "#fee64e"
-                },
-                {
-                    "id": 453,
-                    "name": "Real Madrid",
-                    "shortName": "RM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png",
-                    "color": "#ffdf50"
-                }
-            ],
-            "adfree_stream": "https://d3oejlwrjvzwzt.cloudfront.net/out/v1/d4e22196c60a4abdbddbf16cfef25b60/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Athletic Club vs Alav\u00e9s",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Barcelona vs Real Madrid",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125022,
+            "status": "STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125022_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 438,
+                    "name": "Barcelona",
+                    "shortName": "BAR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
+                    "color": "#fee64e"
+                },
+                {
+                    "id": 453,
+                    "name": "Real Madrid",
+                    "shortName": "RM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/RM-FT2@2x.png",
+                    "color": "#ffdf50"
+                }
+            ],
+            "adfree_stream": "https://d3oejlwrjvzwzt.cloudfront.net/out/v1/d4e22196c60a4abdbddbf16cfef25b60/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -287,37 +287,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125364_english_hls_47365adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Chesterfield vs Walsall",
-            "tournament": "League Two 2024-25",
-            "short_name": "League Two",
-            "match_id": 125163,
-            "status": "STARTED",
-            "startTime": "2024-08-10T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125163_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8925,
-                    "name": "Chesterfield",
-                    "shortName": "CSF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
-                    "color": "#EE3E41"
-                },
-                {
-                    "id": 5917,
-                    "name": "Walsall",
-                    "shortName": "WALS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
-                    "color": "#97854B"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125163_english_hls_87902adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
