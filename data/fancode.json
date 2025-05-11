@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:10:09 AM 12-05-2025",
+    "last_updated": "02:15:08 AM 12-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -228,37 +228,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Brussels Warriors vs Hasselt",
-            "tournament": "ECSN Belgium, 2025",
-            "short_name": "ECSN Belgium",
-            "match_id": 124221,
-            "status": "STARTED",
-            "startTime": "2025-04-28T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124221_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9804,
-                    "name": "Brussels Warriors",
-                    "shortName": "BRW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
-                    "color": "#829dc3"
-                },
-                {
-                    "id": 2400,
-                    "name": "Hasselt",
-                    "shortName": "HCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "color": "#197520"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124221_english_hls_99664adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Main Feed - Day 4",
             "tournament": "Truist Championship",
@@ -473,6 +442,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124607_english_hls_39328adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Brussels Warriors vs Hasselt",
+            "tournament": "ECSN Belgium, 2025",
+            "short_name": "ECSN Belgium",
+            "match_id": 124221,
+            "status": "STARTED",
+            "startTime": "2025-04-28T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124221_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9804,
+                    "name": "Brussels Warriors",
+                    "shortName": "BRW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
+                    "color": "#829dc3"
+                },
+                {
+                    "id": 2400,
+                    "name": "Hasselt",
+                    "shortName": "HCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
+                    "color": "#197520"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124221_english_hls_99664adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
