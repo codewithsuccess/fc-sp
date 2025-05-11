@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:40:10 PM 11-05-2025",
+    "last_updated": "08:45:10 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 6,
+    "total_matches": 13,
+    "live_matches": 7,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -256,6 +256,37 @@
                 }
             ],
             "adfree_stream": "https://dai-partner.fancode.com/primary/124220_english_hls_82760adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "MCC Women vs Western Towers-W",
+            "tournament": "ECS-W Jersey, Liberation Series, 2025",
+            "short_name": "ECS-W Jersey, Liberation Series",
+            "match_id": 125364,
+            "status": "STARTED",
+            "startTime": "2025-05-10T00:00:00.000Z",
+            "endDate": "2025-05-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125364_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8967,
+                    "name": "MCC Women",
+                    "shortName": "MCC-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCW@2x.png",
+                    "color": "#7D6305"
+                },
+                {
+                    "id": 9877,
+                    "name": "Western Towers-W",
+                    "shortName": "WT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
+                    "color": "#806100"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125364_english_hls_47365adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
