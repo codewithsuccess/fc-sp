@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:55:07 AM 11-05-2025",
+    "last_updated": "12:00:12 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 4,
-    "upcoming_matches": 5,
+    "live_matches": 3,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124042_english_hls_17436adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "KCA Pearl vs KCA Ruby",
-            "tournament": "KCA TCM Pink T20 Challengers, 2025",
-            "short_name": "Kerala Women's T20",
-            "match_id": 124539,
-            "status": "STARTED",
-            "startTime": "2025-05-05T00:00:00.000Z",
-            "endDate": "2025-05-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124539_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3271,
-                    "name": "KCA Pearl",
-                    "shortName": "PEA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
-                    "color": "#34c6ba"
-                },
-                {
-                    "id": 3267,
-                    "name": "KCA Ruby",
-                    "shortName": "RUB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RBY@2x.png",
-                    "color": "#ce555d"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124539_english_hls_99398adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
                     "color": "#bf9737"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Athletic Club vs Alav\u00e9s",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125029,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125029_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 437,
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "color": "#ff674d"
+                },
+                {
+                    "id": 835,
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "color": "#537096"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
