@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:20:15 PM 11-05-2025",
+    "last_updated": "11:30:18 PM 11-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
+    "total_matches": 14,
     "live_matches": 9,
-    "upcoming_matches": 6,
+    "upcoming_matches": 5,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "ACE KRM Panthers vs CECC",
+            "tournament": "KCC T10 Challengers League, 2025",
+            "short_name": "KCC T10",
+            "match_id": 123594,
+            "status": "STARTED",
+            "startTime": "2025-04-21T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123594_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6091,
+                    "name": "ACE KRM Panthers",
+                    "shortName": "KRM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
+                    "color": "#5380de"
+                },
+                {
+                    "id": 5332,
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "color": "#bf9737"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/123594_english_hls_59337adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Football",
             "title": "Athletic Club vs Alav\u00e9s",
@@ -135,37 +166,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "ACE KRM Panthers vs CECC",
-            "tournament": "KCC T10 Challengers League, 2025",
-            "short_name": "KCC T10",
-            "match_id": 123594,
-            "status": "NOT_STARTED",
-            "startTime": "2025-04-21T00:00:00.000Z",
-            "endDate": "2025-05-16T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123594_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6091,
-                    "name": "ACE KRM Panthers",
-                    "shortName": "KRM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AK@2x.png",
-                    "color": "#5380de"
-                },
-                {
-                    "id": 5332,
-                    "name": "CECC",
-                    "shortName": "CEC-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "color": "#bf9737"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Real Betis vs Osasuna",
             "tournament": "La Liga 2024-25",
@@ -228,34 +228,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "MCC Women vs Western Towers-W",
-            "tournament": "ECS-W Jersey, Liberation Series, 2025",
-            "short_name": "ECS-W Jersey, Liberation Series",
-            "match_id": 125364,
+            "category": "Football",
+            "title": "Wycombe Wanderers vs Charlton Athletic",
+            "tournament": "League One 2024-25",
+            "short_name": "League One",
+            "match_id": 125159,
             "status": "STARTED",
-            "startTime": "2025-05-10T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125364_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2024-08-10T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125159_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 8967,
-                    "name": "MCC Women",
-                    "shortName": "MCC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCW@2x.png",
-                    "color": "#7D6305"
+                    "id": 2988,
+                    "name": "Wycombe Wanderers",
+                    "shortName": "WYM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WYM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WYM@2x.png",
+                    "color": "#D672F1"
                 },
                 {
-                    "id": 9877,
-                    "name": "Western Towers-W",
-                    "shortName": "WT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTO@2x.png",
-                    "color": "#806100"
+                    "id": 1598,
+                    "name": "Charlton Athletic",
+                    "shortName": "CHL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHL@2x.png",
+                    "color": "#50E907"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125364_english_hls_47365adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125159_english_hls_21656adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -442,37 +442,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125287_english_hls_95205adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Hasselt vs Beveren",
-            "tournament": "ECSN Belgium, 2025",
-            "short_name": "ECSN Belgium",
-            "match_id": 124220,
-            "status": "STARTED",
-            "startTime": "2025-04-28T00:00:00.000Z",
-            "endDate": "2025-05-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124220_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2400,
-                    "name": "Hasselt",
-                    "shortName": "HCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HCC-CR2@2x.png",
-                    "color": "#197520"
-                },
-                {
-                    "id": 2398,
-                    "name": "Beveren",
-                    "shortName": "BCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEV@2x.png",
-                    "color": "#2498da"
-                }
-            ],
-            "adfree_stream": "https://dai-partner.fancode.com/primary/124220_english_hls_82760adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
