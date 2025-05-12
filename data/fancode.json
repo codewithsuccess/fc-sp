@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:10:08 PM 12-05-2025",
+    "last_updated": "02:15:15 PM 12-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 3,
-    "upcoming_matches": 6,
+    "total_matches": 10,
+    "live_matches": 5,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -47,7 +47,7 @@
             "tournament": "ICC CWC League 2, 2023-27",
             "short_name": "ICC CWC League 2",
             "match_id": 124497,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2024-02-15T00:00:00.000Z",
             "endDate": "2027-01-08T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124497_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -69,7 +69,7 @@
                     "color": "#2c5ab3"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124497_english_hls_35717adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124974_english_hls_6542adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Seaside vs Malmo",
+            "tournament": "ECS Sweden, Landskrona, 2025",
+            "short_name": "ECS Sweden, Landskrona",
+            "match_id": 125327,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125327_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2309,
+                    "name": "Seaside",
+                    "shortName": "SSD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSD@2x.png",
+                    "color": "#904370"
+                },
+                {
+                    "id": 2381,
+                    "name": "Malmo",
+                    "shortName": "MAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MAL-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MAL-CR3@2x.png",
+                    "color": "#0F628B"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125327_english_hls_76422adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
