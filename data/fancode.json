@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:20:09 PM 12-05-2025",
+    "last_updated": "01:30:19 PM 12-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
+    "total_matches": 11,
     "live_matches": 5,
-    "upcoming_matches": 7,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -16,7 +16,7 @@
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
             "match_id": 124542,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-05T00:00:00.000Z",
             "endDate": "2025-05-15T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124542_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -38,7 +38,7 @@
                     "color": "#34c6ba"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124542_english_hls_37315adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -260,68 +260,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Gauhati Town Club Women vs 91 Yards Club Women",
-            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Womens Summer Challenge",
-            "match_id": 124973,
-            "status": "STARTED",
-            "startTime": "2025-05-04T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124973_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8253,
-                    "name": "Gauhati Town Club Women",
-                    "shortName": "GTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
-                    "color": "#330100"
-                },
-                {
-                    "id": 8254,
-                    "name": "91 Yards Club Women",
-                    "shortName": "YCW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "color": "#ee6c70"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124973_english_hls_18153adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Malaysia Women vs Qatar Women",
-            "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
-            "short_name": "ICC Women's T20 WC Asia Qualifie",
-            "match_id": 124514,
-            "status": "STARTED",
-            "startTime": "2025-05-09T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124514_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 904,
-                    "name": "Malaysia Women",
-                    "shortName": "ML W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
-                    "color": "#ffd800"
-                },
-                {
-                    "id": 3194,
-                    "name": "Qatar Women",
-                    "shortName": "QAT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-QTR@2x.png",
-                    "color": "#d15972"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124514_english_hls_42449adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Hong Kong, China Women vs Bahrain Women",
             "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
             "short_name": "ICC Women's T20 WC Asia Qualifie",
@@ -380,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125326_english_hls_38487adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Rising Star Women vs S.G.Club Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124974,
+            "status": "STARTED",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124974_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9864,
+                    "name": "Rising Star Women",
+                    "shortName": "RS-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 9863,
+                    "name": "S.G.Club Women",
+                    "shortName": "SG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "color": "#fdf251"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124974_english_hls_6542adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
