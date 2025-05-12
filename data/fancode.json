@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:00:11 AM 12-05-2025",
+    "last_updated": "09:05:09 AM 12-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 3,
+    "total_matches": 10,
+    "live_matches": 4,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124916_english_hls_48197adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Women vs 91 Yards Club Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124973,
+            "status": "STARTED",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124973_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8253,
+                    "name": "Gauhati Town Club Women",
+                    "shortName": "GTW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
+                    "color": "#330100"
+                },
+                {
+                    "id": 8254,
+                    "name": "91 Yards Club Women",
+                    "shortName": "YCW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "color": "#ee6c70"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124973_english_hls_18153adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
