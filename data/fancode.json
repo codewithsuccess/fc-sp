@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:53:56 PM 12-05-2025",
+    "last_updated": "09:18:44 PM 12-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 3,
+    "total_matches": 10,
+    "live_matches": 4,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124866_english_hls_90004adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ginger Generals vs Cinnamon Pacers",
+            "tournament": "Dream11 Spice Isle T10, 2025",
+            "short_name": "Dream11 Spice Isle T10",
+            "match_id": 124919,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124919_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3422,
+                    "name": "Ginger Generals",
+                    "shortName": "GG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
+                    "color": "#4b81a4"
+                },
+                {
+                    "id": 3421,
+                    "name": "Cinnamon Pacers",
+                    "shortName": "CP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
+                    "color": "#d67a14"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124919_english_hls_5811adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
