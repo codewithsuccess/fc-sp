@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:18:44 PM 12-05-2025",
+    "last_updated": "12:48:38 AM 13-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -11,34 +11,34 @@
     "upcoming_matches": 6,
     "matches": [
         {
-            "category": "Cricket",
-            "title": "United Arab Emirates vs Netherlands",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124497,
+            "category": "Football",
+            "title": "Sheffield United vs Bristol City",
+            "tournament": "EFL Championship 2024-25",
+            "short_name": "EFL Championship",
+            "match_id": 125156,
             "status": "STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124497_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2024-08-09T18:30:00.000Z",
+            "endDate": "2025-05-20T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125156_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 3,
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "color": "#4fb319"
+                    "id": 882,
+                    "name": "Sheffield United",
+                    "shortName": "SHF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
+                    "color": "#ece125"
                 },
                 {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
+                    "id": 839,
+                    "name": "Bristol City",
+                    "shortName": "BRI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
+                    "color": "#ed6f73"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124497_english_hls_35717adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125156_english_hls_59329adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -98,37 +98,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
                     "color": "#3a90cb"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Sheffield United vs Bristol City",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 125156,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-20T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125156_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 882,
-                    "name": "Sheffield United",
-                    "shortName": "SHF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "color": "#ece125"
-                },
-                {
-                    "id": 839,
-                    "name": "Bristol City",
-                    "shortName": "BRI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
-                    "color": "#ed6f73"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -228,96 +197,127 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Ariana KIF vs Malmo",
-            "tournament": "ECS Sweden, Landskrona, 2025",
-            "short_name": "ECS Sweden, Landskrona",
-            "match_id": 125330,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-16T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125330_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "category": "Football",
+            "title": "Sevilla vs Las Palmas",
+            "tournament": "La Liga 2024-25",
+            "short_name": "La Liga",
+            "match_id": 125438,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125438_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 2380,
-                    "name": "Ariana KIF",
-                    "shortName": "AF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
-                    "color": "#fe0000"
+                    "id": 534,
+                    "name": "Sevilla",
+                    "shortName": "SEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SVI@2x.png",
+                    "color": "#daa335"
                 },
                 {
-                    "id": 2381,
-                    "name": "Malmo",
-                    "shortName": "MAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MAL-CR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MAL-CR3@2x.png",
-                    "color": "#0F628B"
+                    "id": 819,
+                    "name": "Las Palmas",
+                    "shortName": "LAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "color": "#FFFFFF"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125330_english_hls_30224adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Cricket",
-            "title": "Ajman vs Fujairah",
+            "title": "Al Mulla Exchange - B vs GAT",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125383,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125383_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 7980,
+                    "name": "Al Mulla Exchange - B",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "color": "#1AC98D"
+                },
+                {
+                    "id": 7438,
+                    "name": "GAT",
+                    "shortName": "GAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "color": "#c5ca4a"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125383_english_hls_77457adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sharjah vs Dubai",
             "tournament": "Emirates D10 Tournament, 2025",
             "short_name": "Emirates D10",
-            "match_id": 124866,
+            "match_id": 124867,
             "status": "STARTED",
             "startTime": "2025-05-12T00:00:00.000Z",
             "endDate": "2025-05-28T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124866_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124867_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 2359,
-                    "name": "Ajman",
-                    "shortName": "AJM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-                    "color": "#c83ca3"
+                    "id": 2360,
+                    "name": "Sharjah",
+                    "shortName": "SHA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "color": "#d94f55"
                 },
                 {
-                    "id": 2362,
-                    "name": "Fujairah",
-                    "shortName": "FUJ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
-                    "color": "#c8962f"
+                    "id": 2364,
+                    "name": "Dubai",
+                    "shortName": "DUB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+                    "color": "#f64bce"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124866_english_hls_90004adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124867_english_hls_87189adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Cricket",
-            "title": "Ginger Generals vs Cinnamon Pacers",
+            "title": "Saffron Strikers vs Clove Challengers",
             "tournament": "Dream11 Spice Isle T10, 2025",
             "short_name": "Dream11 Spice Isle T10",
-            "match_id": 124919,
+            "match_id": 124920,
             "status": "STARTED",
             "startTime": "2025-05-12T00:00:00.000Z",
             "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124919_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124920_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 3422,
-                    "name": "Ginger Generals",
-                    "shortName": "GG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
-                    "color": "#4b81a4"
+                    "id": 3424,
+                    "name": "Saffron Strikers",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "color": "#f16041"
                 },
                 {
-                    "id": 3421,
-                    "name": "Cinnamon Pacers",
-                    "shortName": "CP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
-                    "color": "#d67a14"
+                    "id": 3420,
+                    "name": "Clove Challengers",
+                    "shortName": "CC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CLV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CLV@2x.png",
+                    "color": "#7e5a37"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124919_english_hls_5811adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124920_english_hls_63390adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
