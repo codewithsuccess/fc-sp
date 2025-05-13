@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:26:35 PM 13-05-2025",
+    "last_updated": "06:30:41 PM 13-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 7,
-    "live_matches": 1,
-    "upcoming_matches": 6,
+    "live_matches": 2,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124869_english_hls_3383adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hisingens vs Ariana CC",
+            "tournament": "ECS Sweden, Landskrona, 2025",
+            "short_name": "ECS Sweden, Landskrona",
+            "match_id": 125334,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125334_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2305,
+                    "name": "Hisingens",
+                    "shortName": "HSG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HSG-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HSG-CR1@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 2379,
+                    "name": "Ariana CC",
+                    "shortName": "ARI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "color": "#0D3870"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125334_english_hls_94023adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -191,37 +222,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
                     "color": "#b1d4f5"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Sunderland vs Coventry City",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 125157,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-20T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125157_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 424,
-                    "name": "Sunderland",
-                    "shortName": "SUN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "color": "#cdb14c"
-                },
-                {
-                    "id": 2598,
-                    "name": "Coventry City",
-                    "shortName": "CVC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COVT@2x.png",
-                    "color": "#199bbc"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
