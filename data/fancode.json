@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:51:37 AM 14-05-2025",
+    "last_updated": "12:58:36 AM 14-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 10,
-    "live_matches": 7,
-    "upcoming_matches": 3,
+    "live_matches": 6,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Football",
@@ -74,37 +74,6 @@
         },
         {
             "category": "Football",
-            "title": "Real Valladolid vs Girona",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125436,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125436_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 946,
-                    "name": "Real Valladolid",
-                    "shortName": "VLD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
-                    "color": "#F1948A"
-                },
-                {
-                    "id": 881,
-                    "name": "Girona",
-                    "shortName": "GIR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "color": "#fbc573"
-                }
-            ],
-            "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Sunderland vs Coventry City",
             "tournament": "EFL Championship 2024-25",
             "short_name": "EFL Championship",
@@ -132,6 +101,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125157_english_hls_77272adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Real Valladolid vs Girona",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125436,
+            "status": "COMPLETED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125436_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 946,
+                    "name": "Real Valladolid",
+                    "shortName": "VLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "color": "#F1948A"
+                },
+                {
+                    "id": 881,
+                    "name": "Girona",
+                    "shortName": "GIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "color": "#fbc573"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
