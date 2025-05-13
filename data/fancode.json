@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:48:38 AM 13-05-2025",
+    "last_updated": "09:45:57 AM 13-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -11,43 +11,12 @@
     "upcoming_matches": 6,
     "matches": [
         {
-            "category": "Football",
-            "title": "Sheffield United vs Bristol City",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 125156,
-            "status": "STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-20T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125156_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 882,
-                    "name": "Sheffield United",
-                    "shortName": "SHF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "color": "#ece125"
-                },
-                {
-                    "id": 839,
-                    "name": "Bristol City",
-                    "shortName": "BRI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BCW@2x.png",
-                    "color": "#ed6f73"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125156_english_hls_59329adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "KCA Amber vs KCA Pearl",
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
             "match_id": 124543,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-05T00:00:00.000Z",
             "endDate": "2025-05-15T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124543_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -69,7 +38,7 @@
                     "color": "#34c6ba"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124543_english_hls_351adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -166,6 +135,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "KCA Sapphire vs KCA Amber",
+            "tournament": "KCA TCM Pink T20 Challengers, 2025",
+            "short_name": "Kerala Women's T20",
+            "match_id": 124545,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124545_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3269,
+                    "name": "KCA Sapphire",
+                    "shortName": "SAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
+                    "color": "#3a90cb"
+                },
+                {
+                    "id": 3268,
+                    "name": "KCA Amber",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "color": "#FFD200"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Football",
             "title": "Sunderland vs Coventry City",
             "tournament": "EFL Championship 2024-25",
@@ -229,95 +229,95 @@
         },
         {
             "category": "Cricket",
-            "title": "Al Mulla Exchange - B vs GAT",
-            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "short_name": "KCC T20 Challengers A",
-            "match_id": 125383,
+            "title": "Japan vs Cook Islands",
+            "tournament": "Cook Islands tour of Japan, 2025",
+            "short_name": "JPN vs CI",
+            "match_id": 125086,
             "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125383_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-13T00:00:00.000Z",
+            "endDate": "2025-05-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125086_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 7980,
-                    "name": "Al Mulla Exchange - B",
-                    "shortName": "AMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
-                    "color": "#1AC98D"
+                    "id": 122,
+                    "name": "Japan",
+                    "shortName": "JPN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
+                    "color": "#9a0009"
                 },
                 {
-                    "id": 7438,
-                    "name": "GAT",
-                    "shortName": "GAT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-                    "color": "#c5ca4a"
+                    "id": 60,
+                    "name": "Cook Islands",
+                    "shortName": "CI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png",
+                    "color": "#1d388d"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125383_english_hls_77457adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125086_english_hls_56732adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Cricket",
-            "title": "Sharjah vs Dubai",
-            "tournament": "Emirates D10 Tournament, 2025",
-            "short_name": "Emirates D10",
-            "match_id": 124867,
+            "title": "91 Yards Club Women vs Rising Star Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124975,
             "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-28T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124867_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124975_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 2360,
-                    "name": "Sharjah",
-                    "shortName": "SHA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "color": "#d94f55"
+                    "id": 8254,
+                    "name": "91 Yards Club Women",
+                    "shortName": "YCW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
+                    "color": "#ee6c70"
                 },
                 {
-                    "id": 2364,
-                    "name": "Dubai",
-                    "shortName": "DUB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-                    "color": "#f64bce"
+                    "id": 9864,
+                    "name": "Rising Star Women",
+                    "shortName": "RS-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "color": "#132f86"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124867_english_hls_87189adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124975_english_hls_39216adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Saffron Strikers vs Clove Challengers",
-            "tournament": "Dream11 Spice Isle T10, 2025",
-            "short_name": "Dream11 Spice Isle T10",
-            "match_id": 124920,
+            "category": "Baseball",
+            "title": "Seattle Mariners vs New York Yankees",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124608,
             "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124920_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124608_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 3424,
-                    "name": "Saffron Strikers",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
-                    "color": "#f16041"
+                    "id": 2333,
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "color": "#11a6a8"
                 },
                 {
-                    "id": 3420,
-                    "name": "Clove Challengers",
-                    "shortName": "CC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CLV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CLV@2x.png",
-                    "color": "#7e5a37"
+                    "id": 2331,
+                    "name": "New York Yankees",
+                    "shortName": "NEY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
+                    "color": "#ced4e5"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124920_english_hls_63390adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124608_english_hls_12756adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
