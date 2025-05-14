@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:12:02 PM 14-05-2025",
+    "last_updated": "04:19:03 PM 14-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 4,
+    "total_matches": 11,
+    "live_matches": 5,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124872_english_hls_93485adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ariana CC vs Ariana KIF",
+            "tournament": "ECS Sweden, Landskrona, 2025",
+            "short_name": "ECS Sweden, Landskrona",
+            "match_id": 125338,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125338_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2379,
+                    "name": "Ariana CC",
+                    "shortName": "ARI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 2380,
+                    "name": "Ariana KIF",
+                    "shortName": "AF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
+                    "color": "#fe0000"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125338_english_hls_25969adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
