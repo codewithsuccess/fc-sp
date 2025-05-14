@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:57 AM 14-05-2025",
+    "last_updated": "11:51:57 AM 14-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 3,
-    "upcoming_matches": 6,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "KCA Sapphire vs KCA Amber",
-            "tournament": "KCA TCM Pink T20 Challengers, 2025",
-            "short_name": "Kerala Women's T20",
-            "match_id": 124545,
-            "status": "STARTED",
-            "startTime": "2025-05-05T00:00:00.000Z",
-            "endDate": "2025-05-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124545_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3269,
-                    "name": "KCA Sapphire",
-                    "shortName": "SAP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPH@2x.png",
-                    "color": "#3a90cb"
-                },
-                {
-                    "id": 3268,
-                    "name": "KCA Amber",
-                    "shortName": "AMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
-                    "color": "#FFD200"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124545_english_hls_37869adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "KCA Pearl vs KCA Emerald",
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
                     "color": "#FBCCD1"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "KCA Amber vs KCA Pearl",
+            "tournament": "KCA TCM Pink T20 Challengers, 2025",
+            "short_name": "Kerala Women's T20",
+            "match_id": 124543,
+            "status": "COMPLETED",
+            "startTime": "2025-05-05T00:00:00.000Z",
+            "endDate": "2025-05-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124543_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3268,
+                    "name": "KCA Amber",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
+                    "color": "#FFD200"
+                },
+                {
+                    "id": 3271,
+                    "name": "KCA Pearl",
+                    "shortName": "PEA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
+                    "color": "#34c6ba"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
