@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:35 AM 15-05-2025",
+    "last_updated": "03:37:35 AM 15-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 8,
-    "live_matches": 1,
+    "total_matches": 7,
+    "live_matches": null,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -225,37 +225,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Stockport County vs Leyton Orient",
-            "tournament": "League One 2024-25",
-            "short_name": "League One",
-            "match_id": 125160,
-            "status": "STARTED",
-            "startTime": "2024-08-10T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125160_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6579,
-                    "name": "Stockport County",
-                    "shortName": "STC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOCK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOCK@2x.png",
-                    "color": "#0f326c"
-                },
-                {
-                    "id": 2589,
-                    "name": "Leyton Orient",
-                    "shortName": "LEO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LEO-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LEO-FT2@2x.png",
-                    "color": "#132f86"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125160_english_hls_38959adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
