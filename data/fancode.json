@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:12:59 PM 14-05-2025",
+    "last_updated": "10:20:01 PM 14-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 5,
+    "total_matches": 12,
+    "live_matches": 7,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -318,6 +318,68 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124923_english_hls_7644adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Super Lanka vs Cochin Hurricanes",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125385,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125385_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9320,
+                    "name": "Super Lanka",
+                    "shortName": "SUL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUL@2x.png",
+                    "color": "#bd0e1f"
+                },
+                {
+                    "id": 6454,
+                    "name": "Cochin Hurricanes",
+                    "shortName": "COH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "color": "#b92317"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125385_english_hls_58444adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Philadelphia Phillies vs St. Louis Cardinals",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124610,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124610_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2346,
+                    "name": "Philadelphia Phillies",
+                    "shortName": "PHP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png",
+                    "color": "#184571"
+                },
+                {
+                    "id": 2350,
+                    "name": "St. Louis Cardinals",
+                    "shortName": "SLC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-STLOU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-STLOU@2x.png",
+                    "color": "#00305e"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124610_english_hls_49127adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
