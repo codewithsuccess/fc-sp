@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:37:36 AM 15-05-2025",
+    "last_updated": "07:44:35 AM 15-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -167,6 +167,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Scotland vs Netherlands",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124499,
+            "status": "NOT_STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124499_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
+                },
+                {
+                    "id": 178,
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "color": "#2c5ab3"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "KCA Sapphire vs KCA Amber",
             "tournament": "KCA TCM Pink T20 Challengers, 2025",
             "short_name": "Kerala Women's T20",
@@ -191,37 +222,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMBR@2x.png",
                     "color": "#FFD200"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "KCA Pearl vs KCA Emerald",
-            "tournament": "KCA TCM Pink T20 Challengers, 2025",
-            "short_name": "Kerala Women's T20",
-            "match_id": 124546,
-            "status": "COMPLETED",
-            "startTime": "2025-05-05T00:00:00.000Z",
-            "endDate": "2025-05-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124546_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3271,
-                    "name": "KCA Pearl",
-                    "shortName": "PEA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRL@2x.png",
-                    "color": "#34c6ba"
-                },
-                {
-                    "id": 3270,
-                    "name": "KCA Emerald",
-                    "shortName": "EME",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EME@2x.png",
-                    "color": "#3eb53e"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
