@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:58:03 PM 15-05-2025",
+    "last_updated": "01:05:04 PM 15-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 4,
+    "total_matches": 11,
+    "live_matches": 5,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125341_english_hls_33758adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Rising Star Women vs Warriors Women",
+            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Womens Summer Challenge",
+            "match_id": 124980,
+            "status": "STARTED",
+            "startTime": "2025-05-04T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124980_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9864,
+                    "name": "Rising Star Women",
+                    "shortName": "RS-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 9861,
+                    "name": "Warriors Women",
+                    "shortName": "WR-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124980_english_hls_3076adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
