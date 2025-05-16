@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:58:13 PM 16-05-2025",
+    "last_updated": "04:05:13 PM 16-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 6,
+    "total_matches": 11,
+    "live_matches": 5,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124499_english_hls_5146adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 1",
+            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
+            "short_name": "Imola GP",
+            "match_id": 118411,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-05-18T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118411_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8200,
+                    "name": "Practice 1",
+                    "shortName": "P1",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -98,37 +129,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "color": "#397b46"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 1",
-            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
-            "short_name": "Imola GP",
-            "match_id": 118411,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118411_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8200,
-                    "name": "Practice 1",
-                    "shortName": "P1",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125665_english_hls_61577adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bangladesh Emerging vs South Africa Emerging",
-            "tournament": "South Africa Emerging tour of Bangladesh, 2025",
-            "short_name": "SA-E vs BAN-ET",
-            "match_id": 124918,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-30T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124918_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1371,
-                    "name": "Bangladesh Emerging",
-                    "shortName": "BD-ET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#599f8a"
-                },
-                {
-                    "id": 1293,
-                    "name": "South Africa Emerging",
-                    "shortName": "SA-E",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "color": "#53a784"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124918_english_hls_86988adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
