@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:44:35 AM 16-05-2025",
+    "last_updated": "10:51:34 AM 16-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -229,37 +229,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Kuwait Women vs Bhutan Women",
-            "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
-            "short_name": "ICC Women's T20 WC Asia Qualifie",
-            "match_id": 124521,
-            "status": "STARTED",
-            "startTime": "2025-05-09T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124521_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1097,
-                    "name": "Kuwait Women",
-                    "shortName": "KU W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
-                    "color": "#5a8543"
-                },
-                {
-                    "id": 3235,
-                    "name": "Bhutan Women",
-                    "shortName": "BHU-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
-                    "color": "#ae3008"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124521_english_hls_13524adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Bangladesh Emerging vs South Africa Emerging",
             "tournament": "South Africa Emerging tour of Bangladesh, 2025",
             "short_name": "SA-E vs BAN-ET",
@@ -349,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124981_english_hls_67374adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kuwait Women vs Bhutan Women",
+            "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
+            "short_name": "ICC Women's T20 WC Asia Qualifie",
+            "match_id": 124521,
+            "status": "STARTED",
+            "startTime": "2025-05-09T00:00:00.000Z",
+            "endDate": "2025-05-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124521_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1097,
+                    "name": "Kuwait Women",
+                    "shortName": "KU W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUW@2x.png",
+                    "color": "#5a8543"
+                },
+                {
+                    "id": 3235,
+                    "name": "Bhutan Women",
+                    "shortName": "BHU-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHU@2x.png",
+                    "color": "#ae3008"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124521_english_hls_13524adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
