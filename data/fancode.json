@@ -1,53 +1,22 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:12:13 PM 16-05-2025",
+    "last_updated": "02:19:14 PM 16-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 7,
+    "total_matches": 14,
+    "live_matches": 8,
     "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 ITALY-EMILIA ROMAGNA 2025",
-            "short_name": "F3 Imola",
-            "match_id": 119081,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119081_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8242,
-                    "name": "Practice",
-                    "shortName": "F3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "color": "#ff5800"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/119081_english_hls_70912adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Scotland vs Netherlands",
             "tournament": "ICC CWC League 2, 2023-27",
             "short_name": "ICC CWC League 2",
             "match_id": 124499,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2024-02-15T00:00:00.000Z",
             "endDate": "2027-01-08T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124499_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -69,7 +38,7 @@
                     "color": "#2c5ab3"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124499_english_hls_5146adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                     "color": "#123456"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
+            "short_name": "Imola GP",
+            "match_id": 118412,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-05-18T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118412_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8201,
+                    "name": "Practice 2",
+                    "shortName": "P2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -411,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124982_english_hls_37204adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ariana CC vs Ariana KIF",
+            "tournament": "ECS Sweden, Landskrona, 2025",
+            "short_name": "ECS Sweden, Landskrona",
+            "match_id": 125347,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-16T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125347_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2379,
+                    "name": "Ariana CC",
+                    "shortName": "ARI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACC-CR4@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 2380,
+                    "name": "Ariana KIF",
+                    "shortName": "AF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AF@2x.png",
+                    "color": "#fe0000"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125347_english_hls_55576adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
