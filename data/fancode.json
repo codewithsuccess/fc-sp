@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:05:41 AM 17-05-2025",
+    "last_updated": "02:12:41 AM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 6,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Bay Leaf Blasters vs Cinnamon Pacers",
-            "tournament": "Dream11 Spice Isle T10, 2025",
-            "short_name": "Dream11 Spice Isle T10",
-            "match_id": 124928,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124928_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3419,
-                    "name": "Bay Leaf Blasters",
-                    "shortName": "BLB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
-                    "color": "#c9ff82"
-                },
-                {
-                    "id": 3421,
-                    "name": "Cinnamon Pacers",
-                    "shortName": "CP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
-                    "color": "#d67a14"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124928_english_hls_21922adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Ai Octopus Challengers vs Royal Lions CC",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125388_english_hls_56649adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Walsall vs Chesterfield",
+            "tournament": "League Two 2024-25",
+            "short_name": "League Two",
+            "match_id": 125165,
+            "status": "STARTED",
+            "startTime": "2024-08-10T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125165_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5917,
+                    "name": "Walsall",
+                    "shortName": "WALS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
+                    "color": "#97854B"
+                },
+                {
+                    "id": 8925,
+                    "name": "Chesterfield",
+                    "shortName": "CSF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
+                    "color": "#EE3E41"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125165_english_hls_47575adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,37 +228,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Walsall vs Chesterfield",
-            "tournament": "League Two 2024-25",
-            "short_name": "League Two",
-            "match_id": 125165,
-            "status": "STARTED",
-            "startTime": "2024-08-10T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125165_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5917,
-                    "name": "Walsall",
-                    "shortName": "WALS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-WAL@2x.png",
-                    "color": "#97854B"
-                },
-                {
-                    "id": 8925,
-                    "name": "Chesterfield",
-                    "shortName": "CSF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CSF@2x.png",
-                    "color": "#EE3E41"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125165_english_hls_47575adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Day 2",
             "tournament": "2025 PGA Championship - Quail Hollow",
@@ -318,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124613_english_hls_33457adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bay Leaf Blasters vs Cinnamon Pacers",
+            "tournament": "Dream11 Spice Isle T10, 2025",
+            "short_name": "Dream11 Spice Isle T10",
+            "match_id": 124928,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124928_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3419,
+                    "name": "Bay Leaf Blasters",
+                    "shortName": "BLB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
+                    "color": "#c9ff82"
+                },
+                {
+                    "id": 3421,
+                    "name": "Cinnamon Pacers",
+                    "shortName": "CP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNN@2x.png",
+                    "color": "#d67a14"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124928_english_hls_21922adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
