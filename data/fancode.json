@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:58:42 PM 16-05-2025",
+    "last_updated": "08:05:43 PM 16-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 8,
-    "live_matches": 3,
-    "upcoming_matches": 5,
+    "live_matches": 4,
+    "upcoming_matches": 4,
     "matches": [
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
+            "short_name": "Imola GP",
+            "match_id": 118412,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-05-18T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118412_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8201,
+                    "name": "Practice 2",
+                    "shortName": "P2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Motorsports",
             "title": "Formula 2",
@@ -70,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124499_english_hls_5146adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 2",
-            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
-            "short_name": "Imola GP",
-            "match_id": 118412,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118412_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8201,
-                    "name": "Practice 2",
-                    "shortName": "P2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
