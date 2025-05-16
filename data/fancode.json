@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:44:13 PM 16-05-2025",
+    "last_updated": "12:51:14 PM 16-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
+    "total_matches": 13,
     "live_matches": 5,
-    "upcoming_matches": 7,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -295,7 +295,7 @@
             "tournament": "ICC Women's T20 World Cup Asia Qualifier, 2025",
             "short_name": "ICC Women's T20 WC Asia Qualifie",
             "match_id": 124522,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-09T00:00:00.000Z",
             "endDate": "2025-05-20T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124522_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -317,7 +317,7 @@
                     "color": "#ff5142"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124522_english_hls_23129adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125346_english_hls_1142adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Thrissur vs Kazaragod",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125499,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125499_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6291,
+                    "name": "Trichur",
+                    "shortName": "TRI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRIC@2x.png",
+                    "color": "#3f5695"
+                },
+                {
+                    "id": 6303,
+                    "name": "Kazaragode",
+                    "shortName": "KAG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
+                    "color": "#1f1a46"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125499_english_hls_21453adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
