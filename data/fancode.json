@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:58:41 PM 16-05-2025",
+    "last_updated": "12:05:41 AM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 4,
+    "total_matches": 10,
+    "live_matches": 5,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -42,34 +42,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Levante vs Albacete",
-            "tournament": "LALIGA HYPERMOTION 2024-25",
-            "short_name": "LALIGA HYPERMOTION",
-            "match_id": 126109,
+            "category": "Cricket",
+            "title": "Ai Octopus Challengers vs Royal Lions CC",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125388,
             "status": "STARTED",
-            "startTime": "2024-08-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126109_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125388_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 832,
-                    "name": "Levante",
-                    "shortName": "LET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
-                    "color": "#598bc1"
+                    "id": 7441,
+                    "name": "Ai Octopus Challengers",
+                    "shortName": "AIOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "color": "#7cc4ba"
                 },
                 {
-                    "id": 5580,
-                    "name": "Albacete",
-                    "shortName": "ALB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png",
-                    "color": "#b1373c"
+                    "id": 8317,
+                    "name": "Royal Lions CC",
+                    "shortName": "RLC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "color": "#a66676"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/126109_english_hls_78798adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125388_english_hls_56649adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -225,6 +225,37 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Levante vs Albacete",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 126109,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126109_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 832,
+                    "name": "Levante",
+                    "shortName": "LET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "color": "#598bc1"
+                },
+                {
+                    "id": 5580,
+                    "name": "Albacete",
+                    "shortName": "ALB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALB@2x.png",
+                    "color": "#b1373c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126109_english_hls_78798adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
