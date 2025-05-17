@@ -1,44 +1,75 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:12:05 AM 18-05-2025",
+    "last_updated": "03:19:05 AM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 4,
-    "upcoming_matches": 6,
+    "total_matches": 7,
+    "live_matches": 2,
+    "upcoming_matches": 5,
     "matches": [
         {
-            "category": "Cricket",
-            "title": "USA vs Canada",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124500,
+            "category": "Golf",
+            "title": "Day 3",
+            "tournament": "2025 PGA Championship - Quail Hollow",
+            "short_name": "PGA Quail Hollow",
+            "match_id": 125744,
             "status": "STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124500_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-18T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125744_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 247,
-                    "name": "USA",
-                    "shortName": "USA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "color": "#132f86"
+                    "id": 5941,
+                    "name": "Day 3",
+                    "shortName": "PGA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#141414"
                 },
                 {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124500_english_hls_14307adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125744_english_hls_23246adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Government Road Stingrays vs Brownhill Dolphins",
+            "tournament": "Cool and Smooth T20, 2025",
+            "short_name": "Cool and Smooth T20",
+            "match_id": 125291,
+            "status": "STARTED",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125291_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8472,
+                    "name": "Government Road Stingrays",
+                    "shortName": "GRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "color": "#13c667"
+                },
+                {
+                    "id": 8473,
+                    "name": "Brownhill Dolphins",
+                    "shortName": "BRD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "color": "#2b9ad1"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125291_english_hls_30005adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -194,130 +225,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Mallorca vs Getafe",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125444,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125444_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1413,
-                    "name": "Mallorca",
-                    "shortName": "MRC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
-                    "color": "#FBCCD1"
-                },
-                {
-                    "id": 849,
-                    "name": "Getafe",
-                    "shortName": "GEF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
-                    "color": "#e0d405"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Day 3",
-            "tournament": "2025 PGA Championship - Quail Hollow",
-            "short_name": "PGA Quail Hollow",
-            "match_id": 125744,
-            "status": "STARTED",
-            "startTime": "2025-05-15T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125744_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 3",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125744_english_hls_23246adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Horse Racing",
-            "title": "Triple Crown - Preakness Stakes",
-            "tournament": "Triple Crown - Preakness Stakes",
-            "short_name": "Triple Crown - Preakness Stakes",
-            "match_id": 125803,
-            "status": "STARTED",
-            "startTime": "2025-05-17T00:00:00.000Z",
-            "endDate": "2025-05-17T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125803_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9895,
-                    "name": "Triple Crown - Preakness Stakes",
-                    "shortName": "TPS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TPS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TPS@2x.png",
-                    "color": "#B60732"
-                },
-                {
-                    "id": 6128,
-                    "name": "Location",
-                    "shortName": "Loc",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "color": "#12345"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125803_english_hls_44544adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Government Road Stingrays vs Brownhill Dolphins",
-            "tournament": "Cool and Smooth T20, 2025",
-            "short_name": "Cool and Smooth T20",
-            "match_id": 125291,
-            "status": "STARTED",
-            "startTime": "2025-05-15T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125291_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8472,
-                    "name": "Government Road Stingrays",
-                    "shortName": "GRS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
-                    "color": "#13c667"
-                },
-                {
-                    "id": 8473,
-                    "name": "Brownhill Dolphins",
-                    "shortName": "BRD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "color": "#2b9ad1"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125291_english_hls_30005adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
