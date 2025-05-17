@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:11 PM 17-05-2025",
+    "last_updated": "02:37:11 PM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
+    "total_matches": 13,
     "live_matches": 6,
-    "upcoming_matches": 6,
+    "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 ITALY-EMILIA ROMAGNA 2025",
-            "short_name": "F3 Imola",
-            "match_id": 119083,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119083_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8242,
-                    "name": "Sprint Race",
-                    "shortName": "F3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "color": "#ff5800"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "USA vs Canada",
@@ -228,6 +197,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Motorsports",
+            "title": "Formula 3",
+            "tournament": "F3 ITALY-EMILIA ROMAGNA 2025",
+            "short_name": "F3 Imola",
+            "match_id": 119084,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-05-18T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119084_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8242,
+                    "name": "Feature Race",
+                    "shortName": "F3",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                    "color": "#ff5800"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Thrissur vs Idukki",
             "tournament": "Kerala Mens T20 Challenger Trophy",
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/121964_english_hls_93112adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Melbourne Victory vs Auckland",
+            "tournament": "A League 2024-25",
+            "short_name": "A League",
+            "match_id": 125664,
+            "status": "STARTED",
+            "startTime": "2024-10-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125664_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1676,
+                    "name": "Melbourne Victory",
+                    "shortName": "MLV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLVA@2x.png",
+                    "color": "#031e2f"
+                },
+                {
+                    "id": 9128,
+                    "name": "Auckland",
+                    "shortName": "AFC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUCK@2x.png",
+                    "color": "#CDA24E"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125664_english_hls_21154adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
