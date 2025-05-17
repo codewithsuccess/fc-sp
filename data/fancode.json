@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:05:05 AM 18-05-2025",
+    "last_updated": "03:12:05 AM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -228,37 +228,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Government Road Stingrays vs Brownhill Dolphins",
-            "tournament": "Cool and Smooth T20, 2025",
-            "short_name": "Cool and Smooth T20",
-            "match_id": 125291,
-            "status": "STARTED",
-            "startTime": "2025-05-15T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125291_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8472,
-                    "name": "Government Road Stingrays",
-                    "shortName": "GRS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
-                    "color": "#13c667"
-                },
-                {
-                    "id": 8473,
-                    "name": "Brownhill Dolphins",
-                    "shortName": "BRD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "color": "#2b9ad1"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125291_english_hls_30005adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Day 3",
             "tournament": "2025 PGA Championship - Quail Hollow",
@@ -318,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125803_english_hls_44544adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Government Road Stingrays vs Brownhill Dolphins",
+            "tournament": "Cool and Smooth T20, 2025",
+            "short_name": "Cool and Smooth T20",
+            "match_id": 125291,
+            "status": "STARTED",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125291_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8472,
+                    "name": "Government Road Stingrays",
+                    "shortName": "GRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "color": "#13c667"
+                },
+                {
+                    "id": 8473,
+                    "name": "Brownhill Dolphins",
+                    "shortName": "BRD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "color": "#2b9ad1"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125291_english_hls_30005adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
