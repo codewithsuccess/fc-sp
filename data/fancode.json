@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:43 AM 17-05-2025",
+    "last_updated": "08:30:44 AM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 7,
-    "live_matches": null,
+    "total_matches": 8,
+    "live_matches": 1,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -225,6 +225,37 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Malappuram vs Kazaragod",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125500,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125500_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6296,
+                    "name": "Malappuram",
+                    "shortName": "MAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAP@2x.png",
+                    "color": "#085d30"
+                },
+                {
+                    "id": 6303,
+                    "name": "Kazaragod",
+                    "shortName": "KAG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
+                    "color": "#1f1a46"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125500_english_hls_79894adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
