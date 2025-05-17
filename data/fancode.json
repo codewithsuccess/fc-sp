@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:12:40 PM 17-05-2025",
+    "last_updated": "08:19:39 PM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
+    "total_matches": 10,
     "live_matches": 5,
-    "upcoming_matches": 4,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Formula 1",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/118414_english_hls_70319adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "USA vs Canada",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124500,
-            "status": "STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124500_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 247,
-                    "name": "USA",
-                    "shortName": "USA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "color": "#132f86"
-                },
-                {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124500_english_hls_14307adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,6 +197,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Real Sociedad vs Girona",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125445,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125445_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 848,
+                    "name": "Real Sociedad",
+                    "shortName": "RS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
+                    "color": "#ae7a05"
+                },
+                {
+                    "id": 881,
+                    "name": "Girona",
+                    "shortName": "GIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "color": "#fbc573"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Clove Challengers vs Saffron Strikers",
             "tournament": "Dream11 Spice Isle T10, 2025",
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125693_english_hls_90443adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "USA vs Canada",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124500,
+            "status": "STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124500_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 247,
+                    "name": "USA",
+                    "shortName": "USA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 41,
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "color": "#d01909"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124500_english_hls_14307adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
