@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:44 PM 17-05-2025",
+    "last_updated": "06:37:41 PM 17-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 5,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Motorsports",
-            "title": "Formula 2",
-            "tournament": "F2 ITALY-EMILIA ROMAGNA 2025",
-            "short_name": "F2 Imola",
-            "match_id": 119039,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119039_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8236,
-                    "name": "Sprint Race",
-                    "shortName": "F2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "color": "#123456"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Formula 1",
             "title": "Qualifying",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/118414_english_hls_70319adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Formula 2",
+            "tournament": "F2 ITALY-EMILIA ROMAGNA 2025",
+            "short_name": "F2 Imola",
+            "match_id": 119039,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-05-18T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119039_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8236,
+                    "name": "Sprint Race",
+                    "shortName": "F2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
+                    "color": "#123456"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "adfree_stream": "",
             "dai_stream": "Coming Soon"
         },
         {
@@ -135,37 +135,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Scotland vs Netherlands",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124499,
-            "status": "COMPLETED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124499_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                },
-                {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Osasuna vs Espanyol",
             "tournament": "LALIGA 2024-25",
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
                     "color": "#efd84e"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Real Valladolid vs Alav\u00e9s",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125447,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125447_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 946,
+                    "name": "Real Valladolid",
+                    "shortName": "VLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "color": "#F1948A"
+                },
+                {
+                    "id": 835,
+                    "name": "Alav\u00e9s",
+                    "shortName": "ALA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
+                    "color": "#537096"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
