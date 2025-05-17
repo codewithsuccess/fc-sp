@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:39 AM 18-05-2025",
+    "last_updated": "12:19:40 AM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 7,
+    "total_matches": 13,
+    "live_matches": 8,
     "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "United Arab Emirates vs Bangladesh",
-            "tournament": "Bangladesh tour of UAE, 2025",
-            "short_name": "UAE vs BAN",
-            "match_id": 125493,
-            "status": "STARTED",
-            "startTime": "2025-05-17T00:00:00.000Z",
-            "endDate": "2025-05-19T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125493_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3,
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "color": "#4fb319"
-                },
-                {
-                    "id": 25,
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#397b46"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125493_english_hls_83824adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "USA vs Canada",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124500_english_hls_14307adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Arab Emirates vs Bangladesh",
+            "tournament": "Bangladesh tour of UAE, 2025",
+            "short_name": "UAE vs BAN",
+            "match_id": 125493,
+            "status": "STARTED",
+            "startTime": "2025-05-17T00:00:00.000Z",
+            "endDate": "2025-05-19T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125493_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3,
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "color": "#4fb319"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125493_english_hls_83824adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -287,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124931_english_hls_8560adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Government Road Stingrays vs Brownhill Dolphins",
+            "tournament": "Cool and Smooth T20, 2025",
+            "short_name": "Cool and Smooth T20",
+            "match_id": 125291,
+            "status": "STARTED",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125291_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8472,
+                    "name": "Government Road Stingrays",
+                    "shortName": "GRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GRS@2x.png",
+                    "color": "#13c667"
+                },
+                {
+                    "id": 8473,
+                    "name": "Brownhill Dolphins",
+                    "shortName": "BRD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "color": "#2b9ad1"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125291_english_hls_30005adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
