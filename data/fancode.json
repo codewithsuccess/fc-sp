@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:26:05 AM 18-05-2025",
+    "last_updated": "06:30:06 AM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 7,
-    "live_matches": null,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 6,
     "matches": [
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers vs Los Angeles Angels",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124616,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124616_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
+                },
+                {
+                    "id": 2329,
+                    "name": "Los Angeles Angels",
+                    "shortName": "LAA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LOSANG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LOSANG@2x.png",
+                    "color": "#c00526"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124616_english_hls_7983adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Football",
             "title": "Osasuna vs Espanyol",
@@ -191,37 +222,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
                     "color": "#e0d405"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Valencia CF vs Athletic Club",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125443,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125443_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 544,
-                    "name": "Valencia CF",
-                    "shortName": "VAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "color": "#4F7DE5"
-                },
-                {
-                    "id": 437,
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "color": "#ff674d"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
