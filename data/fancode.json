@@ -1,41 +1,41 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:05:07 PM 18-05-2025",
+    "last_updated": "05:58:47 PM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 5,
+    "total_matches": 10,
+    "live_matches": 4,
     "upcoming_matches": 6,
     "matches": [
         {
-            "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 ITALY-EMILIA ROMAGNA 2025",
-            "short_name": "F3 Imola",
-            "match_id": 119084,
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 AWS GRAN PREMIO DELL'EMILIA-ROMAGNA 2025",
+            "short_name": "Imola GP",
+            "match_id": 118415,
             "status": "STARTED",
             "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119084_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "endDate": "2025-05-18T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118415_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 8242,
-                    "name": "Feature Race",
-                    "shortName": "F3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "color": "#ff5800"
+                    "id": 8204,
+                    "name": "Race",
+                    "shortName": "RC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
                 },
                 {
-                    "id": 8235,
+                    "id": 8199,
                     "name": "Location",
                     "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
                 }
             ],
             "adfree_stream": "",
@@ -229,76 +229,14 @@
         },
         {
             "category": "Cricket",
-            "title": "91 Yards Club Women vs S.G.Club Women",
-            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Womens Summer Challenge",
-            "match_id": 124985,
-            "status": "STARTED",
-            "startTime": "2025-05-04T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124985_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8254,
-                    "name": "91 Yards Club Women",
-                    "shortName": "YCW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "color": "#ee6c70"
-                },
-                {
-                    "id": 9863,
-                    "name": "S.G.Club Women",
-                    "shortName": "SG-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "color": "#fdf251"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124985_english_hls_8085adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "NBSC Lions vs Birat Cricket Club and Academy",
-            "tournament": "Nepal T10, 2025",
-            "short_name": "Nepal T10",
-            "match_id": 125804,
-            "status": "STARTED",
-            "startTime": "2025-05-18T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125804_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8646,
-                    "name": "NBSC Lions",
-                    "shortName": "NBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "color": "#ba6410"
-                },
-                {
-                    "id": 8645,
-                    "name": "YRCC Birat Blasters",
-                    "shortName": "YBB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YBB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YBB@2x.png",
-                    "color": "#0038ff"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125804_english_hls_39336adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Estonia Women vs Bulgaria Women",
             "tournament": "ECI-W Estonia-Bulgaria, 2025",
             "short_name": "ECI-W Estonia-Bulgaria",
-            "match_id": 125694,
+            "match_id": 125696,
             "status": "STARTED",
             "startTime": "2025-05-17T00:00:00.000Z",
             "endDate": "2025-05-18T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125694_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125696_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
                     "id": 7061,
@@ -317,38 +255,69 @@
                     "color": "#32740f"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125694_english_hls_75201adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125696_english_hls_4477adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Malmohus-W vs Goteburg CC-W",
+            "tournament": "ECS-W Sweden, Landskrona, 2025",
+            "short_name": "ECS-W Sweden, Landskrona",
+            "match_id": 126107,
+            "status": "STARTED",
+            "startTime": "2025-05-17T00:00:00.000Z",
+            "endDate": "2025-05-18T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126107_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11363,
+                    "name": "Malmohus-W",
+                    "shortName": "MAM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+                    "color": "#702963"
+                },
+                {
+                    "id": 11364,
+                    "name": "Goteburg CC-W",
+                    "shortName": "GOT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+                    "color": "#FFFF8F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126107_english_hls_16844adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Football",
-            "title": "Kawasaki Frontale vs Cerezo Osaka",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 121965,
+            "title": "Lion City Sailors vs Sharjah",
+            "tournament": "AFC Champions League Two 2024-25",
+            "short_name": "AFC CL 2",
+            "match_id": 123851,
             "status": "STARTED",
-            "startTime": "2025-02-08T00:00:00.000Z",
-            "endDate": "2025-12-06T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121965_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2024-09-17T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123851_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 1769,
-                    "name": "Kawasaki Frontale",
-                    "shortName": "KAW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAFRON@2x.png",
-                    "color": "#11a4ea"
+                    "id": 4657,
+                    "name": "Lion City Sailors",
+                    "shortName": "LIO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIONC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIONC@2x.png",
+                    "color": "#a54f12"
                 },
                 {
-                    "id": 1764,
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "color": "#2a2a63"
+                    "id": 2858,
+                    "name": "Sharjah",
+                    "shortName": "SHJ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHARJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHARJ@2x.png",
+                    "color": "#213993"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/121965_english_hls_966adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/123851_english_hls_78159adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
