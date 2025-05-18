@@ -1,77 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:30:05 AM 18-05-2025",
+    "last_updated": "05:37:05 AM 18-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 7,
-    "live_matches": 2,
-    "upcoming_matches": 5,
+    "live_matches": null,
+    "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Golf",
-            "title": "Day 3",
-            "tournament": "2025 PGA Championship - Quail Hollow",
-            "short_name": "PGA Quail Hollow",
-            "match_id": 125744,
-            "status": "STARTED",
-            "startTime": "2025-05-15T00:00:00.000Z",
-            "endDate": "2025-05-18T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125744_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 3",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125744_english_hls_23246adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Horse Racing",
-            "title": "Triple Crown - Preakness Stakes",
-            "tournament": "Triple Crown - Preakness Stakes",
-            "short_name": "Triple Crown - Preakness Stakes",
-            "match_id": 125803,
-            "status": "STARTED",
-            "startTime": "2025-05-17T00:00:00.000Z",
-            "endDate": "2025-05-17T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125803_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9895,
-                    "name": "Triple Crown - Preakness Stakes",
-                    "shortName": "TPS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TPS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TPS@2x.png",
-                    "color": "#B60732"
-                },
-                {
-                    "id": 6128,
-                    "name": "Location",
-                    "shortName": "Loc",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "color": "#12345"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125803_english_hls_44544adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Osasuna vs Espanyol",
@@ -222,6 +160,68 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
                     "color": "#fbc573"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Mallorca vs Getafe",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125444,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125444_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1413,
+                    "name": "Mallorca",
+                    "shortName": "MRC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
+                    "color": "#FBCCD1"
+                },
+                {
+                    "id": 849,
+                    "name": "Getafe",
+                    "shortName": "GEF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "color": "#e0d405"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Valencia CF vs Athletic Club",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125443,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125443_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 544,
+                    "name": "Valencia CF",
+                    "shortName": "VAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
+                    "color": "#4F7DE5"
+                },
+                {
+                    "id": 437,
+                    "name": "Athletic Club",
+                    "shortName": "ATH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
+                    "color": "#ff674d"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
