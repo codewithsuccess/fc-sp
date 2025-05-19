@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:05:42 PM 19-05-2025",
+    "last_updated": "08:12:42 PM 19-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 8,
-    "live_matches": 2,
-    "upcoming_matches": 6,
+    "live_matches": 3,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -47,7 +47,7 @@
             "tournament": "Bangladesh tour of UAE, 2025",
             "short_name": "UAE vs BAN",
             "match_id": 125494,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-17T00:00:00.000Z",
             "endDate": "2025-05-19T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125494_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -69,7 +69,7 @@
                     "color": "#397b46"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125494_english_hls_36192adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
