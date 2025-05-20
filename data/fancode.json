@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:06:00 AM 21-05-2025",
+    "last_updated": "02:13:00 AM 21-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 7,
-    "live_matches": 2,
-    "upcoming_matches": 5,
+    "live_matches": 1,
+    "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Ginger Generals vs Saffron Strikers",
-            "tournament": "Dream11 Spice Isle T10, 2025",
-            "short_name": "Dream11 Spice Isle T10",
-            "match_id": 124938,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124938_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3422,
-                    "name": "Ginger Generals",
-                    "shortName": "GG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIN@2x.png",
-                    "color": "#4b81a4"
-                },
-                {
-                    "id": 3424,
-                    "name": "Saffron Strikers",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
-                    "color": "#f16041"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124938_english_hls_31035adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Sandy Point Snappers vs St Paul\u2019s Barracudas",
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
                     "color": "#d01909"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "England vs Zimbabwe",
+            "tournament": "Zimbabwe tour of England, 2025",
+            "short_name": "ENG vs ZIM",
+            "match_id": 126220,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-22T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126220_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1537,
+                    "name": "England",
+                    "shortName": "ENG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
+                },
+                {
+                    "id": 267,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "color": "#dfd32c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
