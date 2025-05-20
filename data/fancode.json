@@ -1,56 +1,56 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:38:01 PM 20-05-2025",
+    "last_updated": "04:37:10 PM 20-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 4,
+    "total_matches": 7,
+    "live_matches": 2,
     "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
-            "title": "Alappuzha vs Kazaragod",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125507,
+            "title": "Tallinn Strikers vs Tallinn Hippos",
+            "tournament": "ECS Estonia, 2025",
+            "short_name": "ECS Estonia",
+            "match_id": 125713,
             "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125507_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-19T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125713_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 6295,
-                    "name": "Alappuzha",
-                    "shortName": "APH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APH@2x.png",
-                    "color": "#294699"
+                    "id": 8580,
+                    "name": "Tallinn Strikers",
+                    "shortName": "TSK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
+                    "color": "#D9D2FF"
                 },
                 {
-                    "id": 6303,
-                    "name": "Kazaragod",
-                    "shortName": "KAG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAG@2x.png",
-                    "color": "#1f1a46"
+                    "id": 2352,
+                    "name": "Tallinn Hippos",
+                    "shortName": "TH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
+                    "color": "#CC47BA"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125507_english_hls_8957adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125713_english_hls_44236adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
             "category": "Cricket",
-            "title": "United Lion Hearts vs Koshi Pride League",
+            "title": "United Lion Hearts vs NBSC Lions",
             "tournament": "Nepal T10, 2025",
             "short_name": "Nepal T10",
-            "match_id": 125806,
+            "match_id": 125812,
             "status": "STARTED",
             "startTime": "2025-05-18T00:00:00.000Z",
             "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125806_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125812_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
                     "id": 9897,
@@ -61,15 +61,15 @@
                     "color": "#19bbc4"
                 },
                 {
-                    "id": 9899,
-                    "name": "Koshi Pride League",
-                    "shortName": "KPL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "color": "#fe1231"
+                    "id": 8646,
+                    "name": "NBSC Lions",
+                    "shortName": "NBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
+                    "color": "#ba6410"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125806_english_hls_46607adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125812_english_hls_90775adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -167,6 +167,37 @@
         },
         {
             "category": "Cricket",
+            "title": "England Women vs West Indies Women",
+            "tournament": "West Indies Women tour of England, 2025",
+            "short_name": "ENG-W vs WI-W",
+            "match_id": 126221,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-07T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126221_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 646,
+                    "name": "England Women",
+                    "shortName": "EN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
+                },
+                {
+                    "id": 647,
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#91033c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Oman vs Canada",
             "tournament": "ICC CWC League 2, 2023-27",
             "short_name": "ICC CWC League 2",
@@ -194,99 +225,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "United Arab Emirates vs Bangladesh",
-            "tournament": "Bangladesh tour of UAE, 2025",
-            "short_name": "UAE vs BAN",
-            "match_id": 125494,
-            "status": "COMPLETED",
-            "startTime": "2025-05-17T00:00:00.000Z",
-            "endDate": "2025-05-21T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125494_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3,
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
-                    "color": "#4fb319"
-                },
-                {
-                    "id": 25,
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#397b46"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tallinn United vs Tallinn Stallions",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125712,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125712_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2353,
-                    "name": "Tallinn United",
-                    "shortName": "TU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "color": "#3B88C4"
-                },
-                {
-                    "id": 2356,
-                    "name": "Tallinn Stallions",
-                    "shortName": "TST",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
-                    "color": "#d4c47b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125712_english_hls_93499adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Women vs 91 Yards Club Women",
-            "tournament": "GTC Womens Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Womens Summer Challenge",
-            "match_id": 124989,
-            "status": "STARTED",
-            "startTime": "2025-05-04T00:00:00.000Z",
-            "endDate": "2025-05-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124989_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8253,
-                    "name": "Gauhati Town Club Women",
-                    "shortName": "GTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GTW@2x.png",
-                    "color": "#330100"
-                },
-                {
-                    "id": 8254,
-                    "name": "91 Yards Club Women",
-                    "shortName": "YCW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YCW@2x.png",
-                    "color": "#ee6c70"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124989_english_hls_49914adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
