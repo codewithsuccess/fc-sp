@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:45:00 PM 20-05-2025",
+    "last_updated": "09:52:00 PM 20-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 7,
-    "live_matches": 2,
-    "upcoming_matches": 5,
+    "live_matches": 1,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124937_english_hls_68143adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tallinn Stallions vs Tallinn Hippos",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125715,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125715_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2356,
-                    "name": "Tallinn Stallions",
-                    "shortName": "TST",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
-                    "color": "#d4c47b"
-                },
-                {
-                    "id": 2352,
-                    "name": "Tallinn Hippos",
-                    "shortName": "TH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "color": "#CC47BA"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125715_english_hls_11197adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -222,6 +191,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
                     "color": "#d01909"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Arab Emirates vs Bangladesh",
+            "tournament": "Bangladesh tour of UAE, 2025",
+            "short_name": "UAE vs BAN",
+            "match_id": 125494,
+            "status": "COMPLETED",
+            "startTime": "2025-05-17T00:00:00.000Z",
+            "endDate": "2025-05-21T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125494_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3,
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UAE@2x.png",
+                    "color": "#4fb319"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
