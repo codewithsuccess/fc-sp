@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:30:51 PM 21-05-2025",
+    "last_updated": "05:37:50 PM 21-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -228,6 +228,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Incheon Red Angels Women vs Melbourne City Women",
+            "tournament": "AFC Women's Champions League 2024-25",
+            "short_name": "AFC Women's Champions League",
+            "match_id": 126248,
+            "status": "STARTED",
+            "startTime": "2024-10-03T00:00:00.000Z",
+            "endDate": "2025-05-03T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126248_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9104,
+                    "name": "Incheon Red Angels Women",
+                    "shortName": "RA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
+                    "color": "#004282"
+                },
+                {
+                    "id": 1897,
+                    "name": "Melbourne City Women",
+                    "shortName": "MLC-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
+                    "color": "#72b4e7"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126248_english_hls_19646adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Trivandrum vs Kannur",
             "tournament": "Kerala Mens T20 Challenger Trophy",
@@ -287,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/121951_english_hls_17193adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Incheon Red Angels Women vs Melbourne City Women",
-            "tournament": "AFC Women's Champions League 2024-25",
-            "short_name": "AFC Women's Champions League",
-            "match_id": 126248,
-            "status": "STARTED",
-            "startTime": "2024-10-03T00:00:00.000Z",
-            "endDate": "2025-05-03T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126248_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9104,
-                    "name": "Incheon Red Angels Women",
-                    "shortName": "RA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
-                    "color": "#004282"
-                },
-                {
-                    "id": 1897,
-                    "name": "Melbourne City Women",
-                    "shortName": "MLC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-                    "color": "#72b4e7"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126248_english_hls_19646adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
