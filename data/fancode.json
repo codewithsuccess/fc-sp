@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:44:52 AM 22-05-2025",
+    "last_updated": "12:51:52 AM 22-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 7,
-    "upcoming_matches": 4,
+    "total_matches": 10,
+    "live_matches": 5,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -78,7 +78,7 @@
             "tournament": "Bangladesh tour of UAE, 2025",
             "short_name": "UAE vs BAN",
             "match_id": 126291,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-17T00:00:00.000Z",
             "endDate": "2025-05-21T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126291_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -100,7 +100,7 @@
                     "color": "#397b46"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/126291_english_hls_97827adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125764_english_hls_78895adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "Pittsburgh Pirates vs Cincinnati Reds",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 124621,
-            "status": "STARTED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124621_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2347,
-                    "name": "Pittsburgh Pirates",
-                    "shortName": "PBP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png",
-                    "color": "#816305"
-                },
-                {
-                    "id": 2340,
-                    "name": "Cincinnati Reds",
-                    "shortName": "CR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CINC@2x.png",
-                    "color": "#ee4d65"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124621_english_hls_84102adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
