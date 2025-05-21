@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:37:52 PM 21-05-2025",
+    "last_updated": "11:44:55 PM 21-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 5,
+    "total_matches": 11,
+    "live_matches": 7,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -256,6 +256,68 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125393_english_hls_21454adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nutmeg Warriors vs Saffron Strikers",
+            "tournament": "Dream11 Spice Isle T10, 2025",
+            "short_name": "Dream11 Spice Isle T10",
+            "match_id": 124940,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124940_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3423,
+                    "name": "Nutmeg Warriors",
+                    "shortName": "NW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NUT@2x.png",
+                    "color": "#9c222e"
+                },
+                {
+                    "id": 3424,
+                    "name": "Saffron Strikers",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "color": "#f16041"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124940_english_hls_84968adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies A vs South Africa A",
+            "tournament": "South Africa A tour of West Indies, 2025",
+            "short_name": "WI-A vs SA-A",
+            "match_id": 125764,
+            "status": "STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125764_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 709,
+                    "name": "West Indies A",
+                    "shortName": "WI-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#c9618c"
+                },
+                {
+                    "id": 533,
+                    "name": "South Africa A",
+                    "shortName": "SA-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "color": "#53a784"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125764_english_hls_78895adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
