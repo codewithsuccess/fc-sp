@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:37:50 PM 21-05-2025",
+    "last_updated": "07:44:55 PM 21-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 4,
+    "total_matches": 8,
+    "live_matches": 3,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -229,64 +229,33 @@
         },
         {
             "category": "Cricket",
-            "title": "Tallinn Strikers vs Tallinn United",
+            "title": "Tallinn Hippos vs Tartu Wolves",
             "tournament": "ECS Estonia, 2025",
             "short_name": "ECS Estonia",
-            "match_id": 125719,
+            "match_id": 125720,
             "status": "STARTED",
             "startTime": "2025-05-19T00:00:00.000Z",
             "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125719_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125720_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 8580,
-                    "name": "Tallinn Strikers",
-                    "shortName": "TSK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
+                    "id": 2352,
+                    "name": "Tallinn Hippos",
+                    "shortName": "TH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
+                    "color": "#CC47BA"
+                },
+                {
+                    "id": 8582,
+                    "name": "Tartu Wolves",
+                    "shortName": "TTW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
                     "color": "#D9D2FF"
-                },
-                {
-                    "id": 2353,
-                    "name": "Tallinn United",
-                    "shortName": "TU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "color": "#3B88C4"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125719_english_hls_80205adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Incheon Red Angels Women vs Melbourne City Women",
-            "tournament": "AFC Women's Champions League 2024-25",
-            "short_name": "AFC Women's Champions League",
-            "match_id": 126248,
-            "status": "STARTED",
-            "startTime": "2024-10-03T00:00:00.000Z",
-            "endDate": "2025-05-03T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126248_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9104,
-                    "name": "Incheon Red Angels Women",
-                    "shortName": "RA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HSRA@2x.png",
-                    "color": "#004282"
-                },
-                {
-                    "id": 1897,
-                    "name": "Melbourne City Women",
-                    "shortName": "MLC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MLCA@2x.png",
-                    "color": "#72b4e7"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126248_english_hls_19646adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125720_english_hls_53110adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
