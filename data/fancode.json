@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:44:47 PM 22-05-2025",
+    "last_updated": "04:51:48 PM 22-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 7,
-    "upcoming_matches": 8,
+    "total_matches": 14,
+    "live_matches": 5,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kannur vs Pathanamthitta",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125511,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125511_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6290,
-                    "name": "Kannur",
-                    "shortName": "KAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
-                    "color": "#2163ac"
-                },
-                {
-                    "id": 6297,
-                    "name": "Pathanamthitta",
-                    "shortName": "PTH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
-                    "color": "#2f6993"
-                }
-            ],
-            "adfree_stream": "https://dai-partner.fancode.com/primary/125511_english_hls_67941adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -322,6 +291,37 @@
         },
         {
             "category": "Cricket",
+            "title": "USA vs Oman",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124502,
+            "status": "COMPLETED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124502_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 247,
+                    "name": "USA",
+                    "shortName": "USA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 167,
+                    "name": "Oman",
+                    "shortName": "OMN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+                    "color": "#ad1b0e"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Tallinn Stallions vs Tartu Wolves",
             "tournament": "ECS Estonia, 2025",
             "short_name": "ECS Estonia",
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125723_english_hls_63338adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Mills Cricket Club vs NBSC Lions",
-            "tournament": "Nepal T10, 2025",
-            "short_name": "Nepal T10",
-            "match_id": 125807,
-            "status": "STARTED",
-            "startTime": "2025-05-18T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125807_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9896,
-                    "name": "Mills Cricket Club",
-                    "shortName": "MCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MCCN@2x.png",
-                    "color": "#007dd9"
-                },
-                {
-                    "id": 8646,
-                    "name": "NBSC Lions",
-                    "shortName": "NBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "color": "#ba6410"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125807_english_hls_4868adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
