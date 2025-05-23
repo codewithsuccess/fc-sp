@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:27:12 PM 23-05-2025",
+    "last_updated": "02:30:51 PM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 4,
-    "upcoming_matches": 8,
+    "live_matches": 5,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "MotoGP",
@@ -70,6 +70,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125513_english_hls_74258adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Motorsports",
+            "title": "Formula 3",
+            "tournament": "F3 MONACO 2025",
+            "short_name": "F3 Monaco",
+            "match_id": 119086,
+            "status": "STARTED",
+            "startTime": "2025-05-22T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119086_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8242,
+                    "name": "Qualifying",
+                    "shortName": "F3",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                    "color": "#ff5800"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "adfree_stream": "",
             "dai_stream": "Coming Soon"
         },
         {
@@ -284,37 +315,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
                     "color": "#2f6993"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trivandrum vs Kozhikode",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125512,
-            "status": "COMPLETED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125512_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6299,
-                    "name": "Trivandrum",
-                    "shortName": "TVR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
-                    "color": "#904036"
-                },
-                {
-                    "id": 6293,
-                    "name": "Kozhikode",
-                    "shortName": "KOD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
-                    "color": "#1f1a46"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
