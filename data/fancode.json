@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:51:46 AM 23-05-2025",
+    "last_updated": "07:58:47 AM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 1,
+    "total_matches": 10,
+    "live_matches": null,
     "upcoming_matches": 10,
     "matches": [
         {
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Brownhill Dolphins vs St Paul\u2019s Barracudas",
-            "tournament": "Cool and Smooth T20, 2025",
-            "short_name": "Cool and Smooth T20",
-            "match_id": 125298,
-            "status": "STARTED",
-            "startTime": "2025-05-15T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125298_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8473,
-                    "name": "Brownhill Dolphins",
-                    "shortName": "BRD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
-                    "color": "#2b9ad1"
-                },
-                {
-                    "id": 8475,
-                    "name": "St Paul\u2019s Barracudas",
-                    "shortName": "STB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STB@2x.png",
-                    "color": "#f1b827"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125298_english_hls_92173adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
