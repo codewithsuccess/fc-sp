@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:12:17 PM 23-05-2025",
+    "last_updated": "11:19:17 PM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 11,
+    "total_matches": 18,
+    "live_matches": 12,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -228,37 +228,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Ireland vs West Indies",
-            "tournament": "West Indies tour of Ireland, 2025",
-            "short_name": "IRE vs WI",
-            "match_id": 125698,
-            "status": "COMPLETED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125698_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 69,
-                    "name": "Ireland",
-                    "shortName": "IRE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "color": "#ba6a15"
-                },
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Real Madrid vs Real Sociedad",
             "tournament": "LALIGA 2024-25",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RSO@2x.png",
                     "color": "#ae7a05"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland vs West Indies",
+            "tournament": "West Indies tour of Ireland, 2025",
+            "short_name": "IRE vs WI",
+            "match_id": 125698,
+            "status": "COMPLETED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125698_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 69,
+                    "name": "Ireland",
+                    "shortName": "IRE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "color": "#ba6a15"
+                },
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -535,6 +535,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126022_english_hls_37070adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Basketball",
+            "title": "Olympiacos Piraeus vs Monaco",
+            "tournament": "EuroLeague 2024-25",
+            "short_name": "EuroLeague",
+            "match_id": 126251,
+            "status": "STARTED",
+            "startTime": "2024-10-03T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126251_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1519,
+                    "name": "Olympiacos Piraeus",
+                    "shortName": "OP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-OLYMP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-OLYMP@2x.png",
+                    "color": "#cd2424"
+                },
+                {
+                    "id": 2691,
+                    "name": "Monaco",
+                    "shortName": "MON",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
+                    "color": "#94865d"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126251_english_hls_7337adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
