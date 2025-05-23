@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:53 PM 23-05-2025",
+    "last_updated": "01:30:51 PM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 2,
+    "total_matches": 12,
+    "live_matches": 3,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Tallinn United vs Tallinn Stallions",
+            "tournament": "ECS Estonia, 2025",
+            "short_name": "ECS Estonia",
+            "match_id": 125727,
+            "status": "STARTED",
+            "startTime": "2025-05-19T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125727_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2353,
+                    "name": "Tallinn United",
+                    "shortName": "TU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
+                    "color": "#3B88C4"
+                },
+                {
+                    "id": 2356,
+                    "name": "Tallinn Stallions",
+                    "shortName": "TST",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TST@2x.png",
+                    "color": "#d4c47b"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125727_english_hls_65190adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
