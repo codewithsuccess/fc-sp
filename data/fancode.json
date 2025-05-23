@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:17 AM 24-05-2025",
+    "last_updated": "01:30:17 AM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 19,
-    "live_matches": 13,
-    "upcoming_matches": 6,
+    "live_matches": 12,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Football",
@@ -101,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 2",
-            "tournament": "F1 TAG HEUER GRAND PRIX DE MONACO 2025",
-            "short_name": "Monaco GP",
-            "match_id": 118417,
-            "status": "STARTED",
-            "startTime": "2025-05-23T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118417_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8201,
-                    "name": "Practice 2",
-                    "shortName": "P2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://d3powde31igrgf.cloudfront.net/out/v1/7207dca952e44629b5e92200c3eb4bbb/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -315,6 +284,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
                     "color": "#F1948A"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Arminia Bielefeld vs VfB Stuttgart",
+            "tournament": "DFB Pokal",
+            "short_name": "DFB Pokal",
+            "match_id": 122716,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-17T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/122716_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2572,
+                    "name": "Arminia Bielefeld",
+                    "shortName": "BIE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "color": "#236777"
+                },
+                {
+                    "id": 834,
+                    "name": "VfB Stuttgart",
+                    "shortName": "STU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "color": "#ff4c4c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
