@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:51 PM 23-05-2025",
+    "last_updated": "02:27:12 PM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Kannur vs Palakkad",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125513,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125513_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6290,
-                    "name": "Kannur",
-                    "shortName": "KAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
-                    "color": "#2163ac"
-                },
-                {
-                    "id": 6300,
-                    "name": "Palakkad",
-                    "shortName": "PAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
-                    "color": "#b78c4c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125513_english_hls_74258adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "MotoGP",
             "title": "Day 1",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/118558_english_hls_44290adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kannur vs Palakkad",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125513,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125513_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6290,
+                    "name": "Kannur",
+                    "shortName": "KAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KANN@2x.png",
+                    "color": "#2163ac"
+                },
+                {
+                    "id": 6300,
+                    "name": "Palakkad",
+                    "shortName": "PAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
+                    "color": "#b78c4c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125513_english_hls_74258adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
