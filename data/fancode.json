@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:47 AM 23-05-2025",
+    "last_updated": "11:37:54 AM 23-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 4,
-    "upcoming_matches": 9,
+    "live_matches": 3,
+    "upcoming_matches": 10,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Trivandrum vs Kozhikode",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125512,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125512_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6299,
-                    "name": "Trivandrum",
-                    "shortName": "TVR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
-                    "color": "#904036"
-                },
-                {
-                    "id": 6293,
-                    "name": "Kozhikode",
-                    "shortName": "KOD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
-                    "color": "#1f1a46"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125512_english_hls_74526adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "England vs Zimbabwe",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PDCA@2x.png",
                     "color": "#2f6993"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trivandrum vs Kozhikode",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125512,
+            "status": "COMPLETED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125512_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6299,
+                    "name": "Trivandrum",
+                    "shortName": "TVR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TVR@2x.png",
+                    "color": "#904036"
+                },
+                {
+                    "id": 6293,
+                    "name": "Kozhikode",
+                    "shortName": "KOD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOD@2x.png",
+                    "color": "#1f1a46"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
