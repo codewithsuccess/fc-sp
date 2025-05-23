@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:37:19 AM 24-05-2025",
+    "last_updated": "12:44:19 AM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 12,
+    "total_matches": 19,
+    "live_matches": 13,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124944_english_hls_73325adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Al Mulla Exchange - B vs SBS CC",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125398,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125398_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 7980,
+                    "name": "Al Mulla Exchange - B",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "color": "#1AC98D"
+                },
+                {
+                    "id": 7440,
+                    "name": "SBS CC",
+                    "shortName": "SBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
+                    "color": "#ae3c22"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125398_english_hls_3213adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
