@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:37:58 AM 24-05-2025",
+    "last_updated": "02:44:59 AM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 16,
-    "live_matches": 8,
-    "upcoming_matches": 8,
+    "live_matches": 7,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124503_english_hls_39597adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Real Betis vs Valencia CF",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125451,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125451_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 847,
-                    "name": "Real Betis",
-                    "shortName": "RB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-REALB@2x.png",
-                    "color": "#19a661"
-                },
-                {
-                    "id": 544,
-                    "name": "Valencia CF",
-                    "shortName": "VAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAL@2x.png",
-                    "color": "#4F7DE5"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125451_english_hls_9193adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -315,6 +284,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MRC@2x.png",
                     "color": "#FBCCD1"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Getafe vs Celta de Vigo",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125457,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125457_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 849,
+                    "name": "Getafe",
+                    "shortName": "GEF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GEF@2x.png",
+                    "color": "#e0d405"
+                },
+                {
+                    "id": 748,
+                    "name": "Celta de Vigo",
+                    "shortName": "CEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "color": "#b1d4f5"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
