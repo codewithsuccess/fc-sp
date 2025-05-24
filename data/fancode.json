@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:12:04 PM 24-05-2025",
+    "last_updated": "04:19:05 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
+    "total_matches": 17,
     "live_matches": 9,
-    "upcoming_matches": 7,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Formula 1",
@@ -445,6 +445,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "United Lion Hearts vs Biratnagar Panthers",
+            "tournament": "Nepal T10, 2025",
+            "short_name": "Nepal T10",
+            "match_id": 127255,
+            "status": "STARTED",
+            "startTime": "2025-05-18T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127255_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9897,
+                    "name": "United Lion Hearts",
+                    "shortName": "ULH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
+                    "color": "#19bbc4"
+                },
+                {
+                    "id": 8643,
+                    "name": "Biratnagar Panthers",
+                    "shortName": "BPT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BPT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BPT@2x.png",
+                    "color": "#e3b91e"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127255_english_hls_91432adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Motorsports",
             "title": "DTM",
             "tournament": "DTM Lausitzring",
@@ -481,7 +512,7 @@
             "tournament": "J League 2025",
             "short_name": "J League",
             "match_id": 121970,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-02-08T00:00:00.000Z",
             "endDate": "2025-12-06T18:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121970_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -503,7 +534,7 @@
                     "color": "#9e1c35"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/121970_english_hls_519adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
