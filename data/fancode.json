@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:12:56 AM 25-05-2025",
+    "last_updated": "02:19:56 AM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 19,
-    "live_matches": 13,
-    "upcoming_matches": 6,
+    "live_matches": 12,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Football",
@@ -101,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125453_english_hls_84241adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Arminia Bielefeld vs VfB Stuttgart",
-            "tournament": "DFB Pokal",
-            "short_name": "DFB Pokal",
-            "match_id": 122716,
-            "status": "STARTED",
-            "startTime": "2024-08-17T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/122716_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2572,
-                    "name": "Arminia Bielefeld",
-                    "shortName": "BIE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
-                    "color": "#236777"
-                },
-                {
-                    "id": 834,
-                    "name": "VfB Stuttgart",
-                    "shortName": "STU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
-                    "color": "#ff4c4c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/122716_english_hls_56933adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -315,6 +284,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
                     "color": "#fee64e"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Arminia Bielefeld vs VfB Stuttgart",
+            "tournament": "DFB Pokal",
+            "short_name": "DFB Pokal",
+            "match_id": 122716,
+            "status": "COMPLETED",
+            "startTime": "2024-08-17T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/122716_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2572,
+                    "name": "Arminia Bielefeld",
+                    "shortName": "BIE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "color": "#236777"
+                },
+                {
+                    "id": 834,
+                    "name": "VfB Stuttgart",
+                    "shortName": "STU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "color": "#ff4c4c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
