@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:37:56 PM 24-05-2025",
+    "last_updated": "10:44:58 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
+    "total_matches": 18,
+    "live_matches": 11,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124945_english_hls_5662adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "MEC Study Group vs Royal Lions CC",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125399,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125399_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6244,
+                    "name": "MEC Study Group",
+                    "shortName": "MEC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
+                    "color": "#ffc300"
+                },
+                {
+                    "id": 8317,
+                    "name": "Royal Lions CC",
+                    "shortName": "RLC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "color": "#a66676"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125399_english_hls_13903adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
