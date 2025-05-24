@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:05:30 PM 24-05-2025",
+    "last_updated": "01:12:28 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 6,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Tallinn United vs Tallinn Riders",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125731,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125731_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2353,
-                    "name": "Tallinn United",
-                    "shortName": "TU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "color": "#3B88C4"
-                },
-                {
-                    "id": 8581,
-                    "name": "Tallinn Riders",
-                    "shortName": "TSR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSR@2x.png",
-                    "color": "#D9D2FF"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125731_english_hls_71607adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Trivandrum vs Pathanamthitta",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125515_english_hls_54436adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Cerezo Osaka vs Avispa Fukuoka",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121971,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121971_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1764,
+                    "name": "Cerezo Osaka",
+                    "shortName": "OSA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "color": "#2a2a63"
+                },
+                {
+                    "id": 3084,
+                    "name": "Avispa Fukuoka",
+                    "shortName": "FKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
+                    "color": "#008ca0"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/121971_english_hls_16223adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -322,37 +322,6 @@
         },
         {
             "category": "Football",
-            "title": "Cerezo Osaka vs Avispa Fukuoka",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 121971,
-            "status": "STARTED",
-            "startTime": "2025-02-08T00:00:00.000Z",
-            "endDate": "2025-12-06T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121971_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1764,
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "color": "#2a2a63"
-                },
-                {
-                    "id": 3084,
-                    "name": "Avispa Fukuoka",
-                    "shortName": "FKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
-                    "color": "#008ca0"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/121971_english_hls_16223adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Auckland vs Melbourne Victory",
             "tournament": "A League 2024-25",
             "short_name": "A League",
@@ -411,37 +380,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127254_english_hls_32184adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Motorsports",
-            "title": "DTM",
-            "tournament": "DTM Lausitzring",
-            "short_name": "DTM Lausitzring",
-            "match_id": 126287,
-            "status": "STARTED",
-            "startTime": "2025-05-23T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126287_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8518,
-                    "name": "Qualifying 1",
-                    "shortName": "DTM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                    "color": "#FFCC00"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126287_english_hls_79002adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
