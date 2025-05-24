@@ -1,44 +1,44 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:12:33 AM 25-05-2025",
+    "last_updated": "04:19:34 AM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 4,
-    "upcoming_matches": 10,
+    "total_matches": 10,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
         {
-            "category": "Football",
-            "title": "Alav\u00e9s vs Osasuna",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125453,
-            "status": "COMPLETED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125453_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "category": "Cricket",
+            "title": "Sandy Point Snappers vs St Paul\u2019s Barracudas",
+            "tournament": "Cool and Smooth T20, 2025",
+            "short_name": "Cool and Smooth T20",
+            "match_id": 125300,
+            "status": "STARTED",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125300_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 835,
-                    "name": "Alav\u00e9s",
-                    "shortName": "ALA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png",
-                    "color": "#537096"
+                    "id": 8474,
+                    "name": "Sandy Point Snappers",
+                    "shortName": "SPS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPSC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SPSC@2x.png",
+                    "color": "#e70d0d"
                 },
                 {
-                    "id": 1284,
-                    "name": "Osasuna",
-                    "shortName": "OSN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-OSN@2x.png",
-                    "color": "#F2DC85"
+                    "id": 8475,
+                    "name": "St Paul\u2019s Barracudas",
+                    "shortName": "STB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STB@2x.png",
+                    "color": "#f1b827"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125300_english_hls_43621adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -318,130 +318,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies A vs South Africa A",
-            "tournament": "South Africa A tour of West Indies, 2025",
-            "short_name": "WI-A vs SA-A",
-            "match_id": 125765,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125765_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 709,
-                    "name": "West Indies A",
-                    "shortName": "WI-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#c9618c"
-                },
-                {
-                    "id": 533,
-                    "name": "South Africa A",
-                    "shortName": "SA-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "color": "#53a784"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125765_english_hls_32908adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Group - Day 3",
-            "tournament": "Charles Schwab Challenge",
-            "short_name": "Charles Schwab Challenge",
-            "match_id": 127068,
-            "status": "STARTED",
-            "startTime": "2025-05-22T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127068_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11402,
-                    "name": "Featured Group - Day 3",
-                    "shortName": "CSC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
-                    "color": "#C2113E"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127068_english_hls_954adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "World Feed - Day 3",
-            "tournament": "Charles Schwab Challenge",
-            "short_name": "Charles Schwab Challenge",
-            "match_id": 127064,
-            "status": "STARTED",
-            "startTime": "2025-05-22T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127064_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11402,
-                    "name": "World Feed - Day 3",
-                    "shortName": "CSC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
-                    "color": "#C2113E"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127064_english_hls_11159adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Day 3",
-            "tournament": "Senior PGA Championship",
-            "short_name": "Senior PGA",
-            "match_id": 126023,
-            "status": "STARTED",
-            "startTime": "2025-05-22T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126023_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 3",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126023_english_hls_5913adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
