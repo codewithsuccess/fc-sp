@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:59 AM 25-05-2025",
+    "last_updated": "12:20:02 AM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 20,
-    "live_matches": 16,
+    "total_matches": 22,
+    "live_matches": 18,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -38,7 +38,7 @@
                     "color": "#FBCCD1"
                 }
             ],
-            "adfree_stream": null,
+            "adfree_stream": "https://dai.fancode.com/primary/125458_english_hls_80809adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -69,7 +69,7 @@
                     "color": "#b1d4f5"
                 }
             ],
-            "adfree_stream": null,
+            "adfree_stream": "https://dai.fancode.com/primary/125457_english_hls_31658adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -100,7 +100,7 @@
                     "color": "#F2DC85"
                 }
             ],
-            "adfree_stream": null,
+            "adfree_stream": "https://dai.fancode.com/primary/125453_english_hls_84241adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -445,6 +445,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Brownhill Dolphins vs Molineaux Blue Runners",
+            "tournament": "Cool and Smooth T20, 2025",
+            "short_name": "Cool and Smooth T20",
+            "match_id": 125299,
+            "status": "STARTED",
+            "startTime": "2025-05-15T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125299_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8473,
+                    "name": "Brownhill Dolphins",
+                    "shortName": "BRD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRD@2x.png",
+                    "color": "#2b9ad1"
+                },
+                {
+                    "id": 8470,
+                    "name": "Molineaux Blue Runners",
+                    "shortName": "MBR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MBR@2x.png",
+                    "color": "#f6656c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125299_english_hls_39794adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Main Feed - Day 3",
             "tournament": "Charles Schwab Challenge",
@@ -628,6 +659,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124627_english_hls_27946adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Day 3",
+            "tournament": "Senior PGA Championship",
+            "short_name": "Senior PGA",
+            "match_id": 126023,
+            "status": "STARTED",
+            "startTime": "2025-05-22T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126023_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5941,
+                    "name": "Day 3",
+                    "shortName": "PGA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#141414"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126023_english_hls_5913adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
