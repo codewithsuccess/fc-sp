@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:12:03 PM 24-05-2025",
+    "last_updated": "06:20:03 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
+    "total_matches": 19,
+    "live_matches": 12,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -353,6 +353,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Sharjah vs Fujairah",
+            "tournament": "Emirates D10 Tournament, 2025",
+            "short_name": "Emirates D10",
+            "match_id": 124881,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-28T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124881_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2360,
+                    "name": "Sharjah",
+                    "shortName": "SHA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "color": "#d94f55"
+                },
+                {
+                    "id": 2362,
+                    "name": "Fujairah",
+                    "shortName": "FUJ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FUJA@2x.png",
+                    "color": "#c8962f"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124881_english_hls_6976adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "United Lion Hearts vs Biratnagar Panthers",
             "tournament": "Nepal T10, 2025",
             "short_name": "Nepal T10",
@@ -535,6 +566,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127067_english_hls_28333adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Marquee Group - Day 3",
+            "tournament": "Charles Schwab Challenge",
+            "short_name": "Charles Schwab Challenge",
+            "match_id": 127066,
+            "status": "STARTED",
+            "startTime": "2025-05-22T00:00:00.000Z",
+            "endDate": "2025-05-25T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127066_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11402,
+                    "name": "Marquee Group - Day 3",
+                    "shortName": "CSC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-CSC@2x.png",
+                    "color": "#C2113E"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127066_english_hls_865adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
