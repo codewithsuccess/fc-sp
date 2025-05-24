@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:56 PM 24-05-2025",
+    "last_updated": "09:19:57 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 11,
+    "total_matches": 18,
+    "live_matches": 12,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124882_english_hls_49456adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Saffron Strikers vs Bay Leaf Blasters",
+            "tournament": "Dream11 Spice Isle T10, 2025",
+            "short_name": "Dream11 Spice Isle T10",
+            "match_id": 124945,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-25T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124945_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3424,
+                    "name": "Saffron Strikers",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAF@2x.png",
+                    "color": "#f16041"
+                },
+                {
+                    "id": 3419,
+                    "name": "Bay Leaf Blasters",
+                    "shortName": "BLB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLF@2x.png",
+                    "color": "#c9ff82"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124945_english_hls_5662adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
