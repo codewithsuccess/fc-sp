@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:37:55 PM 24-05-2025",
+    "last_updated": "09:44:57 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
+    "total_matches": 16,
     "live_matches": 12,
-    "upcoming_matches": 6,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Formula 1",
@@ -43,6 +43,68 @@
         },
         {
             "category": "Football",
+            "title": "Espanyol vs Las Palmas",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125455,
+            "status": "STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125455_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 781,
+                    "name": "Espanyol",
+                    "shortName": "ESL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
+                    "color": "#fff3db"
+                },
+                {
+                    "id": 819,
+                    "name": "Las Palmas",
+                    "shortName": "LAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "adfree_stream": null,
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Legan\u00e9s vs Real Valladolid",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125454,
+            "status": "STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125454_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 843,
+                    "name": "Legan\u00e9s",
+                    "shortName": "LEG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
+                    "color": "#efd84e"
+                },
+                {
+                    "id": 946,
+                    "name": "Real Valladolid",
+                    "shortName": "VLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
+                    "color": "#F1948A"
+                }
+            ],
+            "adfree_stream": null,
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
             "title": "Real Madrid vs Real Sociedad",
             "tournament": "LALIGA 2024-25",
             "short_name": "LALIGA",
@@ -70,37 +132,6 @@
                 }
             ],
             "adfree_stream": "https://dsjz1gms3zce5.cloudfront.net/out/v1/f413830d21d044918adac53dafc1fe3b/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Sheffield United vs Sunderland",
-            "tournament": "EFL Championship 2024-25",
-            "short_name": "EFL Championship",
-            "match_id": 126274,
-            "status": "STARTED",
-            "startTime": "2024-08-09T18:30:00.000Z",
-            "endDate": "2025-05-24T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126274_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 882,
-                    "name": "Sheffield United",
-                    "shortName": "SHF",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
-                    "color": "#ece125"
-                },
-                {
-                    "id": 424,
-                    "name": "Sunderland",
-                    "shortName": "SUN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
-                    "color": "#cdb14c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126274_english_hls_69666adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -136,64 +167,33 @@
         },
         {
             "category": "Football",
-            "title": "Espanyol vs Las Palmas",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125455,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125455_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "title": "Sheffield United vs Sunderland",
+            "tournament": "EFL Championship 2024-25",
+            "short_name": "EFL Championship",
+            "match_id": 126274,
+            "status": "STARTED",
+            "startTime": "2024-08-09T18:30:00.000Z",
+            "endDate": "2025-05-24T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126274_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 781,
-                    "name": "Espanyol",
-                    "shortName": "ESL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESL@2x.png",
-                    "color": "#fff3db"
+                    "id": 882,
+                    "name": "Sheffield United",
+                    "shortName": "SHF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHFU@2x.png",
+                    "color": "#ece125"
                 },
                 {
-                    "id": 819,
-                    "name": "Las Palmas",
-                    "shortName": "LAP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/LAP-FT1@2x.png",
-                    "color": "#FFFFFF"
+                    "id": 424,
+                    "name": "Sunderland",
+                    "shortName": "SUN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SUNDL@2x.png",
+                    "color": "#cdb14c"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Legan\u00e9s vs Real Valladolid",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125454,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125454_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 843,
-                    "name": "Legan\u00e9s",
-                    "shortName": "LEG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LEGA@2x.png",
-                    "color": "#efd84e"
-                },
-                {
-                    "id": 946,
-                    "name": "Real Valladolid",
-                    "shortName": "VLD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VLD@2x.png",
-                    "color": "#F1948A"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/126274_english_hls_69666adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -384,37 +384,6 @@
         },
         {
             "category": "Golf",
-            "title": "Day 3",
-            "tournament": "Soudal Open, 2025",
-            "short_name": "Soudal Open",
-            "match_id": 126278,
-            "status": "STARTED",
-            "startTime": "2025-05-22T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126278_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8591,
-                    "name": "Day 3",
-                    "shortName": "SO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-SO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-SO@2x.png",
-                    "color": "#E31A28"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126278_english_hls_78143adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
             "title": "Main Feed - Day 3",
             "tournament": "Charles Schwab Challenge",
             "short_name": "Charles Schwab Challenge",
@@ -535,37 +504,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127066_english_hls_865adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tallinn Hippos vs Tartu Wolves",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125735,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125735_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2352,
-                    "name": "Tallinn Hippos",
-                    "shortName": "TH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "color": "#CC47BA"
-                },
-                {
-                    "id": 8582,
-                    "name": "Tartu Wolves",
-                    "shortName": "TTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
-                    "color": "#D9D2FF"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125735_english_hls_14631adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
