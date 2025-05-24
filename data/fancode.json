@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:06:11 PM 24-05-2025",
+    "last_updated": "12:12:29 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
+    "total_matches": 11,
     "live_matches": 3,
-    "upcoming_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -42,34 +42,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Agro Vet CC vs Koshi Pride League",
-            "tournament": "Nepal T10, 2025",
-            "short_name": "Nepal T10",
-            "match_id": 127253,
-            "status": "COMPLETED",
-            "startTime": "2025-05-18T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127253_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "category": "Football",
+            "title": "Cerezo Osaka vs Avispa Fukuoka",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121971,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121971_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9898,
-                    "name": "Agro Vet CC",
-                    "shortName": "AVC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
-                    "color": "#78c202"
+                    "id": 1764,
+                    "name": "Cerezo Osaka",
+                    "shortName": "OSA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "color": "#2a2a63"
                 },
                 {
-                    "id": 9899,
-                    "name": "Koshi Pride League",
-                    "shortName": "KPL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "color": "#fe1231"
+                    "id": 3084,
+                    "name": "Avispa Fukuoka",
+                    "shortName": "FKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
+                    "color": "#008ca0"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/121971_english_hls_16223adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Cerezo Osaka vs Avispa Fukuoka",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 121971,
-            "status": "STARTED",
-            "startTime": "2025-02-08T00:00:00.000Z",
-            "endDate": "2025-12-06T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121971_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1764,
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
-                    "color": "#2a2a63"
-                },
-                {
-                    "id": 3084,
-                    "name": "Avispa Fukuoka",
-                    "shortName": "FKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AFK@2x.png",
-                    "color": "#008ca0"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/121971_english_hls_16223adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
