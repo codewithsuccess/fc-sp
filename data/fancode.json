@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:19:03 PM 24-05-2025",
+    "last_updated": "03:26:03 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
+    "total_matches": 13,
     "live_matches": 5,
-    "upcoming_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "MotoGP",
@@ -47,7 +47,7 @@
             "tournament": "Zimbabwe tour of England, 2025",
             "short_name": "ENG vs ZIM",
             "match_id": 126220,
-            "status": "PAUSED",
+            "status": "STARTED",
             "startTime": "2025-05-22T00:00:00.000Z",
             "endDate": "2025-05-25T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126220_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -69,7 +69,7 @@
                     "color": "#dfd32c"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125515_english_hls_54436adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tallinn Strikers vs Tartu Wolves",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125732,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125732_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8580,
-                    "name": "Tallinn Strikers",
-                    "shortName": "TSK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TSI@2x.png",
-                    "color": "#D9D2FF"
-                },
-                {
-                    "id": 8582,
-                    "name": "Tartu Wolves",
-                    "shortName": "TTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TTW@2x.png",
-                    "color": "#D9D2FF"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125732_english_hls_22180adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
