@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:19:09 PM 24-05-2025",
+    "last_updated": "05:26:03 PM 24-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
+    "total_matches": 16,
+    "live_matches": 9,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -228,37 +228,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Arminia Bielefeld vs VfB Stuttgart",
-            "tournament": "DFB Pokal",
-            "short_name": "DFB Pokal",
-            "match_id": 122716,
-            "status": "NOT_STARTED",
-            "startTime": "2024-08-17T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/122716_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2572,
-                    "name": "Arminia Bielefeld",
-                    "shortName": "BIE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
-                    "color": "#236777"
-                },
-                {
-                    "id": 834,
-                    "name": "VfB Stuttgart",
-                    "shortName": "STU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
-                    "color": "#ff4c4c"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Ireland vs West Indies",
             "tournament": "West Indies tour of Ireland, 2025",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Arminia Bielefeld vs VfB Stuttgart",
+            "tournament": "DFB Pokal",
+            "short_name": "DFB Pokal",
+            "match_id": 122716,
+            "status": "NOT_STARTED",
+            "startTime": "2024-08-17T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/122716_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2572,
+                    "name": "Arminia Bielefeld",
+                    "shortName": "BIE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BIE@2x.png",
+                    "color": "#236777"
+                },
+                {
+                    "id": 834,
+                    "name": "VfB Stuttgart",
+                    "shortName": "STU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STU@2x.png",
+                    "color": "#ff4c4c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -411,37 +411,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127236_english_hls_69774adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Motorsports",
-            "title": "DTM",
-            "tournament": "DTM Lausitzring",
-            "short_name": "DTM Lausitzring",
-            "match_id": 126288,
-            "status": "STARTED",
-            "startTime": "2025-05-23T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126288_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8518,
-                    "name": "Race 1",
-                    "shortName": "DTM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                    "color": "#FFCC00"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126288_english_hls_24423adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
