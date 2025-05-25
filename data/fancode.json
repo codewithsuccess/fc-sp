@@ -1,44 +1,44 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:59 PM 25-05-2025",
+    "last_updated": "09:38:02 PM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 28,
-    "live_matches": 28,
+    "total_matches": 27,
+    "live_matches": 27,
     "upcoming_matches": 0,
     "matches": [
         {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 TAG HEUER GRAND PRIX DE MONACO 2025",
-            "short_name": "Monaco GP",
-            "match_id": 118420,
+            "category": "Football",
+            "title": "Benfica vs Sporting CP",
+            "tournament": "Taca De Portugal",
+            "short_name": "Portuguese Cup",
+            "match_id": 126214,
             "status": "STARTED",
-            "startTime": "2025-05-23T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118420_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-01-08T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126214_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 8204,
-                    "name": "Race",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
+                    "id": 441,
+                    "name": "Benfica",
+                    "shortName": "BEN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
+                    "color": "#FF0000"
                 },
                 {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
+                    "id": 456,
+                    "name": "Sporting CP",
+                    "shortName": "SPC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
+                    "color": "#E5CABC"
                 }
             ],
-            "adfree_stream": "https://dkjx8qj1yapw6.cloudfront.net/out/v1/6f06eaf303af4b728ee7d79daa4b452d/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/126214_english_hls_34701adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -136,37 +136,6 @@
         },
         {
             "category": "Tennis",
-            "title": "Thiago Agustin Tirante vs Damir Dzumhur",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126822,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126822_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 9913,
-                    "name": "Thiago Agustin Tirante",
-                    "shortName": "Tirante",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 9964,
-                    "name": "Damir Dzumhur",
-                    "shortName": "Dzumhur",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BOS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BOS@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126822_english_hls_76207adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
             "title": "Vit Kopriva vs Thiago Monteiro",
             "tournament": "Roland Garros 2025",
             "short_name": "French Open",
@@ -194,37 +163,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126837_english_hls_91553adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Alex Michelsen vs Juan Manuel Cerundolo",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126839,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126839_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10233,
-                    "name": "Alex Michelsen",
-                    "shortName": "Michelsen",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 9914,
-                    "name": "Juan Manuel Cerundolo",
-                    "shortName": "Cerundolo",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -415,37 +353,6 @@
         },
         {
             "category": "Tennis",
-            "title": "Emilio Nava vs Botic Van De Zandschulp",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126845,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126845_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10226,
-                    "name": "Emilio Nava",
-                    "shortName": "Nava",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10152,
-                    "name": "Botic Van De Zandschulp",
-                    "shortName": "Van De Zandschulp",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126845_english_hls_46673adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
             "title": "Iva Jovic vs Renata Zarazua",
             "tournament": "Roland Garros 2025",
             "short_name": "French Open",
@@ -473,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126985_english_hls_44299adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Emilio Nava vs Botic Van De Zandschulp",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126845,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126845_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10226,
+                    "name": "Emilio Nava",
+                    "shortName": "Nava",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10152,
+                    "name": "Botic Van De Zandschulp",
+                    "shortName": "Van De Zandschulp",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126845_english_hls_46673adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -504,6 +442,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/118563_english_hls_79398adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Race",
+            "tournament": "F1 TAG HEUER GRAND PRIX DE MONACO 2025",
+            "short_name": "Monaco GP",
+            "match_id": 118420,
+            "status": "STARTED",
+            "startTime": "2025-05-23T00:00:00.000Z",
+            "endDate": "2025-05-25T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118420_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8204,
+                    "name": "Race",
+                    "shortName": "RC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dkjx8qj1yapw6.cloudfront.net/out/v1/6f06eaf303af4b728ee7d79daa4b452d/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
