@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:37:59 AM 26-05-2025",
+    "last_updated": "12:44:59 AM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 26,
-    "live_matches": 26,
+    "total_matches": 24,
+    "live_matches": 24,
     "upcoming_matches": 0,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Benfica vs Sporting CP",
-            "tournament": "Taca De Portugal",
-            "short_name": "Portuguese Cup",
-            "match_id": 126214,
-            "status": "STARTED",
-            "startTime": "2025-01-08T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126214_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 441,
-                    "name": "Benfica",
-                    "shortName": "BEN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 456,
-                    "name": "Sporting CP",
-                    "shortName": "SPC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "color": "#E5CABC"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126214_english_hls_34701adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "USA vs Canada",
@@ -101,6 +70,37 @@
                 }
             ],
             "adfree_stream": "https://d1n5vn1gyc17e2.cloudfront.net/out/v1/3e63efe833af4544a33425adaa1fe3d7/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "MotoGP",
+            "title": "Race Day",
+            "tournament": "TISSOT BRITISH GRAND PRIX",
+            "short_name": "British MotoGP",
+            "match_id": 118563,
+            "status": "STARTED",
+            "startTime": "2025-05-23T00:00:00.000Z",
+            "endDate": "2025-05-25T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118563_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9461,
+                    "name": "Race Day",
+                    "shortName": "RC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 9462,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+                    "color": "#EE0000"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/118563_english_hls_79398adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -194,37 +194,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126991_english_hls_73501adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Marta Kostyuk vs Sara Bejlek",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126982,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126982_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10638,
-                    "name": "Marta Kostyuk",
-                    "shortName": "Kostyuk",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10364,
-                    "name": "Sara Bejlek",
-                    "shortName": "Bejlek",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -352,34 +321,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "MotoGP",
-            "title": "Race Day",
-            "tournament": "TISSOT BRITISH GRAND PRIX",
-            "short_name": "British MotoGP",
-            "match_id": 118563,
+            "category": "Football",
+            "title": "Benfica vs Sporting CP",
+            "tournament": "Taca De Portugal",
+            "short_name": "Portuguese Cup",
+            "match_id": 126214,
             "status": "STARTED",
-            "startTime": "2025-05-23T00:00:00.000Z",
-            "endDate": "2025-05-25T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118563_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-01-08T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126214_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9461,
-                    "name": "Race Day",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "color": "#EE0000"
+                    "id": 441,
+                    "name": "Benfica",
+                    "shortName": "BEN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
+                    "color": "#FF0000"
                 },
                 {
-                    "id": 9462,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "color": "#EE0000"
+                    "id": 456,
+                    "name": "Sporting CP",
+                    "shortName": "SPC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
+                    "color": "#E5CABC"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/118563_english_hls_79398adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/126214_english_hls_34701adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -783,37 +752,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127259_english_hls_96828adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Burgos CF vs Levante",
-            "tournament": "LALIGA HYPERMOTION 2024-25",
-            "short_name": "LALIGA HYPERMOTION",
-            "match_id": 127264,
-            "status": "STARTED",
-            "startTime": "2024-08-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127264_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3896,
-                    "name": "Burgos CF",
-                    "shortName": "BUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BUG@2x.png",
-                    "color": "#108E2F"
-                },
-                {
-                    "id": 832,
-                    "name": "Levante",
-                    "shortName": "LET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
-                    "color": "#598bc1"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127264_english_hls_93851adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
