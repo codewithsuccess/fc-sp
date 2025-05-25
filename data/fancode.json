@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:20:10 PM 25-05-2025",
+    "last_updated": "06:27:02 PM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 32,
-    "live_matches": 32,
-    "upcoming_matches": 0,
+    "total_matches": 31,
+    "live_matches": 30,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Formula 1",
@@ -70,6 +70,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125699_english_hls_29198adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Girona vs Atl\u00e9tico de Madrid",
+            "tournament": "LALIGA 2024-25",
+            "short_name": "LALIGA",
+            "match_id": 125456,
+            "status": "STARTED",
+            "startTime": "2024-08-15T00:00:00.000Z",
+            "endDate": "2025-05-25T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125456_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 881,
+                    "name": "Girona",
+                    "shortName": "GIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
+                    "color": "#fbc573"
+                },
+                {
+                    "id": 436,
+                    "name": "Atl\u00e9tico de Madrid",
+                    "shortName": "ATL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
+                    "color": "#ca2917"
+                }
+            ],
+            "adfree_stream": "",
             "dai_stream": "Coming Soon"
         },
         {
@@ -569,37 +600,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Girona vs Atl\u00e9tico de Madrid",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125456,
-            "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125456_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 881,
-                    "name": "Girona",
-                    "shortName": "GIR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GIR-FT1@2x.png",
-                    "color": "#fbc573"
-                },
-                {
-                    "id": 436,
-                    "name": "Atl\u00e9tico de Madrid",
-                    "shortName": "ATL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATLH@2x.png",
-                    "color": "#ca2917"
-                }
-            ],
-            "adfree_stream": "",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "MotoGP",
             "title": "Race Day",
             "tournament": "TISSOT BRITISH GRAND PRIX",
@@ -632,42 +632,11 @@
         },
         {
             "category": "Cricket",
-            "title": "Tallinn Hippos vs Tallinn United",
-            "tournament": "ECS Estonia, 2025",
-            "short_name": "ECS Estonia",
-            "match_id": 125738,
-            "status": "STARTED",
-            "startTime": "2025-05-19T00:00:00.000Z",
-            "endDate": "2025-05-25T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125738_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2352,
-                    "name": "Tallinn Hippos",
-                    "shortName": "TH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TH-CR1@2x.png",
-                    "color": "#CC47BA"
-                },
-                {
-                    "id": 2353,
-                    "name": "Tallinn United",
-                    "shortName": "TU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TU-CR1@2x.png",
-                    "color": "#3B88C4"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125738_english_hls_21270adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Birat Cricket Club and Academy vs Biratnagar Panthers",
             "tournament": "Nepal T10, 2025",
             "short_name": "Nepal T10",
             "match_id": 127260,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-18T00:00:00.000Z",
             "endDate": "2025-05-24T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127260_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -689,7 +658,7 @@
                     "color": "#e3b91e"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127260_english_hls_53988adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
