@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:05:57 AM 26-05-2025",
+    "last_updated": "03:12:57 AM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 8,
-    "upcoming_matches": 6,
+    "live_matches": 7,
+    "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "USA vs Canada",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 124504,
-            "status": "STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124504_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 247,
-                    "name": "USA",
-                    "shortName": "USA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                    "color": "#132f86"
-                },
-                {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124504_english_hls_96242adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Tennis",
             "title": "Ben Shelton vs Lorenzo Sonego",
@@ -104,34 +73,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Athletic Club vs Barcelona",
-            "tournament": "LALIGA 2024-25",
-            "short_name": "LALIGA",
-            "match_id": 125450,
+            "category": "Cricket",
+            "title": "USA vs Canada",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124504,
             "status": "STARTED",
-            "startTime": "2024-08-15T00:00:00.000Z",
-            "endDate": "2025-05-25T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125450_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124504_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 437,
-                    "name": "Athletic Club",
-                    "shortName": "ATH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ATH@2x.png",
-                    "color": "#ff674d"
+                    "id": 247,
+                    "name": "USA",
+                    "shortName": "USA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "color": "#132f86"
                 },
                 {
-                    "id": 438,
-                    "name": "Barcelona",
-                    "shortName": "BAR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png",
-                    "color": "#fee64e"
+                    "id": 41,
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "color": "#d01909"
                 }
             ],
-            "adfree_stream": "https://d1n5vn1gyc17e2.cloudfront.net/out/v1/3e63efe833af4544a33425adaa1fe3d7/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/124504_english_hls_96242adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -314,6 +283,37 @@
                     "shortName": "Baez",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Luciano Darderi vs Sebastian Korda",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126840,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126840_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10111,
+                    "name": "Luciano Darderi",
+                    "shortName": "Darderi",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10223,
+                    "name": "Sebastian Korda",
+                    "shortName": "Korda",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
                     "color": "#B8142D"
                 }
             ],
