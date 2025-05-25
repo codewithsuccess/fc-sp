@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:58:59 AM 26-05-2025",
+    "last_updated": "01:05:59 AM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 23,
-    "live_matches": 23,
-    "upcoming_matches": 0,
+    "total_matches": 22,
+    "live_matches": 21,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Cricket",
@@ -259,37 +259,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Benfica vs Sporting CP",
-            "tournament": "Taca De Portugal",
-            "short_name": "Portuguese Cup",
-            "match_id": 126214,
-            "status": "STARTED",
-            "startTime": "2025-01-08T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126214_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 441,
-                    "name": "Benfica",
-                    "shortName": "BEN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 456,
-                    "name": "Sporting CP",
-                    "shortName": "SPC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "color": "#E5CABC"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126214_english_hls_34701adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "MotoGP",
             "title": "Race Day",
             "tournament": "TISSOT BRITISH GRAND PRIX",
@@ -318,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/118563_english_hls_79398adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "England Women vs West Indies Women",
+            "tournament": "West Indies Women tour of England, 2025",
+            "short_name": "ENG-W vs WI-W",
+            "match_id": 126223,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-07T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126223_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 646,
+                    "name": "England Women",
+                    "shortName": "EN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
+                },
+                {
+                    "id": 647,
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#91033c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -569,6 +569,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Basketball",
+            "title": "Monaco vs Fenerbahce Beko Istanbul",
+            "tournament": "EuroLeague 2024-25",
+            "short_name": "EuroLeague",
+            "match_id": 127365,
+            "status": "STARTED",
+            "startTime": "2024-10-03T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127365_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2691,
+                    "name": "Monaco",
+                    "shortName": "MON",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
+                    "color": "#94865d"
+                },
+                {
+                    "id": 1525,
+                    "name": "Fenerbahce Beko Istanbul",
+                    "shortName": "FI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
+                    "color": "#ead92b"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127365_english_hls_72678adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "World Feed - Day 4",
             "tournament": "Charles Schwab Challenge",
@@ -659,68 +690,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126024_english_hls_13265adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Basketball",
-            "title": "Monaco vs Fenerbahce Beko Istanbul",
-            "tournament": "EuroLeague 2024-25",
-            "short_name": "EuroLeague",
-            "match_id": 127365,
-            "status": "STARTED",
-            "startTime": "2024-10-03T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127365_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2691,
-                    "name": "Monaco",
-                    "shortName": "MON",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-                    "color": "#94865d"
-                },
-                {
-                    "id": 1525,
-                    "name": "Fenerbahce Beko Istanbul",
-                    "shortName": "FI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-                    "color": "#ead92b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127365_english_hls_72678adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "NBSC Lions vs Koshi Pride League",
-            "tournament": "Nepal T10, 2025",
-            "short_name": "Nepal T10",
-            "match_id": 127259,
-            "status": "STARTED",
-            "startTime": "2025-05-18T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127259_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8646,
-                    "name": "NBSC Lions",
-                    "shortName": "NBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NBSC@2x.png",
-                    "color": "#ba6410"
-                },
-                {
-                    "id": 9899,
-                    "name": "Koshi Pride League",
-                    "shortName": "KPL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KPL@2x.png",
-                    "color": "#fe1231"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127259_english_hls_96828adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
