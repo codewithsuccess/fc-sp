@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:13:02 PM 25-05-2025",
+    "last_updated": "07:20:04 PM 25-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 26,
-    "live_matches": 26,
+    "total_matches": 28,
+    "live_matches": 28,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -70,6 +70,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125699_english_hls_29198adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "USA vs Canada",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124504,
+            "status": "STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124504_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 247,
+                    "name": "USA",
+                    "shortName": "USA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 41,
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "color": "#d01909"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124504_english_hls_96242adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -814,6 +845,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127071_english_hls_3172adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Basketball",
+            "title": "Olympiacos Piraeus vs Panathinaikos OPAP Athens",
+            "tournament": "EuroLeague 2024-25",
+            "short_name": "EuroLeague",
+            "match_id": 127364,
+            "status": "STARTED",
+            "startTime": "2024-10-03T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127364_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1519,
+                    "name": "Olympiacos Piraeus",
+                    "shortName": "OP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-OLYMP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-OLYMP@2x.png",
+                    "color": "#cd2424"
+                },
+                {
+                    "id": 1520,
+                    "name": "Panathinaikos OPAP Athens",
+                    "shortName": "OPAP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PANAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-PANAT@2x.png",
+                    "color": "#de8019"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127364_english_hls_86983adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
