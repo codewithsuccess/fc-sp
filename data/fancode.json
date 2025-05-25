@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:19:59 AM 26-05-2025",
+    "last_updated": "01:27:00 AM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 22,
-    "live_matches": 20,
-    "upcoming_matches": 2,
+    "total_matches": 20,
+    "live_matches": 15,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -70,68 +70,6 @@
                 }
             ],
             "adfree_stream": "https://d1n5vn1gyc17e2.cloudfront.net/out/v1/3e63efe833af4544a33425adaa1fe3d7/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Emilio Nava vs Botic Van De Zandschulp",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126845,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126845_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10226,
-                    "name": "Emilio Nava",
-                    "shortName": "Nava",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10152,
-                    "name": "Botic Van De Zandschulp",
-                    "shortName": "Van De Zandschulp",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-NED@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126845_english_hls_46673adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Anastasia Potapova vs Linda Noskova",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126991,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126991_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10546,
-                    "name": "Anastasia Potapova",
-                    "shortName": "Potapova",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10361,
-                    "name": "Linda Noskova",
-                    "shortName": "Noskova",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126991_english_hls_73501adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -228,37 +166,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Benfica vs Sporting CP",
-            "tournament": "Taca De Portugal",
-            "short_name": "Portuguese Cup",
-            "match_id": 126214,
-            "status": "STARTED",
-            "startTime": "2025-01-08T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126214_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 441,
-                    "name": "Benfica",
-                    "shortName": "BEN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BEN@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 456,
-                    "name": "Sporting CP",
-                    "shortName": "SPC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LIS@2x.png",
-                    "color": "#E5CABC"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126214_english_hls_34701adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "England Women vs West Indies Women",
             "tournament": "West Indies Women tour of England, 2025",
@@ -314,6 +221,99 @@
                     "shortName": "Cirstea",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ROM@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ROM@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Emma Raducanu vs Yafan Wang",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126980,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126980_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10423,
+                    "name": "Emma Raducanu",
+                    "shortName": "Raducanu",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10326,
+                    "name": "Yafan Wang",
+                    "shortName": "Wang",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CHN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CHN@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Jessica Bouzas Maneiro vs Emma Navarro",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126955,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126955_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10596,
+                    "name": "Jessica Bouzas Maneiro",
+                    "shortName": "Bouzas Maneiro",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10667,
+                    "name": "Emma Navarro",
+                    "shortName": "Navarro",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Veronika Kudermetova vs Viktoriya Tomova",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126953,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126953_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10543,
+                    "name": "Veronika Kudermetova",
+                    "shortName": "Kudermetova",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10312,
+                    "name": "Viktoriya Tomova",
+                    "shortName": "Tomova",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BUL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BUL@2x.png",
                     "color": "#B8142D"
                 }
             ],
@@ -411,37 +411,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125301_english_hls_37152adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Sharjah vs Dubai",
-            "tournament": "Emirates D10 Tournament, 2025",
-            "short_name": "Emirates D10",
-            "match_id": 124887,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-28T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124887_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2360,
-                    "name": "Sharjah",
-                    "shortName": "SHA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "color": "#d94f55"
-                },
-                {
-                    "id": 2364,
-                    "name": "Dubai",
-                    "shortName": "DUB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
-                    "color": "#f64bce"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124887_english_hls_26097adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -566,37 +535,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127071_english_hls_3172adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Basketball",
-            "title": "Monaco vs Fenerbahce Beko Istanbul",
-            "tournament": "EuroLeague 2024-25",
-            "short_name": "EuroLeague",
-            "match_id": 127365,
-            "status": "STARTED",
-            "startTime": "2024-10-03T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127365_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2691,
-                    "name": "Monaco",
-                    "shortName": "MON",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-MNCO@2x.png",
-                    "color": "#94865d"
-                },
-                {
-                    "id": 1525,
-                    "name": "Fenerbahce Beko Istanbul",
-                    "shortName": "FI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-FERN@2x.png",
-                    "color": "#ead92b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127365_english_hls_72678adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
