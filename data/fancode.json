@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:58:30 PM 26-05-2025",
+    "last_updated": "09:05:29 PM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 17,
+    "total_matches": 16,
+    "live_matches": 16,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -286,7 +286,7 @@
                     "color": "#B8142D"
                 }
             ],
-            "adfree_stream": null,
+            "adfree_stream": "https://sonypartnersdaimenew.akamaized.net/hls/live/2005444/DAI41C14/master_mdh.m3u8?hdnea=exp=1748316627~acl=/*~id=32790019967775662137275429573371~hmac=dab22d0ef15de95a825f7af7d554c692abdce8ef6a8d0eb077f4d817b56d2670",
             "dai_stream": "Coming Soon"
         },
         {
@@ -504,37 +504,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124890_english_hls_7452adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Jersey Women vs Spain Women",
-            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
-            "short_name": "ICC-W T20 WC Europe Qualifier",
-            "match_id": 126233,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-05-29T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126233_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 4708,
-                    "name": "Jersey Women",
-                    "shortName": "JER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "color": "#D7B524"
-                },
-                {
-                    "id": 4707,
-                    "name": "Spain Women",
-                    "shortName": "ESP-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-                    "color": "#ffb400"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126233_english_hls_8275adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
