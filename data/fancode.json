@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:30 PM 26-05-2025",
+    "last_updated": "11:37:28 PM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 12,
-    "upcoming_matches": 0,
+    "live_matches": 11,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Tennis",
@@ -132,37 +132,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126877_english_hls_29144adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Lucia Bronzetti vs Ekaterina Alexandrova",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126951,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126951_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10449,
-                    "name": "Lucia Bronzetti",
-                    "shortName": "Bronzetti",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10542,
-                    "name": "Ekaterina Alexandrova",
-                    "shortName": "Alexandrova",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126951_english_hls_79206adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -318,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126973_english_hls_69638adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "USA vs Oman",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 124505,
+            "status": "NOT_STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124505_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 247,
+                    "name": "USA",
+                    "shortName": "USA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                    "color": "#132f86"
+                },
+                {
+                    "id": 167,
+                    "name": "Oman",
+                    "shortName": "OMN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OMA@2x.png",
+                    "color": "#ad1b0e"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
