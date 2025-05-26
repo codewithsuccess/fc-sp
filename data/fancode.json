@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:31 PM 26-05-2025",
+    "last_updated": "12:37:30 PM 26-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Phoenix vs United CC Bucharest",
-            "tournament": "ECS Romania, 2025",
-            "short_name": "ECS Romania",
-            "match_id": 126561,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-01T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126561_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11396,
-                    "name": "Phoenix",
-                    "shortName": "PHO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "color": "#0D3870"
-                },
-                {
-                    "id": 2565,
-                    "name": "United CC Bucharest",
-                    "shortName": "UNI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR2@2x.png",
-                    "color": "#DD411B"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126561_english_hls_78469adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Western Warriors vs Central Smashers",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127032_english_hls_47522adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Strikers vs Southern Hitters",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127031,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127031_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5434,
+                    "name": "Northern Strikers",
+                    "shortName": "NS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "color": "#13759c"
+                },
+                {
+                    "id": 5435,
+                    "name": "Southern Hitters",
+                    "shortName": "SOH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "color": "#c0222b"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127031_english_hls_64594adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -322,37 +322,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Northern Strikers vs Southern Hitters",
-            "tournament": "MCA Super Series Men's 50 Overs, 2025",
-            "short_name": "MCA Super Series",
-            "match_id": 127031,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127031_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5434,
-                    "name": "Northern Strikers",
-                    "shortName": "NS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "color": "#13759c"
-                },
-                {
-                    "id": 5435,
-                    "name": "Southern Hitters",
-                    "shortName": "SOH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "color": "#c0222b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127031_english_hls_64594adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "United Lion Hearts vs Agro Vet CC",
             "tournament": "Nepal T10, 2025",
             "short_name": "Nepal T10",
@@ -380,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127261_english_hls_1878adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Phoenix vs United CC Bucharest",
+            "tournament": "ECS Romania, 2025",
+            "short_name": "ECS Romania",
+            "match_id": 126561,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126561_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11396,
+                    "name": "Phoenix",
+                    "shortName": "PHO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 2565,
+                    "name": "United CC Bucharest",
+                    "shortName": "UNI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UCC-CR2@2x.png",
+                    "color": "#DD411B"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126561_english_hls_78469adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
