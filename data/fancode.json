@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:29 AM 28-05-2025",
+    "last_updated": "12:19:31 AM 28-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 9,
-    "upcoming_matches": 4,
+    "live_matches": 10,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -197,6 +197,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Tennis",
+            "title": "Karolina Muchova vs Alycia Parks",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126970,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126970_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10360,
+                    "name": "Karolina Muchova",
+                    "shortName": "Muchova",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10668,
+                    "name": "Alycia Parks",
+                    "shortName": "Parks",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Trans Titans vs American Strikers",
             "tournament": "Intercontinental Legends Championship, 2025",
@@ -253,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
                     "color": "#532b12"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Karolina Muchova vs Alycia Parks",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126970,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126970_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10360,
-                    "name": "Karolina Muchova",
-                    "shortName": "Muchova",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10668,
-                    "name": "Alycia Parks",
-                    "shortName": "Parks",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
