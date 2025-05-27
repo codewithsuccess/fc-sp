@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:12:29 PM 27-05-2025",
+    "last_updated": "11:19:31 PM 27-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126864_english_hls_352adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Lois Boisson vs Elise Mertens",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126967,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126967_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10389,
-                    "name": "Lois Boisson",
-                    "shortName": "Boisson",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10304,
-                    "name": "Elise Mertens",
-                    "shortName": "Mertens",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BEL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BEL@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -349,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127442_english_hls_9508adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Abu Dhabi vs Emirates Red",
+            "tournament": "Emirates D10 Tournament, 2025",
+            "short_name": "Emirates D10",
+            "match_id": 124895,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-28T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124895_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2358,
+                    "name": "Abu Dhabi",
+                    "shortName": "ABD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
+                    "color": "#2279a4"
+                },
+                {
+                    "id": 6589,
+                    "name": "Emirates Red",
+                    "shortName": "EMR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
+                    "color": "#A91118"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124895_english_hls_80018adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
