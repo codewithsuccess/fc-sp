@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:12:57 AM 27-05-2025",
+    "last_updated": "10:19:57 AM 27-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -349,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125520_english_hls_26257adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "United Lion Hearts vs Agro Vet CC",
+            "tournament": "Nepal T10, 2025",
+            "short_name": "Nepal T10",
+            "match_id": 127261,
+            "status": "STARTED",
+            "startTime": "2025-05-18T00:00:00.000Z",
+            "endDate": "2025-05-24T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127261_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9897,
+                    "name": "United Lion Hearts",
+                    "shortName": "ULH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
+                    "color": "#19bbc4"
+                },
+                {
+                    "id": 9898,
+                    "name": "Agro Vet CC",
+                    "shortName": "AVC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
+                    "color": "#78c202"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127261_english_hls_1878adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
