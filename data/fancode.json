@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:36 PM 27-05-2025",
+    "last_updated": "12:37:35 PM 27-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
-    "upcoming_matches": 8,
+    "total_matches": 10,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127033_english_hls_84955adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Northern Strikers vs Western Warriors",
-            "tournament": "MCA Super Series Men's 50 Overs, 2025",
-            "short_name": "MCA Super Series",
-            "match_id": 127034,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127034_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5434,
-                    "name": "Northern Strikers",
-                    "shortName": "NS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "color": "#13759c"
-                },
-                {
-                    "id": 5948,
-                    "name": "Western Warriors",
-                    "shortName": "WW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "color": "#ce9435"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127034_english_hls_716adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -321,34 +290,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "United Lion Hearts vs Agro Vet CC",
-            "tournament": "Nepal T10, 2025",
-            "short_name": "Nepal T10",
-            "match_id": 127261,
-            "status": "STARTED",
-            "startTime": "2025-05-18T00:00:00.000Z",
-            "endDate": "2025-05-24T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127261_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "category": "Tennis",
+            "title": "Alex De Minaur vs Laslo Djere",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126875,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126875_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9897,
-                    "name": "United Lion Hearts",
-                    "shortName": "ULH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ULH@2x.png",
-                    "color": "#19bbc4"
+                    "id": 9938,
+                    "name": "Alex De Minaur",
+                    "shortName": "De Minaur",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
+                    "color": "#B8142D"
                 },
                 {
-                    "id": 9898,
-                    "name": "Agro Vet CC",
-                    "shortName": "AVC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVC@2x.png",
-                    "color": "#78c202"
+                    "id": 10191,
+                    "name": "Laslo Djere",
+                    "shortName": "Djere",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
+                    "color": "#B8142D"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127261_english_hls_1878adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
