@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:05:29 AM 28-05-2025",
+    "last_updated": "01:12:29 AM 28-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 7,
+    "total_matches": 12,
+    "live_matches": 6,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -380,37 +380,6 @@
                 }
             ],
             "adfree_stream": "https://mls3.fancode.com/d16b91f9-f374-46ab-b904-e82338d93b34/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Abu Dhabi vs Emirates Red",
-            "tournament": "Emirates D10 Tournament, 2025",
-            "short_name": "Emirates D10",
-            "match_id": 124895,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-28T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124895_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2358,
-                    "name": "Abu Dhabi",
-                    "shortName": "ABD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABUD@2x.png",
-                    "color": "#2279a4"
-                },
-                {
-                    "id": 6589,
-                    "name": "Emirates Red",
-                    "shortName": "EMR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMRD@2x.png",
-                    "color": "#A91118"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124895_english_hls_80018adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
