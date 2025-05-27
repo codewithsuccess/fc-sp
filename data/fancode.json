@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:29 PM 27-05-2025",
+    "last_updated": "11:37:29 PM 27-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 12,
-    "upcoming_matches": 0,
+    "total_matches": 11,
+    "live_matches": 10,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Cricket",
@@ -132,68 +132,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127189_english_hls_95900adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Lammons/Withrow vs Gonzalez/Krajicek",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127117,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127117_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11095,
-                    "name": "Lammons/Withrow",
-                    "shortName": "Lammons/Withrow",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 11313,
-                    "name": "Gonzalez/Krajicek",
-                    "shortName": "Gonzalez/Krajicek",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127117_english_hls_61672adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Maria Lourdes Carle vs Ann Li",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126964,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126964_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10256,
-                    "name": "Maria Lourdes Carle",
-                    "shortName": "Carle",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ARG@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10662,
-                    "name": "Ann Li",
-                    "shortName": "Li",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126964_english_hls_16524adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -349,6 +287,37 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trans Titans vs American Strikers",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127443,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127443_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11483,
+                    "name": "Trans Titans",
+                    "shortName": "TRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "color": "#ca9341"
+                },
+                {
+                    "id": 11484,
+                    "name": "American Strikers",
+                    "shortName": "AMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "color": "#0a419d"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
