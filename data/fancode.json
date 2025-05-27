@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:57 AM 27-05-2025",
+    "last_updated": "08:30:57 AM 27-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ernakulam vs Combined Districts",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125520,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125520_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6304,
+                    "name": "Ernakulam",
+                    "shortName": "ERL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "color": "#5facdf"
+                },
+                {
+                    "id": 6294,
+                    "name": "Combined Districts",
+                    "shortName": "CDS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
+                    "color": "#F8D141"
+                }
+            ],
+            "adfree_stream": null,
             "dai_stream": "Coming Soon"
         },
         {
