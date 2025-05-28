@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:26:18 PM 28-05-2025",
+    "last_updated": "10:30:16 PM 28-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 15,
+    "total_matches": 16,
+    "live_matches": 16,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -473,6 +473,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124898_english_hls_11977adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Cleveland Guardians vs Los Angeles Dodgers",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124633,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124633_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2325,
+                    "name": "Cleveland Guardians",
+                    "shortName": "CLE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "color": "#0c2346"
+                },
+                {
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124633_english_hls_68862adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
