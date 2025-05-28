@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:37:22 PM 28-05-2025",
+    "last_updated": "09:44:15 PM 28-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 18,
-    "upcoming_matches": 0,
+    "total_matches": 17,
+    "live_matches": 16,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Tennis",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/alqtTrVWQeuxHd8fbw-Rmw/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Karen Khachanov vs Sebastian Ofner",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126793,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126793_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10182,
-                    "name": "Karen Khachanov",
-                    "shortName": "Khachanov",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 9955,
-                    "name": "Sebastian Ofner",
-                    "shortName": "Ofner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUT@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126793_english_hls_1199adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -543,7 +512,7 @@
             "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
             "short_name": "ICC-W T20 WC Europe Qualifier",
             "match_id": 126238,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-25T00:00:00.000Z",
             "endDate": "2025-05-29T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126238_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -565,7 +534,7 @@
                     "color": "#D7B524"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/126238_english_hls_56033adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
