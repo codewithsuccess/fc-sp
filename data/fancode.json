@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:58:15 PM 28-05-2025",
+    "last_updated": "12:05:15 AM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "live_matches": 9,
+    "upcoming_matches": 4,
     "matches": [
-        {
-            "category": "Tennis",
-            "title": "Caroline Dolehide vs Jelena Ostapenko",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126933,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126933_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10659,
-                    "name": "Caroline Dolehide",
-                    "shortName": "Dolehide",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10485,
-                    "name": "Jelena Ostapenko",
-                    "shortName": "Ostapenko",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-LAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-LAT@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126933_english_hls_90792adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Tennis",
             "title": "Diana Shnaider vs Dayana Yastremska",
@@ -314,6 +283,37 @@
                     "shortName": "Jeanjean",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Elena-Gabriela Ruse vs Paula Badosa",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126927,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126927_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10530,
+                    "name": "Elena-Gabriela Ruse",
+                    "shortName": "Ruse",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ROM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ROM@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10589,
+                    "name": "Paula Badosa",
+                    "shortName": "Badosa",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
                     "color": "#B8142D"
                 }
             ],
