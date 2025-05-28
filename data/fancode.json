@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:12:49 AM 28-05-2025",
+    "last_updated": "10:19:49 AM 28-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 10,
-    "live_matches": 2,
-    "upcoming_matches": 8,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125522_english_hls_22641adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "San Diego Padres vs Miami Marlins",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 124632,
-            "status": "STARTED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124632_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2348,
-                    "name": "San Diego Padres",
-                    "shortName": "SDP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
-                    "color": "#ffb700"
-                },
-                {
-                    "id": 2343,
-                    "name": "Miami Marlins",
-                    "shortName": "MM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
-                    "color": "#38758d"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124632_english_hls_57307adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -314,6 +283,37 @@
                     "shortName": "Medjedovic",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Vit Kopriva vs Daniel Altmaier",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126796,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126796_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10000,
+                    "name": "Vit Kopriva",
+                    "shortName": "Kopriva",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10084,
+                    "name": "Daniel Altmaier",
+                    "shortName": "Altmaier",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GER@2x.png",
                     "color": "#B8142D"
                 }
             ],
