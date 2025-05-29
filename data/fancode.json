@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:50:01 PM 29-05-2025",
+    "last_updated": "11:55:01 PM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 17,
-    "live_matches": 15,
-    "upcoming_matches": 2,
+    "live_matches": 14,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Tennis",
@@ -70,37 +70,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Alexander Shevchenko vs Ethan Quinn",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126808,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126808_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10135,
-                    "name": "Alexander Shevchenko",
-                    "shortName": "Shevchenko",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-KAZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-KAZ@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10232,
-                    "name": "Ethan Quinn",
-                    "shortName": "Quinn",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA1@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126808_english_hls_92045adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -315,6 +284,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#91033c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "African Lions vs American Strikers",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127448,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127448_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11482,
+                    "name": "African Lions",
+                    "shortName": "AFL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "color": "#0e773c"
+                },
+                {
+                    "id": 11484,
+                    "name": "American Strikers",
+                    "shortName": "AMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "color": "#0a419d"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
