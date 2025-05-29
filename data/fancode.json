@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:44:13 AM 29-05-2025",
+    "last_updated": "09:51:14 AM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 5,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -166,6 +166,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Euro Gladiators vs Trans Titans",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127447,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127447_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11486,
+                    "name": "Euro Gladiators",
+                    "shortName": "ERG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "color": "#532b12"
+                },
+                {
+                    "id": 11483,
+                    "name": "Trans Titans",
+                    "shortName": "TRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "color": "#ca9341"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Tennis",
             "title": "Mirra Andreeva vs Ashlyn Krueger",
             "tournament": "Roland Garros 2025",
@@ -290,37 +321,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Tennis",
-            "title": "Alycia Parks vs Elsa Jacquemot",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126926,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126926_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10668,
-                    "name": "Alycia Parks",
-                    "shortName": "Parks",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 11326,
-                    "name": "Elsa Jacquemot",
-                    "shortName": "Jacquemot",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Western Warriors vs Southern Hitters",
             "tournament": "MCA Super Series Men's 50 Overs, 2025",
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127036_english_hls_74048adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "Seattle Mariners vs Washington Nationals",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 124634,
-            "status": "STARTED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124634_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2333,
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
-                    "color": "#11a6a8"
-                },
-                {
-                    "id": 2351,
-                    "name": "Washington Nationals",
-                    "shortName": "WAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-WASHG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-WASHG@2x.png",
-                    "color": "#14264b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124634_english_hls_4787adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
