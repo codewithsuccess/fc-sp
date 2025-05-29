@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:10:01 PM 29-05-2025",
+    "last_updated": "05:15:01 PM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -507,37 +507,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Jersey Women vs Sweden Women",
-            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
-            "short_name": "ICC-W T20 WC Europe Qualifier",
-            "match_id": 126240,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-05-29T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126240_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 4708,
-                    "name": "Jersey Women",
-                    "shortName": "JER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "color": "#D7B524"
-                },
-                {
-                    "id": 4812,
-                    "name": "Sweden Women",
-                    "shortName": "SWE-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
-                    "color": "#508be1"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126240_english_hls_25568adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Day 1",
             "tournament": "Australian Alpine Open Presented by SalzburgerLand",
@@ -597,6 +566,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127561_english_hls_85011adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jersey Women vs Sweden Women",
+            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
+            "short_name": "ICC-W T20 WC Europe Qualifier",
+            "match_id": 126240,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-05-29T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126240_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 4708,
+                    "name": "Jersey Women",
+                    "shortName": "JER-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+                    "color": "#D7B524"
+                },
+                {
+                    "id": 4812,
+                    "name": "Sweden Women",
+                    "shortName": "SWE-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png",
+                    "color": "#508be1"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126240_english_hls_25568adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
