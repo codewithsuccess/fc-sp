@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:13 AM 29-05-2025",
+    "last_updated": "08:51:17 AM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 4,
+    "total_matches": 13,
+    "live_matches": 5,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124634_english_hls_4787adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Live events",
+            "title": "Day 1",
+            "tournament": "Dream UTT Juniors",
+            "short_name": "Dream UTT Juniors",
+            "match_id": 127509,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-08T20:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127509_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11491,
+                    "name": "Day 1",
+                    "shortName": "UTT JR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 6236,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127509_english_hls_70463adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
