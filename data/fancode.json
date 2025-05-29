@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:15:09 PM 29-05-2025",
+    "last_updated": "06:20:03 PM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 20,
-    "live_matches": 20,
+    "total_matches": 22,
+    "live_matches": 22,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -566,6 +566,68 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127484_english_hls_52509adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Emirates Blues vs Dubai",
+            "tournament": "Emirates D10 Tournament, 2025",
+            "short_name": "Emirates D10",
+            "match_id": 124900,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-28T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124900_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2365,
+                    "name": "Emirates Blues",
+                    "shortName": "EMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUE@2x.png",
+                    "color": "#62bfe9"
+                },
+                {
+                    "id": 2364,
+                    "name": "Dubai",
+                    "shortName": "DUB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EMDB@2x.png",
+                    "color": "#f64bce"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124900_english_hls_63327adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Isle of Man Women vs Germany Women",
+            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
+            "short_name": "ICC-W T20 WC Europe Qualifier",
+            "match_id": 126241,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-05-29T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126241_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5536,
+                    "name": "Isle of Man Women",
+                    "shortName": "IM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IOMA@2x.png",
+                    "color": "#FFE052"
+                },
+                {
+                    "id": 1286,
+                    "name": "Germany Women",
+                    "shortName": "GER-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+                    "color": "#ea6363"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126241_english_hls_1272adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
