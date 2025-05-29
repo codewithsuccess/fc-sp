@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:37:13 AM 29-05-2025",
+    "last_updated": "06:44:18 AM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 10,
-    "live_matches": null,
-    "upcoming_matches": 10,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Northern Strikers vs Central Smashers",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127035,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127035_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5434,
+                    "name": "Northern Strikers",
+                    "shortName": "NS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "color": "#13759c"
+                },
+                {
+                    "id": 2382,
+                    "name": "Central Smashers",
+                    "shortName": "CS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
+                    "color": "#b28250"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127035_english_hls_54640adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Indian Warriors vs American Strikers",
@@ -283,37 +314,6 @@
                     "shortName": "Boisson",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Magdalena Frech vs Marketa Vondrousova",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126924,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126924_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10513,
-                    "name": "Magdalena Frech",
-                    "shortName": "Frech",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-POL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-POL@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10359,
-                    "name": "Marketa Vondrousova",
-                    "shortName": "Vondrousova",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-CZE@2x.png",
                     "color": "#B8142D"
                 }
             ],
