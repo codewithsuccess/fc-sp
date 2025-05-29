@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:45:25 PM 29-05-2025",
+    "last_updated": "04:54:07 PM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -538,37 +538,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Italy Women vs Spain Women",
-            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
-            "short_name": "ICC-W T20 WC Europe Qualifier",
-            "match_id": 126239,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-05-29T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126239_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5153,
-                    "name": "Italy Women",
-                    "shortName": "ITA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
-                    "color": "#df787f"
-                },
-                {
-                    "id": 4707,
-                    "name": "Spain Women",
-                    "shortName": "ESP-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
-                    "color": "#ffb400"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126239_english_hls_63604adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Day 1",
             "tournament": "Australian Alpine Open Presented by SalzburgerLand",
@@ -597,6 +566,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127045_english_hls_57573adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Italy Women vs Spain Women",
+            "tournament": "ICC Womens T20 World Cup Europe Qualifier Division",
+            "short_name": "ICC-W T20 WC Europe Qualifier",
+            "match_id": 126239,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-05-29T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126239_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5153,
+                    "name": "Italy Women",
+                    "shortName": "ITA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ITA@2x.png",
+                    "color": "#df787f"
+                },
+                {
+                    "id": 4707,
+                    "name": "Spain Women",
+                    "shortName": "ESP-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png",
+                    "color": "#ffb400"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126239_english_hls_63604adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
