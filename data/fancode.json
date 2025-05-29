@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:45:02 PM 29-05-2025",
+    "last_updated": "11:50:01 PM 29-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 17,
-    "upcoming_matches": 1,
+    "total_matches": 17,
+    "live_matches": 15,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Tennis",
@@ -132,37 +132,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126805_english_hls_85504adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Bouzas Maneiro/Gracheva vs Melichar-Martinez/Samsonova",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127181,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127181_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11450,
-                    "name": "Bouzas Maneiro/Gracheva",
-                    "shortName": "Bouzas Maneiro/Gracheva",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 10903,
-                    "name": "Melichar-Martinez/Samsonova",
-                    "shortName": "Melichar-Martinez/Samsonova",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127181_english_hls_12300adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -322,33 +291,33 @@
         },
         {
             "category": "Cricket",
-            "title": "Kuwait Emerging Stars vs Kuwait Swedish",
-            "tournament": "KCC T10 Elite League, 2025",
-            "short_name": "KCC T10 Elite League",
-            "match_id": 126362,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126362_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "title": "England Women vs West Indies Women",
+            "tournament": "West Indies Women tour of England, 2025",
+            "short_name": "ENG-W vs WI-W",
+            "match_id": 126224,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-07T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126224_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9116,
-                    "name": "Kuwait Emerging Stars",
-                    "shortName": "KMS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-                    "color": "#6ECB51"
+                    "id": 646,
+                    "name": "England Women",
+                    "shortName": "EN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
                 },
                 {
-                    "id": 5327,
-                    "name": "Kuwait Swedish",
-                    "shortName": "KS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-                    "color": "#2125DA"
+                    "id": 647,
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#91033c"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/126362_english_hls_92134adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
