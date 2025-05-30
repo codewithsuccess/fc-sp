@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:15:01 PM 30-05-2025",
+    "last_updated": "05:20:02 PM 30-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 15,
+    "total_matches": 16,
+    "live_matches": 16,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -411,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127530_english_hls_17618adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "GAT vs Cochin Hurricanes",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125404,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125404_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 7438,
+                    "name": "GAT",
+                    "shortName": "GAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "color": "#c5ca4a"
+                },
+                {
+                    "id": 6454,
+                    "name": "Cochin Hurricanes",
+                    "shortName": "COH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "color": "#b92317"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125404_english_hls_84744adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
