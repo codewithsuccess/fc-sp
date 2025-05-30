@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:55:01 PM 30-05-2025",
+    "last_updated": "12:00:02 AM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 16,
+    "total_matches": 19,
+    "live_matches": 17,
     "upcoming_matches": 2,
     "matches": [
         {
@@ -349,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127528_english_hls_34948adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kuwait Swedish vs NCM Al Hajery",
+            "tournament": "KCC T10 Elite League, 2025",
+            "short_name": "KCC T10 Elite League",
+            "match_id": 126364,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126364_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5327,
+                    "name": "Kuwait Swedish",
+                    "shortName": "KS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+                    "color": "#2125DA"
+                },
+                {
+                    "id": 5334,
+                    "name": "NCM Al Hajery",
+                    "shortName": "ALH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALJH@2x.png",
+                    "color": "#BD9018"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126364_english_hls_87622adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
