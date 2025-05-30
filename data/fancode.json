@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:10:01 PM 30-05-2025",
+    "last_updated": "03:15:02 PM 30-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 11,
-    "upcoming_matches": 1,
+    "live_matches": 12,
+    "upcoming_matches": 0,
     "matches": [
         {
             "category": "Tennis",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Euro Gladiators vs Trans Titans",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127447,
+            "status": "STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127447_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11486,
+                    "name": "Euro Gladiators",
+                    "shortName": "ERG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "color": "#532b12"
+                },
+                {
+                    "id": 11483,
+                    "name": "Trans Titans",
+                    "shortName": "TRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "color": "#ca9341"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127447_english_hls_42944adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -260,37 +291,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Euro Gladiators vs Trans Titans",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127447,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127447_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11486,
-                    "name": "Euro Gladiators",
-                    "shortName": "ERG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "color": "#532b12"
-                },
-                {
-                    "id": 11483,
-                    "name": "Trans Titans",
-                    "shortName": "TRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "color": "#ca9341"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Belgium vs Malta",
             "tournament": "ECN Mdina Cup T20I, 2025",
             "short_name": "ECN Mdina",
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127531_english_hls_28880adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kollam vs Ernakulam",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125527,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125527_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6292,
-                    "name": "Kollam",
-                    "shortName": "KOL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLL@2x.png",
-                    "color": "#92b3e0"
-                },
-                {
-                    "id": 6304,
-                    "name": "Ernakulam",
-                    "shortName": "ERL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "color": "#5facdf"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125527_english_hls_55863adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/119045_english_hls_11502adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kollam vs Ernakulam",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125527,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125527_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6292,
+                    "name": "Kollam",
+                    "shortName": "KOL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLL@2x.png",
+                    "color": "#92b3e0"
+                },
+                {
+                    "id": 6304,
+                    "name": "Ernakulam",
+                    "shortName": "ERL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "color": "#5facdf"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125527_english_hls_55863adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
