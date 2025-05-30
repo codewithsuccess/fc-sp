@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:50:01 PM 30-05-2025",
+    "last_updated": "10:55:01 PM 30-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 15,
-    "live_matches": 15,
-    "upcoming_matches": 0,
+    "live_matches": 12,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -140,7 +140,7 @@
             "tournament": "F1 ARAMCO GRAN PREMIO DE ESPANA 2025",
             "short_name": "Spanish GP",
             "match_id": 118422,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-30T00:00:00.000Z",
             "endDate": "2025-06-01T18:15:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118422_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -162,7 +162,7 @@
                     "color": "#141414"
                 }
             ],
-            "adfree_stream": "https://d2yh5ean7horc8.cloudfront.net/out/v1/dbfd9a173d764d0caee3b7c10a3a5949/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -198,68 +198,6 @@
         },
         {
             "category": "Tennis",
-            "title": "Kichenok/Pavic vs Kato/Puetz",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127074,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127074_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11496,
-                    "name": "Kichenok/Pavic",
-                    "shortName": "Kichenok/Pavic",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 11497,
-                    "name": "Kato/Puetz",
-                    "shortName": "Kato/Puetz",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#FF0000"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127074_english_hls_1123adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Imola",
-            "match_id": 127635,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-09-07T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127635_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8594,
-                    "name": "Practice Session ",
-                    "shortName": "POR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#06a355"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127635_english_hls_21523adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
             "title": "Frances Tiafoe vs Sebastian Korda",
             "tournament": "Roland Garros 2025",
             "short_name": "French Open",
@@ -287,6 +225,68 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gloucestershire vs Kent",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125892,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125892_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 363,
+                    "name": "Gloucestershire",
+                    "shortName": "GLO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "color": "#17836e"
+                },
+                {
+                    "id": 296,
+                    "name": "Kent",
+                    "shortName": "KET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "color": "#843961"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Indian Warriors vs Asian Kings",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127449,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127449_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11481,
+                    "name": "Indian Warriors",
+                    "shortName": "IDW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "color": "#c24251"
+                },
+                {
+                    "id": 11485,
+                    "name": "Asian Kings",
+                    "shortName": "ASK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "color": "#615853"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127528_english_hls_34948adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Sharjah vs Ajman",
-            "tournament": "Emirates D10 Tournament, 2025",
-            "short_name": "Emirates D10",
-            "match_id": 124904,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-05-28T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124904_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2360,
-                    "name": "Sharjah",
-                    "shortName": "SHA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
-                    "color": "#d94f55"
-                },
-                {
-                    "id": 2359,
-                    "name": "Ajman",
-                    "shortName": "AJM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
-                    "color": "#c83ca3"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124904_english_hls_37375adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -473,6 +442,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127592_english_hls_52364adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sharjah vs Ajman",
+            "tournament": "Emirates D10 Tournament, 2025",
+            "short_name": "Emirates D10",
+            "match_id": 124904,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-05-28T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124904_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2360,
+                    "name": "Sharjah",
+                    "shortName": "SHA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHRJ@2x.png",
+                    "color": "#d94f55"
+                },
+                {
+                    "id": 2359,
+                    "name": "Ajman",
+                    "shortName": "AJM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AJMN@2x.png",
+                    "color": "#c83ca3"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124904_english_hls_37375adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
