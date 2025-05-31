@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:00:01 PM 31-05-2025",
+    "last_updated": "05:05:03 PM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 17,
+    "total_matches": 18,
+    "live_matches": 18,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127138_english_hls_16541adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Portugal vs Malta",
+            "tournament": "ECN Mdina Cup T20I, 2025",
+            "short_name": "ECN Mdina",
+            "match_id": 127532,
+            "status": "STARTED",
+            "startTime": "2025-05-30T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127532_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 195,
+                    "name": "Portugal",
+                    "shortName": "POR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
+                    "color": "#43663b"
+                },
+                {
+                    "id": 166,
+                    "name": "Malta",
+                    "shortName": "MAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MAL@2x.png",
+                    "color": "#c66a63"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127532_english_hls_14608adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
