@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:00:01 AM 01-06-2025",
+    "last_updated": "04:05:01 AM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 7,
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Anguilla vs Virgin Islands",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127426,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127426_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11477,
-                    "name": "Anguilla",
-                    "shortName": "AGU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "color": "#915300"
-                },
-                {
-                    "id": 11476,
-                    "name": "Virgin Islands",
-                    "shortName": "VIS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "color": "#141A5F"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127426_english_hls_10087adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Golf",
             "title": "Featured Group - Day 3",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127598_english_hls_88716adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Marquee Group - Day 3",
+            "tournament": "The Memorial Tournament Presented By Workday",
+            "short_name": "The Memorial Tournament Presente",
+            "match_id": 127597,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-01T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127597_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11495,
+                    "name": "Marquee Group - Day 3",
+                    "shortName": "MTW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
+                    "color": "#245648"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127597_english_hls_41640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -291,68 +291,6 @@
         },
         {
             "category": "Golf",
-            "title": "Main Feed - Day 3",
-            "tournament": "The Memorial Tournament Presented By Workday",
-            "short_name": "The Memorial Tournament Presente",
-            "match_id": 127596,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-06-01T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127596_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11495,
-                    "name": "Main Feed - Day 3",
-                    "shortName": "MTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "color": "#245648"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127596_english_hls_24364adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Marquee Group - Day 3",
-            "tournament": "The Memorial Tournament Presented By Workday",
-            "short_name": "The Memorial Tournament Presente",
-            "match_id": 127597,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-06-01T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127597_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11495,
-                    "name": "Marquee Group - Day 3",
-                    "shortName": "MTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "color": "#245648"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127597_english_hls_41640adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
             "title": "Featured Holes - Day 3",
             "tournament": "The Memorial Tournament Presented By Workday",
             "short_name": "The Memorial Tournament Presente",
@@ -411,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127595_english_hls_95860adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "Toronto Blue Jays vs Oakland Athletics",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 124638,
-            "status": "STARTED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124638_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2336,
-                    "name": "Toronto Blue Jays",
-                    "shortName": "TOJ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TORO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TORO@2x.png",
-                    "color": "#881b13"
-                },
-                {
-                    "id": 2332,
-                    "name": "Oakland Athletics",
-                    "shortName": "OA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
-                    "color": "#f8c33f"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/124638_english_hls_86334adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
