@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:15:03 PM 31-05-2025",
+    "last_updated": "03:20:02 PM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 13,
+    "total_matches": 14,
+    "live_matches": 14,
     "upcoming_matches": 0,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/121975_english_hls_10492adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Kyoto Sanga vs FC Tokyo",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121973,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121973_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 4497,
+                    "name": "Kyoto Sanga",
+                    "shortName": "KYS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KSN@2x.png",
+                    "color": "#651968"
+                },
+                {
+                    "id": 1776,
+                    "name": "FC Tokyo",
+                    "shortName": "TKY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TYO@2x.png",
+                    "color": "#1a39a8"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/121973_english_hls_62250adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
