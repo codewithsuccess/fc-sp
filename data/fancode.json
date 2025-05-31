@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:01 PM 31-05-2025",
+    "last_updated": "12:35:05 PM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -290,37 +290,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Machida Zelvia vs Yokohama F. Marinos",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 121972,
-            "status": "STARTED",
-            "startTime": "2025-02-08T00:00:00.000Z",
-            "endDate": "2025-12-06T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121972_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8166,
-                    "name": "Machida Zelvia",
-                    "shortName": "MZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "color": "#248eff"
-                },
-                {
-                    "id": 1781,
-                    "name": "Yokohama F. Marinos",
-                    "shortName": "YKFM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
-                    "color": "#bd1c45"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/121972_english_hls_92583adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Northern Strikers vs Western Warriors",
             "tournament": "MCA Super Series Men's 50 Overs, 2025",
@@ -349,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127040_english_hls_68735adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Machida Zelvia vs Yokohama F. Marinos",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 121972,
+            "status": "STARTED",
+            "startTime": "2025-02-08T00:00:00.000Z",
+            "endDate": "2025-12-06T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/121972_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 8166,
+                    "name": "Machida Zelvia",
+                    "shortName": "MZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
+                    "color": "#248eff"
+                },
+                {
+                    "id": 1781,
+                    "name": "Yokohama F. Marinos",
+                    "shortName": "YKFM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-YKM@2x.png",
+                    "color": "#bd1c45"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/121972_english_hls_92583adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
