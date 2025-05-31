@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:10:01 AM 31-05-2025",
+    "last_updated": "11:15:01 AM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 5,
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Wayanad vs Ernakulam",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 127741,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127741_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6298,
-                    "name": "Wayanad",
-                    "shortName": "WAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
-                    "color": "#4f4085"
-                },
-                {
-                    "id": 6304,
-                    "name": "Ernakulam",
-                    "shortName": "ERL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "color": "#5facdf"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127741_english_hls_51154adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Machida Zelvia vs Yokohama F. Marinos",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/121972_english_hls_92583adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Central Smashers vs Southern Hitters",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127039,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127039_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2382,
+                    "name": "Central Smashers",
+                    "shortName": "CS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
+                    "color": "#b28250"
+                },
+                {
+                    "id": 5435,
+                    "name": "Southern Hitters",
+                    "shortName": "SOH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "color": "#c0222b"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127039_english_hls_13307adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -291,37 +291,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Central Smashers vs Southern Hitters",
-            "tournament": "MCA Super Series Men's 50 Overs, 2025",
-            "short_name": "MCA Super Series",
-            "match_id": 127039,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127039_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 2382,
-                    "name": "Central Smashers",
-                    "shortName": "CS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSM@2x.png",
-                    "color": "#b28250"
-                },
-                {
-                    "id": 5435,
-                    "name": "Southern Hitters",
-                    "shortName": "SOH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "color": "#c0222b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127039_english_hls_13307adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Northern Strikers vs Western Warriors",
             "tournament": "MCA Super Series Men's 50 Overs, 2025",
             "short_name": "MCA Super Series",
@@ -352,34 +321,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Live events",
-            "title": "Day 3",
-            "tournament": "Dream UTT Juniors",
-            "short_name": "Dream UTT Juniors",
-            "match_id": 127511,
+            "category": "Cricket",
+            "title": "Wayanad vs Ernakulam",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 127741,
             "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-06-08T20:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127511_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127741_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 11491,
-                    "name": "Day 3",
-                    "shortName": "UTT JR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
-                    "color": "#B8142D"
+                    "id": 6298,
+                    "name": "Wayanad",
+                    "shortName": "WAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
+                    "color": "#4f4085"
                 },
                 {
-                    "id": 6236,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
-                    "color": "#FFFFFF"
+                    "id": 6304,
+                    "name": "Ernakulam",
+                    "shortName": "ERL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "color": "#5facdf"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127511_english_hls_41118adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127741_english_hls_51154adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
