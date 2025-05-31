@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:35:03 AM 31-05-2025",
+    "last_updated": "08:40:01 AM 31-05-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,37 @@
     "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Wayanad vs Ernakulam",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 127741,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127741_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6298,
+                    "name": "Wayanad",
+                    "shortName": "WAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
+                    "color": "#4f4085"
+                },
+                {
+                    "id": 6304,
+                    "name": "Ernakulam",
+                    "shortName": "ERL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
+                    "color": "#5facdf"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127741_english_hls_51154adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Central Smashers vs Southern Hitters",
@@ -39,37 +70,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127039_english_hls_13307adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Northern Strikers vs Western Warriors",
-            "tournament": "MCA Super Series Men's 50 Overs, 2025",
-            "short_name": "MCA Super Series",
-            "match_id": 127040,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127040_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5434,
-                    "name": "Northern Strikers",
-                    "shortName": "NS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
-                    "color": "#13759c"
-                },
-                {
-                    "id": 5948,
-                    "name": "Western Warriors",
-                    "shortName": "WW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "color": "#ce9435"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127040_english_hls_68735adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -291,33 +291,33 @@
         },
         {
             "category": "Cricket",
-            "title": "Wayanad vs Ernakulam",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 127741,
+            "title": "Northern Strikers vs Western Warriors",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127040,
             "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127741_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127040_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 6298,
-                    "name": "Wayanad",
-                    "shortName": "WAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAN@2x.png",
-                    "color": "#4f4085"
+                    "id": 5434,
+                    "name": "Northern Strikers",
+                    "shortName": "NS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "color": "#13759c"
                 },
                 {
-                    "id": 6304,
-                    "name": "Ernakulam",
-                    "shortName": "ERL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERL@2x.png",
-                    "color": "#5facdf"
+                    "id": 5948,
+                    "name": "Western Warriors",
+                    "shortName": "WW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "color": "#ce9435"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127741_english_hls_51154adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127040_english_hls_68735adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
