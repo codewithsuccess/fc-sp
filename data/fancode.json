@@ -1,44 +1,75 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:10:01 AM 01-06-2025",
+    "last_updated": "02:15:01 AM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 8,
-    "upcoming_matches": 8,
+    "total_matches": 14,
+    "live_matches": 7,
+    "upcoming_matches": 7,
     "matches": [
         {
-            "category": "Tennis",
-            "title": "Filip Misolic vs Novak Djokovic",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126780,
+            "category": "Cricket",
+            "title": "Anguilla vs Virgin Islands",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127426,
             "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126780_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127426_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 9954,
-                    "name": "Filip Misolic",
-                    "shortName": "Misolic",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUT@2x.png",
-                    "color": "#B8142D"
+                    "id": 11477,
+                    "name": "Anguilla",
+                    "shortName": "AGU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
+                    "color": "#915300"
                 },
                 {
-                    "id": 10189,
-                    "name": "Novak Djokovic",
-                    "shortName": "Djokovic",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "color": "#B8142D"
+                    "id": 11476,
+                    "name": "Virgin Islands",
+                    "shortName": "VIS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "color": "#141A5F"
                 }
             ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127426_english_hls_10087adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Featured Group - Day 3",
+            "tournament": "The Memorial Tournament Presented By Workday",
+            "short_name": "The Memorial Tournament Presente",
+            "match_id": 127598,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-01T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127598_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11495,
+                    "name": "Featured Group - Day 3",
+                    "shortName": "MTW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
+                    "color": "#245648"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127598_english_hls_88716adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -256,99 +287,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Alexei Popyrin vs Tommy Paul",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126765,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126765_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5865,
-                    "name": "Alexei Popyrin",
-                    "shortName": "Popyrin",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
-                    "color": "#002695"
-                },
-                {
-                    "id": 10218,
-                    "name": "Tommy Paul",
-                    "shortName": "Paul",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Anguilla vs Virgin Islands",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127426,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127426_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11477,
-                    "name": "Anguilla",
-                    "shortName": "AGU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "color": "#915300"
-                },
-                {
-                    "id": 11476,
-                    "name": "Virgin Islands",
-                    "shortName": "VIS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "color": "#141A5F"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127426_english_hls_10087adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Group - Day 3",
-            "tournament": "The Memorial Tournament Presented By Workday",
-            "short_name": "The Memorial Tournament Presente",
-            "match_id": 127598,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-06-01T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127598_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11495,
-                    "name": "Featured Group - Day 3",
-                    "shortName": "MTW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-MTW@2x.png",
-                    "color": "#245648"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127598_english_hls_88716adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
