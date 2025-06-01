@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:01 AM 02-06-2025",
+    "last_updated": "12:35:01 AM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 11,
-    "upcoming_matches": 7,
+    "live_matches": 10,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Tennis",
@@ -39,37 +39,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Durham vs Lancashire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125901,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125901_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 360,
-                    "name": "Durham",
-                    "shortName": "DUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 364,
-                    "name": "Lancashire",
-                    "shortName": "LAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "color": "#e9515e"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125901_english_hls_24178adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -283,6 +252,37 @@
                     "shortName": "Kasatkina",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-AUS@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Ekaterina Alexandrova vs Coco Gauff",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126891,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126891_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10542,
+                    "name": "Ekaterina Alexandrova",
+                    "shortName": "Alexandrova",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10664,
+                    "name": "Coco Gauff",
+                    "shortName": "Gauff",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
                     "color": "#B8142D"
                 }
             ],
