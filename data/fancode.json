@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:40:02 PM 01-06-2025",
+    "last_updated": "09:45:05 PM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 16,
-    "upcoming_matches": 0,
+    "total_matches": 19,
+    "live_matches": 18,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Tennis",
@@ -132,37 +132,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125901_english_hls_24178adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Formula 1",
-            "title": "Race",
-            "tournament": "F1 ARAMCO GRAN PREMIO DE ESPANA 2025",
-            "short_name": "Spanish GP",
-            "match_id": 118425,
-            "status": "STARTED",
-            "startTime": "2025-05-30T00:00:00.000Z",
-            "endDate": "2025-06-01T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118425_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8204,
-                    "name": "Race",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://d1owt1s7h42nct.cloudfront.net/out/v1/94b3dd055be74f1f82160a14b520c264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -291,6 +260,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Asian Kings vs American Strikers",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127452,
+            "status": "COMPLETED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127452_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11485,
+                    "name": "Asian Kings",
+                    "shortName": "ASK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "color": "#615853"
+                },
+                {
+                    "id": 11484,
+                    "name": "American Strikers",
+                    "shortName": "AMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "color": "#0a419d"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "West Indies A vs South Africa A",
             "tournament": "South Africa A tour of West Indies, 2025",
             "short_name": "WI-A vs SA-A",
@@ -411,6 +411,99 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127428_english_hls_85059adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo vs C\u00e1diz",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 127687,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127687_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3904,
+                    "name": "Real Oviedo",
+                    "shortName": "ROV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
+                    "color": "#094ca1"
+                },
+                {
+                    "id": 2571,
+                    "name": "C\u00e1diz",
+                    "shortName": "CDZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
+                    "color": "#abc"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127687_english_hls_46475adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "FC Cartagena vs Mirand\u00e9s",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 127686,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127686_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 4321,
+                    "name": "FC Cartagena",
+                    "shortName": "CAR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CAT@2x.png",
+                    "color": "#b49206"
+                },
+                {
+                    "id": 4002,
+                    "name": "Mirand\u00e9s",
+                    "shortName": "MIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png",
+                    "color": "#028ed9"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127686_english_hls_22679adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Deportivo de La Coru\u00f1a vs Elche",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 127685,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127685_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 837,
+                    "name": "Deportivo de La Coru\u00f1a",
+                    "shortName": "DEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
+                    "color": "#71157B"
+                },
+                {
+                    "id": 2740,
+                    "name": "Elche",
+                    "shortName": "ELC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
+                    "color": "#253611"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127685_english_hls_79325adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
