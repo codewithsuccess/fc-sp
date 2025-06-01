@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:30:01 PM 01-06-2025",
+    "last_updated": "10:35:02 PM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 20,
-    "live_matches": 16,
-    "upcoming_matches": 4,
+    "live_matches": 15,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Tennis",
@@ -74,37 +74,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Worcestershire vs Yorkshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125896,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125896_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                },
-                {
-                    "id": 313,
-                    "name": "Yorkshire",
-                    "shortName": "YOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
-                    "color": "#4e706c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125896_english_hls_40237adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Durham vs Lancashire",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -163,6 +132,37 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Worcestershire vs Yorkshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125896,
+            "status": "COMPLETED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125896_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 372,
+                    "name": "Worcestershire",
+                    "shortName": "WOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "color": "#116030"
+                },
+                {
+                    "id": 313,
+                    "name": "Yorkshire",
+                    "shortName": "YOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
+                    "color": "#4e706c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -353,37 +353,6 @@
         },
         {
             "category": "Football",
-            "title": "Deportivo de La Coru\u00f1a vs Elche",
-            "tournament": "LALIGA HYPERMOTION 2024-25",
-            "short_name": "LALIGA HYPERMOTION",
-            "match_id": 127685,
-            "status": "STARTED",
-            "startTime": "2024-08-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127685_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 837,
-                    "name": "Deportivo de La Coru\u00f1a",
-                    "shortName": "DEP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
-                    "color": "#71157B"
-                },
-                {
-                    "id": 2740,
-                    "name": "Elche",
-                    "shortName": "ELC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
-                    "color": "#253611"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127685_english_hls_79325adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Real Oviedo vs C\u00e1diz",
             "tournament": "LALIGA HYPERMOTION 2024-25",
             "short_name": "LALIGA HYPERMOTION",
@@ -442,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127686_english_hls_22679adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Deportivo de La Coru\u00f1a vs Elche",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 127685,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127685_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 837,
+                    "name": "Deportivo de La Coru\u00f1a",
+                    "shortName": "DEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEP@2x.png",
+                    "color": "#71157B"
+                },
+                {
+                    "id": 2740,
+                    "name": "Elche",
+                    "shortName": "ELC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ELC-FT1@2x.png",
+                    "color": "#253611"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127685_english_hls_79325adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
