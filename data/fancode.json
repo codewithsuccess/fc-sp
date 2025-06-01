@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:50:06 PM 01-06-2025",
+    "last_updated": "04:55:01 PM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -291,37 +291,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Portugal vs Belgium",
-            "tournament": "ECN Mdina Cup T20I, 2025",
-            "short_name": "ECN Mdina",
-            "match_id": 127534,
-            "status": "STARTED",
-            "startTime": "2025-05-30T00:00:00.000Z",
-            "endDate": "2025-06-01T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127534_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 195,
-                    "name": "Portugal",
-                    "shortName": "POR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
-                    "color": "#43663b"
-                },
-                {
-                    "id": 23,
-                    "name": "Belgium",
-                    "shortName": "BEL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
-                    "color": "#b3a91d"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127534_english_hls_26115adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Gandhinagar Lions vs Sabarmati Strikers",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Chiripal T20 Premier League",
@@ -411,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127048_english_hls_57342adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Portugal vs Belgium",
+            "tournament": "ECN Mdina Cup T20I, 2025",
+            "short_name": "ECN Mdina",
+            "match_id": 127534,
+            "status": "STARTED",
+            "startTime": "2025-05-30T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127534_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 195,
+                    "name": "Portugal",
+                    "shortName": "POR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-POT@2x.png",
+                    "color": "#43663b"
+                },
+                {
+                    "id": 23,
+                    "name": "Belgium",
+                    "shortName": "BEL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+                    "color": "#b3a91d"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127534_english_hls_26115adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
