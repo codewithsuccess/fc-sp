@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:05:02 AM 01-06-2025",
+    "last_updated": "08:10:01 AM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "St Kitts vs Antigua and Barbuda",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127427,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127427_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11480,
-                    "name": "St Kitts",
-                    "shortName": "STK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
-                    "color": "#005B29"
-                },
-                {
-                    "id": 11479,
-                    "name": "Antigua and Barbuda",
-                    "shortName": "ATG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "color": "#014D00"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127427_english_hls_57612adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Baseball",
             "title": "Arizona Diamondbacks vs Washington Nationals",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VAN@2x.png",
                     "color": "#5A98D6"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Jasmine Paolini vs Elina Svitolina",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126896,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126896_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10447,
+                    "name": "Jasmine Paolini",
+                    "shortName": "Paolini",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10635,
+                    "name": "Elina Svitolina",
+                    "shortName": "Svitolina",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
+                    "color": "#B8142D"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
