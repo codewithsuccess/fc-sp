@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:05:01 AM 02-06-2025",
+    "last_updated": "12:10:01 AM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -383,37 +383,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Real Oviedo vs C\u00e1diz",
-            "tournament": "LALIGA HYPERMOTION 2024-25",
-            "short_name": "LALIGA HYPERMOTION",
-            "match_id": 127687,
-            "status": "STARTED",
-            "startTime": "2024-08-18T00:00:00.000Z",
-            "endDate": "2025-05-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127687_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3904,
-                    "name": "Real Oviedo",
-                    "shortName": "ROV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
-                    "color": "#094ca1"
-                },
-                {
-                    "id": 2571,
-                    "name": "C\u00e1diz",
-                    "shortName": "CDZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
-                    "color": "#abc"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127687_english_hls_46475adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Golf",
             "title": "Main Feed - Day 4",
             "tournament": "The Memorial Tournament Presented By Workday",
@@ -659,6 +628,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127685_english_hls_79325adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Real Oviedo vs C\u00e1diz",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "short_name": "LALIGA HYPERMOTION",
+            "match_id": 127687,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-05-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127687_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3904,
+                    "name": "Real Oviedo",
+                    "shortName": "ROV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ROV@2x.png",
+                    "color": "#094ca1"
+                },
+                {
+                    "id": 2571,
+                    "name": "C\u00e1diz",
+                    "shortName": "CDZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CDZ@2x.png",
+                    "color": "#abc"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127687_english_hls_46475adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
