@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:05:01 PM 01-06-2025",
+    "last_updated": "04:10:04 PM 01-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 12,
-    "upcoming_matches": 2,
+    "live_matches": 11,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Tennis",
@@ -166,37 +166,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Imola",
-            "match_id": 127637,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-09-07T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127637_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 8594,
-                    "name": "Race",
-                    "shortName": "POR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#06a355"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127637_english_hls_98306adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Tennis",
             "title": "Garcia/Parry vs Andreeva/Shnaider",
             "tournament": "Roland Garros 2025",
@@ -291,6 +260,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Asian Kings vs American Strikers",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127452,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127452_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11485,
+                    "name": "Asian Kings",
+                    "shortName": "ASK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "color": "#615853"
+                },
+                {
+                    "id": 11484,
+                    "name": "American Strikers",
+                    "shortName": "AMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "color": "#0a419d"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Kottayam vs Wayanad",
             "tournament": "Kerala Mens T20 Challenger Trophy",
             "short_name": "NSK T20",
@@ -353,37 +353,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Phoenix vs Bucharest Gladiators",
-            "tournament": "ECS Romania, 2025",
-            "short_name": "ECS Romania",
-            "match_id": 127748,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-01T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127748_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11396,
-                    "name": "Phoenix",
-                    "shortName": "PHO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "color": "#0D3870"
-                },
-                {
-                    "id": 3558,
-                    "name": "Bucharest Gladiators",
-                    "shortName": "BUG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
-                    "color": "#d19805"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127748_english_hls_99116adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Gandhinagar Lions vs Sabarmati Strikers",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Chiripal T20 Premier League",
@@ -411,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127766_english_hls_73725adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Phoenix vs Bucharest Gladiators",
+            "tournament": "ECS Romania, 2025",
+            "short_name": "ECS Romania",
+            "match_id": 127748,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127748_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11396,
+                    "name": "Phoenix",
+                    "shortName": "PHO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 3558,
+                    "name": "Bucharest Gladiators",
+                    "shortName": "BUG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "color": "#d19805"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127748_english_hls_99116adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
