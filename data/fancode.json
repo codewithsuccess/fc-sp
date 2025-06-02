@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:10:01 PM 02-06-2025",
+    "last_updated": "03:15:07 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 7,
-    "upcoming_matches": 4,
+    "total_matches": 12,
+    "live_matches": 10,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Tennis",
@@ -70,6 +70,68 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125529_english_hls_76132adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Scotland vs Nepal",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 127238,
+            "status": "STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127238_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
+                },
+                {
+                    "id": 181,
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "color": "#0f266e"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127238_english_hls_5489adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Indian Warriors vs Trans Titans",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127453,
+            "status": "STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127453_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11481,
+                    "name": "Indian Warriors",
+                    "shortName": "IDW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "color": "#c24251"
+                },
+                {
+                    "id": 11483,
+                    "name": "Trans Titans",
+                    "shortName": "TRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "color": "#ca9341"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127453_english_hls_43455adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -163,68 +225,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Scotland vs Nepal",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 127238,
-            "status": "NOT_STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127238_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                },
-                {
-                    "id": 181,
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "color": "#0f266e"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Indian Warriors vs Trans Titans",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127453,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127453_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11481,
-                    "name": "Indian Warriors",
-                    "shortName": "IDW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "color": "#c24251"
-                },
-                {
-                    "id": 11483,
-                    "name": "Trans Titans",
-                    "shortName": "TRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "color": "#ca9341"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -349,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127693_english_hls_48830adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Heritage City Titans vs Gandhinagar Lions",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Chiripal T20 Premier League",
+            "match_id": 127768,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127768_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11543,
+                    "name": "Heritage City Titans",
+                    "shortName": "HCT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "color": "#b39a3d"
+                },
+                {
+                    "id": 11542,
+                    "name": "Gandhinagar Lions",
+                    "shortName": "GNL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "color": "#026493"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127768_english_hls_70470adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
