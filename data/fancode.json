@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:05:01 AM 03-06-2025",
+    "last_updated": "12:10:01 AM 03-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 7,
-    "upcoming_matches": 6,
+    "live_matches": 5,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Tennis",
@@ -291,11 +291,42 @@
         },
         {
             "category": "Cricket",
+            "title": "West Indies A vs South Africa A",
+            "tournament": "South Africa A tour of West Indies, 2025",
+            "short_name": "WI-A vs SA-A",
+            "match_id": 125767,
+            "status": "STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 709,
+                    "name": "West Indies A",
+                    "shortName": "WI-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#c9618c"
+                },
+                {
+                    "id": 533,
+                    "name": "South Africa A",
+                    "shortName": "SA-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "color": "#53a784"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Sabarmati Strikers vs Narmada Navigators",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Chiripal T20 Premier League",
             "match_id": 127769,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-31T00:00:00.000Z",
             "endDate": "2025-06-14T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127769_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -317,7 +348,7 @@
                     "color": "#50065f"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127769_english_hls_88530adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -326,7 +357,7 @@
             "tournament": "ECS England, Hornchurch, 2025",
             "short_name": "ECS England",
             "match_id": 127697,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-06-02T00:00:00.000Z",
             "endDate": "2025-06-13T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127697_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -348,7 +379,7 @@
                     "color": "#702963"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127697_english_hls_81590adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,37 +411,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/126367_english_hls_40218adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies A vs South Africa A",
-            "tournament": "South Africa A tour of West Indies, 2025",
-            "short_name": "WI-A vs SA-A",
-            "match_id": 125767,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 709,
-                    "name": "West Indies A",
-                    "shortName": "WI-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#c9618c"
-                },
-                {
-                    "id": 533,
-                    "name": "South Africa A",
-                    "shortName": "SA-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "color": "#53a784"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
