@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:30:02 PM 02-06-2025",
+    "last_updated": "07:35:07 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "total_matches": 14,
+    "live_matches": 12,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Tennis",
@@ -197,6 +197,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Tennis",
+            "title": "Arends/Johnson vs Cash/Glasspool",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 127155,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127155_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11070,
+                    "name": "Arends/Johnson",
+                    "shortName": "Arends/Johnson",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 11102,
+                    "name": "Cash/Glasspool",
+                    "shortName": "Cash/Glasspool",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Asian Kings vs Trans Titans",
             "tournament": "Intercontinental Legends Championship, 2025",
@@ -253,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Indian Warriors vs Euro Gladiators",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127456,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127456_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11481,
-                    "name": "Indian Warriors",
-                    "shortName": "IDW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "color": "#c24251"
-                },
-                {
-                    "id": 11486,
-                    "name": "Euro Gladiators",
-                    "shortName": "ERG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "color": "#532b12"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127769_english_hls_88530adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Phoenix vs Bucharest Gladiators",
+            "tournament": "ECS Romania, 2025",
+            "short_name": "ECS Romania",
+            "match_id": 127755,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127755_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11396,
+                    "name": "Phoenix",
+                    "shortName": "PHO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 3558,
+                    "name": "Bucharest Gladiators",
+                    "shortName": "BUG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "color": "#d19805"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127755_english_hls_21340adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
