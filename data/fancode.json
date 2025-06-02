@@ -1,77 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:25:01 AM 02-06-2025",
+    "last_updated": "11:30:06 AM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 3,
-    "upcoming_matches": 7,
+    "total_matches": 13,
+    "live_matches": 4,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Palakkad vs Combined Districts",
-            "tournament": "Kerala Mens T20 Challenger Trophy",
-            "short_name": "NSK T20",
-            "match_id": 125528,
-            "status": "STARTED",
-            "startTime": "2025-05-16T00:00:00.000Z",
-            "endDate": "2025-06-02T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125528_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 6300,
-                    "name": "Palakkad",
-                    "shortName": "PAL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
-                    "color": "#b78c4c"
-                },
-                {
-                    "id": 6294,
-                    "name": "Combined Districts",
-                    "shortName": "CDS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
-                    "color": "#F8D141"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125528_english_hls_22308adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Western Warriors vs Southern Hitters",
-            "tournament": "MCA Super Series Men's 50 Overs, 2025",
-            "short_name": "MCA Super Series",
-            "match_id": 127042,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127042_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5948,
-                    "name": "Western Warriors",
-                    "shortName": "WW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
-                    "color": "#ce9435"
-                },
-                {
-                    "id": 5435,
-                    "name": "Southern Hitters",
-                    "shortName": "SOH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
-                    "color": "#c0222b"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127042_english_hls_73578adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Scotland vs Nepal",
@@ -287,6 +225,161 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Ekaterina Alexandrova vs Coco Gauff",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126891,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126891_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10542,
+                    "name": "Ekaterina Alexandrova",
+                    "shortName": "Alexandrova",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10664,
+                    "name": "Coco Gauff",
+                    "shortName": "Gauff",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Salisbury/Skupski vs Borges/Rinderknech",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 127158,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127158_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11073,
+                    "name": "Salisbury/Skupski",
+                    "shortName": "Salisbury/Skupski",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 11431,
+                    "name": "Borges/Rinderknech",
+                    "shortName": "Borges/Rinderknech",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#FF0000"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Palakkad vs Combined Districts",
+            "tournament": "Kerala Mens T20 Challenger Trophy",
+            "short_name": "NSK T20",
+            "match_id": 125528,
+            "status": "STARTED",
+            "startTime": "2025-05-16T00:00:00.000Z",
+            "endDate": "2025-06-02T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125528_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6300,
+                    "name": "Palakkad",
+                    "shortName": "PAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PALA@2x.png",
+                    "color": "#b78c4c"
+                },
+                {
+                    "id": 6294,
+                    "name": "Combined Districts",
+                    "shortName": "CDS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COM@2x.png",
+                    "color": "#F8D141"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125528_english_hls_22308adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bliss Warriors vs Phoenix",
+            "tournament": "ECS Romania, 2025",
+            "short_name": "ECS Romania",
+            "match_id": 127751,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127751_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11395,
+                    "name": "Bliss Warriors",
+                    "shortName": "BWR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWR-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWR-CR1@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 11396,
+                    "name": "Phoenix",
+                    "shortName": "PHO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "color": "#0D3870"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127751_english_hls_76746adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Western Warriors vs Southern Hitters",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127042,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127042_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5948,
+                    "name": "Western Warriors",
+                    "shortName": "WW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "color": "#ce9435"
+                },
+                {
+                    "id": 5435,
+                    "name": "Southern Hitters",
+                    "shortName": "SOH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHTI@2x.png",
+                    "color": "#c0222b"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127042_english_hls_73578adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
