@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:50:05 PM 02-06-2025",
+    "last_updated": "09:55:01 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 8,
-    "upcoming_matches": 4,
+    "live_matches": 7,
+    "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Tennis",
-            "title": "Cameron Norrie vs Novak Djokovic",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126768,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126768_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10070,
-                    "name": "Cameron Norrie",
-                    "shortName": "Norrie",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10189,
-                    "name": "Novak Djokovic",
-                    "shortName": "Djokovic",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Scotland vs Nepal",
@@ -291,6 +260,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Asian Kings vs American Strikers",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127452,
+            "status": "COMPLETED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127452_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11485,
+                    "name": "Asian Kings",
+                    "shortName": "ASK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASK@2x.png",
+                    "color": "#615853"
+                },
+                {
+                    "id": 11484,
+                    "name": "American Strikers",
+                    "shortName": "AMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMS@2x.png",
+                    "color": "#0a419d"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Sabarmati Strikers vs Narmada Navigators",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Chiripal T20 Premier League",
@@ -322,37 +322,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Phoenix vs Bucharest Gladiators",
-            "tournament": "ECS Romania, 2025",
-            "short_name": "ECS Romania",
-            "match_id": 127755,
-            "status": "STARTED",
-            "startTime": "2025-05-26T00:00:00.000Z",
-            "endDate": "2025-06-01T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127755_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11396,
-                    "name": "Phoenix",
-                    "shortName": "PHO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
-                    "color": "#0D3870"
-                },
-                {
-                    "id": 3558,
-                    "name": "Bucharest Gladiators",
-                    "shortName": "BUG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
-                    "color": "#d19805"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127755_english_hls_21340adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "West Indies A vs South Africa A",
             "tournament": "South Africa A tour of West Indies, 2025",
             "short_name": "WI-A vs SA-A",
@@ -380,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Phoenix vs Bucharest Gladiators",
+            "tournament": "ECS Romania, 2025",
+            "short_name": "ECS Romania",
+            "match_id": 127755,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-01T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127755_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11396,
+                    "name": "Phoenix",
+                    "shortName": "PHO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PHO-CR1@2x.png",
+                    "color": "#0D3870"
+                },
+                {
+                    "id": 3558,
+                    "name": "Bucharest Gladiators",
+                    "shortName": "BUG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BC@2x.png",
+                    "color": "#d19805"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127755_english_hls_21340adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
