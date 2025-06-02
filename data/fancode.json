@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:15:01 PM 02-06-2025",
+    "last_updated": "07:20:07 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 9,
-    "upcoming_matches": 4,
+    "total_matches": 14,
+    "live_matches": 12,
+    "upcoming_matches": 2,
     "matches": [
+        {
+            "category": "Tennis",
+            "title": "Cameron Norrie vs Novak Djokovic",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126768,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126768_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10070,
+                    "name": "Cameron Norrie",
+                    "shortName": "Norrie",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10189,
+                    "name": "Novak Djokovic",
+                    "shortName": "Djokovic",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Scotland vs Nepal",
@@ -70,6 +101,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127453_english_hls_43455adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Euro Gladiators vs African Lions",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127454,
+            "status": "STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127454_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11486,
+                    "name": "Euro Gladiators",
+                    "shortName": "ERG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "color": "#532b12"
+                },
+                {
+                    "id": 11482,
+                    "name": "African Lions",
+                    "shortName": "AFL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "color": "#0e773c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127454_english_hls_67156adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -163,68 +225,6 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/WXZSUDTrR_qEtB80K6n8fg/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Cameron Norrie vs Novak Djokovic",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126768,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126768_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10070,
-                    "name": "Cameron Norrie",
-                    "shortName": "Norrie",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10189,
-                    "name": "Novak Djokovic",
-                    "shortName": "Djokovic",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-SER@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Euro Gladiators vs African Lions",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127454,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127454_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11486,
-                    "name": "Euro Gladiators",
-                    "shortName": "ERG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "color": "#532b12"
-                },
-                {
-                    "id": 11482,
-                    "name": "African Lions",
-                    "shortName": "AFL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
-                    "color": "#0e773c"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127695_english_hls_65558adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sabarmati Strikers vs Narmada Navigators",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Chiripal T20 Premier League",
+            "match_id": 127769,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127769_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11544,
+                    "name": "Sabarmati Strikers",
+                    "shortName": "SSK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSK@2x.png",
+                    "color": "#031c4a"
+                },
+                {
+                    "id": 11541,
+                    "name": "Narmada Navigators",
+                    "shortName": "NNV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
+                    "color": "#50065f"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127769_english_hls_88530adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
