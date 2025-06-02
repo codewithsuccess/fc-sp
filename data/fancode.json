@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:00:01 PM 02-06-2025",
+    "last_updated": "11:05:01 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 7,
-    "upcoming_matches": 5,
+    "live_matches": 6,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -70,37 +70,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127454_english_hls_67156adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Alexander Bublik vs Jack Draper",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126770,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126770_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10133,
-                    "name": "Alexander Bublik",
-                    "shortName": "Bublik",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-KAZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-KAZ@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10073,
-                    "name": "Jack Draper",
-                    "shortName": "Draper",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-GBR@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/rim5HfGeSVWCfnD_0YwbPA/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
                     "color": "#572700"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Tennis",
+            "title": "Olmos/Glasspool vs Zhang/Arevalo",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 127101,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127101_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11517,
+                    "name": "Olmos/Glasspool",
+                    "shortName": "Olmos/Glasspool",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#FF0000"
+                },
+                {
+                    "id": 11520,
+                    "name": "Zhang/Arevalo",
+                    "shortName": "Zhang/Arevalo",
+                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
+                    "color": "#FF0000"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
