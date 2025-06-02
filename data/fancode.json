@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:10:01 PM 02-06-2025",
+    "last_updated": "05:15:01 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 9,
-    "upcoming_matches": 3,
+    "live_matches": 8,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Tennis",
@@ -101,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127453_english_hls_43455adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Rakhimova/Siskova vs Begu/Wickmayer",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127223,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127223_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11465,
-                    "name": "Rakhimova/Siskova",
-                    "shortName": "Rakhimova/Siskova",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 11521,
-                    "name": "Begu/Wickmayer",
-                    "shortName": "Begu/Wickmayer",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trans Titans vs African Lions",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127451,
+            "status": "COMPLETED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127451_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11483,
+                    "name": "Trans Titans",
+                    "shortName": "TRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
+                    "color": "#ca9341"
+                },
+                {
+                    "id": 11482,
+                    "name": "African Lions",
+                    "shortName": "AFL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AFL@2x.png",
+                    "color": "#0e773c"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
