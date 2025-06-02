@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:35:01 PM 02-06-2025",
+    "last_updated": "09:40:01 PM 02-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "live_matches": 9,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Tennis",
@@ -101,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127454_english_hls_67156adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Arends/Johnson vs Cash/Glasspool",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127155,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127155_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11070,
-                    "name": "Arends/Johnson",
-                    "shortName": "Arends/Johnson",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 11102,
-                    "name": "Cash/Glasspool",
-                    "shortName": "Cash/Glasspool",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/Y6jP_z0zQdaO-bhFCEf5EQ/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
                     "color": "#532b12"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Glamorgan vs Surrey",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125902,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125902_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 362,
+                    "name": "Glamorgan",
+                    "shortName": "GLA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "color": "#528c3d"
+                },
+                {
+                    "id": 370,
+                    "name": "Surrey",
+                    "shortName": "SUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
+                    "color": "#572700"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
