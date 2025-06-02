@@ -1,44 +1,75 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:00:01 AM 03-06-2025",
+    "last_updated": "02:05:03 AM 03-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
-    "upcoming_matches": 8,
+    "total_matches": 9,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
-            "category": "Tennis",
-            "title": "Jannik Sinner vs Andrey Rublev",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126771,
+            "category": "Cricket",
+            "title": "West Indies A vs South Africa A",
+            "tournament": "South Africa A tour of West Indies, 2025",
+            "short_name": "WI-A vs SA-A",
+            "match_id": 125767,
             "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126771_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 10104,
-                    "name": "Jannik Sinner",
-                    "shortName": "Sinner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
+                    "id": 709,
+                    "name": "West Indies A",
+                    "shortName": "WI-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#c9618c"
                 },
                 {
-                    "id": 10183,
-                    "name": "Andrey Rublev",
-                    "shortName": "Rublev",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "color": "#B8142D"
+                    "id": 533,
+                    "name": "South Africa A",
+                    "shortName": "SA-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "color": "#53a784"
                 }
             ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Kuwait Swedish vs Kuwait Emerging Stars",
+            "tournament": "KCC T10 Elite League, 2025",
+            "short_name": "KCC T10 Elite League",
+            "match_id": 126367,
+            "status": "STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126367_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5327,
+                    "name": "Kuwait Swedish",
+                    "shortName": "KS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
+                    "color": "#2125DA"
+                },
+                {
+                    "id": 9116,
+                    "name": "Kuwait Emerging Stars",
+                    "shortName": "KMS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
+                    "color": "#6ECB51"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126367_english_hls_40218adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -256,99 +287,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Elina Svitolina vs Iga Swiatek",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126889,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126889_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10635,
-                    "name": "Elina Svitolina",
-                    "shortName": "Svitolina",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-UKR@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10515,
-                    "name": "Iga Swiatek",
-                    "shortName": "Swiatek",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-POL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-POL@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies A vs South Africa A",
-            "tournament": "South Africa A tour of West Indies, 2025",
-            "short_name": "WI-A vs SA-A",
-            "match_id": 125767,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 709,
-                    "name": "West Indies A",
-                    "shortName": "WI-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#c9618c"
-                },
-                {
-                    "id": 533,
-                    "name": "South Africa A",
-                    "shortName": "SA-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "color": "#53a784"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Kuwait Swedish vs Kuwait Emerging Stars",
-            "tournament": "KCC T10 Elite League, 2025",
-            "short_name": "KCC T10 Elite League",
-            "match_id": 126367,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-04T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126367_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 5327,
-                    "name": "Kuwait Swedish",
-                    "shortName": "KS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KUSW@2x.png",
-                    "color": "#2125DA"
-                },
-                {
-                    "id": 9116,
-                    "name": "Kuwait Emerging Stars",
-                    "shortName": "KMS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR1@2x.png",
-                    "color": "#6ECB51"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126367_english_hls_40218adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
