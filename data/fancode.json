@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:45:03 AM 03-06-2025",
+    "last_updated": "08:50:12 AM 03-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Japan Women vs Mongolia Women",
-            "tournament": "Japan Women\u2019s Sano International Trophy",
-            "short_name": "Japan Womens Sano",
-            "match_id": 125089,
-            "status": "STARTED",
-            "startTime": "2025-06-03T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125089_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3229,
-                    "name": "Japan Women",
-                    "shortName": "JPN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png",
-                    "color": "#9a0009"
-                },
-                {
-                    "id": 7443,
-                    "name": "Mongolia Women",
-                    "shortName": "MGL-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MONG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MONG@2x.png",
-                    "color": "#2D66AB"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/125089_english_hls_64378adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Malappuram vs Combined Districts",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125530_english_hls_80320adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers vs New York Mets",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 124642,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124642_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
+                },
+                {
+                    "id": 2345,
+                    "name": "New York Mets",
+                    "shortName": "NYM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "color": "#002d71"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/124642_english_hls_41608adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -290,34 +290,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers vs New York Mets",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 124642,
+            "category": "Live events",
+            "title": "Day 6",
+            "tournament": "Dream UTT Juniors",
+            "short_name": "Dream UTT Juniors",
+            "match_id": 127514,
             "status": "STARTED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/124642_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-08T20:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127514_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 2342,
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "color": "#77c0f6"
+                    "id": 11491,
+                    "name": "Day 6",
+                    "shortName": "UTT JR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "color": "#B8142D"
                 },
                 {
-                    "id": 2345,
-                    "name": "New York Mets",
-                    "shortName": "NYM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
-                    "color": "#002d71"
+                    "id": 6236,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "color": "#FFFFFF"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/124642_english_hls_41608adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127514_english_hls_47811adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
