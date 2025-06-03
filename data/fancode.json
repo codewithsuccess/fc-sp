@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:01 AM 04-06-2025",
+    "last_updated": "03:35:01 AM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,37 +10,6 @@
     "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Nevis vs Virgin Islands",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127433,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127433_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11478,
-                    "name": "Nevis",
-                    "shortName": "NVS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
-                    "color": "#64070E"
-                },
-                {
-                    "id": 11476,
-                    "name": "Virgin Islands",
-                    "shortName": "VIS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "color": "#141A5F"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127433_english_hls_38590adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Combined Islands vs St Kitts",
@@ -70,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127432_english_hls_34686adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nevis vs Virgin Islands",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127433,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127433_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11478,
+                    "name": "Nevis",
+                    "shortName": "NVS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
+                    "color": "#64070E"
+                },
+                {
+                    "id": 11476,
+                    "name": "Virgin Islands",
+                    "shortName": "VIS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "color": "#141A5F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127433_english_hls_38590adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
