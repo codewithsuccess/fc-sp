@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:00:02 PM 03-06-2025",
+    "last_updated": "04:05:03 PM 03-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
+    "total_matches": 15,
     "live_matches": 9,
-    "upcoming_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Tennis",
@@ -343,9 +343,9 @@
                     "id": 11412,
                     "name": "Zimbabwe HPC Women",
                     "shortName": "ZHC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png",
-                    "color": "#f9eb01"
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "color": "#d2c622"
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127325_english_hls_82786adfreeta-di_h264/index.m3u8",
@@ -357,7 +357,7 @@
             "tournament": "ECS England, Hornchurch, 2025",
             "short_name": "ECS England",
             "match_id": 127698,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-06-02T00:00:00.000Z",
             "endDate": "2025-06-13T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127698_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -379,7 +379,7 @@
                     "color": "#702963"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127698_english_hls_2544adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -411,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127758_english_hls_5857adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sharks Cricket Academy vs Markhor London",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "short_name": "ECS England",
+            "match_id": 127699,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127699_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11531,
+                    "name": "Sharks Cricket Academy",
+                    "shortName": "SCA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "color": "#DFE4EE"
+                },
+                {
+                    "id": 11532,
+                    "name": "Markhor London",
+                    "shortName": "MKL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
+                    "color": "#702963"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127699_english_hls_28571adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
