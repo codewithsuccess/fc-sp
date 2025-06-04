@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:40:04 AM 04-06-2025",
+    "last_updated": "06:45:04 AM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125091_english_hls_25813adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Strikers vs Western Warriors",
+            "tournament": "MCA Super Series Men's 50 Overs, 2025",
+            "short_name": "MCA Super Series",
+            "match_id": 127044,
+            "status": "STARTED",
+            "startTime": "2025-05-26T00:00:00.000Z",
+            "endDate": "2025-06-04T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127044_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 5434,
+                    "name": "Northern Strikers",
+                    "shortName": "NS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NSTR@2x.png",
+                    "color": "#13759c"
+                },
+                {
+                    "id": 5948,
+                    "name": "Western Warriors",
+                    "shortName": "WW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WEWR@2x.png",
+                    "color": "#ce9435"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127044_english_hls_96531adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -252,37 +283,6 @@
                     "shortName": "Eikeri/Hozumi",
                     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
                     "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Mirra Andreeva vs Lois Boisson",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126888,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126888_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 10557,
-                    "name": "Mirra Andreeva",
-                    "shortName": "Andreeva",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-RUS@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10389,
-                    "name": "Lois Boisson",
-                    "shortName": "Boisson",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-FRA@2x.png",
                     "color": "#B8142D"
                 }
             ],
