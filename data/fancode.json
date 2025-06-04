@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:00:07 PM 04-06-2025",
+    "last_updated": "06:05:02 PM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 12,
+    "total_matches": 15,
+    "live_matches": 13,
     "upcoming_matches": 2,
     "matches": [
         {
@@ -442,6 +442,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127763_english_hls_73158adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Markhor London vs Rainham",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "short_name": "ECS England",
+            "match_id": 127705,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127705_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11532,
+                    "name": "Markhor London",
+                    "shortName": "MKL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
+                    "color": "#702963"
+                },
+                {
+                    "id": 11533,
+                    "name": "Rainham",
+                    "shortName": "RNH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
+                    "color": "#FFFF8F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127705_english_hls_85015adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
