@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:10:01 PM 04-06-2025",
+    "last_updated": "07:15:02 PM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 12,
-    "upcoming_matches": 2,
+    "live_matches": 13,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Football",
@@ -135,6 +135,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Euro Gladiators vs Indian Warriors",
+            "tournament": "Intercontinental Legends Championship, 2025",
+            "short_name": "ILC 2025",
+            "match_id": 127458,
+            "status": "STARTED",
+            "startTime": "2025-05-27T00:00:00.000Z",
+            "endDate": "2025-06-05T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127458_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11486,
+                    "name": "Euro Gladiators",
+                    "shortName": "ERG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
+                    "color": "#532b12"
+                },
+                {
+                    "id": 11481,
+                    "name": "Indian Warriors",
+                    "shortName": "IDW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
+                    "color": "#c24251"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127458_english_hls_1850adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Tennis",
             "title": "Mirra Andreeva vs Lois Boisson",
             "tournament": "Roland Garros 2025",
@@ -229,37 +260,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Euro Gladiators vs Indian Warriors",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127458,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127458_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11486,
-                    "name": "Euro Gladiators",
-                    "shortName": "ERG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ERG@2x.png",
-                    "color": "#532b12"
-                },
-                {
-                    "id": 11481,
-                    "name": "Indian Warriors",
-                    "shortName": "IDW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "color": "#c24251"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Dindigul Dragons vs Lyca Kovai Kings",
             "tournament": "Shriram Capital TNPL",
             "short_name": "Shriram Capital TNPL",
@@ -287,37 +287,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Narmada Navigators vs Gandhinagar Lions",
-            "tournament": "Cricket Premier League, 2025",
-            "short_name": "Cricket Premier League",
-            "match_id": 127770,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127770_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11541,
-                    "name": "Narmada Navigators",
-                    "shortName": "NNV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
-                    "color": "#50065f"
-                },
-                {
-                    "id": 11542,
-                    "name": "Gandhinagar Lions",
-                    "shortName": "GNL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
-                    "color": "#026493"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127770_english_hls_83238adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -442,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127705_english_hls_85015adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies A vs South Africa A",
+            "tournament": "South Africa A tour of West Indies, 2025",
+            "short_name": "WI-A vs SA-A",
+            "match_id": 125767,
+            "status": "STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 709,
+                    "name": "West Indies A",
+                    "shortName": "WI-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#c9618c"
+                },
+                {
+                    "id": 533,
+                    "name": "South Africa A",
+                    "shortName": "SA-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "color": "#53a784"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
