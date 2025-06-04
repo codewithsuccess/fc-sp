@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:05:02 PM 04-06-2025",
+    "last_updated": "08:10:07 PM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 13,
-    "upcoming_matches": 2,
+    "total_matches": 14,
+    "live_matches": 11,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Tennis",
@@ -42,34 +42,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Thailand vs India",
-            "tournament": "International Friendlies",
-            "short_name": "International Friendlies",
-            "match_id": 127957,
+            "category": "Cricket",
+            "title": "England Women vs West Indies Women",
+            "tournament": "West Indies Women tour of England, 2025",
+            "short_name": "ENG-W vs WI-W",
+            "match_id": 126225,
             "status": "STARTED",
-            "startTime": "2023-03-23T00:59:00.000Z",
-            "endDate": "2025-12-31T00:29:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127957_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-07T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126225_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 1058,
-                    "name": "Thailand",
-                    "shortName": "THA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/THL-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/THL-FT1@2x.png",
-                    "color": "#948faa"
+                    "id": 646,
+                    "name": "England Women",
+                    "shortName": "EN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
                 },
                 {
-                    "id": 935,
-                    "name": "India",
-                    "shortName": "IND",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
-                    "color": "#0f60de"
+                    "id": 647,
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#91033c"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127957_english_hls_70892adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -101,37 +101,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127239_english_hls_53538adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "England Women vs West Indies Women",
-            "tournament": "West Indies Women tour of England, 2025",
-            "short_name": "ENG-W vs WI-W",
-            "match_id": 126225,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-07T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126225_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 646,
-                    "name": "England Women",
-                    "shortName": "EN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "color": "#3c9ae8"
-                },
-                {
-                    "id": 647,
-                    "name": "West Indies Women",
-                    "shortName": "WI-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#91033c"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -290,6 +259,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Australia vs Japan",
+            "tournament": "FIFA World Cup Asian Qualifiers",
+            "short_name": "FIFA WC Asian Qualifiers",
+            "match_id": 127823,
+            "status": "NOT_STARTED",
+            "startTime": "2023-11-16T00:00:00.000Z",
+            "endDate": "2026-05-31T18:25:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127823_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 379,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+                    "color": "#4d66a3"
+                },
+                {
+                    "id": 398,
+                    "name": "Japan",
+                    "shortName": "JPN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+                    "color": "#d04c6c"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Brazil Women vs Nigeria Women",
             "tournament": "Kwibuka Women's T20I Tournament, 2025",
@@ -349,37 +349,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127331_english_hls_59777adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Markhor London vs Rainham",
-            "tournament": "ECS England, Hornchurch, 2025",
-            "short_name": "ECS England",
-            "match_id": 127705,
-            "status": "STARTED",
-            "startTime": "2025-06-02T00:00:00.000Z",
-            "endDate": "2025-06-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127705_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11532,
-                    "name": "Markhor London",
-                    "shortName": "MKL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MKL-CR1@2x.png",
-                    "color": "#702963"
-                },
-                {
-                    "id": 11533,
-                    "name": "Rainham",
-                    "shortName": "RNH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
-                    "color": "#FFFF8F"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127705_english_hls_85015adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
