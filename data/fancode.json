@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:35:02 PM 04-06-2025",
+    "last_updated": "08:40:01 PM 04-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 12,
-    "upcoming_matches": 3,
+    "total_matches": 14,
+    "live_matches": 10,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Tennis",
@@ -295,7 +295,7 @@
             "tournament": "South Africa A tour of West Indies, 2025",
             "short_name": "WI-A vs SA-A",
             "match_id": 125767,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-21T00:00:00.000Z",
             "endDate": "2025-06-11T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125767_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -317,38 +317,7 @@
                     "color": "#53a784"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/125767_english_hls_12640adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Brazil Women vs Nigeria Women",
-            "tournament": "Kwibuka Women's T20I Tournament, 2025",
-            "short_name": "Kwibuka-W T20I",
-            "match_id": 127330,
-            "status": "STARTED",
-            "startTime": "2025-06-03T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127330_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 3232,
-                    "name": "Brazil Women",
-                    "shortName": "BRA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
-                    "color": "#bcbcbc"
-                },
-                {
-                    "id": 3191,
-                    "name": "Nigeria Women",
-                    "shortName": "NIG-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-                    "color": "#408000"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127330_english_hls_36956adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
