@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:02 PM 05-06-2025",
+    "last_updated": "11:35:07 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 19,
-    "live_matches": 18,
-    "upcoming_matches": 1,
+    "live_matches": 17,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Cricket",
@@ -42,37 +42,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Trans Titans vs Indian Warriors",
-            "tournament": "Intercontinental Legends Championship, 2025",
-            "short_name": "ILC 2025",
-            "match_id": 127459,
-            "status": "COMPLETED",
-            "startTime": "2025-05-27T00:00:00.000Z",
-            "endDate": "2025-06-05T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127459_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11483,
-                    "name": "Trans Titans",
-                    "shortName": "TRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRT@2x.png",
-                    "color": "#ca9341"
-                },
-                {
-                    "id": 11481,
-                    "name": "Indian Warriors",
-                    "shortName": "IDW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IDW@2x.png",
-                    "color": "#c24251"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Bahrain vs Saudi Arabia",
             "tournament": "FIFA World Cup Asian Qualifiers",
@@ -101,68 +70,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127824_english_hls_79171adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "United Arab Emirates vs Uzbekistan",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "short_name": "FIFA WC Asian Qualifiers",
-            "match_id": 127831,
-            "status": "STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127831_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1057,
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
-                    "color": "#ff8585"
-                },
-                {
-                    "id": 1059,
-                    "name": "Uzbekistan",
-                    "shortName": "UZB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-                    "color": "#8dcfec"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127831_english_hls_38641adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Oman vs Jordan",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "short_name": "FIFA WC Asian Qualifiers",
-            "match_id": 127829,
-            "status": "STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127829_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1064,
-                    "name": "Oman",
-                    "shortName": "OMN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
-                    "color": "#f44d4d"
-                },
-                {
-                    "id": 1067,
-                    "name": "Jordan",
-                    "shortName": "JOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
-                    "color": "#ea4c5c"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127829_english_hls_5131adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -290,34 +197,96 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Karnavati Kings vs Gandhinagar Lions",
-            "tournament": "Cricket Premier League, 2025",
-            "short_name": "Cricket Premier League",
-            "match_id": 127773,
+            "category": "Football",
+            "title": "Oman vs Jordan",
+            "tournament": "FIFA World Cup Asian Qualifiers",
+            "short_name": "FIFA WC Asian Qualifiers",
+            "match_id": 127829,
             "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127773_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2023-11-16T00:00:00.000Z",
+            "endDate": "2026-05-31T18:25:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127829_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 11540,
-                    "name": "Karnavati Kings",
-                    "shortName": "KVK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "color": "#292e6e"
+                    "id": 1064,
+                    "name": "Oman",
+                    "shortName": "OMN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/OMN-FT1@2x.png",
+                    "color": "#f44d4d"
                 },
                 {
-                    "id": 11542,
-                    "name": "Gandhinagar Lions",
-                    "shortName": "GNL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
-                    "color": "#026493"
+                    "id": 1067,
+                    "name": "Jordan",
+                    "shortName": "JOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/JOR-FT1@2x.png",
+                    "color": "#ea4c5c"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127773_english_hls_1482adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127829_english_hls_5131adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "United Arab Emirates vs Uzbekistan",
+            "tournament": "FIFA World Cup Asian Qualifiers",
+            "short_name": "FIFA WC Asian Qualifiers",
+            "match_id": 127831,
+            "status": "STARTED",
+            "startTime": "2023-11-16T00:00:00.000Z",
+            "endDate": "2026-05-31T18:25:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127831_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1057,
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
+                    "color": "#ff8585"
+                },
+                {
+                    "id": 1059,
+                    "name": "Uzbekistan",
+                    "shortName": "UZB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
+                    "color": "#8dcfec"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127831_english_hls_38641adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bharat Rangers vs NECO Master Blaster",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "short_name": "Vidarbha Pro T20 League",
+            "match_id": 128162,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128162_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11564,
+                    "name": "Bharat Rangers",
+                    "shortName": "BHR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "color": "#d0993f"
+                },
+                {
+                    "id": 11562,
+                    "name": "NECO Master Blaster",
+                    "shortName": "NMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
+                    "color": "#ff1a00"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -597,6 +566,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124645_english_hls_66498adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Karnavati Kings vs Gandhinagar Lions",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Cricket Premier League",
+            "match_id": 127773,
+            "status": "COMPLETED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127773_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11540,
+                    "name": "Karnavati Kings",
+                    "shortName": "KVK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "color": "#292e6e"
+                },
+                {
+                    "id": 11542,
+                    "name": "Gandhinagar Lions",
+                    "shortName": "GNL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "color": "#026493"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
