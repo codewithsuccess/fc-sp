@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:55:03 AM 06-06-2025",
+    "last_updated": "01:00:05 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 12,
+    "total_matches": 18,
+    "live_matches": 14,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -352,6 +352,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Chennai Kings CA vs Royal Lions CC",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125402,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125402_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9318,
+                    "name": "Chennai Kings CA",
+                    "shortName": "CHK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+                    "color": "#f7b716"
+                },
+                {
+                    "id": 8317,
+                    "name": "Royal Lions CC",
+                    "shortName": "RLC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "color": "#a66676"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125402_english_hls_1371adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Main Feed - Day 1",
             "tournament": "RBC Canadian Open",
@@ -504,6 +535,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128308_english_hls_34717adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "San Francisco Giants vs San Diego Padres",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128345,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128345_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2349,
+                    "name": "San Francisco Giants",
+                    "shortName": "SFG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "color": "#581a02"
+                },
+                {
+                    "id": 2348,
+                    "name": "San Diego Padres",
+                    "shortName": "SDP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "color": "#ffb700"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128345_english_hls_59921adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
