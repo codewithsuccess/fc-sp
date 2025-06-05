@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:10:01 AM 06-06-2025",
+    "last_updated": "12:15:05 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 15,
-    "upcoming_matches": 3,
+    "total_matches": 20,
+    "live_matches": 16,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -166,37 +166,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "United Arab Emirates vs Uzbekistan",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "short_name": "FIFA WC Asian Qualifiers",
-            "match_id": 127831,
-            "status": "STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127831_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1057,
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png",
-                    "color": "#ff8585"
-                },
-                {
-                    "id": 1059,
-                    "name": "Uzbekistan",
-                    "shortName": "UZB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
-                    "color": "#8dcfec"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127831_english_hls_38641adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Bharat Rangers vs NECO Master Blaster",
             "tournament": "Vidarbha Pro T20 League, 2025",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
                     "color": "#FFE68C"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Orange Tigers vs Nagpur Heroz",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "short_name": "Vidarbha Pro T20 League",
+            "match_id": 128163,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128163_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11565,
+                    "name": "Orange Tigers",
+                    "shortName": "ORT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
+                    "color": "#904104"
+                },
+                {
+                    "id": 11566,
+                    "name": "Nagpur Heroz",
+                    "shortName": "NAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
+                    "color": "#47b7ff"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127436_english_hls_82143adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "St Kitts vs Virgin Islands",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127435,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127435_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11480,
+                    "name": "St Kitts",
+                    "shortName": "STK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "color": "#005B29"
+                },
+                {
+                    "id": 11476,
+                    "name": "Virgin Islands",
+                    "shortName": "VIS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "color": "#141A5F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127435_english_hls_92245adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -566,6 +597,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/124645_english_hls_66498adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "World Feed - Day 1",
+            "tournament": "RBC Canadian Open",
+            "short_name": "RBC Canadian Open",
+            "match_id": 128308,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-08T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128308_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11571,
+                    "name": "World Feed - Day 1",
+                    "shortName": "RCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
+                    "color": "#0061AC"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128308_english_hls_34717adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
