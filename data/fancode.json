@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:30:02 PM 05-06-2025",
+    "last_updated": "02:35:03 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 3,
+    "total_matches": 11,
+    "live_matches": 4,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127708_english_hls_91706adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Pagariya Strikers vs Nagpur Titans",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "short_name": "Vidarbha Pro T20 League",
+            "match_id": 128161,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128161_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11561,
+                    "name": "Pagariya Strikers",
+                    "shortName": "PAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "color": "#8c33ba"
+                },
+                {
+                    "id": 11563,
+                    "name": "Nagpur Titans",
+                    "shortName": "NAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
+                    "color": "#034c35"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128161_english_hls_25474adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
