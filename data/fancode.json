@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:15:01 PM 05-06-2025",
+    "last_updated": "07:20:03 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 14,
+    "total_matches": 19,
+    "live_matches": 15,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127710_english_hls_54662adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Karnavati Kings vs Gandhinagar Lions",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Cricket Premier League",
+            "match_id": 127773,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127773_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11540,
+                    "name": "Karnavati Kings",
+                    "shortName": "KVK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "color": "#292e6e"
+                },
+                {
+                    "id": 11542,
+                    "name": "Gandhinagar Lions",
+                    "shortName": "GNL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GNL@2x.png",
+                    "color": "#026493"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127773_english_hls_1482adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
