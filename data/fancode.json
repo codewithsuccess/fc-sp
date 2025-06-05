@@ -1,77 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:25:01 AM 06-06-2025",
+    "last_updated": "02:30:02 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
+    "total_matches": 18,
     "live_matches": 9,
-    "upcoming_matches": 7,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Combined Islands vs Antigua and Barbuda",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127436,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127436_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11475,
-                    "name": "Combined Islands",
-                    "shortName": "CI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CI-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CI-CR1@2x.png",
-                    "color": "#191413"
-                },
-                {
-                    "id": 11479,
-                    "name": "Antigua and Barbuda",
-                    "shortName": "ATG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "color": "#014D00"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127436_english_hls_82143adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "St Kitts vs Virgin Islands",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127435,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127435_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11480,
-                    "name": "St Kitts",
-                    "shortName": "STK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
-                    "color": "#005B29"
-                },
-                {
-                    "id": 11476,
-                    "name": "Virgin Islands",
-                    "shortName": "VIS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
-                    "color": "#141A5F"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/127435_english_hls_92245adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Chile vs Argentina",
@@ -287,6 +225,130 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "England vs West Indies",
+            "tournament": "West Indies tour of England, 2025",
+            "short_name": "ENG vs WI",
+            "match_id": 126354,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-10T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126354_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1537,
+                    "name": "England",
+                    "shortName": "ENG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
+                },
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Paraguay vs Uruguay",
+            "tournament": "CONMEBOL World Cup Qualifiers",
+            "short_name": "Conmebol WC Qualifiers",
+            "match_id": 127945,
+            "status": "NOT_STARTED",
+            "startTime": "2023-09-02T00:59:00.000Z",
+            "endDate": "2026-05-30T18:26:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127945_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 517,
+                    "name": "Paraguay",
+                    "shortName": "PAR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PARU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PARU@2x.png",
+                    "color": "#008b03"
+                },
+                {
+                    "id": 407,
+                    "name": "Uruguay",
+                    "shortName": "URU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-URG@2x.png",
+                    "color": "#2354b5"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Combined Islands vs Antigua and Barbuda",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127436,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127436_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11475,
+                    "name": "Combined Islands",
+                    "shortName": "CI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CI-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CI-CR1@2x.png",
+                    "color": "#191413"
+                },
+                {
+                    "id": 11479,
+                    "name": "Antigua and Barbuda",
+                    "shortName": "ATG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
+                    "color": "#014D00"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127436_english_hls_82143adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "St Kitts vs Virgin Islands",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127435,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127435_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11480,
+                    "name": "St Kitts",
+                    "shortName": "STK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "color": "#005B29"
+                },
+                {
+                    "id": 11476,
+                    "name": "Virgin Islands",
+                    "shortName": "VIS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VIS-CR1@2x.png",
+                    "color": "#141A5F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127435_english_hls_92245adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
