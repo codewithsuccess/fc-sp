@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:00:01 PM 05-06-2025",
+    "last_updated": "06:05:04 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 12,
+    "total_matches": 19,
+    "live_matches": 13,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -380,6 +380,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127335_english_hls_25916adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sharks Cricket Academy vs Rainham",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "short_name": "ECS England",
+            "match_id": 127710,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127710_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11531,
+                    "name": "Sharks Cricket Academy",
+                    "shortName": "SCA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "color": "#DFE4EE"
+                },
+                {
+                    "id": 11533,
+                    "name": "Rainham",
+                    "shortName": "RNH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RNH-CR1@2x.png",
+                    "color": "#FFFF8F"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127710_english_hls_54662adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
