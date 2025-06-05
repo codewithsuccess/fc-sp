@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:20:04 PM 05-06-2025",
+    "last_updated": "04:25:04 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 7,
-    "upcoming_matches": 8,
+    "total_matches": 14,
+    "live_matches": 8,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128161_english_hls_25474adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Australia vs Japan",
+            "tournament": "FIFA World Cup Asian Qualifiers",
+            "short_name": "FIFA WC Asian Qualifiers",
+            "match_id": 127823,
+            "status": "STARTED",
+            "startTime": "2023-11-16T00:00:00.000Z",
+            "endDate": "2026-05-31T18:25:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127823_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 379,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
+                    "color": "#4d66a3"
+                },
+                {
+                    "id": 398,
+                    "name": "Japan",
+                    "shortName": "JPN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
+                    "color": "#d04c6c"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127823_english_hls_60546adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -167,37 +198,6 @@
         },
         {
             "category": "Football",
-            "title": "Australia vs Japan",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "short_name": "FIFA WC Asian Qualifiers",
-            "match_id": 127823,
-            "status": "NOT_STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127823_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 379,
-                    "name": "Australia",
-                    "shortName": "AUS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-AUS@2x.png",
-                    "color": "#4d66a3"
-                },
-                {
-                    "id": 398,
-                    "name": "Japan",
-                    "shortName": "JPN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-                    "color": "#d04c6c"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Indonesia vs China PR",
             "tournament": "FIFA World Cup Asian Qualifiers",
             "short_name": "FIFA WC Asian Qualifiers",
@@ -284,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UB@2x.png",
                     "color": "#8dcfec"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Uganda Women vs Zimbabwe HPC Women",
-            "tournament": "Kwibuka Women's T20I Tournament, 2025",
-            "short_name": "Kwibuka-W T20I",
-            "match_id": 127332,
-            "status": "COMPLETED",
-            "startTime": "2025-06-03T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127332_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 939,
-                    "name": "Uganda Women",
-                    "shortName": "UG-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
-                    "color": "#677166"
-                },
-                {
-                    "id": 11412,
-                    "name": "Zimbabwe HPC Women",
-                    "shortName": "ZHC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "color": "#d2c622"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
