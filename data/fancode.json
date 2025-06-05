@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:25:01 PM 05-06-2025",
+    "last_updated": "10:30:04 PM 05-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 19,
-    "live_matches": 16,
-    "upcoming_matches": 3,
+    "live_matches": 17,
+    "upcoming_matches": 2,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Dindigul Dragons vs Lyca Kovai Kings",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126528,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-07-06T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126528_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 682,
-                    "name": "Dindigul Dragons",
-                    "shortName": "DD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "color": "#AA7B7C"
-                },
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/126528_english_hls_16578adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Tennis",
             "title": "Lois Boisson vs Coco Gauff",
@@ -70,6 +39,68 @@
                 }
             ],
             "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Middlesex vs Kent",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125905,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125905_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 366,
+                    "name": "Middlesex",
+                    "shortName": "MID",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "color": "#2d4475"
+                },
+                {
+                    "id": 296,
+                    "name": "Kent",
+                    "shortName": "KET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "color": "#843961"
+                }
+            ],
+            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Dindigul Dragons vs Lyca Kovai Kings",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126528,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-07-06T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126528_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 682,
+                    "name": "Dindigul Dragons",
+                    "shortName": "DD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "color": "#AA7B7C"
+                },
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/126528_english_hls_16578adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -250,37 +281,6 @@
                     "id": 10712,
                     "name": "Errani/Paolini",
                     "shortName": "Errani/Paolini",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Danilina/Krunic vs Eikeri/Hozumi",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 127233,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127233_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11469,
-                    "name": "Danilina/Krunic",
-                    "shortName": "Danilina/Krunic",
-                    "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 10918,
-                    "name": "Eikeri/Hozumi",
-                    "shortName": "Eikeri/Hozumi",
                     "logo": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
                     "flag": "https://www.fancode.com/skillup-uploads/cms-media/Doubles_Default.png",
                     "color": "#B8142D"
