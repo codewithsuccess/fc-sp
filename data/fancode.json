@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:45:01 AM 06-06-2025",
+    "last_updated": "08:50:04 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -39,6 +39,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125095_english_hls_9068adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Live events",
+            "title": "Day 9",
+            "tournament": "Dream UTT Juniors",
+            "short_name": "Dream UTT Juniors",
+            "match_id": 127517,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-08T20:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127517_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11491,
+                    "name": "Day 9",
+                    "shortName": "UTT JR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-UTT@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 6236,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127517_english_hls_62055adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -253,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Colombia vs Peru",
-            "tournament": "CONMEBOL World Cup Qualifiers",
-            "short_name": "Conmebol WC Qualifiers",
-            "match_id": 127947,
-            "status": "NOT_STARTED",
-            "startTime": "2023-09-02T00:59:00.000Z",
-            "endDate": "2026-05-30T18:26:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127947_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 385,
-                    "name": "Colombia",
-                    "shortName": "COL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
-                    "color": "#e4c01a"
-                },
-                {
-                    "id": 514,
-                    "name": "Peru",
-                    "shortName": "PER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
-                    "color": "#c21414"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
