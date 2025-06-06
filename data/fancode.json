@@ -1,46 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:55:01 AM 07-06-2025",
+    "last_updated": "03:00:02 AM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 9,
-    "upcoming_matches": 7,
+    "total_matches": 15,
+    "live_matches": 7,
+    "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "England vs West Indies",
-            "tournament": "West Indies tour of England, 2025",
-            "short_name": "ENG vs WI",
-            "match_id": 126354,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-06-10T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126354_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1537,
-                    "name": "England",
-                    "shortName": "ENG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "color": "#3c9ae8"
-                },
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                }
-            ],
-            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Colombia vs Peru",
@@ -166,37 +135,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Venezuela vs Bolivia",
-            "tournament": "CONMEBOL World Cup Qualifiers",
-            "short_name": "Conmebol WC Qualifiers",
-            "match_id": 128481,
-            "status": "NOT_STARTED",
-            "startTime": "2023-09-02T00:59:00.000Z",
-            "endDate": "2026-05-30T18:26:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128481_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 518,
-                    "name": "Venezuela",
-                    "shortName": "VEN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
-                    "color": "#456cd3"
-                },
-                {
-                    "id": 515,
-                    "name": "Bolivia",
-                    "shortName": "BOL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
-                    "color": "#DAAA3D"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Nellai Royal Kings vs Trichy Grand Cholas",
             "tournament": "Shriram Capital TNPL",
@@ -222,6 +160,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "color": "#C2920B"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Venezuela vs Bolivia",
+            "tournament": "CONMEBOL World Cup Qualifiers",
+            "short_name": "Conmebol WC Qualifiers",
+            "match_id": 128481,
+            "status": "NOT_STARTED",
+            "startTime": "2023-09-02T00:59:00.000Z",
+            "endDate": "2026-05-30T18:26:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128481_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 518,
+                    "name": "Venezuela",
+                    "shortName": "VEN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-VEN@2x.png",
+                    "color": "#456cd3"
+                },
+                {
+                    "id": 515,
+                    "name": "Bolivia",
+                    "shortName": "BOL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BOLV@2x.png",
+                    "color": "#DAAA3D"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
@@ -290,6 +259,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Tennis",
+            "title": "Aryna Sabalenka vs Coco Gauff",
+            "tournament": "Roland Garros 2025",
+            "short_name": "French Open",
+            "match_id": 126884,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-25T00:00:00.000Z",
+            "endDate": "2025-06-08T18:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126884_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 10298,
+                    "name": "Aryna Sabalenka",
+                    "shortName": "Sabalenka",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-BER@2x.png",
+                    "color": "#B8142D"
+                },
+                {
+                    "id": 10664,
+                    "name": "Coco Gauff",
+                    "shortName": "Gauff",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-USA@2x.png",
+                    "color": "#B8142D"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "MEC Study Group vs Chennai Kings CA",
             "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
@@ -318,37 +318,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125411_english_hls_43127adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Main Feed - Day 2",
-            "tournament": "RBC Canadian Open",
-            "short_name": "RBC Canadian Open",
-            "match_id": 128314,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-08T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128314_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11571,
-                    "name": "Main Feed - Day 2",
-                    "shortName": "RCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
-                    "color": "#0061AC"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/128314_english_hls_26452adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
