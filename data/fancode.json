@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:20:02 PM 06-06-2025",
+    "last_updated": "10:25:05 PM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 12,
-    "upcoming_matches": 5,
+    "total_matches": 18,
+    "live_matches": 14,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -140,7 +140,7 @@
             "tournament": "Roland Garros 2025",
             "short_name": "French Open",
             "match_id": 126759,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-25T00:00:00.000Z",
             "endDate": "2025-06-08T18:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126759_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -162,7 +162,7 @@
                     "color": "#B8142D"
                 }
             ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -535,6 +535,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128047_english_hls_38784adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Tampa Bay Rays vs Miami Marlins",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128346,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128346_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 2334,
+                    "name": "Tampa Bay Rays",
+                    "shortName": "TAB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "color": "#4173b8"
+                },
+                {
+                    "id": 2343,
+                    "name": "Miami Marlins",
+                    "shortName": "MM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
+                    "color": "#38758d"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128346_english_hls_29787adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
