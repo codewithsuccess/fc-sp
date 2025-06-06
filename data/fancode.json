@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:55:01 PM 06-06-2025",
+    "last_updated": "09:00:03 PM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 11,
+    "total_matches": 17,
+    "live_matches": 12,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127716_english_hls_16666adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Cochin Hurricanes vs Al Mulla Exchange - B",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125410,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125410_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6454,
+                    "name": "Cochin Hurricanes",
+                    "shortName": "COH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "color": "#b92317"
+                },
+                {
+                    "id": 7980,
+                    "name": "Al Mulla Exchange - B",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "color": "#1AC98D"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125410_english_hls_23655adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
