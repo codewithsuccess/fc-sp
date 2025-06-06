@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:10:01 AM 06-06-2025",
+    "last_updated": "09:15:03 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Thunder Cats vs Ai Octopus Challengers",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125408,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125408_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 9012,
+                    "name": "Thunder Cats",
+                    "shortName": "THN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "color": "#ea4848"
+                },
+                {
+                    "id": 7441,
+                    "name": "Ai Octopus Challengers",
+                    "shortName": "AIOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ACO@2x.png",
+                    "color": "#7cc4ba"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125408_english_hls_80137adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Live events",
             "title": "Day 9",
@@ -253,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Colombia vs Peru",
-            "tournament": "CONMEBOL World Cup Qualifiers",
-            "short_name": "Conmebol WC Qualifiers",
-            "match_id": 127947,
-            "status": "NOT_STARTED",
-            "startTime": "2023-09-02T00:59:00.000Z",
-            "endDate": "2026-05-30T18:26:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127947_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 385,
-                    "name": "Colombia",
-                    "shortName": "COL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
-                    "color": "#e4c01a"
-                },
-                {
-                    "id": 514,
-                    "name": "Peru",
-                    "shortName": "PER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
-                    "color": "#c21414"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
