@@ -1,15 +1,46 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:10:01 AM 06-06-2025",
+    "last_updated": "06:15:05 AM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 10,
-    "live_matches": 2,
-    "upcoming_matches": 8,
+    "live_matches": 3,
+    "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Football",
+            "title": "Chile vs Argentina",
+            "tournament": "CONMEBOL World Cup Qualifiers",
+            "short_name": "Conmebol WC Qualifiers",
+            "match_id": 127946,
+            "status": "STARTED",
+            "startTime": "2023-09-02T00:59:00.000Z",
+            "endDate": "2026-05-30T18:26:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127946_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 384,
+                    "name": "Chile",
+                    "shortName": "CHI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHIL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHIL@2x.png",
+                    "color": "#d23421"
+                },
+                {
+                    "id": 378,
+                    "name": "Argentina",
+                    "shortName": "ARG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
+                    "color": "#68b8f4"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127946_english_hls_79465adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Football",
             "title": "Paraguay vs Uruguay",
@@ -39,37 +70,6 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127945_english_hls_77055adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Chile vs Argentina",
-            "tournament": "CONMEBOL World Cup Qualifiers",
-            "short_name": "Conmebol WC Qualifiers",
-            "match_id": 127946,
-            "status": "NOT_STARTED",
-            "startTime": "2023-09-02T00:59:00.000Z",
-            "endDate": "2026-05-30T18:26:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127946_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 384,
-                    "name": "Chile",
-                    "shortName": "CHI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHIL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHIL@2x.png",
-                    "color": "#d23421"
-                },
-                {
-                    "id": 378,
-                    "name": "Argentina",
-                    "shortName": "ARG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARGT@2x.png",
-                    "color": "#68b8f4"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
