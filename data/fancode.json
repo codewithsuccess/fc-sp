@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:55:02 PM 06-06-2025",
+    "last_updated": "05:00:08 PM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 12,
+    "total_matches": 19,
+    "live_matches": 14,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -352,6 +352,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Nigeria Women vs Rwanda Women",
+            "tournament": "Kwibuka Women's T20I Tournament, 2025",
+            "short_name": "Kwibuka-W T20I",
+            "match_id": 127339,
+            "status": "STARTED",
+            "startTime": "2025-06-03T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127339_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3191,
+                    "name": "Nigeria Women",
+                    "shortName": "NIG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+                    "color": "#408000"
+                },
+                {
+                    "id": 3234,
+                    "name": "Rwanda Women",
+                    "shortName": "RWA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+                    "color": "#88c1ff"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127339_english_hls_62248adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Main Feed - Day 2",
             "tournament": "RBC Canadian Open",
@@ -535,6 +566,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128316_english_hls_78836adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Marquee Group - Day 2",
+            "tournament": "RBC Canadian Open",
+            "short_name": "RBC Canadian Open",
+            "match_id": 128315,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-08T18:15:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128315_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11571,
+                    "name": "Marquee Group - Day 2",
+                    "shortName": "RCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RCO@2x.png",
+                    "color": "#0061AC"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128315_english_hls_85181adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
