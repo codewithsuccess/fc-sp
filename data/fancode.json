@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:40:02 AM 07-06-2025",
+    "last_updated": "01:45:07 AM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 16,
-    "live_matches": 10,
-    "upcoming_matches": 6,
+    "live_matches": 11,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -101,6 +101,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125908_english_hls_40359adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Colombia vs Peru",
+            "tournament": "CONMEBOL World Cup Qualifiers",
+            "short_name": "Conmebol WC Qualifiers",
+            "match_id": 127947,
+            "status": "STARTED",
+            "startTime": "2023-09-02T00:59:00.000Z",
+            "endDate": "2026-05-30T18:26:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127947_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 385,
+                    "name": "Colombia",
+                    "shortName": "COL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COLM@2x.png",
+                    "color": "#e4c01a"
+                },
+                {
+                    "id": 514,
+                    "name": "Peru",
+                    "shortName": "PER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PERU@2x.png",
+                    "color": "#c21414"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127947_english_hls_96484adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -253,37 +284,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#91033c"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Anmol Kings Halar vs Aryan Sorath Lions",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128183,
-            "status": "NOT_STARTED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128183_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1186,
-                    "name": "Anmol Kings Halar",
-                    "shortName": "AKH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "color": "#f60e11"
-                },
-                {
-                    "id": 1184,
-                    "name": "Aryan Sorath Lions",
-                    "shortName": "ASL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "color": "#2798cc"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
