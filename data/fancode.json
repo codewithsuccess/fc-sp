@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:40:02 PM 06-06-2025",
+    "last_updated": "09:45:06 PM 06-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 12,
-    "upcoming_matches": 6,
+    "live_matches": 13,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -105,6 +105,37 @@
         },
         {
             "category": "Cricket",
+            "title": "Worcestershire vs Northamptonshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125907,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125907_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 372,
+                    "name": "Worcestershire",
+                    "shortName": "WOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "color": "#116030"
+                },
+                {
+                    "id": 295,
+                    "name": "Northamptonshire",
+                    "shortName": "NOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
+                    "color": "#912854"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125907_english_hls_46458adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Dindigul Dragons vs Lyca Kovai Kings",
             "tournament": "Shriram Capital TNPL",
             "short_name": "TNPL",
@@ -160,37 +191,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "color": "#C2920B"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Worcestershire vs Northamptonshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125907,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125907_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                },
-                {
-                    "id": 295,
-                    "name": "Northamptonshire",
-                    "shortName": "NOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "color": "#912854"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
