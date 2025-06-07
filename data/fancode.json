@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:20:02 PM 07-06-2025",
+    "last_updated": "07:25:05 PM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 15,
+    "total_matches": 21,
+    "live_matches": 17,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -411,6 +411,68 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128336_english_hls_76539adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sabarmati Strikers vs Heritage City Titans",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Cricket Premier League",
+            "match_id": 127775,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127775_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11544,
+                    "name": "Sabarmati Strikers",
+                    "shortName": "SSK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSK@2x.png",
+                    "color": "#031c4a"
+                },
+                {
+                    "id": 11543,
+                    "name": "Heritage City Titans",
+                    "shortName": "HCT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "color": "#b39a3d"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127775_english_hls_3010adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Academy vs Sri Lanka Emerging",
+            "tournament": "Sri Lanka Emerging tour of West Indies",
+            "short_name": "WI-A vs SL-A",
+            "match_id": 128402,
+            "status": "STARTED",
+            "startTime": "2025-06-07T00:00:00.000Z",
+            "endDate": "2025-06-26T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128402_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6451,
+                    "name": "West Indies Academy",
+                    "shortName": "WIC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 1294,
+                    "name": "Sri Lanka Emerging",
+                    "shortName": "SL-ET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128402_english_hls_23885adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
