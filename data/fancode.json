@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:25:05 PM 07-06-2025",
+    "last_updated": "07:30:04 PM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -135,6 +135,37 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Pagariya Strikers vs Bharat Rangers",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "short_name": "Vidarbha Pro T20 League",
+            "match_id": 128165,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128165_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11561,
+                    "name": "Pagariya Strikers",
+                    "shortName": "PAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "color": "#8c33ba"
+                },
+                {
+                    "id": 11564,
+                    "name": "Bharat Rangers",
+                    "shortName": "BHR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "color": "#d0993f"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/128165_english_hls_76407adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "MotoGP",
             "title": "Day 2",
             "tournament": "GRAN PREMIO GoPro DE ARAG\u00d3N",
@@ -260,42 +291,11 @@
         },
         {
             "category": "Cricket",
-            "title": "Pagariya Strikers vs Bharat Rangers",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "short_name": "Vidarbha Pro T20 League",
-            "match_id": 128165,
-            "status": "NOT_STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128165_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11561,
-                    "name": "Pagariya Strikers",
-                    "shortName": "PAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "color": "#8c33ba"
-                },
-                {
-                    "id": 11564,
-                    "name": "Bharat Rangers",
-                    "shortName": "BHR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "color": "#d0993f"
-                }
-            ],
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Ahmedabad Arrows vs Karnavati Kings",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Cricket Premier League",
             "match_id": 127774,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "2025-05-31T00:00:00.000Z",
             "endDate": "2025-06-14T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127774_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -317,7 +317,7 @@
                     "color": "#292e6e"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/127774_english_hls_621adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
