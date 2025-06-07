@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:10:02 PM 07-06-2025",
+    "last_updated": "09:15:02 PM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 14,
-    "upcoming_matches": 4,
+    "live_matches": 13,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -135,37 +135,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Anmol Kings Halar vs Aryan Sorath Lions",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128183,
-            "status": "STARTED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128183_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 1186,
-                    "name": "Anmol Kings Halar",
-                    "shortName": "AKH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "color": "#f60e11"
-                },
-                {
-                    "id": 1184,
-                    "name": "Aryan Sorath Lions",
-                    "shortName": "ASL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "color": "#2798cc"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/128183_english_hls_15109adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Tennis",
             "title": "Granollers/Zeballos vs Salisbury/Skupski",
             "tournament": "Roland Garros 2025",
@@ -284,6 +253,37 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
                     "color": "#034c35"
+                }
+            ],
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "JMD Kutch Riders vs Zalawad Strikers",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128184,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-07T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128184_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 1188,
+                    "name": "JMD Kutch Riders",
+                    "shortName": "JKR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "color": "#0f7e9e"
+                },
+                {
+                    "id": 1187,
+                    "name": "Zalawad Strikers",
+                    "shortName": "ZWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "color": "#4558d8"
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
