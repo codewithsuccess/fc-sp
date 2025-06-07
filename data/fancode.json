@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:40:03 PM 07-06-2025",
+    "last_updated": "10:45:04 PM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 20,
-    "live_matches": 14,
+    "total_matches": 21,
+    "live_matches": 15,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -411,6 +411,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128338_english_hls_62398adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Tally Rangers vs Cochin Hurricanes",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125406,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125406_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 6241,
+                    "name": "Tally Rangers",
+                    "shortName": "TCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "color": "#CC1D1C"
+                },
+                {
+                    "id": 6454,
+                    "name": "Cochin Hurricanes",
+                    "shortName": "COH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-COR@2x.png",
+                    "color": "#b92317"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/125406_english_hls_36999adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
