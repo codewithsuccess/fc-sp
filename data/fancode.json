@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:10:02 PM 07-06-2025",
+    "last_updated": "08:15:02 PM 07-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 21,
-    "live_matches": 18,
+    "total_matches": 22,
+    "live_matches": 19,
     "upcoming_matches": 3,
     "matches": [
         {
@@ -442,6 +442,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/128337_english_hls_58427adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nevis vs St Kitts",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127437,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127437_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 11478,
+                    "name": "Nevis",
+                    "shortName": "NVS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NVS-CR1@2x.png",
+                    "color": "#64070E"
+                },
+                {
+                    "id": 11480,
+                    "name": "St Kitts",
+                    "shortName": "STK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/STK-CR2@2x.png",
+                    "color": "#005B29"
+                }
+            ],
+            "adfree_stream": null,
             "dai_stream": "Coming Soon"
         },
         {
