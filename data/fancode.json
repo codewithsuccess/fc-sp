@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:45:02 AM 08-06-2025",
+    "last_updated": "03:50:01 AM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 3,
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -42,34 +42,34 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Golf",
-            "title": "Day 2",
-            "tournament": "LIV Golf Virginia",
-            "short_name": "LIV Golf Virginia",
-            "match_id": 128048,
+            "category": "Horse Racing",
+            "title": "Triple Crown: Belmont Stakes",
+            "tournament": "Triple Crown: Belmont Stakes",
+            "short_name": "Triple Crown: Belmont Stakes",
+            "match_id": 128406,
             "status": "STARTED",
-            "startTime": "2025-06-06T00:00:00.000Z",
-            "endDate": "2025-06-08T21:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128048_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "startTime": "2025-06-07T13:00:00.000Z",
+            "endDate": "2025-06-07T23:45:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128406_CASACARDS_PARTNER_16_9_1920_1080.png",
             "teams": [
                 {
-                    "id": 8056,
-                    "name": "Day 2",
-                    "shortName": "LIV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-                    "color": "#6ECB51"
+                    "id": 11576,
+                    "name": "Triple Crown: Belmont Stakes",
+                    "shortName": "TBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TBS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TBS@2x.png",
+                    "color": "#016243"
                 },
                 {
-                    "id": 5942,
+                    "id": 6128,
                     "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "shortName": "Loc",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
+                    "color": "#12345"
                 }
             ],
-            "adfree_stream": "https://dai.fancode.com/primary/128048_english_hls_86377adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/128406_english_hls_87752adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -287,37 +287,6 @@
                 }
             ],
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Horse Racing",
-            "title": "Triple Crown: Belmont Stakes",
-            "tournament": "Triple Crown: Belmont Stakes",
-            "short_name": "Triple Crown: Belmont Stakes",
-            "match_id": 128406,
-            "status": "STARTED",
-            "startTime": "2025-06-07T13:00:00.000Z",
-            "endDate": "2025-06-07T23:45:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128406_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "teams": [
-                {
-                    "id": 11576,
-                    "name": "Triple Crown: Belmont Stakes",
-                    "shortName": "TBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TBS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-TBS@2x.png",
-                    "color": "#016243"
-                },
-                {
-                    "id": 6128,
-                    "name": "Location",
-                    "shortName": "Loc",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "color": "#12345"
-                }
-            ],
-            "adfree_stream": "https://dai.fancode.com/primary/128406_english_hls_87752adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
