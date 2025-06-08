@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:12:35 PM 08-06-2025",
+    "last_updated": "07:19:36 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 28,
-    "live_matches": 19,
-    "upcoming_matches": 9,
+    "live_matches": 20,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -280,7 +280,7 @@
             "tournament": "Saurashtra Pro T20 League, 2025",
             "short_name": "Saurashtra T20",
             "match_id": 128185,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-06-07T00:00:00.000Z",
             "endDate": "2025-06-20T00:00:00.000Z",
             "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128185_CASACARDS_PARTNER_16_9_1920_1080.png",
@@ -303,8 +303,8 @@
                     "color": "#e45825"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128185_english_hls_85227adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -470,39 +470,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127651_english_hls_5868adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ahmedabad Arrows vs Narmada Navigators",
-            "tournament": "Cricket Premier League, 2025",
-            "short_name": "Cricket Premier League",
-            "match_id": 127776,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127776_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127776_5267_ABA_NNV_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 11539,
-                    "name": "Ahmedabad Arrows",
-                    "shortName": "ABA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
-                    "color": "#ef343d"
-                },
-                {
-                    "id": 11541,
-                    "name": "Narmada Navigators",
-                    "shortName": "NNV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
-                    "color": "#50065f"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127776_english_hls_95046adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -704,36 +671,69 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Golf",
-            "title": "Day 4",
-            "tournament": "KLM Open, 2025",
-            "short_name": "KLM Open",
-            "match_id": 127986,
+            "category": "Cricket",
+            "title": "Heritage City Titans vs Karnavati Kings",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Cricket Premier League",
+            "match_id": 127777,
             "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-08T18:15:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127986_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/KLM-Open-old.jpg",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127777_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
             "teams": [
                 {
-                    "id": 8735,
-                    "name": "Day 4",
-                    "shortName": "KLM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KLM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KLM@2x.png",
-                    "color": "#1B4491"
+                    "id": 11543,
+                    "name": "Heritage City Titans",
+                    "shortName": "HCT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
+                    "color": "#b39a3d"
                 },
                 {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "id": 11540,
+                    "name": "Karnavati Kings",
+                    "shortName": "KVK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "color": "#292e6e"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127986_english_hls_16317adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127777_english_hls_44497adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Academy vs Sri Lanka Emerging",
+            "tournament": "Sri Lanka Emerging tour of West Indies",
+            "short_name": "WI-A vs SL-A",
+            "match_id": 128402,
+            "status": "STARTED",
+            "startTime": "2025-06-07T00:00:00.000Z",
+            "endDate": "2025-06-26T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128402_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png",
+            "teams": [
+                {
+                    "id": 6451,
+                    "name": "West Indies Academy",
+                    "shortName": "WIC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 1294,
+                    "name": "Sri Lanka Emerging",
+                    "shortName": "SL-ET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
