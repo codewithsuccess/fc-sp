@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:45:03 PM 08-06-2025",
+    "last_updated": "12:50:03 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 11,
+    "live_matches": 3,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -318,6 +318,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/125101_english_hls_15778adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Malawi Women vs Uganda Women",
+            "tournament": "Kwibuka Women's T20I Tournament, 2025",
+            "short_name": "Kwibuka-W T20I",
+            "match_id": 127344,
+            "status": "STARTED",
+            "startTime": "2025-06-03T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127344_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 7304,
+                    "name": "Malawi Women",
+                    "shortName": "MAWW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "color": "#710000"
+                },
+                {
+                    "id": 939,
+                    "name": "Uganda Women",
+                    "shortName": "UG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UGN@2x.png",
+                    "color": "#677166"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127344_english_hls_98633adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
