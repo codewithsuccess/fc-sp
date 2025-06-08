@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:32 PM 08-06-2025",
+    "last_updated": "11:37:32 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 25,
-    "live_matches": 17,
-    "upcoming_matches": 8,
+    "live_matches": 16,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Tennis",
@@ -173,39 +173,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127241_english_hls_44339adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Anmol Kings Halar vs Dita Gohilwad Titans",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128185,
-            "status": "STARTED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128185_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128185_5287_HH_GG_fc-App.jpg",
-            "teams": [
-                {
-                    "id": 1186,
-                    "name": "Anmol Kings Halar",
-                    "shortName": "AKH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "color": "#f60e11"
-                },
-                {
-                    "id": 1185,
-                    "name": "Dita Gohilwad Titans",
-                    "shortName": "DGT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "color": "#e45825"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128185_english_hls_85227adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -400,6 +367,39 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
                     "color": "#904104"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nottinghamshire vs Worcestershire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125915,
+            "status": "COMPLETED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125915_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://images.fancode.com/aig/match/v1/125915_CASACARDS_SPORTY_APP.png",
+            "teams": [
+                {
+                    "id": 368,
+                    "name": "Nottinghamshire",
+                    "shortName": "NOT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
+                    "color": "#449438"
+                },
+                {
+                    "id": 372,
+                    "name": "Worcestershire",
+                    "shortName": "WOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "color": "#116030"
                 }
             ],
             "language": "BLOODY_SWEET",
