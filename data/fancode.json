@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:58:32 AM 09-06-2025",
+    "last_updated": "02:05:32 AM 09-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,39 @@
     "live_matches": 9,
     "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "West Indies Academy vs Sri Lanka Emerging",
+            "tournament": "Sri Lanka Emerging tour of West Indies",
+            "short_name": "WI-A vs SL-A",
+            "match_id": 128402,
+            "status": "STARTED",
+            "startTime": "2025-06-07T00:00:00.000Z",
+            "endDate": "2025-06-26T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128402_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-Sporty-match-card.png",
+            "teams": [
+                {
+                    "id": 6451,
+                    "name": "West Indies Academy",
+                    "shortName": "WIC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 1294,
+                    "name": "Sri Lanka Emerging",
+                    "shortName": "SL-ET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128402_english_hls_42689adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "West Indies A vs South Africa A",
@@ -41,39 +74,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/125768_english_hls_12674adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Antigua and Barbuda vs Anguilla",
-            "tournament": "Leeward Islands T20, 2025",
-            "short_name": "Leeward Islands T20",
-            "match_id": 127441,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127441_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-app.jpg",
-            "teams": [
-                {
-                    "id": 11479,
-                    "name": "Antigua and Barbuda",
-                    "shortName": "ATG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
-                    "color": "#014D00"
-                },
-                {
-                    "id": 11477,
-                    "name": "Anguilla",
-                    "shortName": "AGU",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
-                    "color": "#915300"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127441_english_hls_6771adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -243,39 +243,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Nottinghamshire vs Worcestershire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125915,
-            "status": "COMPLETED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125915_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://images.fancode.com/aig/match/v1/125915_CASACARDS_SPORTY_APP.png",
-            "teams": [
-                {
-                    "id": 368,
-                    "name": "Nottinghamshire",
-                    "shortName": "NOT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
-                    "color": "#449438"
-                },
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Orange Tigers vs Nagpur Titans",
             "tournament": "Vidarbha Pro T20 League, 2025",
             "short_name": "Vidarbha Pro T20 League",
@@ -309,35 +276,68 @@
         },
         {
             "category": "Cricket",
-            "title": "West Indies Academy vs Sri Lanka Emerging",
-            "tournament": "Sri Lanka Emerging tour of West Indies",
-            "short_name": "WI-A vs SL-A",
-            "match_id": 128402,
-            "status": "STARTED",
+            "title": "JMD Kutch Riders vs Zalawad Strikers",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128184,
+            "status": "COMPLETED",
             "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-26T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128402_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128184_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128184_5287_KW_ZR_fc-App.jpg",
             "teams": [
                 {
-                    "id": 6451,
-                    "name": "West Indies Academy",
-                    "shortName": "WIC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-                    "color": "#CB1414"
+                    "id": 1188,
+                    "name": "JMD Kutch Riders",
+                    "shortName": "JKR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "color": "#0f7e9e"
                 },
                 {
-                    "id": 1294,
-                    "name": "Sri Lanka Emerging",
-                    "shortName": "SL-ET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "color": "#164fad"
+                    "id": 1187,
+                    "name": "Zalawad Strikers",
+                    "shortName": "ZWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "color": "#4558d8"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Antigua and Barbuda vs Anguilla",
+            "tournament": "Leeward Islands T20, 2025",
+            "short_name": "Leeward Islands T20",
+            "match_id": 127441,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127441_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127431_5249_ATG_AGU_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 11479,
+                    "name": "Antigua and Barbuda",
+                    "shortName": "ATG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ATG-CR1@2x.png",
+                    "color": "#014D00"
+                },
+                {
+                    "id": 11477,
+                    "name": "Anguilla",
+                    "shortName": "AGU",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/AGU-CR1@2x.png",
+                    "color": "#915300"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128402_english_hls_42689adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/127441_english_hls_6771adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
