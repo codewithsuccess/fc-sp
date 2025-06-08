@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:10:01 PM 08-06-2025",
+    "last_updated": "03:15:05 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 10,
-    "upcoming_matches": 8,
+    "total_matches": 19,
+    "live_matches": 12,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -176,6 +176,39 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Scotland vs Nepal",
+            "tournament": "ICC CWC League 2, 2023-27",
+            "short_name": "ICC CWC League 2",
+            "match_id": 127241,
+            "status": "STARTED",
+            "startTime": "2024-02-15T00:00:00.000Z",
+            "endDate": "2027-01-08T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127241_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://images.fancode.com/aig/match/v1/127241_CASACARDS_SPORTY_APP.png",
+            "teams": [
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
+                },
+                {
+                    "id": 181,
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "color": "#0f266e"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127241_english_hls_44339adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Tennis",
             "title": "Danilina/Krunic vs Errani/Paolini",
             "tournament": "Roland Garros 2025",
@@ -334,39 +367,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
                     "color": "#EE0000"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Scotland vs Nepal",
-            "tournament": "ICC CWC League 2, 2023-27",
-            "short_name": "ICC CWC League 2",
-            "match_id": 127241,
-            "status": "NOT_STARTED",
-            "startTime": "2024-02-15T00:00:00.000Z",
-            "endDate": "2027-01-08T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127241_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://images.fancode.com/aig/match/v1/127241_CASACARDS_SPORTY_APP.png",
-            "teams": [
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                },
-                {
-                    "id": 181,
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "color": "#0f266e"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -602,6 +602,39 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127651_english_hls_5868adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ahmedabad Arrows vs Narmada Navigators",
+            "tournament": "Cricket Premier League, 2025",
+            "short_name": "Cricket Premier League",
+            "match_id": 127776,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127776_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127776_5267_ABA_NNV_fc-web.jpg",
+            "teams": [
+                {
+                    "id": 11539,
+                    "name": "Ahmedabad Arrows",
+                    "shortName": "ABA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
+                    "color": "#ef343d"
+                },
+                {
+                    "id": 11541,
+                    "name": "Narmada Navigators",
+                    "shortName": "NNV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NNV@2x.png",
+                    "color": "#50065f"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127776_english_hls_95046adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
