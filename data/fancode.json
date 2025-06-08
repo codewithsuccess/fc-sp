@@ -1,145 +1,79 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:32 AM 09-06-2025",
+    "last_updated": "12:30:32 AM 09-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 23,
-    "live_matches": 12,
-    "upcoming_matches": 11,
+    "total_matches": 18,
+    "live_matches": 11,
+    "upcoming_matches": 7,
     "matches": [
         {
-            "category": "Tennis",
-            "title": "Jannik Sinner vs Carlos Alcaraz",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126757,
+            "category": "Cricket",
+            "title": "West Indies A vs South Africa A",
+            "tournament": "South Africa A tour of West Indies, 2025",
+            "short_name": "WI-A vs SA-A",
+            "match_id": 125768,
             "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126757_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Carlos_Sporty_match-card.jpg",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-11T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125768_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-sporty.png",
             "teams": [
                 {
-                    "id": 10104,
-                    "name": "Jannik Sinner",
-                    "shortName": "Sinner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
+                    "id": 709,
+                    "name": "West Indies A",
+                    "shortName": "WI-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#c9618c"
                 },
                 {
-                    "id": 10021,
-                    "name": "Carlos Alcaraz",
-                    "shortName": "Alcaraz",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "color": "#B8142D"
+                    "id": 533,
+                    "name": "South Africa A",
+                    "shortName": "SA-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
+                    "color": "#53a784"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/yGxR-xztTQi4dkEj1x5Qjw/master.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/125768_english_hls_12674adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Tennis",
-            "title": "Jannik Sinner vs Carlos Alcaraz",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126757,
+            "category": "Cricket",
+            "title": "GAT vs SBS CC",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125407,
             "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126757_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Carlos_Sporty_match-card.jpg",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125407_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-app.jpg",
             "teams": [
                 {
-                    "id": 10104,
-                    "name": "Jannik Sinner",
-                    "shortName": "Sinner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
+                    "id": 7438,
+                    "name": "GAT",
+                    "shortName": "GAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
+                    "color": "#c5ca4a"
                 },
                 {
-                    "id": 10021,
-                    "name": "Carlos Alcaraz",
-                    "shortName": "Alcaraz",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "color": "#B8142D"
+                    "id": 7440,
+                    "name": "SBS CC",
+                    "shortName": "SBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
+                    "color": "#ae3c22"
                 }
             ],
-            "language": "HINDI",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/fE5fgIpRRwiue-26GG4XmA/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Jannik Sinner vs Carlos Alcaraz",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126757,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126757_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Carlos_Sporty_match-card.jpg",
-            "teams": [
-                {
-                    "id": 10104,
-                    "name": "Jannik Sinner",
-                    "shortName": "Sinner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10021,
-                    "name": "Carlos Alcaraz",
-                    "shortName": "Alcaraz",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/fl9QYciWQzGorh7RYdUx2Q/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Tennis",
-            "title": "Jannik Sinner vs Carlos Alcaraz",
-            "tournament": "Roland Garros 2025",
-            "short_name": "French Open",
-            "match_id": 126757,
-            "status": "STARTED",
-            "startTime": "2025-05-25T00:00:00.000Z",
-            "endDate": "2025-06-08T18:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126757_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Roland-Garros_Sinner_v_Carlos_Sporty_match-card.jpg",
-            "teams": [
-                {
-                    "id": 10104,
-                    "name": "Jannik Sinner",
-                    "shortName": "Sinner",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ITA@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 10021,
-                    "name": "Carlos Alcaraz",
-                    "shortName": "Alcaraz",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/FC-ESP@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "language": "TELUGU",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/1I2inQFKTc6hWKkkGtjkog/master.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125407_english_hls_85694adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -371,105 +305,6 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "JMD Kutch Riders vs Zalawad Strikers",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128184,
-            "status": "COMPLETED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128184_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128184_5287_KW_ZR_fc-App.jpg",
-            "teams": [
-                {
-                    "id": 1188,
-                    "name": "JMD Kutch Riders",
-                    "shortName": "JKR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "color": "#0f7e9e"
-                },
-                {
-                    "id": 1187,
-                    "name": "Zalawad Strikers",
-                    "shortName": "ZWS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
-                    "color": "#4558d8"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies A vs South Africa A",
-            "tournament": "South Africa A tour of West Indies, 2025",
-            "short_name": "WI-A vs SA-A",
-            "match_id": 125768,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-11T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125768_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-A-tour-of-West-Indies-test-old.png",
-            "teams": [
-                {
-                    "id": 709,
-                    "name": "West Indies A",
-                    "shortName": "WI-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#c9618c"
-                },
-                {
-                    "id": 533,
-                    "name": "South Africa A",
-                    "shortName": "SA-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RSA-CR1@2x.png",
-                    "color": "#53a784"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125768_english_hls_12674adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "GAT vs SBS CC",
-            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
-            "short_name": "KCC T20 Challengers A",
-            "match_id": 125407,
-            "status": "STARTED",
-            "startTime": "2025-05-12T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125407_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/125407_5188_GAT_SBS_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 7438,
-                    "name": "GAT",
-                    "shortName": "GAT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GAT@2x.png",
-                    "color": "#c5ca4a"
-                },
-                {
-                    "id": 7440,
-                    "name": "SBS CC",
-                    "shortName": "SBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png",
-                    "color": "#ae3c22"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125407_english_hls_85694adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
