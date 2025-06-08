@@ -175,7 +175,7 @@ By using or forking this project, you agree to use it **responsibly and ethicall
 
 # 🖥️ Screenshots
 <p align="center">
-  <img src="https://i.ibb.co/bRj1jTTQ/Screenshot-2025-05-08-23-20-28-888-com-genuine-leone.jpg" width="320">
+  <img src="https://i.ibb.co/Qv5JCW1y/Screenshot-2025-06-08-20-51-11.jpg" width="320">
   <img src="https://i.ibb.co/xKPZsh9J/Screenshot-2025-05-08-23-20-37-496-com-genuine-leone.jpg" width="320">
   <img src="https://i.ibb.co/Q7yBvjzJ/Screenshot-2025-05-08-23-20-41-795-com-genuine-leone.jpg" width="320">
   <img src="https://your.cdn.url/5cfabb8e-db52-4c97-a933-2cfe684940fe.png" width="320">
