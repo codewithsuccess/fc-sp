@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:00:02 PM 08-06-2025",
+    "last_updated": "01:05:03 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -349,6 +349,37 @@
                 }
             ],
             "adfree_stream": "https://dai.fancode.com/primary/127344_english_hls_98633adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Tanzania Women vs Brazil Women",
+            "tournament": "Kwibuka Women's T20I Tournament, 2025",
+            "short_name": "Kwibuka-W T20I",
+            "match_id": 127345,
+            "status": "STARTED",
+            "startTime": "2025-06-03T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127345_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "teams": [
+                {
+                    "id": 3233,
+                    "name": "Tanzania Women",
+                    "shortName": "TANW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TNZN@2x.png",
+                    "color": "#f9d94b"
+                },
+                {
+                    "id": 3232,
+                    "name": "Brazil Women",
+                    "shortName": "BRA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRA@2x.png",
+                    "color": "#bcbcbc"
+                }
+            ],
+            "adfree_stream": "https://dai.fancode.com/primary/127345_english_hls_77531adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
