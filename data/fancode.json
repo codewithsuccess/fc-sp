@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:30:02 PM 08-06-2025",
+    "last_updated": "04:35:01 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -441,39 +441,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Czechia vs Austria",
-            "tournament": "ECN Central Europe Cup T20I, 2025",
-            "short_name": "ECN Central Europe Cup",
-            "match_id": 128420,
-            "status": "STARTED",
-            "startTime": "2025-06-08T00:00:00.000Z",
-            "endDate": "2025-06-10T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128420_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png",
-            "teams": [
-                {
-                    "id": 76,
-                    "name": "Czechia",
-                    "shortName": "CZE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
-                    "color": "#074FB4"
-                },
-                {
-                    "id": 15,
-                    "name": "Austria",
-                    "shortName": "AUT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
-                    "color": "#af1b24"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128420_english_hls_80532adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Worcestershire Women vs Derbyshire Women",
             "tournament": "Women's Vitality Blast League 2, 2025",
             "short_name": "Women's Vitality Blast League 2",
@@ -602,6 +569,39 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127986_english_hls_16317adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Czechia vs Austria",
+            "tournament": "ECN Central Europe Cup T20I, 2025",
+            "short_name": "ECN Central Europe Cup",
+            "match_id": 128420,
+            "status": "STARTED",
+            "startTime": "2025-06-08T00:00:00.000Z",
+            "endDate": "2025-06-10T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128420_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Central-europe-cup-old.png",
+            "teams": [
+                {
+                    "id": 76,
+                    "name": "Czechia",
+                    "shortName": "CZE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "color": "#074FB4"
+                },
+                {
+                    "id": 15,
+                    "name": "Austria",
+                    "shortName": "AUT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUST@2x.png",
+                    "color": "#af1b24"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128420_english_hls_80532adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
