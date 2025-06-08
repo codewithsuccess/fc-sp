@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:19:33 PM 08-06-2025",
+    "last_updated": "11:26:33 PM 08-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -474,39 +474,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Heritage City Titans vs Karnavati Kings",
-            "tournament": "Cricket Premier League, 2025",
-            "short_name": "Cricket Premier League",
-            "match_id": 127777,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127777_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127777_5267_HCT_KVK_fc-web.jpg",
-            "teams": [
-                {
-                    "id": 11543,
-                    "name": "Heritage City Titans",
-                    "shortName": "HCT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HCT@2x.png",
-                    "color": "#b39a3d"
-                },
-                {
-                    "id": 11540,
-                    "name": "Karnavati Kings",
-                    "shortName": "KVK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "color": "#292e6e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127777_english_hls_44497adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Nevis vs Combined Islands",
             "tournament": "Leeward Islands T20, 2025",
             "short_name": "Leeward Islands T20",
@@ -866,6 +833,39 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128323_english_hls_13907adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Chicago White Sox vs Kansas City Royals",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128351,
+            "status": "STARTED",
+            "startTime": "2025-03-18T00:00:00.000Z",
+            "endDate": "2025-10-31T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128351_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://images.fancode.com/aig/match/v1/128351_CASACARDS_APP.png",
+            "teams": [
+                {
+                    "id": 2324,
+                    "name": "Chicago White Sox",
+                    "shortName": "CWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIW@2x.png",
+                    "color": "#336e0c"
+                },
+                {
+                    "id": 2328,
+                    "name": "Kansas City Royals",
+                    "shortName": "KCR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-KANS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-KANS@2x.png",
+                    "color": "#a98334"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://dai.fancode.com/primary/128351_english_hls_68958adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
