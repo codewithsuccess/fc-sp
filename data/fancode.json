@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:05:28 PM 09-06-2025",
+    "last_updated": "06:12:29 PM 09-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,39 +10,6 @@
     "live_matches": 6,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Nagpur Heroz vs Pagariya Strikers",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "short_name": "Vidarbha Pro T20 League",
-            "match_id": 128168,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128168_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128168_5285_NAH_PAS_fc-App.jpg",
-            "teams": [
-                {
-                    "id": 11566,
-                    "name": "Nagpur Heroz",
-                    "shortName": "NAH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
-                    "color": "#47b7ff"
-                },
-                {
-                    "id": 11561,
-                    "name": "Pagariya Strikers",
-                    "shortName": "PAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "color": "#8c33ba"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128168_english_hls_95703adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Aryan Sorath Lions vs JMD Kutch Riders",
@@ -74,6 +41,39 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128186_english_hls_33641adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nagpur Heroz vs Pagariya Strikers",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "short_name": "Vidarbha Pro T20 League",
+            "match_id": 128168,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128168_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128168_5285_NAH_PAS_fc-App.jpg",
+            "teams": [
+                {
+                    "id": 11566,
+                    "name": "Nagpur Heroz",
+                    "shortName": "NAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAH@2x.png",
+                    "color": "#47b7ff"
+                },
+                {
+                    "id": 11561,
+                    "name": "Pagariya Strikers",
+                    "shortName": "PAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
+                    "color": "#8c33ba"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128168_english_hls_95703adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -402,8 +402,8 @@
                     "color": "#DFE4EE"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "",
+            "adfree_stream": "https://dai.fancode.com/primary/127722_english_hls_77453adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
