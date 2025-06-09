@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:44:28 PM 09-06-2025",
+    "last_updated": "05:51:27 PM 09-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -342,39 +342,6 @@
         },
         {
             "category": "Cricket",
-            "title": "CFS Pinnacle Pro vs Old Brentwoods",
-            "tournament": "ECS England, Hornchurch, 2025",
-            "short_name": "ECS England",
-            "match_id": 127719,
-            "status": "STARTED",
-            "startTime": "2025-06-02T00:00:00.000Z",
-            "endDate": "2025-06-13T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127719_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3.jpg",
-            "teams": [
-                {
-                    "id": 11535,
-                    "name": "CFS Pinnacle Pro",
-                    "shortName": "CFS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
-                    "color": "#DFE4EE"
-                },
-                {
-                    "id": 11536,
-                    "name": "Old Brentwoods",
-                    "shortName": "OB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "color": "#FFFF8F"
-                }
-            ],
-            "language": "",
-            "adfree_stream": "https://dai.fancode.com/primary/127719_english_hls_5136adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Czechia vs Austria",
             "tournament": "ECN Central Europe Cup T20I, 2025",
             "short_name": "ECN Central Europe Cup",
@@ -437,6 +404,39 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128422_english_hls_20213adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "CFS Pinnacle Pro vs Old Brentwoods",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "short_name": "ECS England",
+            "match_id": 127719,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127719_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3.jpg",
+            "teams": [
+                {
+                    "id": 11535,
+                    "name": "CFS Pinnacle Pro",
+                    "shortName": "CFS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
+                    "color": "#DFE4EE"
+                },
+                {
+                    "id": 11536,
+                    "name": "Old Brentwoods",
+                    "shortName": "OB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
+                    "color": "#FFFF8F"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://dai.fancode.com/primary/127719_english_hls_5136adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
