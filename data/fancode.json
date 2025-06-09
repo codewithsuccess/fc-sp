@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:37:22 PM 09-06-2025",
+    "last_updated": "02:44:26 PM 09-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -371,6 +371,39 @@
             ],
             "language": "",
             "adfree_stream": "https://dai.fancode.com/primary/127718_english_hls_96361adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Chennai Challengers vs Hydrabad Boys",
+            "tournament": "Dreams Bigg T20 Championship, 2025",
+            "short_name": "Dreams Bigg T20 Championship",
+            "match_id": 127653,
+            "status": "STARTED",
+            "startTime": "2025-06-08T00:00:00.000Z",
+            "endDate": "2025-06-23T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127653_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
+            "teams": [
+                {
+                    "id": 11526,
+                    "name": "Chennai Challengers",
+                    "shortName": "CNN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNND@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CNND@2x.png",
+                    "color": "#dcb16b"
+                },
+                {
+                    "id": 11527,
+                    "name": "Hydrabad Boys",
+                    "shortName": "HDY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HDY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HDY@2x.png",
+                    "color": "#4fd8e7"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127653_english_hls_26720adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
