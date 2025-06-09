@@ -1,47 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:51:07 AM 10-06-2025",
+    "last_updated": "02:58:07 AM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "West Indies Academy Vs Sri Lanka Emerging",
-            "tournament": "Sri Lanka Emerging tour of West Indies",
-            "match_id": 128402,
-            "status": "STARTED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-26T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128402_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-Sporty-match-card.png",
-            "teams": [
-                {
-                    "id": 6451,
-                    "name": "West Indies Academy",
-                    "shortName": "WIC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
-                    "color": "#CB1414"
-                },
-                {
-                    "id": 1294,
-                    "name": "Sri Lanka Emerging",
-                    "shortName": "SL-ET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "color": "#164fad"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128402_english_hls_70949adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "West Indies A Vs South Africa A",
@@ -292,6 +260,38 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDO@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDO@2x.png",
                     "color": "#8e8e8e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "China Pr Vs Bahrain",
+            "tournament": "FIFA World Cup Asian Qualifiers",
+            "match_id": 127939,
+            "status": "NOT_STARTED",
+            "startTime": "2023-11-16T00:00:00.000Z",
+            "endDate": "2026-05-31T18:25:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127939_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://images.fancode.com/aig/match/v1/127939_CASACARDS_SPORTY_APP.png",
+            "teams": [
+                {
+                    "id": 1062,
+                    "name": "China PR",
+                    "shortName": "CHN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
+                    "color": "#E96E5D"
+                },
+                {
+                    "id": 1068,
+                    "name": "Bahrain",
+                    "shortName": "BAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAH-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAH-FT1@2x.png",
+                    "color": "#ea4d5e"
                 }
             ],
             "language": "BLOODY_SWEET",
