@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:20:01 PM 10-06-2025",
+    "last_updated": "06:27:00 PM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 15,
-    "live_matches": 12,
-    "upcoming_matches": 3,
+    "live_matches": 11,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Football",
@@ -171,38 +171,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Japan Vs Indonesia",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "match_id": 127938,
-            "status": "STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127938_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://images.fancode.com/aig/match/v1/127938_CASACARDS_SPORTY_APP.png",
-            "teams": [
-                {
-                    "id": 398,
-                    "name": "Japan",
-                    "shortName": "JPN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JPN@2x.png",
-                    "color": "#d04c6c"
-                },
-                {
-                    "id": 6812,
-                    "name": "Indonesia",
-                    "shortName": "INA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-INDO@2x.png",
-                    "color": "#8e8e8e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127938_english_hls_92322adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Skm Salem Spartans Vs Trichy Grand Cholas",
             "tournament": "Shriram Capital TNPL",
@@ -292,6 +260,38 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
                     "color": "#034c35"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "England Vs West Indies",
+            "tournament": "West Indies tour of England, 2025",
+            "match_id": 126356,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-06-10T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126356_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-England,-2025-Sporty-match-card.png",
+            "teams": [
+                {
+                    "id": 1537,
+                    "name": "England",
+                    "shortName": "ENG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
+                },
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
                 }
             ],
             "language": "BLOODY_SWEET",
