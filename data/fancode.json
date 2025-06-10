@@ -1,47 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:12:49 PM 10-06-2025",
+    "last_updated": "01:19:49 PM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 3,
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Nagpur Titans Women Vs Orange Tigersses Women",
-            "tournament": "Vidarbha Women's Pro T20 League, 2025",
-            "match_id": 128179,
-            "status": "STARTED",
-            "startTime": "2025-06-10T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128179_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-App.jpg",
-            "teams": [
-                {
-                    "id": 11567,
-                    "name": "Nagpur Titans Women",
-                    "shortName": "NAT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "color": "#00633C"
-                },
-                {
-                    "id": 11568,
-                    "name": "Orange Tigersses Women",
-                    "shortName": "ORT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "color": "#6E3100"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128179_english_hls_62274adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Uganda Women Vs Tanzania Women",
@@ -72,6 +40,38 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127348_english_hls_27128adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Nigeria Women Vs Malawi Women",
+            "tournament": "Kwibuka Women's T20I Tournament, 2025",
+            "match_id": 127349,
+            "status": "STARTED",
+            "startTime": "2025-06-03T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127349_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127349_5244_NIG-W_MAWW_FC-App.jpg",
+            "teams": [
+                {
+                    "id": 3191,
+                    "name": "Nigeria Women",
+                    "shortName": "NIG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
+                    "color": "#408000"
+                },
+                {
+                    "id": 7304,
+                    "name": "Malawi Women",
+                    "shortName": "MAWW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "color": "#710000"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127349_english_hls_29680adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -296,38 +296,6 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Nigeria Women Vs Malawi Women",
-            "tournament": "Kwibuka Women's T20I Tournament, 2025",
-            "match_id": 127349,
-            "status": "STARTED",
-            "startTime": "2025-06-03T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127349_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/127349_5244_NIG-W_MAWW_FC-Web.jpg",
-            "teams": [
-                {
-                    "id": 3191,
-                    "name": "Nigeria Women",
-                    "shortName": "NIG-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGE@2x.png",
-                    "color": "#408000"
-                },
-                {
-                    "id": 7304,
-                    "name": "Malawi Women",
-                    "shortName": "MAWW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
-                    "color": "#710000"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127349_english_hls_29680adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
