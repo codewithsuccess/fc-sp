@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:58:54 PM 10-06-2025",
+    "last_updated": "02:05:55 PM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 3,
+    "total_matches": 13,
+    "live_matches": 4,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -392,6 +392,38 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128424_english_hls_14746adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Old Brentwoods Vs Gagan",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "match_id": 127725,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127725_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
+            "teams": [
+                {
+                    "id": 11536,
+                    "name": "Old Brentwoods",
+                    "shortName": "OB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
+                    "color": "#FFFF8F"
+                },
+                {
+                    "id": 11538,
+                    "name": "Gagan",
+                    "shortName": "GGN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GGN-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GGN-CR1@2x.png",
+                    "color": "#DFE4EE"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127725_english_hls_18706adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
