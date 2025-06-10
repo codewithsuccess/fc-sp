@@ -1,15 +1,79 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:19:49 PM 10-06-2025",
+    "last_updated": "12:26:49 PM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
+    "total_matches": 9,
     "live_matches": 1,
-    "upcoming_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Nagpur Titans Women Vs Orange Tigersses Women",
+            "tournament": "Vidarbha Women's Pro T20 League, 2025",
+            "match_id": 128179,
+            "status": "STARTED",
+            "startTime": "2025-06-10T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128179_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-App.jpg",
+            "teams": [
+                {
+                    "id": 11567,
+                    "name": "Nagpur Titans Women",
+                    "shortName": "NAT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
+                    "color": "#00633C"
+                },
+                {
+                    "id": 11568,
+                    "name": "Orange Tigersses Women",
+                    "shortName": "ORT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
+                    "color": "#6E3100"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128179_english_hls_62274adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Hong Kong China Vs India",
+            "tournament": "AFC Asia Cup Qualifiers",
+            "match_id": 127977,
+            "status": "NOT_STARTED",
+            "startTime": "2025-03-25T00:00:00.000Z",
+            "endDate": "2026-04-30T00:00:53.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127977_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asian-Qual-HKC-vs-IND-sporty-(1).jpg",
+            "teams": [
+                {
+                    "id": 6811,
+                    "name": "Hong Kong, China",
+                    "shortName": "HK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
+                    "color": "#b62114"
+                },
+                {
+                    "id": 935,
+                    "name": "India",
+                    "shortName": "IND",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
+                    "color": "#0f60de"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Neco Master Blaster Vs Orange Tigers",
@@ -232,102 +296,6 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "China Pr Vs Bahrain",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "match_id": 127939,
-            "status": "NOT_STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127939_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://images.fancode.com/aig/match/v1/127939_CASACARDS_SPORTY_APP.png",
-            "teams": [
-                {
-                    "id": 1062,
-                    "name": "China PR",
-                    "shortName": "CHN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CHN@2x.png",
-                    "color": "#E96E5D"
-                },
-                {
-                    "id": 1068,
-                    "name": "Bahrain",
-                    "shortName": "BAH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAH-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAH-FT1@2x.png",
-                    "color": "#ea4d5e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Korea Republic Vs Kuwait",
-            "tournament": "FIFA World Cup Asian Qualifiers",
-            "match_id": 127935,
-            "status": "NOT_STARTED",
-            "startTime": "2023-11-16T00:00:00.000Z",
-            "endDate": "2026-05-31T18:25:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127935_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://images.fancode.com/aig/match/v1/127935_CASACARDS_SPORTY_APP.png",
-            "teams": [
-                {
-                    "id": 399,
-                    "name": "Korea Republic",
-                    "shortName": "KOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png",
-                    "color": "#dd717a"
-                },
-                {
-                    "id": 3446,
-                    "name": "Kuwait",
-                    "shortName": "KUW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KUW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KUW@2x.png",
-                    "color": "#5a8543"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Nagpur Titans Women Vs Orange Tigersses Women",
-            "tournament": "Vidarbha Women's Pro T20 League, 2025",
-            "match_id": 128179,
-            "status": "STARTED",
-            "startTime": "2025-06-10T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128179_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
-            "teams": [
-                {
-                    "id": 11567,
-                    "name": "Nagpur Titans Women",
-                    "shortName": "NAT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "color": "#00633C"
-                },
-                {
-                    "id": 11568,
-                    "name": "Orange Tigersses Women",
-                    "shortName": "ORT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "color": "#6E3100"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128179_english_hls_62274adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
