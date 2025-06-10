@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:45:01 PM 10-06-2025",
+    "last_updated": "07:52:01 PM 10-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 16,
-    "live_matches": 13,
-    "upcoming_matches": 3,
+    "live_matches": 12,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -172,38 +172,6 @@
         },
         {
             "category": "Football",
-            "title": "Hong Kong, China Vs India",
-            "tournament": "AFC Asia Cup Qualifiers",
-            "match_id": 127977,
-            "status": "STARTED",
-            "startTime": "2025-03-25T00:00:00.000Z",
-            "endDate": "2026-04-30T00:00:53.000Z",
-            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127977_CASACARDS_PARTNER_16_9_1920_1080.png",
-            "image1": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asian-Qual-HKC-vs-IND-sporty-(1).jpg",
-            "teams": [
-                {
-                    "id": 6811,
-                    "name": "Hong Kong, China",
-                    "shortName": "HK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
-                    "color": "#b62114"
-                },
-                {
-                    "id": 935,
-                    "name": "India",
-                    "shortName": "IND",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
-                    "color": "#0f60de"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127977_english_hls_58559adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Kyrgyz Republic Vs United Arab Emirates",
             "tournament": "FIFA World Cup Asian Qualifiers",
             "match_id": 127933,
@@ -292,6 +260,38 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
                     "color": "#7B0041"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Hong Kong, China Vs India",
+            "tournament": "AFC Asia Cup Qualifiers",
+            "match_id": 127977,
+            "status": "COMPLETED",
+            "startTime": "2025-03-25T00:00:00.000Z",
+            "endDate": "2026-04-30T00:00:53.000Z",
+            "image": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127977_CASACARDS_PARTNER_16_9_1920_1080.png",
+            "image1": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Asian-Qual-HKC-vs-IND-sporty-(1).jpg",
+            "teams": [
+                {
+                    "id": 6811,
+                    "name": "Hong Kong, China",
+                    "shortName": "HK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-HK@2x.png",
+                    "color": "#b62114"
+                },
+                {
+                    "id": 935,
+                    "name": "India",
+                    "shortName": "IND",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-IND@2x.png",
+                    "color": "#0f60de"
                 }
             ],
             "language": "BLOODY_SWEET",
