@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:51:42 PM 11-06-2025",
+    "last_updated": "06:58:42 PM 11-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 6,
+    "total_matches": 15,
+    "live_matches": 7,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -50,7 +50,7 @@
             "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
             "tournament": "Shriram Capital TNPL",
             "match_id": 126535,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-06-05T00:00:00.000Z",
             "endDate": "2025-07-06T00:00:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
@@ -76,8 +76,43 @@
                     "color": "#D7A2A2"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126535_english_hls_85178adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
+            "tournament": "Shriram Capital TNPL",
+            "match_id": 126535,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-07-06T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126535_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 685,
+                    "name": "Siechem Madurai Panthers",
+                    "shortName": "SMP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "color": "#D7A2A2"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126535_tamil_hls_54615adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -467,7 +502,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Purvanchal Tigers Vs Delhi Dominators",
+            "title": "Purvanchal Tigers Vs Chennai Challengers",
             "tournament": "Dreams Bigg T20 Championship, 2025",
             "match_id": 127658,
             "status": "STARTED",
@@ -488,12 +523,12 @@
                     "color": "#dc7723"
                 },
                 {
-                    "id": 11524,
-                    "name": "Delhi Dominators",
-                    "shortName": "DDS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDS@2x.png",
-                    "color": "#752e1d"
+                    "id": 11361,
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "color": "#FF0000"
                 }
             ],
             "language": "ENGLISH",
