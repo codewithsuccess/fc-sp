@@ -1,15 +1,50 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:44:39 PM 11-06-2025",
+    "last_updated": "10:51:43 PM 11-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 10,
-    "upcoming_matches": 6,
+    "total_matches": 17,
+    "live_matches": 12,
+    "upcoming_matches": 5,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Durham Vs Derbyshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "match_id": 125922,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125922_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 360,
+                    "name": "Durham",
+                    "shortName": "DUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
+                },
+                {
+                    "id": 359,
+                    "name": "Derbyshire",
+                    "shortName": "DER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
+                    "color": "#004e99"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125922_english_hls_8815adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "West Indies Women Vs South Africa Women",
@@ -43,76 +78,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127544_english_hls_93172adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
-            "tournament": "Shriram Capital TNPL",
-            "match_id": 126535,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-07-06T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126535_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                },
-                {
-                    "id": 685,
-                    "name": "Siechem Madurai Panthers",
-                    "shortName": "SMP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "color": "#D7A2A2"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/126535_english_hls_85178adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
-            "tournament": "Shriram Capital TNPL",
-            "match_id": 126535,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-07-06T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126535_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                },
-                {
-                    "id": 685,
-                    "name": "Siechem Madurai Panthers",
-                    "shortName": "SMP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "color": "#D7A2A2"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://dai.fancode.com/primary/126535_tamil_hls_54615adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -327,6 +292,76 @@
         },
         {
             "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
+            "tournament": "Shriram Capital TNPL",
+            "match_id": 126535,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-07-06T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126535_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 685,
+                    "name": "Siechem Madurai Panthers",
+                    "shortName": "SMP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "color": "#D7A2A2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126535_english_hls_85178adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Siechem Madurai Panthers",
+            "tournament": "Shriram Capital TNPL",
+            "match_id": 126535,
+            "status": "STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-07-06T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Madurai_Sporty_match_card-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126535_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 685,
+                    "name": "Siechem Madurai Panthers",
+                    "shortName": "SMP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "color": "#D7A2A2"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126535_tamil_hls_54615adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Northamptonshire Vs Warwickshire",
             "tournament": "Vitality Blast T20, 2025",
             "match_id": 125924,
@@ -354,41 +389,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "color": "#152e56"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Durham Vs Derbyshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125922,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125922_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 360,
-                    "name": "Durham",
-                    "shortName": "DUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 359,
-                    "name": "Derbyshire",
-                    "shortName": "DER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
-                    "color": "#004e99"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -533,6 +533,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128592_english_hls_25576adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Al Mulla Exchange   B Vs Royal Lions Cc",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "match_id": 125413,
+            "status": "STARTED",
+            "startTime": "2025-05-12T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://images.fancode.com/aig/match/v1/125413_CASACARDS_APP.png",
+            "image_cdn": {
+                "APP": "https://images.fancode.com/aig/match/v1/125413_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125413_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7980,
+                    "name": "Al Mulla Exchange - B",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "color": "#1AC98D"
+                },
+                {
+                    "id": 8317,
+                    "name": "Royal Lions CC",
+                    "shortName": "RLC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RLC@2x.png",
+                    "color": "#a66676"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125413_english_hls_52379adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
