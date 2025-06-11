@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:40 AM 12-06-2025",
+    "last_updated": "02:30:40 AM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -46,41 +46,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Poland U21 Vs Georgia U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "match_id": 123316,
-            "status": "STARTED",
-            "startTime": "2025-06-11T00:00:00.000Z",
-            "endDate": "2025-06-28T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123316_5106_POL-U21_GE-U21_fc-app.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123316_5106_POL-U21_GE-U21_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123316_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9754,
-                    "name": "Poland U21",
-                    "shortName": "POL-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "color": "#b2190c"
-                },
-                {
-                    "id": 6888,
-                    "name": "Georgia U21",
-                    "shortName": "GE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "color": "#EA867E"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123316_english_hls_57091adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Northamptonshire Vs Warwickshire",
             "tournament": "Vitality Blast T20, 2025",
@@ -113,6 +78,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Poland U21 Vs Georgia U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123316,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123316_5106_POL-U21_GE-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123316_5106_POL-U21_GE-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123316_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9754,
+                    "name": "Poland U21",
+                    "shortName": "POL-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
+                    "color": "#b2190c"
+                },
+                {
+                    "id": 6888,
+                    "name": "Georgia U21",
+                    "shortName": "GE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "color": "#EA867E"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123316_english_hls_57091adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
