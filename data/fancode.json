@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:19:40 AM 12-06-2025",
+    "last_updated": "01:26:40 AM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 11,
+    "total_matches": 13,
+    "live_matches": 10,
     "upcoming_matches": 3,
     "matches": [
         {
@@ -432,72 +432,37 @@
         },
         {
             "category": "Baseball",
-            "title": "Philadelphia Phillies Vs Chicago Cubs",
+            "title": "San Diego Padres Vs Los Angeles Dodgers",
             "tournament": "Major League Baseball, 2025",
-            "match_id": 128355,
+            "match_id": 128356,
             "status": "STARTED",
             "startTime": "2025-03-18T00:00:00.000Z",
             "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://images.fancode.com/aig/match/v1/128355_CASACARDS_APP.png",
+            "image": "https://images.fancode.com/aig/match/v1/128356_CASACARDS_APP.png",
             "image_cdn": {
-                "APP": "https://images.fancode.com/aig/match/v1/128355_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128355_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "APP": "https://images.fancode.com/aig/match/v1/128356_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128356_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 2346,
-                    "name": "Philadelphia Phillies",
-                    "shortName": "PHP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PHILA@2x.png",
-                    "color": "#184571"
+                    "id": 2348,
+                    "name": "San Diego Padres",
+                    "shortName": "SDP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "color": "#ffb700"
                 },
                 {
-                    "id": 2339,
-                    "name": "Chicago Cubs",
-                    "shortName": "CHC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
-                    "color": "#d64140"
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128355_english_hls_98076adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Cfs Pinnacle Pro Vs Havering Xi",
-            "tournament": "ECS England, Hornchurch, 2025",
-            "match_id": 128592,
-            "status": "STARTED",
-            "startTime": "2025-06-02T00:00:00.000Z",
-            "endDate": "2025-06-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128592_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11535,
-                    "name": "CFS Pinnacle Pro",
-                    "shortName": "CFS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png",
-                    "color": "#DFE4EE"
-                },
-                {
-                    "id": 11589,
-                    "name": "Havering XI",
-                    "shortName": "HAV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR10@2x.png",
-                    "color": "#DC192A"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128592_english_hls_25576adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/128356_english_hls_50959adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
