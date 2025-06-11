@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:37:41 PM 11-06-2025",
+    "last_updated": "07:44:50 PM 11-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 11,
-    "upcoming_matches": 5,
+    "total_matches": 18,
+    "live_matches": 12,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -225,7 +225,7 @@
             "title": "Sobisco Smashers Malda Vs Murshidabad Kings",
             "tournament": "Bengal Pro T20 league, 2025",
             "match_id": 128050,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-06-11T00:00:00.000Z",
             "endDate": "2025-06-28T00:00:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/128050_5282_SSM_MK_fc-App.jpg",
@@ -251,8 +251,78 @@
                     "color": "#9c69cc"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128050_english_hls_75164adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Vs Murshidabad Kings",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "match_id": 128050,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128050_5282_SSM_MK_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128050_5282_SSM_MK_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128050_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128050_hindi_hls_81361adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Vs Murshidabad Kings",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "match_id": 128050,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128050_5282_SSM_MK_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128050_5282_SSM_MK_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128050_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128050_bengali_hls_45768adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
