@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:51:37 PM 11-06-2025",
+    "last_updated": "01:58:48 PM 11-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 3,
+    "total_matches": 13,
+    "live_matches": 4,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -428,6 +428,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/0mdWgDa0Tw-oLlMNx3eGkg/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gagan Vs East Londoners",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "match_id": 127729,
+            "status": "STARTED",
+            "startTime": "2025-06-02T00:00:00.000Z",
+            "endDate": "2025-06-13T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127729_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11538,
+                    "name": "Gagan",
+                    "shortName": "GGN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GGN-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GGN-CR1@2x.png",
+                    "color": "#DFE4EE"
+                },
+                {
+                    "id": 11534,
+                    "name": "East Londoners",
+                    "shortName": "EL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EL-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EL-CR1@2x.png",
+                    "color": "#FFFF8F"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/GsaY_JN1R_2AB9Ae9C_TVw/master.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
