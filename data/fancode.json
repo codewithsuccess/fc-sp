@@ -1,15 +1,50 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:08 PM 12-06-2025",
+    "last_updated": "09:19:15 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
-    "upcoming_matches": 7,
+    "total_matches": 18,
+    "live_matches": 13,
+    "upcoming_matches": 5,
     "matches": [
+        {
+            "category": "Football",
+            "title": "Ukraine U21 Vs Denmark U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123317,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123317_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6894,
+                    "name": "Ukraine U21",
+                    "shortName": "UK-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
+                    "color": "#5290d1"
+                },
+                {
+                    "id": 9753,
+                    "name": "Denmark U21",
+                    "shortName": "DEN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "color": "#d7556e"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123317_english_hls_96734adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Scotland Vs Netherlands",
@@ -221,38 +256,38 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Ukraine U21 Vs Denmark U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "match_id": 123317,
-            "status": "NOT_STARTED",
-            "startTime": "2025-06-11T00:00:00.000Z",
-            "endDate": "2025-06-28T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "US Open",
+            "match_id": 128461,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-15T18:15:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
             "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123317_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128461_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 6894,
-                    "name": "Ukraine U21",
-                    "shortName": "UK-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "color": "#5290d1"
+                    "id": 11584,
+                    "name": "Day 1",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
                 },
                 {
-                    "id": 9753,
-                    "name": "Denmark U21",
-                    "shortName": "DEN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "color": "#d7556e"
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128461_english_hls_81182adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -354,41 +389,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
                     "color": "#ee8d3c"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Tbc Vs Tbc",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "match_id": 128176,
-            "status": "NOT_STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-            "image_cdn": {
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128176_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 277,
-                    "name": "TBC",
-                    "shortName": "TBC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-                    "color": "#dcdcdc"
-                },
-                {
-                    "id": 277,
-                    "name": "TBC",
-                    "shortName": "TBC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-                    "color": "#dcdcdc"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -533,6 +533,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127736_english_hls_71506adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Samp Army Cocrico Cavaliers Vs Bess Motors Blue Devils",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "match_id": 128210,
+            "status": "STARTED",
+            "startTime": "2025-06-09T00:00:00.000Z",
+            "endDate": "2025-06-22T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128210_5288_SCL_BLD_fc-Web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128210_5288_SCL_BLD_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128210_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4508,
+                    "name": "Samp Army Cocrico Cavaliers",
+                    "shortName": "SCL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "color": "#4d2f79"
+                },
+                {
+                    "id": 6681,
+                    "name": "Bess Motors Blue Devils",
+                    "shortName": "BLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "color": "#233e56"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128210_english_hls_36563adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
