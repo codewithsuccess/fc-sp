@@ -1,21 +1,21 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:10 PM 12-06-2025",
+    "last_updated": "12:37:18 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 3,
-    "upcoming_matches": 9,
+    "total_matches": 14,
+    "live_matches": 4,
+    "upcoming_matches": 10,
     "matches": [
         {
             "category": "Cricket",
             "title": "Rashmi Medinipur Wizards Vs Lux Shyam Kolkata Tigers",
             "tournament": "Bengal Pro T20 league, 2025",
             "match_id": 128051,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-06-11T00:00:00.000Z",
             "endDate": "2025-06-28T00:00:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/128051_5282_RMW_LSKT_fc-App.jpg",
@@ -41,8 +41,78 @@
                     "color": "#2f87e2"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128051_english_hls_58784adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Rashmi Medinipur Wizards Vs Lux Shyam Kolkata Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "match_id": 128051,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128051_5282_RMW_LSKT_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128051_5282_RMW_LSKT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128051_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                },
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128051_hindi_hls_68576adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Rashmi Medinipur Wizards Vs Lux Shyam Kolkata Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "match_id": 128051,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128051_5282_RMW_LSKT_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128051_5282_RMW_LSKT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128051_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                },
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128051_bengali_hls_24640adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -327,41 +397,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Murshidabad Kueens Womens Vs Harbour Diamonds Womens",
-            "tournament": "Bengal Women's Pro T20 League, 2025",
-            "match_id": 128081,
-            "status": "STARTED",
-            "startTime": "2025-06-12T00:00:00.000Z",
-            "endDate": "2025-06-28T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128081_5283_MK-W_HD-W_fc-Web.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128081_5283_MK-W_HD-W_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128081_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8717,
-                    "name": "Murshidabad Kueens Womens",
-                    "shortName": "MK-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
-                    "color": "#C17918"
-                },
-                {
-                    "id": 8715,
-                    "name": "Harbour Diamonds Womens",
-                    "shortName": "HD-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "color": "#077e80"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128081_english_hls_90787adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Orange Tigersses Women Vs Neco Master Blaster Women",
             "tournament": "Vidarbha Women's Pro T20 League, 2025",
             "match_id": 128181,
@@ -428,6 +463,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128303_english_hls_7169adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kueens Womens Vs Harbour Diamonds Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "match_id": 128081,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128081_5283_MK-W_HD-W_fc-Web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128081_5283_MK-W_HD-W_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128081_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8717,
+                    "name": "Murshidabad Kueens Womens",
+                    "shortName": "MK-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "color": "#C17918"
+                },
+                {
+                    "id": 8715,
+                    "name": "Harbour Diamonds Womens",
+                    "shortName": "HD-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128081_english_hls_90787adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
