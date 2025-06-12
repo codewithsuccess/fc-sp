@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:12:08 PM 12-06-2025",
+    "last_updated": "07:19:15 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 10,
-    "upcoming_matches": 9,
+    "total_matches": 21,
+    "live_matches": 14,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -155,7 +155,7 @@
             "title": "Ireland Vs West Indies",
             "tournament": "West Indies tour of Ireland, 2025",
             "match_id": 125700,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-05-21T00:00:00.000Z",
             "endDate": "2025-06-15T00:00:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
@@ -181,8 +181,8 @@
                     "color": "#7B0041"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125700_english_hls_90407adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -190,7 +190,7 @@
             "title": "Jmd Kutch Riders Vs Aryan Sorath Lions",
             "tournament": "Saurashtra Pro T20 League, 2025",
             "match_id": 128192,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "2025-06-07T00:00:00.000Z",
             "endDate": "2025-06-20T00:00:00.000Z",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/128192_5287_KW_SL_fc-App.jpg",
@@ -216,8 +216,8 @@
                     "color": "#2798cc"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128192_english_hls_27632adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -638,6 +638,76 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127660_english_hls_18106adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Karnavati Kings Vs Ahmedabad Arrows",
+            "tournament": "Cricket Premier League, 2025",
+            "match_id": 127781,
+            "status": "STARTED",
+            "startTime": "2025-05-31T00:00:00.000Z",
+            "endDate": "2025-06-14T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127781_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11540,
+                    "name": "Karnavati Kings",
+                    "shortName": "KVK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
+                    "color": "#292e6e"
+                },
+                {
+                    "id": 11539,
+                    "name": "Ahmedabad Arrows",
+                    "shortName": "ABA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
+                    "color": "#ef343d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127781_english_hls_6750adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gwalior Cheetahs Vs Chambal Ghariyals",
+            "tournament": "Madhya Pradesh League, 2025",
+            "match_id": 128434,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-24T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128434_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11577,
+                    "name": "Gwalior Cheetahs",
+                    "shortName": "GC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "color": "#e7820d"
+                },
+                {
+                    "id": 11581,
+                    "name": "Chambal Ghariyals",
+                    "shortName": "CGS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "color": "#22c13a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128434_english_hls_60425adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
