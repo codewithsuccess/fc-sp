@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:08 AM 13-06-2025",
+    "last_updated": "12:19:16 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 12,
-    "upcoming_matches": 3,
+    "total_matches": 16,
+    "live_matches": 15,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Cricket",
@@ -113,6 +113,76 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/123317_english_hls_96734adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Germany U21 Vs Slovenia U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123319,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123319_5106_GER-U21_SLV_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123319_5106_GER-U21_SLV_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123319_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                },
+                {
+                    "id": 9755,
+                    "name": "Slovenia U21",
+                    "shortName": "SLV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
+                    "color": "#bcbcbc"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/tAoQbq2AQuCCtYbw9ArTRg/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Czechia U21 Vs England U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123318,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123318_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6887,
+                    "name": "Czechia U21",
+                    "shortName": "CZ-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "color": "#d7556e"
+                },
+                {
+                    "id": 755,
+                    "name": "England U21",
+                    "shortName": "EN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "color": "#eb5764"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -257,76 +327,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Northamptonshire Vs Warwickshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125924,
-            "status": "COMPLETED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125924_5207_NOR_WAS_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125924_5207_NOR_WAS_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125924_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 295,
-                    "name": "Northamptonshire",
-                    "shortName": "NOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "color": "#912854"
-                },
-                {
-                    "id": 371,
-                    "name": "Warwickshire",
-                    "shortName": "WAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "color": "#152e56"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Worcestershire Vs Lancashire",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125928,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125928_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                },
-                {
-                    "id": 364,
-                    "name": "Lancashire",
-                    "shortName": "LAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "color": "#e9515e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Karnavati Kings Vs Ahmedabad Arrows",
             "tournament": "Cricket Premier League, 2025",
             "match_id": 127781,
@@ -428,6 +428,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/5NgVJ7qnQVe_LM32yl3NJg/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Mirand\u00e9s Vs Racing De Santander",
+            "tournament": "LALIGA HYPERMOTION 2024-25",
+            "match_id": 128611,
+            "status": "STARTED",
+            "startTime": "2024-08-18T00:00:00.000Z",
+            "endDate": "2025-06-22T00:00:00.000Z",
+            "image": "https://images.fancode.com/aig/match/v1/128611_CASACARDS_APP.png",
+            "image_cdn": {
+                "APP": "https://images.fancode.com/aig/match/v1/128611_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128611_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4002,
+                    "name": "Mirand\u00e9s",
+                    "shortName": "MIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIR@2x.png",
+                    "color": "#028ed9"
+                },
+                {
+                    "id": 1019,
+                    "name": "Racing de Santander",
+                    "shortName": "RAC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-RAC@2x.png",
+                    "color": "#752009"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128611_english_hls_28508adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
