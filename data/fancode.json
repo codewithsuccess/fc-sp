@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:37:08 AM 13-06-2025",
+    "last_updated": "02:44:08 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,41 @@
     "live_matches": 7,
     "upcoming_matches": 5,
     "matches": [
+        {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "US Open",
+            "match_id": 128461,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-15T18:15:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128461_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11584,
+                    "name": "Day 1",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128461_english_hls_81182adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Football",
             "title": "Finland U21 Vs Netherlands U21",
@@ -113,76 +148,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "US Open",
-            "match_id": 128461,
-            "status": "STARTED",
-            "startTime": "2025-06-12T00:00:00.000Z",
-            "endDate": "2025-06-15T18:15:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128461_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11584,
-                    "name": "Day 1",
-                    "shortName": "USO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "color": "#BC1221"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128461_english_hls_81182adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Ukraine U21 Vs Denmark U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "match_id": 123317,
-            "status": "COMPLETED",
-            "startTime": "2025-06-11T00:00:00.000Z",
-            "endDate": "2025-06-28T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123317_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6894,
-                    "name": "Ukraine U21",
-                    "shortName": "UK-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "color": "#5290d1"
-                },
-                {
-                    "id": 9753,
-                    "name": "Denmark U21",
-                    "shortName": "DEN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "color": "#d7556e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -319,6 +284,41 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
                     "color": "#FFF200"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zalawad Strikers Vs Anmol Kings Halar",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "match_id": 128193,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-07T00:00:00.000Z",
+            "endDate": "2025-06-20T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128193_5287_ZR_HH_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128193_5287_ZR_HH_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128193_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1187,
+                    "name": "Zalawad Strikers",
+                    "shortName": "ZWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "color": "#4558d8"
+                },
+                {
+                    "id": 1186,
+                    "name": "Anmol Kings Halar",
+                    "shortName": "AKH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
+                    "color": "#f60e11"
                 }
             ],
             "language": "BLOODY_SWEET",
