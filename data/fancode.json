@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:08 PM 12-06-2025",
+    "last_updated": "11:51:16 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 11,
+    "total_matches": 15,
+    "live_matches": 12,
     "upcoming_matches": 3,
     "matches": [
         {
@@ -428,6 +428,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/125414_english_hls_5699adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Scarlet Ibis Scorchers Vs Chicago Steelpan Players",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "match_id": 128211,
+            "status": "STARTED",
+            "startTime": "2025-06-09T00:00:00.000Z",
+            "endDate": "2025-06-22T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128211_5288_SLS_SPK_fc-Web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128211_5288_SLS_SPK_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128211_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4509,
+                    "name": "Scarlet Ibis Scorchers",
+                    "shortName": "SLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+                    "color": "#b08463"
+                },
+                {
+                    "id": 4507,
+                    "name": "Chicago Steelpan Players",
+                    "shortName": "SPK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "color": "#5E4900"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/5NgVJ7qnQVe_LM32yl3NJg/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
