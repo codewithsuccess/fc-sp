@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:08 AM 13-06-2025",
+    "last_updated": "02:30:08 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -47,41 +47,6 @@
         },
         {
             "category": "Football",
-            "title": "Czechia U21 Vs England U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "match_id": 123318,
-            "status": "STARTED",
-            "startTime": "2025-06-11T00:00:00.000Z",
-            "endDate": "2025-06-28T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123318_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6887,
-                    "name": "Czechia U21",
-                    "shortName": "CZ-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "color": "#d7556e"
-                },
-                {
-                    "id": 755,
-                    "name": "England U21",
-                    "shortName": "EN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "color": "#eb5764"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Germany U21 Vs Slovenia U21",
             "tournament": "UEFA European Under-21 Championship",
             "match_id": 123319,
@@ -113,6 +78,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/tAoQbq2AQuCCtYbw9ArTRg/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Czechia U21 Vs England U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123318,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123318_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6887,
+                    "name": "Czechia U21",
+                    "shortName": "CZ-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "color": "#d7556e"
+                },
+                {
+                    "id": 755,
+                    "name": "England U21",
+                    "shortName": "EN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "color": "#eb5764"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/rNqQOEmoSciSTWVnawLr4g/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
