@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:19:15 PM 12-06-2025",
+    "last_updated": "07:26:08 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,41 @@
     "live_matches": 14,
     "upcoming_matches": 7,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Ireland Vs West Indies",
+            "tournament": "West Indies tour of Ireland, 2025",
+            "match_id": 125700,
+            "status": "STARTED",
+            "startTime": "2025-05-21T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125700_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 69,
+                    "name": "Ireland",
+                    "shortName": "IRE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "color": "#ba6a15"
+                },
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125700_english_hls_90407adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Scotland Vs Netherlands",
@@ -148,41 +183,6 @@
             ],
             "language": "BENGALI",
             "adfree_stream": "https://dai.fancode.com/primary/128052_bengali_hls_83993adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Vs West Indies",
-            "tournament": "West Indies tour of Ireland, 2025",
-            "match_id": 125700,
-            "status": "STARTED",
-            "startTime": "2025-05-21T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125700_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 69,
-                    "name": "Ireland",
-                    "shortName": "IRE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "color": "#ba6a15"
-                },
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125700_english_hls_90407adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -607,6 +607,41 @@
         },
         {
             "category": "Cricket",
+            "title": "Gwalior Cheetahs Vs Chambal Ghariyals",
+            "tournament": "Madhya Pradesh League, 2025",
+            "match_id": 128434,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-24T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128434_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11577,
+                    "name": "Gwalior Cheetahs",
+                    "shortName": "GC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "color": "#e7820d"
+                },
+                {
+                    "id": 11581,
+                    "name": "Chambal Ghariyals",
+                    "shortName": "CGS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "color": "#22c13a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128434_english_hls_60425adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Purvanchal Tigers Vs Gujarat Lions",
             "tournament": "Dreams Bigg T20 Championship, 2025",
             "match_id": 127660,
@@ -673,41 +708,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127781_english_hls_6750adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Gwalior Cheetahs Vs Chambal Ghariyals",
-            "tournament": "Madhya Pradesh League, 2025",
-            "match_id": 128434,
-            "status": "STARTED",
-            "startTime": "2025-06-12T00:00:00.000Z",
-            "endDate": "2025-06-24T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128434_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11577,
-                    "name": "Gwalior Cheetahs",
-                    "shortName": "GC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "color": "#e7820d"
-                },
-                {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128434_english_hls_60425adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
