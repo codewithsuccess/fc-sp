@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:10 AM 13-06-2025",
+    "last_updated": "12:30:08 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 15,
-    "upcoming_matches": 0,
+    "total_matches": 14,
+    "live_matches": 13,
+    "upcoming_matches": 1,
     "matches": [
         {
             "category": "Cricket",
@@ -292,72 +292,37 @@
         },
         {
             "category": "Cricket",
-            "title": "Nagpur Titans Vs Bharat Rangers",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "match_id": 128175,
-            "status": "STARTED",
-            "startTime": "2025-06-05T00:00:00.000Z",
-            "endDate": "2025-06-15T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128175_5285_NAT_BHR_fc-App.jpg",
+            "title": "Durham Vs Derbyshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "match_id": 125922,
+            "status": "COMPLETED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
             "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128175_5285_NAT_BHR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128175_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125922_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 11563,
-                    "name": "Nagpur Titans",
-                    "shortName": "NAT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAT@2x.png",
-                    "color": "#034c35"
+                    "id": 360,
+                    "name": "Durham",
+                    "shortName": "DUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
                 },
                 {
-                    "id": 11564,
-                    "name": "Bharat Rangers",
-                    "shortName": "BHR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "color": "#d0993f"
+                    "id": 359,
+                    "name": "Derbyshire",
+                    "shortName": "DER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
+                    "color": "#004e99"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128175_english_hls_31523adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Karnavati Kings Vs Ahmedabad Arrows",
-            "tournament": "Cricket Premier League, 2025",
-            "match_id": 127781,
-            "status": "STARTED",
-            "startTime": "2025-05-31T00:00:00.000Z",
-            "endDate": "2025-06-14T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127774_5267_ABA_KVK_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127781_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11540,
-                    "name": "Karnavati Kings",
-                    "shortName": "KVK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KVK@2x.png",
-                    "color": "#292e6e"
-                },
-                {
-                    "id": 11539,
-                    "name": "Ahmedabad Arrows",
-                    "shortName": "ABA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ABA@2x.png",
-                    "color": "#ef343d"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127781_english_hls_6750adfreeta-di_h264/index.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
