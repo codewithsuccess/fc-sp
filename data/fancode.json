@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:12:08 PM 12-06-2025",
+    "last_updated": "11:19:09 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 15,
-    "live_matches": 13,
-    "upcoming_matches": 2,
+    "live_matches": 12,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -222,41 +222,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Jmd Kutch Riders Vs Aryan Sorath Lions",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "match_id": 128192,
-            "status": "STARTED",
-            "startTime": "2025-06-07T00:00:00.000Z",
-            "endDate": "2025-06-20T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128192_5287_KW_SL_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128192_5287_KW_SL_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128192_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1188,
-                    "name": "JMD Kutch Riders",
-                    "shortName": "JKR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "color": "#0f7e9e"
-                },
-                {
-                    "id": 1184,
-                    "name": "Aryan Sorath Lions",
-                    "shortName": "ASL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "color": "#2798cc"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128192_english_hls_27632adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Durham Vs Derbyshire",
             "tournament": "Vitality Blast T20, 2025",
             "match_id": 125922,
@@ -319,6 +284,41 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "color": "#152e56"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Worcestershire Vs Lancashire",
+            "tournament": "Vitality Blast T20, 2025",
+            "match_id": 125928,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125928_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 372,
+                    "name": "Worcestershire",
+                    "shortName": "WOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "color": "#116030"
+                },
+                {
+                    "id": 364,
+                    "name": "Lancashire",
+                    "shortName": "LAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
+                    "color": "#e9515e"
                 }
             ],
             "language": "BLOODY_SWEET",
