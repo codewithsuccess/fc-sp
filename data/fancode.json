@@ -1,85 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:58:08 AM 13-06-2025",
+    "last_updated": "02:05:09 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 10,
+    "total_matches": 13,
+    "live_matches": 9,
     "upcoming_matches": 4,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Essex Vs Glamorgan",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125927,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125927_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 361,
-                    "name": "Essex",
-                    "shortName": "ESS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
-                    "color": "#FF5253"
-                },
-                {
-                    "id": 362,
-                    "name": "Glamorgan",
-                    "shortName": "GLA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
-                    "color": "#528c3d"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Somerset Vs Middlesex",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125925,
-            "status": "STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125925_5207_SOM_MID_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125925_5207_SOM_MID_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125925_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 282,
-                    "name": "Somerset",
-                    "shortName": "SOM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "color": "#a93653"
-                },
-                {
-                    "id": 366,
-                    "name": "Middlesex",
-                    "shortName": "MID",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
-                    "color": "#2d4475"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125925_english_hls_43442adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Football",
             "title": "Finland U21 Vs Netherlands U21",
@@ -186,6 +116,41 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Essex Vs Glamorgan",
+            "tournament": "Vitality Blast T20, 2025",
+            "match_id": 125927,
+            "status": "STARTED",
+            "startTime": "2025-05-29T00:00:00.000Z",
+            "endDate": "2025-09-13T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125927_5207_ESS_GLA_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125927_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 361,
+                    "name": "Essex",
+                    "shortName": "ESS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
+                    "color": "#FF5253"
+                },
+                {
+                    "id": 362,
+                    "name": "Glamorgan",
+                    "shortName": "GLA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "color": "#528c3d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Day 1",
             "tournament": "US Open",
@@ -221,97 +186,54 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Ukraine U21 Vs Denmark U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123317,
+            "status": "COMPLETED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123317_5106_UK-U21_DEN-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123317_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6894,
+                    "name": "Ukraine U21",
+                    "shortName": "UK-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
+                    "color": "#5290d1"
+                },
+                {
+                    "id": 9753,
+                    "name": "Denmark U21",
+                    "shortName": "DEN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "color": "#d7556e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
-            "title": "Northamptonshire Vs Warwickshire",
+            "title": "Somerset Vs Middlesex",
             "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125924,
+            "match_id": 125925,
             "status": "COMPLETED",
             "startTime": "2025-05-29T00:00:00.000Z",
             "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125924_5207_NOR_WAS_fc-App.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125925_5207_SOM_MID_fc-App.jpg",
             "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125924_5207_NOR_WAS_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125924_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125925_5207_SOM_MID_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125925_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
-                {
-                    "id": 295,
-                    "name": "Northamptonshire",
-                    "shortName": "NOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORT@2x.png",
-                    "color": "#912854"
-                },
-                {
-                    "id": 371,
-                    "name": "Warwickshire",
-                    "shortName": "WAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "color": "#152e56"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Worcestershire Vs Lancashire",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125928,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125928_5207_WOR_LAN_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125928_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                },
-                {
-                    "id": 364,
-                    "name": "Lancashire",
-                    "shortName": "LAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "color": "#e9515e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Gloucestershire Vs Somerset",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125932,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125932_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 363,
-                    "name": "Gloucestershire",
-                    "shortName": "GLO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "color": "#17836e"
-                },
                 {
                     "id": 282,
                     "name": "Somerset",
@@ -319,6 +241,84 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
                     "color": "#a93653"
+                },
+                {
+                    "id": 366,
+                    "name": "Middlesex",
+                    "shortName": "MID",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "color": "#2d4475"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Vs Sobisco Smashers Malda",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "match_id": 128053,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128053_5282_SRT_SSM_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128053_5282_SRT_SSM_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128053_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                },
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Bharat Rangers Vs Neco Master Blaster",
+            "tournament": "Vidarbha Pro T20 League, 2025",
+            "match_id": 128176,
+            "status": "NOT_STARTED",
+            "startTime": "2025-06-05T00:00:00.000Z",
+            "endDate": "2025-06-15T00:00:00.000Z",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "image_cdn": {
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128176_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11564,
+                    "name": "Bharat Rangers",
+                    "shortName": "BHR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
+                    "color": "#d0993f"
+                },
+                {
+                    "id": 11562,
+                    "name": "NECO Master Blaster",
+                    "shortName": "NMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
+                    "color": "#ff1a00"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -428,41 +428,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128611_english_hls_28508adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "New York Mets Vs Washington Nationals",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 128358,
-            "status": "COMPLETED",
-            "startTime": "2025-03-18T00:00:00.000Z",
-            "endDate": "2025-10-31T00:00:00.000Z",
-            "image": "https://images.fancode.com/aig/match/v1/128358_CASACARDS_APP.png",
-            "image_cdn": {
-                "APP": "https://images.fancode.com/aig/match/v1/128358_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128358_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2345,
-                    "name": "New York Mets",
-                    "shortName": "NYM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
-                    "color": "#002d71"
-                },
-                {
-                    "id": 2351,
-                    "name": "Washington Nationals",
-                    "shortName": "WAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-WASHG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-WASHG@2x.png",
-                    "color": "#14264b"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
