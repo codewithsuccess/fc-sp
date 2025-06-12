@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:44:18 PM 12-06-2025",
+    "last_updated": "06:51:16 PM 12-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
+    "total_matches": 19,
+    "live_matches": 12,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -603,6 +603,76 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127735_english_hls_59812adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Purvanchal Tigers Vs Gujarat Lions",
+            "tournament": "Dreams Bigg T20 Championship, 2025",
+            "match_id": 127660,
+            "status": "STARTED",
+            "startTime": "2025-06-08T00:00:00.000Z",
+            "endDate": "2025-06-23T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/dreams-bigg-t20-championship-old-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127660_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11529,
+                    "name": "Purvanchal Tigers",
+                    "shortName": "PVT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PVT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PVT@2x.png",
+                    "color": "#dc7723"
+                },
+                {
+                    "id": 11525,
+                    "name": "Gujarat Lions",
+                    "shortName": "GJ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GJ@2x.png",
+                    "color": "#a62a25"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127660_english_hls_18106adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "Hulencourt Women\u2019s Open",
+            "match_id": 128768,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-15T18:15:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Hulencourt-Womens-open-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128768_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11602,
+                    "name": "Day 1",
+                    "shortName": "HWO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-HWO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-HWO@2x.png",
+                    "color": "#B5193C"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128768_english_hls_50242adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
