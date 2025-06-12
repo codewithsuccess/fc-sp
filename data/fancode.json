@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:12:08 AM 13-06-2025",
+    "last_updated": "03:19:08 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -43,41 +43,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128461_english_hls_81182adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Czechia U21 Vs England U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "match_id": 123318,
-            "status": "COMPLETED",
-            "startTime": "2025-06-11T00:00:00.000Z",
-            "endDate": "2025-06-28T18:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123318_5106_CZ-U21_EN-U21_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123318_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6887,
-                    "name": "Czechia U21",
-                    "shortName": "CZ-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "color": "#d7556e"
-                },
-                {
-                    "id": 755,
-                    "name": "England U21",
-                    "shortName": "EN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "color": "#eb5764"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -319,6 +284,41 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "color": "#e9515e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Somerset Women Vs Lancashire Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "match_id": 125848,
+            "status": "NOT_STARTED",
+            "startTime": "2025-05-30T00:00:00.000Z",
+            "endDate": "2025-07-27T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125848_5206_SSW_LAN-W_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125848_5206_SSW_LAN-W_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125848_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9763,
+                    "name": "Somerset Women",
+                    "shortName": "SSW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "color": "#a93653"
+                },
+                {
+                    "id": 3531,
+                    "name": "Lancashire Women",
+                    "shortName": "LAN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
+                    "color": "#CB1414"
                 }
             ],
             "language": "BLOODY_SWEET",
