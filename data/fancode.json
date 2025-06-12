@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:19:16 AM 13-06-2025",
+    "last_updated": "12:26:10 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
+    "total_matches": 15,
     "live_matches": 15,
-    "upcoming_matches": 1,
+    "upcoming_matches": 0,
     "matches": [
         {
             "category": "Cricket",
@@ -113,6 +113,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/123317_english_hls_96734adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Finland U21 Vs Netherlands U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "match_id": 123320,
+            "status": "STARTED",
+            "startTime": "2025-06-11T00:00:00.000Z",
+            "endDate": "2025-06-28T18:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123320_5106_FIN-U21_NE-U21_fc-app.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123320_5106_FIN-U21_NE-U21_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123320_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9752,
+                    "name": "Finland U21",
+                    "shortName": "FIN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "color": "#829dc3"
+                },
+                {
+                    "id": 6890,
+                    "name": "Netherlands U21",
+                    "shortName": "NE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "color": "#d76e7f"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/UB5OsXskRAejMklGWCwvmg/master.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -292,41 +327,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Durham Vs Derbyshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "match_id": 125922,
-            "status": "COMPLETED",
-            "startTime": "2025-05-29T00:00:00.000Z",
-            "endDate": "2025-09-13T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125922_5207_DUR_DER_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125922_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 360,
-                    "name": "Durham",
-                    "shortName": "DUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 359,
-                    "name": "Derbyshire",
-                    "shortName": "DER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DERB@2x.png",
-                    "color": "#004e99"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Karnavati Kings Vs Ahmedabad Arrows",
             "tournament": "Cricket Premier League, 2025",
             "match_id": 127781,
@@ -498,41 +498,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128358_english_hls_87649adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Gwalior Cheetahs Vs Chambal Ghariyals",
-            "tournament": "Madhya Pradesh League, 2025",
-            "match_id": 128434,
-            "status": "STARTED",
-            "startTime": "2025-06-12T00:00:00.000Z",
-            "endDate": "2025-06-24T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128434_5300_GC_CGS_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128434_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11577,
-                    "name": "Gwalior Cheetahs",
-                    "shortName": "GC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                    "color": "#e7820d"
-                },
-                {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128434_english_hls_60425adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
