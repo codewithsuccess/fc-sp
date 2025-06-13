@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:51:19 PM 13-06-2025",
+    "last_updated": "11:58:17 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 10,
-    "upcoming_matches": 2,
+    "live_matches": 9,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -240,44 +240,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Pagariya Strikers Vs Orange Tigers",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "short_name": "Vidarbha Pro T20 League",
-            "match_id": 128177,
-            "status": "STARTED",
-            "startTime": "13 June 2025 07:45 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "15 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Match-17-sporty_1749795444098.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128177_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Match-17-sporty_1749795444098.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128177_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11561,
-                    "name": "Pagariya Strikers",
-                    "shortName": "PAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAS@2x.png",
-                    "color": "#8c33ba"
-                },
-                {
-                    "id": 11565,
-                    "name": "Orange Tigers",
-                    "shortName": "ORT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ORT@2x.png",
-                    "color": "#904104"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128177_english_hls_67687adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Essex Vs Glamorgan",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
                     "color": "#2d4475"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Glamorgan Vs Sussex",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125936,
+            "status": "NOT_STARTED",
+            "startTime": "14 June 2025 11:15 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/125936_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125936_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 362,
+                    "name": "Glamorgan",
+                    "shortName": "GLA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "color": "#528c3d"
+                },
+                {
+                    "id": 283,
+                    "name": "Sussex",
+                    "shortName": "SUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUS@2x.png",
+                    "color": "#256caf"
                 }
             ],
             "language": "BLOODY_SWEET",
