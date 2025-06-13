@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:58:51 PM 13-06-2025",
+    "last_updated": "04:05:52 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -544,44 +544,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Mighty Tigers Vs Old Brentwoods",
-            "tournament": "ECS England, Hornchurch, 2025",
-            "short_name": "ECS England",
-            "match_id": 127737,
-            "status": "STARTED",
-            "startTime": "13 June 2025 02:15 PM",
-            "startDate": "02 June 2025 05:30 AM",
-            "endDate": "13 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127737_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127737_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11530,
-                    "name": "Mighty Tigers",
-                    "shortName": "MT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MT-CR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MT-CR3@2x.png",
-                    "color": "#FFFF8F"
-                },
-                {
-                    "id": 11536,
-                    "name": "Old Brentwoods",
-                    "shortName": "OB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "color": "#FFFF8F"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127737_english_hls_70828adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
             "tournament": "Madhya Pradesh League, 2025",
             "short_name": "MPL",
@@ -616,6 +578,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128435_english_hls_68120adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Hornchurch Vs Sharks Cricket Academy",
+            "tournament": "ECS England, Hornchurch, 2025",
+            "short_name": "ECS England",
+            "match_id": 127738,
+            "status": "STARTED",
+            "startTime": "13 June 2025 04:15 PM",
+            "startDate": "02 June 2025 05:30 AM",
+            "endDate": "13 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/127738_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card_1748596973845.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127738_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6040,
+                    "name": "Hornchurch",
+                    "shortName": "HOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HOR@2x.png",
+                    "color": "#98000a"
+                },
+                {
+                    "id": 11531,
+                    "name": "Sharks Cricket Academy",
+                    "shortName": "SCA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
+                    "color": "#DFE4EE"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127738_english_hls_33945adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
