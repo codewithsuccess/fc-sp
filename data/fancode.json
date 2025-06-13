@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:17 PM 13-06-2025",
+    "last_updated": "11:37:17 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "live_matches": 11,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Cricket",
@@ -429,6 +429,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Baseball",
+            "title": "Chicago Cubs Vs Pittsburgh Pirates",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128360,
+            "status": "STARTED",
+            "startTime": "13 June 2025 11:50 PM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128360_CASACARDS_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128360_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128360_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128360_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2339,
+                    "name": "Chicago Cubs",
+                    "shortName": "CHC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
+                    "color": "#d64140"
+                },
+                {
+                    "id": 2347,
+                    "name": "Pittsburgh Pirates",
+                    "shortName": "PBP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png",
+                    "color": "#816305"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128360_english_hls_55025adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Soca Kings Vs Leatherback Strikers",
             "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
@@ -464,44 +502,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128212_english_hls_62940adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Old Brentwoods Vs Sharks Cricket Academy",
-            "tournament": "ECS England, Hornchurch, 2025",
-            "short_name": "ECS England",
-            "match_id": 127740,
-            "status": "COMPLETED",
-            "startTime": "13 June 2025 09:15 PM",
-            "startDate": "02 June 2025 05:30 AM",
-            "endDate": "13 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127740_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Hornchurch,-2025-old-Match-card-3_1748596967309.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127740_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11536,
-                    "name": "Old Brentwoods",
-                    "shortName": "OB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OB-CR1@2x.png",
-                    "color": "#FFFF8F"
-                },
-                {
-                    "id": 11531,
-                    "name": "Sharks Cricket Academy",
-                    "shortName": "SCA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCA-CR3@2x.png",
-                    "color": "#DFE4EE"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
