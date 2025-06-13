@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:16 AM 14-06-2025",
+    "last_updated": "12:19:18 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -391,6 +391,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Thunder Cats Vs Lexus",
+            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
+            "short_name": "KCC T20 Challengers B",
+            "match_id": 128648,
+            "status": "STARTED",
+            "startTime": "14 June 2025 12:30 AM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "04 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128648_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128648_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9012,
+                    "name": "Thunder Cats",
+                    "shortName": "THN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "color": "#ea4848"
+                },
+                {
+                    "id": 7396,
+                    "name": "Lexus",
+                    "shortName": "LEX",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
+                    "color": "#2f86b7"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128648_english_hls_32254adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Baseball",
             "title": "Chicago Cubs Vs Pittsburgh Pirates",
             "tournament": "Major League Baseball, 2025",
@@ -426,44 +464,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128360_english_hls_55025adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bundelkhand Bulls Vs Rewa Jaguars",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128436,
-            "status": "STARTED",
-            "startTime": "13 June 2025 07:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128436_5300_BBS_RW_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128436_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128436_5300_BBS_RW_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128436_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11582,
-                    "name": "Bundelkhand Bulls",
-                    "shortName": "BBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "color": "#ee3e26"
-                },
-                {
-                    "id": 11580,
-                    "name": "Rewa Jaguars",
-                    "shortName": "RW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "color": "#862900"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128436_english_hls_25166adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
