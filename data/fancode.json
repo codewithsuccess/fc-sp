@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:12:16 PM 13-06-2025",
+    "last_updated": "11:19:16 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -201,44 +201,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Golf",
-            "title": "Day 2",
-            "tournament": "US Open",
-            "short_name": "US Open",
-            "match_id": 128462,
-            "status": "STARTED",
-            "startTime": "13 June 2025 09:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "15 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11584,
-                    "name": "Day 2",
-                    "shortName": "USO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "color": "#BC1221"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128462_english_hls_74884adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Idream Tiruppur Tamizhans Vs Skm Salem Spartans",
             "tournament": "Shriram Capital TNPL",
@@ -312,6 +274,44 @@
             ],
             "language": "TAMIL",
             "adfree_stream": "https://dai.fancode.com/primary/126536_tamil_hls_61006adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Day 2",
+            "tournament": "US Open",
+            "short_name": "US Open",
+            "match_id": 128462,
+            "status": "STARTED",
+            "startTime": "13 June 2025 09:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11584,
+                    "name": "Day 2",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128462_english_hls_74884adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
