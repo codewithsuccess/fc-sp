@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:37:16 AM 13-06-2025",
+    "last_updated": "08:44:19 AM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -43,6 +43,41 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128779_english_hls_80728adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Womens Vs Sobisco Smashers Malda Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "match_id": 128083,
+            "status": "STARTED",
+            "startTime": "2025-06-12T00:00:00.000Z",
+            "endDate": "2025-06-28T00:00:00.000Z",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128083_5283_SRT-W_SSM-W_fc-App.jpg",
+            "image_cdn": {
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128083_5283_SRT-W_SSM-W_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128083_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8716,
+                    "name": "Shrachi Rarh Tigers Womens",
+                    "shortName": "SRT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                },
+                {
+                    "id": 8721,
+                    "name": "Sobisco Smashers Malda Womens",
+                    "shortName": "SSM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128083_english_hls_36647adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -284,41 +319,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "color": "#e9515e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Somerset Women Vs Lancashire Women",
-            "tournament": "Women's Vitality Blast T20, 2025",
-            "match_id": 125848,
-            "status": "NOT_STARTED",
-            "startTime": "2025-05-30T00:00:00.000Z",
-            "endDate": "2025-07-27T00:00:00.000Z",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125848_5206_SSW_LAN-W_fc-App.jpg",
-            "image_cdn": {
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125848_5206_SSW_LAN-W_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125848_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9763,
-                    "name": "Somerset Women",
-                    "shortName": "SSW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "color": "#a93653"
-                },
-                {
-                    "id": 3531,
-                    "name": "Lancashire Women",
-                    "shortName": "LAN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "color": "#CB1414"
                 }
             ],
             "language": "BLOODY_SWEET",
