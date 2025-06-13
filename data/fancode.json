@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:17 PM 13-06-2025",
+    "last_updated": "09:19:20 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 11,
-    "upcoming_matches": 8,
+    "total_matches": 20,
+    "live_matches": 13,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -277,6 +277,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Golf",
+            "title": "Day 2",
+            "tournament": "US Open",
+            "short_name": "US Open",
+            "match_id": 128462,
+            "status": "STARTED",
+            "startTime": "13 June 2025 09:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11584,
+                    "name": "Day 2",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128462_english_hls_74884adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Worcestershire Vs Lancashire",
             "tournament": "Vitality Blast T20, 2025",
@@ -430,44 +468,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Lux Shyam Kolkata Tigers Vs Adamas Howrah Warriors",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128055,
-            "status": "NOT_STARTED",
-            "startTime": "14 June 2025 01:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8710,
-                    "name": "Lux Shyam Kolkata Tigers",
-                    "shortName": "LSKT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
-                    "color": "#2f87e2"
-                },
-                {
-                    "id": 8712,
-                    "name": "Adamas Howrah Warriors",
-                    "shortName": "AHW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
-                    "color": "#9495ed"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Bundelkhand Bulls Vs Rewa Jaguars",
             "tournament": "Madhya Pradesh League, 2025",
             "short_name": "MPL",
@@ -578,6 +578,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127740_english_hls_75332adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Soca Kings Vs Leatherback Strikers",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128212,
+            "status": "STARTED",
+            "startTime": "13 June 2025 09:30 PM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128212_5288_SCK_TLS_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128212_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128212_5288_SCK_TLS_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128212_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4510,
+                    "name": "Soca Kings",
+                    "shortName": "SCK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOCA@2x.png",
+                    "color": "#a92a22"
+                },
+                {
+                    "id": 9198,
+                    "name": "Leatherback Strikers",
+                    "shortName": "TLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "color": "#633600"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128212_english_hls_62940adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
