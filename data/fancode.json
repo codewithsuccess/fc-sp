@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:16 AM 14-06-2025",
+    "last_updated": "02:26:16 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,44 +10,6 @@
     "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Gloucestershire Vs Somerset",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125932,
-            "status": "COMPLETED",
-            "startTime": "13 June 2025 11:30 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/125932_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125932_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 363,
-                    "name": "Gloucestershire",
-                    "shortName": "GLO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "color": "#17836e"
-                },
-                {
-                    "id": 282,
-                    "name": "Somerset",
-                    "shortName": "SOM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "color": "#a93653"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Formula 1",
             "title": "Practice 2",
@@ -156,6 +118,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
                     "color": "#e9515e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gloucestershire Vs Somerset",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125932,
+            "status": "COMPLETED",
+            "startTime": "13 June 2025 11:30 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/125932_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125932_5207_GLO_SOM_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125932_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 363,
+                    "name": "Gloucestershire",
+                    "shortName": "GLO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "color": "#17836e"
+                },
+                {
+                    "id": 282,
+                    "name": "Somerset",
+                    "shortName": "SOM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "color": "#a93653"
                 }
             ],
             "language": "BLOODY_SWEET",
