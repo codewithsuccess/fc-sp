@@ -1,53 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:51:17 PM 13-06-2025",
+    "last_updated": "06:58:20 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
+    "total_matches": 16,
     "live_matches": 6,
-    "upcoming_matches": 9,
+    "upcoming_matches": 10,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Bharat Rangers Vs Neco Master Blaster",
-            "tournament": "Vidarbha Pro T20 League, 2025",
-            "short_name": "Vidarbha Pro T20 League",
-            "match_id": 128176,
-            "status": "STARTED",
-            "startTime": "13 June 2025 02:45 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "15 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128162_5285_BHR_NMB_fc-App_1749794819627.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128176_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128162_5285_BHR_NMB_fc-App_1749794819627.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128176_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11564,
-                    "name": "Bharat Rangers",
-                    "shortName": "BHR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHR@2x.png",
-                    "color": "#d0993f"
-                },
-                {
-                    "id": 11562,
-                    "name": "NECO Master Blaster",
-                    "shortName": "NMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEC@2x.png",
-                    "color": "#ff1a00"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128176_english_hls_31234adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Murshidabad Kings Vs Harbour Diamonds",
@@ -168,7 +130,7 @@
             "tournament": "Shriram Capital TNPL",
             "short_name": "TNPL",
             "match_id": 126536,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "13 June 2025 07:15 PM",
             "startDate": "05 June 2025 05:30 AM",
             "endDate": "06 July 2025 05:30 AM",
@@ -196,8 +158,46 @@
                     "color": "#FFF200"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126536_english_hls_42022adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Idream Tiruppur Tamizhans Vs Skm Salem Spartans",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126536,
+            "status": "STARTED",
+            "startTime": "13 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Tiruppur_v_Salem_Sporty_match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/126536_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Tiruppur_v_Salem_Sporty_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126536_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3641,
+                    "name": "IDream Tiruppur Tamizhans",
+                    "shortName": "ITT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "color": "#5065D3"
+                },
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126536_tamil_hls_61006adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -422,6 +422,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
                     "color": "#a93653"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Lux Shyam Kolkata Tigers Vs Adamas Howrah Warriors",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128055,
+            "status": "NOT_STARTED",
+            "startTime": "14 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128055_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                },
+                {
+                    "id": 8712,
+                    "name": "Adamas Howrah Warriors",
+                    "shortName": "AHW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "color": "#9495ed"
                 }
             ],
             "language": "BLOODY_SWEET",
