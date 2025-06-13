@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:30:16 AM 14-06-2025",
+    "last_updated": "02:37:51 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,44 +10,6 @@
     "live_matches": 5,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Formula 1",
-            "title": "Practice 2",
-            "tournament": "F1 PIRELLI GRAND PRIX DU CANADA 2025",
-            "short_name": "Canadian GP",
-            "match_id": 118427,
-            "status": "STARTED",
-            "startTime": "14 June 2025 02:30 AM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "15 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice2_Canada_F1_GP_Match_card-(1).jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/118427_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice2_Canada_F1_GP_Match_card-(1).jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118427_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8201,
-                    "name": "Practice 2",
-                    "shortName": "P2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://d2pdjaq6nez4mz.cloudfront.net/out/v1/5fb958219eec4354a2dacc53a3a3bd6c/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Golf",
             "title": "Day 2",
@@ -84,6 +46,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128462_english_hls_74884adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 PIRELLI GRAND PRIX DU CANADA 2025",
+            "short_name": "Canadian GP",
+            "match_id": 118427,
+            "status": "STARTED",
+            "startTime": "14 June 2025 02:30 AM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice2_Canada_F1_GP_Match_card-(1).jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/118427_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice2_Canada_F1_GP_Match_card-(1).jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118427_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8201,
+                    "name": "Practice 2",
+                    "shortName": "P2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://d2pdjaq6nez4mz.cloudfront.net/out/v1/5fb958219eec4354a2dacc53a3a3bd6c/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
