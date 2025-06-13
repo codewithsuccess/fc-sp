@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:19:51 PM 13-06-2025",
+    "last_updated": "04:26:53 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 7,
+    "total_matches": 17,
+    "live_matches": 8,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -616,6 +616,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/127738_english_hls_33945adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Motorsports",
+            "title": "E1",
+            "tournament": "E1 Dubrovnik GP",
+            "short_name": "E1 Dubrovnik",
+            "match_id": 128859,
+            "status": "STARTED",
+            "startTime": "13 June 2025 04:35 PM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "14 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128859_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128859_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9603,
+                    "name": "Session 1: Qualifying Time Trials",
+                    "shortName": "E1",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128859_english_hls_19991adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
