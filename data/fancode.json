@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:18 PM 13-06-2025",
+    "last_updated": "06:37:25 PM 13-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 4,
-    "upcoming_matches": 8,
+    "total_matches": 14,
+    "live_matches": 5,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128054,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "13 June 2025 07:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -82,8 +82,84 @@
                     "color": "#077e80"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128054_english_hls_13282adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Harbour Diamonds",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128054,
+            "status": "STARTED",
+            "startTime": "13 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128054_5282_MK_HD_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128054_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128054_5282_MK_HD_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128054_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128054_hindi_hls_86555adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Harbour Diamonds",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128054,
+            "status": "STARTED",
+            "startTime": "13 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128054_5282_MK_HD_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128054_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128054_5282_MK_HD_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128054_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128054_bengali_hls_26956adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -354,44 +430,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128435,
-            "status": "STARTED",
-            "startTime": "13 June 2025 03:00 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128435_5300_JRL_BL_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128435_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128435_5300_JRL_BL_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128435_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11579,
-                    "name": "Jabalpur Royal Lions",
-                    "shortName": "JRL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                    "color": "#a34c08"
-                },
-                {
-                    "id": 11578,
-                    "name": "Bhopal Leopards",
-                    "shortName": "BL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "color": "#d18e09"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128435_english_hls_68120adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Austria Women Vs Czechia Women",
             "tournament": "ECN Central Europe Cup T20IW, 2025",
             "short_name": "ECN Central Europe Cup T20IW",
@@ -464,6 +502,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128859_english_hls_19991adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Jabalpur Royal Lions Vs Bhopal Leopards",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128435,
+            "status": "STARTED",
+            "startTime": "13 June 2025 03:00 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128435_5300_JRL_BL_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128435_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128435_5300_JRL_BL_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128435_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11579,
+                    "name": "Jabalpur Royal Lions",
+                    "shortName": "JRL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "color": "#a34c08"
+                },
+                {
+                    "id": 11578,
+                    "name": "Bhopal Leopards",
+                    "shortName": "BL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
+                    "color": "#d18e09"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128435_english_hls_68120adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
