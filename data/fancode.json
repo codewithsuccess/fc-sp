@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:19:51 AM 14-06-2025",
+    "last_updated": "07:26:52 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -46,6 +46,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128304_english_hls_86097adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Cleveland Guardians",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128361,
+            "status": "STARTED",
+            "startTime": "14 June 2025 07:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_SPORTY_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2333,
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "color": "#11a6a8"
+                },
+                {
+                    "id": 2325,
+                    "name": "Cleveland Guardians",
+                    "shortName": "CLE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "color": "#0c2346"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128361_english_hls_76496adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -308,44 +346,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "color": "#2d9251"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Anmol Kings Halar Vs Jmd Kutch Riders",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128195,
-            "status": "NOT_STARTED",
-            "startTime": "14 June 2025 07:30 PM",
-            "startDate": "07 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128195_5287_HH_KW_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128195_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128195_5287_HH_KW_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128195_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1186,
-                    "name": "Anmol Kings Halar",
-                    "shortName": "AKH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "color": "#f60e11"
-                },
-                {
-                    "id": 1188,
-                    "name": "JMD Kutch Riders",
-                    "shortName": "JKR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "color": "#0f7e9e"
                 }
             ],
             "language": "BLOODY_SWEET",
