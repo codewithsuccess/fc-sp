@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:51:50 AM 15-06-2025",
+    "last_updated": "12:58:50 AM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 14,
-    "live_matches": 11,
-    "upcoming_matches": 3,
+    "live_matches": 12,
+    "upcoming_matches": 2,
     "matches": [
         {
             "category": "Cricket",
@@ -239,6 +239,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Formula 1",
+            "title": "Qualifying",
+            "tournament": "F1 PIRELLI GRAND PRIX DU CANADA 2025",
+            "short_name": "Canadian GP",
+            "match_id": 118429,
+            "status": "STARTED",
+            "startTime": "15 June 2025 01:30 AM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Qualifying_Canada_F1_GP_Match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/118429_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Qualifying_Canada_F1_GP_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118429_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8203,
+                    "name": "Qualifying",
+                    "shortName": "QF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://d1nc2fqhfs1vnu.cloudfront.net/out/v1/4a49def01d81444da51048de7fe13b4e/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Football",
             "title": "Spain U21 Vs Romania U21",
             "tournament": "UEFA European Under-21 Championship",
@@ -308,44 +346,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
                     "color": "#5290d1"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "England U21 Vs Slovenia U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123325,
-            "status": "NOT_STARTED",
-            "startTime": "15 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123325_5106_EN-U21_SLV_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123325_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123325_5106_EN-U21_SLV_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123325_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 755,
-                    "name": "England U21",
-                    "shortName": "EN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "color": "#eb5764"
-                },
-                {
-                    "id": 9755,
-                    "name": "Slovenia U21",
-                    "shortName": "SLV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
-                    "color": "#bcbcbc"
                 }
             ],
             "language": "BLOODY_SWEET",
