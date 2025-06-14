@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:58:14 PM 14-06-2025",
+    "last_updated": "03:05:16 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 9,
+    "total_matches": 19,
+    "live_matches": 10,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -168,7 +168,7 @@
             "tournament": "Shriram Capital TNPL",
             "short_name": "TNPL",
             "match_id": 126537,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "14 June 2025 03:15 PM",
             "startDate": "05 June 2025 05:30 AM",
             "endDate": "06 July 2025 05:30 AM",
@@ -196,8 +196,46 @@
                     "color": "#FFE6A8"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126537_english_hls_1603adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Chepauk Super Gillies Vs Lyca Kovai Kings",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126537,
+            "status": "STARTED",
+            "startTime": "14 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Kovai_Sporty_match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/126537_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Kovai_Sporty_match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126537_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 680,
+                    "name": "Chepauk Super Gillies",
+                    "shortName": "CSG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "color": "#FFE68C"
+                },
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126537_tamil_hls_29790adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
