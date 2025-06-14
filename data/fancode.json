@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:58:19 PM 14-06-2025",
+    "last_updated": "04:05:15 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 10,
+    "total_matches": 20,
+    "live_matches": 11,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -616,6 +616,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128437_english_hls_84105adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Upminster W Vs Hutton W",
+            "tournament": "ECS-W England, Hornchurch, 2025",
+            "short_name": "ECS-W England",
+            "match_id": 128340,
+            "status": "STARTED",
+            "startTime": "14 June 2025 04:15 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "14 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128340_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128340_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11574,
+                    "name": "Upminster-W",
+                    "shortName": "UPM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UPM-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/UPM-CR1@2x.png",
+                    "color": "#1C1166"
+                },
+                {
+                    "id": 11573,
+                    "name": "Hutton-W",
+                    "shortName": "HUT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HUT-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HUT-CR1@2x.png",
+                    "color": "#980004"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128340_english_hls_94779adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
