@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:37:50 PM 14-06-2025",
+    "last_updated": "09:44:51 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
+    "total_matches": 17,
     "live_matches": 11,
-    "upcoming_matches": 7,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -315,6 +315,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Formula 1",
+            "title": "Practice 3",
+            "tournament": "F1 PIRELLI GRAND PRIX DU CANADA 2025",
+            "short_name": "Canadian GP",
+            "match_id": 118428,
+            "status": "STARTED",
+            "startTime": "14 June 2025 10:00 PM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice_Canada_F1_GP_Match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/118428_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula1_Practice_Canada_F1_GP_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118428_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8202,
+                    "name": "Practice 3",
+                    "shortName": "P3",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dluorh7ry2690.cloudfront.net/out/v1/4f2a5c13dd4e48deabd974bb119c7b78/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Glamorgan Vs Sussex",
             "tournament": "Vitality Blast T20, 2025",
@@ -422,44 +460,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "color": "#4558d8"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126539,
-            "status": "NOT_STARTED",
-            "startTime": "15 June 2025 03:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 683,
-                    "name": "Trichy Grand Cholas",
-                    "shortName": "TGC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "color": "#C2920B"
-                },
-                {
-                    "id": 3641,
-                    "name": "IDream Tiruppur Tamizhans",
-                    "shortName": "ITT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "color": "#5065D3"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -578,44 +578,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128438_english_hls_24100adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Hutton W Vs Gunnersbury W",
-            "tournament": "ECS-W England, Hornchurch, 2025",
-            "short_name": "ECS-W England",
-            "match_id": 128342,
-            "status": "STARTED",
-            "startTime": "14 June 2025 08:15 PM",
-            "startDate": "07 June 2025 05:30 AM",
-            "endDate": "14 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128342_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS_W_England_-Hornchurc-_Old_match-card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128342_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11573,
-                    "name": "Hutton-W",
-                    "shortName": "HUT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HUT-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HUT-CR1@2x.png",
-                    "color": "#980004"
-                },
-                {
-                    "id": 11572,
-                    "name": "Gunnersbury-W",
-                    "shortName": "GUN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GUN-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GUN-CR2@2x.png",
-                    "color": "#015927"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128342_english_hls_40914adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
