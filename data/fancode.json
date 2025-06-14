@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:50 PM 14-06-2025",
+    "last_updated": "09:19:55 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 9,
-    "upcoming_matches": 8,
+    "total_matches": 18,
+    "live_matches": 12,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -277,6 +277,82 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Spain U21 Vs Romania U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123321,
+            "status": "STARTED",
+            "startTime": "14 June 2025 09:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 750,
+                    "name": "Spain U21",
+                    "shortName": "ES-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
+                    "color": "#fdebb4"
+                },
+                {
+                    "id": 6892,
+                    "name": "Romania U21",
+                    "shortName": "RO-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
+                    "color": "#fddf5b"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123321_english_hls_84039adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Golf",
+            "title": "Day 3",
+            "tournament": "US Open",
+            "short_name": "US Open",
+            "match_id": 128463,
+            "status": "STARTED",
+            "startTime": "14 June 2025 09:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128463_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128463_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11584,
+                    "name": "Day 3",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128463_english_hls_86594adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Glamorgan Vs Sussex",
             "tournament": "Vitality Blast T20, 2025",
@@ -353,44 +429,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Football",
-            "title": "Spain U21 Vs Romania U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123321,
-            "status": "NOT_STARTED",
-            "startTime": "14 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 750,
-                    "name": "Spain U21",
-                    "shortName": "ES-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
-                    "color": "#fdebb4"
-                },
-                {
-                    "id": 6892,
-                    "name": "Romania U21",
-                    "shortName": "RO-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
-                    "color": "#fddf5b"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Cricket",
             "title": "Dita Gohilwad Titans Vs Zalawad Strikers",
             "tournament": "Saurashtra Pro T20 League, 2025",
@@ -422,44 +460,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "color": "#4558d8"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126539,
-            "status": "NOT_STARTED",
-            "startTime": "15 June 2025 03:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 683,
-                    "name": "Trichy Grand Cholas",
-                    "shortName": "TGC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "color": "#C2920B"
-                },
-                {
-                    "id": 3641,
-                    "name": "IDream Tiruppur Tamizhans",
-                    "shortName": "ITT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "color": "#5065D3"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -654,6 +654,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128851_english_hls_888adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Leatherback Strikers Vs Samp Army Cocrico Cavaliers",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128214,
+            "status": "STARTED",
+            "startTime": "14 June 2025 09:30 PM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128214_5288_TLS_SCL_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128214_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128214_5288_TLS_SCL_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128214_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9198,
+                    "name": "Leatherback Strikers",
+                    "shortName": "TLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "color": "#633600"
+                },
+                {
+                    "id": 4508,
+                    "name": "Samp Army Cocrico Cavaliers",
+                    "shortName": "SCL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "color": "#4d2f79"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128214_english_hls_62319adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
