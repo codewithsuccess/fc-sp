@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:50 PM 14-06-2025",
+    "last_updated": "08:30:53 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 12,
+    "total_matches": 20,
+    "live_matches": 13,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -353,6 +353,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Football",
+            "title": "Spain U21 Vs Romania U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123321,
+            "status": "NOT_STARTED",
+            "startTime": "14 June 2025 09:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123321_5106_ES-U21_RO-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123321_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 750,
+                    "name": "Spain U21",
+                    "shortName": "ES-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
+                    "color": "#fdebb4"
+                },
+                {
+                    "id": 6892,
+                    "name": "Romania U21",
+                    "shortName": "RO-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
+                    "color": "#fddf5b"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Cricket",
             "title": "Harbour Diamonds Vs Sobisco Smashers Malda",
             "tournament": "Bengal Pro T20 league, 2025",
@@ -422,44 +460,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "color": "#4558d8"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126539,
-            "status": "NOT_STARTED",
-            "startTime": "15 June 2025 03:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 683,
-                    "name": "Trichy Grand Cholas",
-                    "shortName": "TGC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "color": "#C2920B"
-                },
-                {
-                    "id": 3641,
-                    "name": "IDream Tiruppur Tamizhans",
-                    "shortName": "ITT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
-                    "color": "#5065D3"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -654,6 +654,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128342_english_hls_40914adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Czechia Women Vs Croatia Women",
+            "tournament": "ECI-W Czechia, 2025",
+            "short_name": "ECI-W Czechia",
+            "match_id": 128851,
+            "status": "STARTED",
+            "startTime": "14 June 2025 08:45 PM",
+            "startDate": "14 June 2025 05:30 AM",
+            "endDate": "15 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128851_5327_CZE-W_CRO-W_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128851_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128851_5327_CZE-W_CRO-W_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128851_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7683,
+                    "name": "Czechia Women",
+                    "shortName": "CZE-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "color": "#ff1400"
+                },
+                {
+                    "id": 7684,
+                    "name": "Croatia Women",
+                    "shortName": "CRO-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+                    "color": "#1932a7"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128851_english_hls_888adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
