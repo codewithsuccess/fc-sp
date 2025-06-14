@@ -1,53 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:52 AM 14-06-2025",
+    "last_updated": "06:37:51 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Golf",
-            "title": "Day 2",
-            "tournament": "US Open",
-            "short_name": "US Open",
-            "match_id": 128462,
-            "status": "STARTED",
-            "startTime": "13 June 2025 09:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "15 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128462_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11584,
-                    "name": "Day 2",
-                    "shortName": "USO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "color": "#BC1221"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128462_english_hls_74884adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Lux Shyam Kolkata Tigers Vs Adamas Howrah Warriors",
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
                     "color": "#0f7e9e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Glamorgan Vs Sussex",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125936,
+            "status": "NOT_STARTED",
+            "startTime": "14 June 2025 11:15 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/125936_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125936_5207_GLA_SUS_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125936_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 362,
+                    "name": "Glamorgan",
+                    "shortName": "GLA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "color": "#528c3d"
+                },
+                {
+                    "id": 283,
+                    "name": "Sussex",
+                    "shortName": "SUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUS@2x.png",
+                    "color": "#256caf"
                 }
             ],
             "language": "BLOODY_SWEET",
