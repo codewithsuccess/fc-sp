@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:14 PM 14-06-2025",
+    "last_updated": "12:30:24 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 1,
-    "upcoming_matches": 9,
+    "total_matches": 13,
+    "live_matches": 3,
+    "upcoming_matches": 10,
     "matches": [
         {
             "category": "Cricket",
@@ -16,7 +16,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128055,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "14 June 2025 01:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -44,8 +44,84 @@
                     "color": "#9495ed"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128055_english_hls_23291adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Lux Shyam Kolkata Tigers Vs Adamas Howrah Warriors",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128055,
+            "status": "STARTED",
+            "startTime": "14 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                },
+                {
+                    "id": 8712,
+                    "name": "Adamas Howrah Warriors",
+                    "shortName": "AHW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "color": "#9495ed"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128055_hindi_hls_56937adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Lux Shyam Kolkata Tigers Vs Adamas Howrah Warriors",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128055,
+            "status": "STARTED",
+            "startTime": "14 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128055_5282_LSKT_AHW_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128055_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                },
+                {
+                    "id": 8712,
+                    "name": "Adamas Howrah Warriors",
+                    "shortName": "AHW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "color": "#9495ed"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128055_bengali_hls_20839adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -388,6 +464,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128305_english_hls_74583adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Czechia Women Vs Gibraltar Women",
+            "tournament": "ECI-W Czechia, 2025",
+            "short_name": "ECI-W Czechia",
+            "match_id": 128847,
+            "status": "STARTED",
+            "startTime": "14 June 2025 12:45 PM",
+            "startDate": "14 June 2025 05:30 AM",
+            "endDate": "15 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128847_5327_CZE-W_GIB-W_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128847_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128847_5327_CZE-W_GIB-W_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128847_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7683,
+                    "name": "Czechia Women",
+                    "shortName": "CZE-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png",
+                    "color": "#ff1400"
+                },
+                {
+                    "id": 6010,
+                    "name": "Gibraltar Women",
+                    "shortName": "GIB-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
+                    "color": "#EE0000"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128847_english_hls_36087adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
