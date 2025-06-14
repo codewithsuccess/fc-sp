@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:53 PM 14-06-2025",
+    "last_updated": "09:37:50 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 12,
-    "upcoming_matches": 6,
+    "live_matches": 11,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -239,44 +239,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Anmol Kings Halar Vs Jmd Kutch Riders",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128195,
-            "status": "STARTED",
-            "startTime": "14 June 2025 07:30 PM",
-            "startDate": "07 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128195_5287_HH_KW_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128195_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128195_5287_HH_KW_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128195_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1186,
-                    "name": "Anmol Kings Halar",
-                    "shortName": "AKH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
-                    "color": "#f60e11"
-                },
-                {
-                    "id": 1188,
-                    "name": "JMD Kutch Riders",
-                    "shortName": "JKR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
-                    "color": "#0f7e9e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128195_english_hls_73170adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Spain U21 Vs Romania U21",
             "tournament": "UEFA European Under-21 Championship",
@@ -460,6 +422,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "color": "#4558d8"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126539,
+            "status": "NOT_STARTED",
+            "startTime": "15 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 683,
+                    "name": "Trichy Grand Cholas",
+                    "shortName": "TGC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "color": "#C2920B"
+                },
+                {
+                    "id": 3641,
+                    "name": "IDream Tiruppur Tamizhans",
+                    "shortName": "ITT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "color": "#5065D3"
                 }
             ],
             "language": "BLOODY_SWEET",
