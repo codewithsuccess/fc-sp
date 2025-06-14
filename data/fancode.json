@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:51 AM 14-06-2025",
+    "last_updated": "08:51:52 AM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 2,
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -49,41 +49,41 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Baseball",
-            "title": "Seattle Mariners Vs Cleveland Guardians",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128361,
+            "category": "Cricket",
+            "title": "Harbour Diamonds Womens Vs Lux Shyam Kolkata Tigers Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "short_name": "Bengal Women's Pro T20 League",
+            "match_id": 128085,
             "status": "STARTED",
-            "startTime": "14 June 2025 07:40 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_SPORTY_APP.png",
+            "startTime": "14 June 2025 09:00 AM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128085_5283_HD-W_LSKT-W_fc-App.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_APP.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_SPORTY_APP.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "WEB": "https://images.fancode.com/aig/match/v1/128085_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128085_5283_HD-W_LSKT-W_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128085_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 2333,
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
-                    "color": "#11a6a8"
+                    "id": 8715,
+                    "name": "Harbour Diamonds Womens",
+                    "shortName": "HD-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
                 },
                 {
-                    "id": 2325,
-                    "name": "Cleveland Guardians",
-                    "shortName": "CLE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "color": "#0c2346"
+                    "id": 8719,
+                    "name": "Lux Shyam Kolkata Tigers Womens",
+                    "shortName": "LSKT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128361_english_hls_76496adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/128085_english_hls_48438adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -350,6 +350,44 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Cleveland Guardians",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128361,
+            "status": "STARTED",
+            "startTime": "14 June 2025 07:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128361_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2333,
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "color": "#11a6a8"
+                },
+                {
+                    "id": 2325,
+                    "name": "Cleveland Guardians",
+                    "shortName": "CLE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "color": "#0c2346"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128361_english_hls_76496adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
