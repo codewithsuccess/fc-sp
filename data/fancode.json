@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:58:50 PM 14-06-2025",
+    "last_updated": "09:05:50 PM 14-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 12,
-    "upcoming_matches": 7,
+    "total_matches": 18,
+    "live_matches": 10,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -198,44 +198,6 @@
             ],
             "language": "BENGALI",
             "adfree_stream": "https://dai.fancode.com/primary/128056_bengali_hls_29641adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ireland Vs West Indies",
-            "tournament": "West Indies tour of Ireland, 2025",
-            "short_name": "IRE vs WI",
-            "match_id": 125701,
-            "status": "STARTED",
-            "startTime": "14 June 2025 07:30 PM",
-            "startDate": "21 May 2025 05:30 AM",
-            "endDate": "15 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/125701_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125701_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 69,
-                    "name": "Ireland",
-                    "shortName": "IRE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "color": "#ba6a15"
-                },
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125701_english_hls_73393adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -468,6 +430,44 @@
         },
         {
             "category": "Cricket",
+            "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126539,
+            "status": "NOT_STARTED",
+            "startTime": "15 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Tiruppur_Sporty_match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126539_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 683,
+                    "name": "Trichy Grand Cholas",
+                    "shortName": "TGC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "color": "#C2920B"
+                },
+                {
+                    "id": 3641,
+                    "name": "IDream Tiruppur Tamizhans",
+                    "shortName": "ITT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TIRT@2x.png",
+                    "color": "#5065D3"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Karnavati Kings Vs Heritage City Titans",
             "tournament": "Cricket Premier League, 2025",
             "short_name": "Cricket Premier League",
@@ -654,44 +654,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128851_english_hls_888adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Motorsports",
-            "title": "E1",
-            "tournament": "E1 Dubrovnik GP",
-            "short_name": "E1 Dubrovnik",
-            "match_id": 128863,
-            "status": "STARTED",
-            "startTime": "14 June 2025 07:35 PM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "14 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128863_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/E1-Dubrovnik-GP--old-match-card.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128863_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9603,
-                    "name": "Session 5 - Race Place & Finals",
-                    "shortName": "E1",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128863_english_hls_85916adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
