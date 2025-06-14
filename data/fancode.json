@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:58:50 AM 15-06-2025",
+    "last_updated": "01:05:51 AM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -46,6 +46,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "France U21 Vs Georgia U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123324,
+            "status": "STARTED",
+            "startTime": "15 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123324_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123324_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6784,
+                    "name": "France U21",
+                    "shortName": "FR-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
+                    "color": "#bdcaf4"
+                },
+                {
+                    "id": 6888,
+                    "name": "Georgia U21",
+                    "shortName": "GE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "color": "#EA867E"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123324_english_hls_24463adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -122,44 +160,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/123322_english_hls_29748adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "France U21 Vs Georgia U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123324,
-            "status": "STARTED",
-            "startTime": "15 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123324_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123324_5106_FR-U21_GE-U21_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123324_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6784,
-                    "name": "France U21",
-                    "shortName": "FR-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "color": "#bdcaf4"
-                },
-                {
-                    "id": 6888,
-                    "name": "Georgia U21",
-                    "shortName": "GE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "color": "#EA867E"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123324_english_hls_24463adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
