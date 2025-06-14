@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:58:51 AM 15-06-2025",
+    "last_updated": "03:05:17 AM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 11,
-    "live_matches": 7,
-    "upcoming_matches": 4,
+    "live_matches": 5,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Formula 1",
@@ -54,7 +54,7 @@
             "tournament": "UEFA European Under-21 Championship",
             "short_name": "U21 Euros",
             "match_id": 123323,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "15 June 2025 12:30 AM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 11:30 PM",
@@ -80,44 +80,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
                     "color": "#b2190c"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123323_english_hls_75905adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Slovakia U21 Vs Italy U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123322,
-            "status": "COMPLETED",
-            "startTime": "15 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123322_5106_SL-U21_IT-U21_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123322_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123322_5106_SL-U21_IT-U21_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123322_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9751,
-                    "name": "Slovakia U21",
-                    "shortName": "SL-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
-                    "color": "#5583be"
-                },
-                {
-                    "id": 749,
-                    "name": "Italy U21",
-                    "shortName": "IT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "color": "#df787f"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -201,44 +163,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "West Indies Women Vs South Africa Women",
-            "tournament": "South Africa Women tour of West Indies, 2025",
-            "short_name": "WI-w vs SA-w",
-            "match_id": 127545,
-            "status": "STARTED",
-            "startTime": "14 June 2025 07:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "23 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127545_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127545_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 647,
-                    "name": "West Indies Women",
-                    "shortName": "WI-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#91033c"
-                },
-                {
-                    "id": 706,
-                    "name": "South Africa Women",
-                    "shortName": "SA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "color": "#2d9251"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127545_english_hls_35530adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Spain U21 Vs Romania U21",
             "tournament": "UEFA European Under-21 Championship",
@@ -270,6 +194,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
                     "color": "#fddf5b"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Slovakia U21 Vs Italy U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123322,
+            "status": "COMPLETED",
+            "startTime": "15 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123322_5106_SL-U21_IT-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123322_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123322_5106_SL-U21_IT-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123322_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9751,
+                    "name": "Slovakia U21",
+                    "shortName": "SL-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
+                    "color": "#5583be"
+                },
+                {
+                    "id": 749,
+                    "name": "Italy U21",
+                    "shortName": "IT-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "color": "#df787f"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLV-FT1@2x.png",
                     "color": "#bcbcbc"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Netherlands U21 Vs Denmark U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123328,
+            "status": "NOT_STARTED",
+            "startTime": "16 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6890,
+                    "name": "Netherlands U21",
+                    "shortName": "NE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "color": "#d76e7f"
+                },
+                {
+                    "id": 9753,
+                    "name": "Denmark U21",
+                    "shortName": "DEN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "color": "#d7556e"
                 }
             ],
             "language": "BLOODY_SWEET",
