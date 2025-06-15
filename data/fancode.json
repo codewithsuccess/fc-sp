@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:37:13 PM 15-06-2025",
+    "last_updated": "11:44:12 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 13,
+    "total_matches": 17,
+    "live_matches": 12,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -202,44 +202,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Murshidabad Kings Vs Shrachi Rarh Tigers",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128058,
-            "status": "COMPLETED",
-            "startTime": "15 June 2025 07:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8711,
-                    "name": "Murshidabad Kings",
-                    "shortName": "MK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
-                    "color": "#9c69cc"
-                },
-                {
-                    "id": 8709,
-                    "name": "Shrachi Rarh Tigers",
-                    "shortName": "SRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "color": "#fbb27e"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Pagariya Strikers Vs Neco Master Blaster",
             "tournament": "Vidarbha Pro T20 League, 2025",
             "short_name": "Vidarbha Pro T20 League",
@@ -422,6 +384,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
                     "color": "#f60e11"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Netherlands U21 Vs Denmark U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123328,
+            "status": "NOT_STARTED",
+            "startTime": "16 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6890,
+                    "name": "Netherlands U21",
+                    "shortName": "NE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "color": "#d76e7f"
+                },
+                {
+                    "id": 9753,
+                    "name": "Denmark U21",
+                    "shortName": "DEN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "color": "#d7556e"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -654,44 +654,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128367_english_hls_18791adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Canada Vs Bermuda",
-            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
-            "short_name": "ICC Men's T20 WC Americas Region",
-            "match_id": 128695,
-            "status": "STARTED",
-            "startTime": "15 June 2025 08:00 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128695_5311_CAN_BER_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128695_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128695_5311_CAN_BER_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128695_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
-                },
-                {
-                    "id": 22,
-                    "name": "Bermuda",
-                    "shortName": "BER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "color": "#C33637"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128695_english_hls_54782adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
