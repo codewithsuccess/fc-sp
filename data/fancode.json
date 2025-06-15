@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:51:14 PM 15-06-2025",
+    "last_updated": "11:58:12 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 13,
-    "upcoming_matches": 5,
+    "live_matches": 12,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Formula 1",
@@ -122,44 +122,6 @@
             ],
             "language": "TAMIL",
             "adfree_stream": "https://di2dj3jnpkgy1.cloudfront.net/out/v1/035bdc4929374e1296d3977ab9f69fb5/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Scotland Vs Netherlands",
-            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
-            "short_name": "SCO vs NED & NEP",
-            "match_id": 127626,
-            "status": "STARTED",
-            "startTime": "15 June 2025 07:30 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/127626_5263_SCO_NED_fc-App.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127626_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127626_5263_SCO_NED_fc-App.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127626_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                },
-                {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127626_english_hls_17423adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -429,41 +391,41 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Samp Army Cocrico Cavaliers Vs Chicago Steelpan Players",
-            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-            "short_name": "Dream11 Trinidad T10 Blast",
-            "match_id": 128216,
-            "status": "STARTED",
-            "startTime": "15 June 2025 09:30 PM",
-            "startDate": "09 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128216_5288_SCL_SPK_fc-Web.jpg",
+            "category": "Football",
+            "title": "Czechia U21 Vs Germany U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123327,
+            "status": "NOT_STARTED",
+            "startTime": "16 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128216_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128216_5288_SCL_SPK_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128216_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "WEB": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 4508,
-                    "name": "Samp Army Cocrico Cavaliers",
-                    "shortName": "SCL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "color": "#4d2f79"
+                    "id": 6887,
+                    "name": "Czechia U21",
+                    "shortName": "CZ-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "color": "#d7556e"
                 },
                 {
-                    "id": 4507,
-                    "name": "Chicago Steelpan Players",
-                    "shortName": "SPK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
-                    "color": "#5E4900"
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128216_english_hls_52179adfreeta-di_h264/index.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -692,6 +654,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128367_english_hls_18791adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Samp Army Cocrico Cavaliers Vs Chicago Steelpan Players",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128216,
+            "status": "STARTED",
+            "startTime": "15 June 2025 09:30 PM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128216_5288_SCL_SPK_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128216_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128216_5288_SCL_SPK_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128216_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4508,
+                    "name": "Samp Army Cocrico Cavaliers",
+                    "shortName": "SCL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "color": "#4d2f79"
+                },
+                {
+                    "id": 4507,
+                    "name": "Chicago Steelpan Players",
+                    "shortName": "SPK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "color": "#5E4900"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128216_english_hls_52179adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
