@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:55 PM 15-06-2025",
+    "last_updated": "12:37:55 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 5,
-    "upcoming_matches": 9,
+    "total_matches": 16,
+    "live_matches": 6,
+    "upcoming_matches": 10,
     "matches": [
         {
             "category": "Cricket",
@@ -16,7 +16,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128057,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "15 June 2025 01:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -44,8 +44,84 @@
                     "color": "#ee8d3c"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128057_english_hls_33012adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Sobisco Smashers Malda",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128057,
+            "status": "STARTED",
+            "startTime": "15 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128057_5282_HD_SSM_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128057_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128057_5282_HD_SSM_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128057_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128057_hindi_hls_66158adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Sobisco Smashers Malda",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128057,
+            "status": "STARTED",
+            "startTime": "15 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128057_5282_HD_SSM_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128057_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128057_5282_HD_SSM_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128057_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128057_bengali_hls_95753adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -392,7 +468,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Irises Cricket Club Vs Black Eagle Sap",
+            "title": "Irises C.c Vs Black Eagles",
             "tournament": "Sikkim T20 League, 2025",
             "short_name": "Sikkim T20 League",
             "match_id": 128708,
@@ -408,20 +484,20 @@
             },
             "teams": [
                 {
-                    "id": 8096,
-                    "name": "Irises Cricket Club",
-                    "shortName": "ICC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
-                    "color": "#a052f2"
+                    "id": 11361,
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "color": "#FF0000"
                 },
                 {
-                    "id": 8100,
-                    "name": "Black Eagle SAP",
-                    "shortName": "BES",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
-                    "color": "#876500"
+                    "id": 11361,
+                    "name": "TBC",
+                    "shortName": "TBC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/tn-flags/TBC-TN1@2x.png",
+                    "color": "#FF0000"
                 }
             ],
             "language": "ENGLISH",
