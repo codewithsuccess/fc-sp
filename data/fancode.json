@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:15 AM 16-06-2025",
+    "last_updated": "02:26:14 AM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,82 +10,6 @@
     "live_matches": 10,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Netherlands U21 Vs Denmark U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123328,
-            "status": "STARTED",
-            "startTime": "16 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6890,
-                    "name": "Netherlands U21",
-                    "shortName": "NE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "color": "#d76e7f"
-                },
-                {
-                    "id": 9753,
-                    "name": "Denmark U21",
-                    "shortName": "DEN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "color": "#d7556e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123328_english_hls_56214adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Czechia U21 Vs Germany U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123327,
-            "status": "STARTED",
-            "startTime": "16 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6887,
-                    "name": "Czechia U21",
-                    "shortName": "CZ-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
-                    "color": "#d7556e"
-                },
-                {
-                    "id": 751,
-                    "name": "Germany U21",
-                    "shortName": "GER-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "color": "#ea6363"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123327_english_hls_91701adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Golf",
             "title": "Day 4",
@@ -236,6 +160,82 @@
             ],
             "language": "TAMIL",
             "adfree_stream": "https://di2dj3jnpkgy1.cloudfront.net/out/v1/035bdc4929374e1296d3977ab9f69fb5/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Netherlands U21 Vs Denmark U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123328,
+            "status": "STARTED",
+            "startTime": "16 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123328_5106_NE-U21_DEN-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123328_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6890,
+                    "name": "Netherlands U21",
+                    "shortName": "NE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "color": "#d76e7f"
+                },
+                {
+                    "id": 9753,
+                    "name": "Denmark U21",
+                    "shortName": "DEN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
+                    "color": "#d7556e"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123328_english_hls_56214adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Czechia U21 Vs Germany U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123327,
+            "status": "STARTED",
+            "startTime": "16 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123327_5106_CZ-U21_GER-U21_fc-app.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123327_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6887,
+                    "name": "Czechia U21",
+                    "shortName": "CZ-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/CZR-FT1@2x.png",
+                    "color": "#d7556e"
+                },
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123327_english_hls_91701adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
