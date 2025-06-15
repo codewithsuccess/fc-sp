@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:12:50 PM 15-06-2025",
+    "last_updated": "12:19:55 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -392,6 +392,44 @@
         },
         {
             "category": "Cricket",
+            "title": "Irises Cricket Club Vs Black Eagle Sap",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128708,
+            "status": "STARTED",
+            "startTime": "15 June 2025 12:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128708_CASACARDS_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128708_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128708_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128708_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8096,
+                    "name": "Irises Cricket Club",
+                    "shortName": "ICC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
+                    "color": "#a052f2"
+                },
+                {
+                    "id": 8100,
+                    "name": "Black Eagle SAP",
+                    "shortName": "BES",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
+                    "color": "#876500"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128708_english_hls_1697adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Pondicherry Emerging Xi Vs Malaysia Xi",
             "tournament": "Pondicherry Emerging XI tour of Malaysia, 2025",
             "short_name": "MAL vs PON XI",
@@ -464,44 +502,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/126255_english_hls_88284adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakyong Xi Vs Royal North Brothers",
-            "tournament": "Sikkim T20 League, 2025",
-            "short_name": "Sikkim T20 League",
-            "match_id": 128707,
-            "status": "STARTED",
-            "startTime": "15 June 2025 08:30 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "01 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128707_CASACARDS_APP.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128707_CASACARDS_APP.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128707_CASACARDS_APP.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128707_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8093,
-                    "name": "Pakyong XI",
-                    "shortName": "PAK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "color": "#ef3f3a"
-                },
-                {
-                    "id": 8099,
-                    "name": "Royal North Brothers",
-                    "shortName": "RNB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNB@2x.png",
-                    "color": "#b79b1b"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128707_english_hls_67517adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
