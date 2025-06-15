@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:44:12 PM 15-06-2025",
+    "last_updated": "10:51:14 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -695,6 +695,44 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Al Mulla Exchange   B Vs Tally Rangers",
+            "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
+            "short_name": "KCC T20 Challengers A",
+            "match_id": 125417,
+            "status": "STARTED",
+            "startTime": "15 June 2025 11:00 PM",
+            "startDate": "12 May 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/125417_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125417_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7980,
+                    "name": "Al Mulla Exchange - B",
+                    "shortName": "AMB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AECX@2x.png",
+                    "color": "#1AC98D"
+                },
+                {
+                    "id": 6241,
+                    "name": "Tally Rangers",
+                    "shortName": "TCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "color": "#CC1D1C"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125417_english_hls_26238adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Football",
             "title": "Mirand\u00e9s Vs Real Oviedo",
             "tournament": "LALIGA HYPERMOTION 2024-25",
@@ -806,44 +844,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128366_english_hls_4412adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Ami Super Avengers Vs Diamond Dazzlers",
-            "tournament": "Baroda Premier League, 2025",
-            "short_name": "Baroda Premier League",
-            "match_id": 128671,
-            "status": "STARTED",
-            "startTime": "15 June 2025 06:45 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "29 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128671_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128671_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11594,
-                    "name": "Ami Super Avengers",
-                    "shortName": "ASV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASV@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASV@2x.png",
-                    "color": "#a11f0d"
-                },
-                {
-                    "id": 11595,
-                    "name": "Diamond Dazzlers",
-                    "shortName": "DDZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "color": "#1d9032"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128671_english_hls_2896adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
