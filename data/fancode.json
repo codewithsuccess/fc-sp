@@ -1,15 +1,53 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:13 PM 15-06-2025",
+    "last_updated": "06:37:18 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 7,
-    "upcoming_matches": 7,
+    "total_matches": 18,
+    "live_matches": 10,
+    "upcoming_matches": 8,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Dita Gohilwad Titans Vs Zalawad Strikers",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128196,
+            "status": "STARTED",
+            "startTime": "15 June 2025 03:00 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128196_5287_GG_ZR_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128196_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128196_5287_GG_ZR_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128196_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1185,
+                    "name": "Dita Gohilwad Titans",
+                    "shortName": "DGT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "color": "#e45825"
+                },
+                {
+                    "id": 1187,
+                    "name": "Zalawad Strikers",
+                    "shortName": "ZWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "color": "#4558d8"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128196_english_hls_78670adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Trichy Grand Cholas Vs Idream Tiruppur Tamizhans",
@@ -88,44 +126,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Dita Gohilwad Titans Vs Zalawad Strikers",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128196,
-            "status": "STARTED",
-            "startTime": "15 June 2025 03:00 PM",
-            "startDate": "07 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128196_5287_GG_ZR_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128196_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128196_5287_GG_ZR_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128196_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1185,
-                    "name": "Dita Gohilwad Titans",
-                    "shortName": "DGT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "color": "#e45825"
-                },
-                {
-                    "id": 1187,
-                    "name": "Zalawad Strikers",
-                    "shortName": "ZWS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
-                    "color": "#4558d8"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128196_english_hls_78670adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Somerset Women Vs Durham Women",
             "tournament": "Women's Vitality Blast T20, 2025",
             "short_name": "Women's Vitality Blast T20",
@@ -168,7 +168,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128058,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "15 June 2025 07:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -196,8 +196,84 @@
                     "color": "#fbb27e"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128058_english_hls_6359adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Shrachi Rarh Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128058,
+            "status": "STARTED",
+            "startTime": "15 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128058_hindi_hls_79756adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Shrachi Rarh Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128058,
+            "status": "STARTED",
+            "startTime": "15 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128058_5282_MK_SRT_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128058_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128058_bengali_hls_45082adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -392,44 +468,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Orange Tigersses Women Vs Nagpur Titans Women",
-            "tournament": "Vidarbha Women's Pro T20 League, 2025",
-            "short_name": "Vidarbha Women's Pro T20 League",
-            "match_id": 128182,
-            "status": "STARTED",
-            "startTime": "15 June 2025 02:30 PM",
-            "startDate": "10 June 2025 05:30 AM",
-            "endDate": "15 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128182_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128182_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11568,
-                    "name": "Orange Tigersses Women",
-                    "shortName": "ORT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
-                    "color": "#6E3100"
-                },
-                {
-                    "id": 11567,
-                    "name": "Nagpur Titans Women",
-                    "shortName": "NAT-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
-                    "color": "#00633C"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128182_english_hls_57643adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Indore Pink Panthers Vs Chambal Ghariyals",
             "tournament": "Madhya Pradesh League, 2025",
             "short_name": "MPL",
@@ -505,6 +543,82 @@
             "dai_stream": "Coming Soon"
         },
         {
+            "category": "Cricket",
+            "title": "Ami Super Avengers Vs Diamond Dazzlers",
+            "tournament": "Baroda Premier League, 2025",
+            "short_name": "Baroda Premier League",
+            "match_id": 128671,
+            "status": "STARTED",
+            "startTime": "15 June 2025 06:45 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "29 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128671_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128671_5310_ASV_DDZ_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128671_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11594,
+                    "name": "Ami Super Avengers",
+                    "shortName": "ASV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ASV@2x.png",
+                    "color": "#a11f0d"
+                },
+                {
+                    "id": 11595,
+                    "name": "Diamond Dazzlers",
+                    "shortName": "DDZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
+                    "color": "#1d9032"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128671_english_hls_2896adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Croatia Women Vs Gibraltar Women",
+            "tournament": "ECI-W Czechia, 2025",
+            "short_name": "ECI-W Czechia",
+            "match_id": 128855,
+            "status": "STARTED",
+            "startTime": "15 June 2025 06:45 PM",
+            "startDate": "14 June 2025 05:30 AM",
+            "endDate": "15 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128855_5327_CRO-W_GIB-W_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128855_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128855_5327_CRO-W_GIB-W_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128855_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7684,
+                    "name": "Croatia Women",
+                    "shortName": "CRO-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png",
+                    "color": "#1932a7"
+                },
+                {
+                    "id": 6010,
+                    "name": "Gibraltar Women",
+                    "shortName": "GIB-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GIB@2x.png",
+                    "color": "#EE0000"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128855_english_hls_92937adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
             "category": "Golf",
             "title": "Day 4",
             "tournament": "Hulencourt Women\u2019s Open",
@@ -540,6 +654,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128771_english_hls_84944adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Orange Tigersses Women Vs Nagpur Titans Women",
+            "tournament": "Vidarbha Women's Pro T20 League, 2025",
+            "short_name": "Vidarbha Women's Pro T20 League",
+            "match_id": 128182,
+            "status": "STARTED",
+            "startTime": "15 June 2025 02:30 PM",
+            "startDate": "10 June 2025 05:30 AM",
+            "endDate": "15 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128182_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128179_5286_NAT-W_ORT-W_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128182_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11568,
+                    "name": "Orange Tigersses Women",
+                    "shortName": "ORT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ORT-CR2@2x.png",
+                    "color": "#6E3100"
+                },
+                {
+                    "id": 11567,
+                    "name": "Nagpur Titans Women",
+                    "shortName": "NAT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NAT-CR2@2x.png",
+                    "color": "#00633C"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128182_english_hls_57643adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
