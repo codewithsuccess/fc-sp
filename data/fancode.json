@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:19:21 AM 15-06-2025",
+    "last_updated": "07:26:18 AM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 2,
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -350,6 +350,44 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs San Francisco Giants",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128365,
+            "status": "STARTED",
+            "startTime": "15 June 2025 07:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128365_CASACARDS_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128365_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128365_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128365_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
+                },
+                {
+                    "id": 2349,
+                    "name": "San Francisco Giants",
+                    "shortName": "SFG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "color": "#581a02"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128365_english_hls_86813adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
