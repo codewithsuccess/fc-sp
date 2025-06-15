@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:12:12 PM 15-06-2025",
+    "last_updated": "11:19:12 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 22,
-    "live_matches": 18,
+    "total_matches": 21,
+    "live_matches": 17,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -391,44 +391,6 @@
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Ireland Vs West Indies",
-            "tournament": "West Indies tour of Ireland, 2025",
-            "short_name": "IRE vs WI",
-            "match_id": 125702,
-            "status": "STARTED",
-            "startTime": "15 June 2025 07:30 PM",
-            "startDate": "21 May 2025 05:30 AM",
-            "endDate": "15 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/125702_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_Sporty.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125702_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 69,
-                    "name": "Ireland",
-                    "shortName": "IRE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
-                    "color": "#ba6a15"
-                },
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125702_english_hls_30857adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
             "category": "Football",
             "title": "Finland U21 Vs Ukraine U21",
             "tournament": "UEFA European Under-21 Championship",
@@ -514,10 +476,10 @@
             "startTime": "15 June 2025 08:30 PM",
             "startDate": "12 June 2025 05:30 AM",
             "endDate": "15 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
             "image_cdn": {
                 "WEB": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_old_match-card.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -540,6 +502,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128464_english_hls_85167adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Ireland Vs West Indies",
+            "tournament": "West Indies tour of Ireland, 2025",
+            "short_name": "IRE vs WI",
+            "match_id": 125702,
+            "status": "STARTED",
+            "startTime": "15 June 2025 07:30 PM",
+            "startDate": "21 May 2025 05:30 AM",
+            "endDate": "15 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_old.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/125702_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Ireland_T20_old.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125702_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 69,
+                    "name": "Ireland",
+                    "shortName": "IRE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png",
+                    "color": "#ba6a15"
+                },
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125702_english_hls_30857adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -806,44 +806,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128366_english_hls_4412adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bhopal Leopards Vs Bundelkhand Bulls",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128440,
-            "status": "STARTED",
-            "startTime": "15 June 2025 07:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128440_5300_BL_BBS_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128440_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128440_5300_BL_BBS_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128440_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11578,
-                    "name": "Bhopal Leopards",
-                    "shortName": "BL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "color": "#d18e09"
-                },
-                {
-                    "id": 11582,
-                    "name": "Bundelkhand Bulls",
-                    "shortName": "BBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "color": "#ee3e26"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128440_english_hls_91509adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
