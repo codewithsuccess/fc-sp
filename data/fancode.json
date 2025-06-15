@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:12:12 PM 15-06-2025",
+    "last_updated": "08:19:19 PM 15-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 11,
-    "upcoming_matches": 6,
+    "total_matches": 18,
+    "live_matches": 15,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -358,7 +358,7 @@
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
             "match_id": 125941,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "15 June 2025 08:30 PM",
             "startDate": "29 May 2025 05:30 AM",
             "endDate": "13 September 2025 05:30 AM",
@@ -386,8 +386,8 @@
                     "color": "#843961"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125941_english_hls_3758adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -396,7 +396,7 @@
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
             "match_id": 125939,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "15 June 2025 08:30 PM",
             "startDate": "29 May 2025 05:30 AM",
             "endDate": "13 September 2025 05:30 AM",
@@ -424,46 +424,46 @@
                     "color": "#528c3d"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125939_english_hls_8708adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
-            "category": "Cricket",
-            "title": "Lux Shyam Kolkata Tigers Vs Servotech Siliguri Strikers",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128059,
-            "status": "NOT_STARTED",
-            "startTime": "16 June 2025 01:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128059_5282_LSKT_SSS_fc-App.jpg",
+            "category": "Golf",
+            "title": "Day 4",
+            "tournament": "US Open",
+            "short_name": "US Open",
+            "match_id": 128464,
+            "status": "STARTED",
+            "startTime": "15 June 2025 08:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128059_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128059_5282_LSKT_SSS_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128059_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "WEB": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 8710,
-                    "name": "Lux Shyam Kolkata Tigers",
-                    "shortName": "LSKT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
-                    "color": "#2f87e2"
+                    "id": 11584,
+                    "name": "Day 4",
+                    "shortName": "USO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
+                    "color": "#BC1221"
                 },
                 {
-                    "id": 8705,
-                    "name": "Servotech Siliguri Strikers",
-                    "shortName": "SSS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
-                    "color": "#4a56bd"
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128464_english_hls_85167adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -616,6 +616,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128403_english_hls_89443adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Motorsports",
+            "title": "F1 Academy",
+            "tournament": "F1 ACADEMY CANADA 2025",
+            "short_name": "F1A Canada",
+            "match_id": 128810,
+            "status": "STARTED",
+            "startTime": "15 June 2025 08:25 PM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "15 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128810_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F1_Academy_Generic_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128810_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8308,
+                    "name": "Third Race",
+                    "shortName": "F1A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FA@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128810_english_hls_39973adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
