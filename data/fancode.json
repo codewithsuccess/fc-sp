@@ -1,53 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:44:45 AM 17-06-2025",
+    "last_updated": "04:51:45 AM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Samp Army Cocrico Cavaliers Vs Leatherback Strikers",
-            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-            "short_name": "Dream11 Trinidad T10 Blast",
-            "match_id": 128221,
-            "status": "STARTED",
-            "startTime": "17 June 2025 02:30 AM",
-            "startDate": "09 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128221_5288_SCL_TLS_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128221_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128221_5288_SCL_TLS_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128221_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 4508,
-                    "name": "Samp Army Cocrico Cavaliers",
-                    "shortName": "SCL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "color": "#4d2f79"
-                },
-                {
-                    "id": 9198,
-                    "name": "Leatherback Strikers",
-                    "shortName": "TLS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
-                    "color": "#633600"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128221_english_hls_3655adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
         {
             "category": "Cricket",
             "title": "Aryan Sorath Lions Vs Dita Gohilwad Titans",
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
                     "color": "#0f266e"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Zalawad Strikers Vs Aryan Sorath Lions",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128200,
+            "status": "NOT_STARTED",
+            "startTime": "17 June 2025 07:30 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128200_5287_ZR_SL_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128200_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128200_5287_ZR_SL_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128200_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1187,
+                    "name": "Zalawad Strikers",
+                    "shortName": "ZWS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
+                    "color": "#4558d8"
+                },
+                {
+                    "id": 1184,
+                    "name": "Aryan Sorath Lions",
+                    "shortName": "ASL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
+                    "color": "#2798cc"
                 }
             ],
             "language": "BLOODY_SWEET",
