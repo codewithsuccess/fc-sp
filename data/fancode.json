@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:12:49 AM 16-06-2025",
+    "last_updated": "07:19:48 AM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -46,44 +46,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/129123_english_hls_25003adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs San Francisco Giants",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128368,
-            "status": "STARTED",
-            "startTime": "16 June 2025 04:40 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_APP.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_SPORTY_APP.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2342,
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "color": "#77c0f6"
-                },
-                {
-                    "id": 2349,
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "color": "#581a02"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128368_english_hls_71776adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "color": "#397b46"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Vs Servotech Siliguri Strikers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128061,
+            "status": "NOT_STARTED",
+            "startTime": "17 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8705,
+                    "name": "Servotech Siliguri Strikers",
+                    "shortName": "SSS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "color": "#4a56bd"
                 }
             ],
             "language": "BLOODY_SWEET",
