@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:12:52 PM 16-06-2025",
+    "last_updated": "07:19:53 PM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 5,
-    "upcoming_matches": 9,
+    "total_matches": 16,
+    "live_matches": 8,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -206,7 +206,7 @@
             "tournament": "Nepal and Netherlands tour of Scotland, 2025",
             "short_name": "SCO vs NED & NEP",
             "match_id": 127627,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "16 June 2025 07:30 PM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "20 June 2025 05:30 AM",
@@ -234,8 +234,8 @@
                     "color": "#2c5ab3"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127627_english_hls_31418adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -540,6 +540,82 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128673_english_hls_6947adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Gwalior Cheetahs Vs Jabalpur Royal Lions",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128442,
+            "status": "STARTED",
+            "startTime": "16 June 2025 07:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128442_5300_GC_JRL_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128442_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128442_5300_GC_JRL_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128442_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11577,
+                    "name": "Gwalior Cheetahs",
+                    "shortName": "GC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                    "color": "#e7820d"
+                },
+                {
+                    "id": 11579,
+                    "name": "Jabalpur Royal Lions",
+                    "shortName": "JRL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "color": "#a34c08"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128442_english_hls_40978adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Academy Vs Sri Lanka Emerging",
+            "tournament": "Sri Lanka Emerging tour of West Indies",
+            "short_name": "WI-A vs SL-A",
+            "match_id": 128403,
+            "status": "STARTED",
+            "startTime": "14 June 2025 07:30 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "26 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128403_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-Emerging-tour-of-West-Indies-old-match-card.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128403_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6451,
+                    "name": "West Indies Academy",
+                    "shortName": "WIC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 1294,
+                    "name": "Sri Lanka Emerging",
+                    "shortName": "SL-ET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128403_english_hls_89443adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
