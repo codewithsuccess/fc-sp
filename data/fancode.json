@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:44:50 PM 16-06-2025",
+    "last_updated": "06:51:50 PM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -430,44 +430,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Chambal Ghariyals Vs Rewa Jaguars",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128441,
-            "status": "STARTED",
-            "startTime": "16 June 2025 03:00 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128441_5300_CGS_RW_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128441_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128441_5300_CGS_RW_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128441_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
-                },
-                {
-                    "id": 11580,
-                    "name": "Rewa Jaguars",
-                    "shortName": "RW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "color": "#862900"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128441_english_hls_11547adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Vinohrady Vs Ostrava",
             "tournament": "ECS Czechia, 2025",
             "short_name": "ECS Czechia",
@@ -540,6 +502,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128673_english_hls_6947adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Chambal Ghariyals Vs Rewa Jaguars",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128441,
+            "status": "STARTED",
+            "startTime": "16 June 2025 03:00 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128441_5300_CGS_RW_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128441_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128441_5300_CGS_RW_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128441_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11581,
+                    "name": "Chambal Ghariyals",
+                    "shortName": "CGS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                    "color": "#22c13a"
+                },
+                {
+                    "id": 11580,
+                    "name": "Rewa Jaguars",
+                    "shortName": "RW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
+                    "color": "#862900"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128441_english_hls_11547adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
