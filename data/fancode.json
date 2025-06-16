@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:50 PM 16-06-2025",
+    "last_updated": "11:37:50 PM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -126,6 +126,44 @@
         },
         {
             "category": "Cricket",
+            "title": "Nepal Vs Netherlands",
+            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
+            "short_name": "SCO vs NED & NEP",
+            "match_id": 127627,
+            "status": "STARTED",
+            "startTime": "16 June 2025 07:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/127627_5263_NEP_NED_fc-App.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/127627_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127627_5263_NEP_NED_fc-App.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127627_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 181,
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "color": "#0f266e"
+                },
+                {
+                    "id": 178,
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "color": "#2c5ab3"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127627_english_hls_31418adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
             "title": "Dindigul Dragons Vs Chepauk Super Gillies",
             "tournament": "Shriram Capital TNPL",
             "short_name": "TNPL",
@@ -202,40 +240,40 @@
         },
         {
             "category": "Cricket",
-            "title": "Nepal Vs Netherlands",
-            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
-            "short_name": "SCO vs NED & NEP",
-            "match_id": 127627,
-            "status": "STARTED",
-            "startTime": "16 June 2025 07:30 PM",
-            "startDate": "15 June 2025 05:30 AM",
+            "title": "Aryan Sorath Lions Vs Dita Gohilwad Titans",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128198,
+            "status": "NOT_STARTED",
+            "startTime": "17 June 2025 11:00 AM",
+            "startDate": "07 June 2025 05:30 AM",
             "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/127627_5263_NEP_NED_fc-App.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128198_5287_SL_GG_fc-App.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127627_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127627_5263_NEP_NED_fc-App.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127627_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "WEB": "https://images.fancode.com/aig/match/v1/128198_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128198_5287_SL_GG_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128198_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 181,
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "color": "#0f266e"
+                    "id": 1184,
+                    "name": "Aryan Sorath Lions",
+                    "shortName": "ASL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
+                    "color": "#2798cc"
                 },
                 {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
+                    "id": 1185,
+                    "name": "Dita Gohilwad Titans",
+                    "shortName": "DGT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "color": "#e45825"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127627_english_hls_31418adfreeta-di_h264/index.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -270,44 +308,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
                     "color": "#397b46"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Aryan Sorath Lions Vs Dita Gohilwad Titans",
-            "tournament": "Saurashtra Pro T20 League, 2025",
-            "short_name": "Saurashtra T20",
-            "match_id": 128198,
-            "status": "NOT_STARTED",
-            "startTime": "17 June 2025 11:00 AM",
-            "startDate": "07 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128198_5287_SL_GG_fc-App.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128198_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128198_5287_SL_GG_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128198_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1184,
-                    "name": "Aryan Sorath Lions",
-                    "shortName": "ASL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "color": "#2798cc"
-                },
-                {
-                    "id": 1185,
-                    "name": "Dita Gohilwad Titans",
-                    "shortName": "DGT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
-                    "color": "#e45825"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -468,44 +468,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Canada Vs Cayman Islands",
-            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
-            "short_name": "ICC Men's T20 WC Americas Region",
-            "match_id": 128697,
-            "status": "STARTED",
-            "startTime": "16 June 2025 08:00 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128697_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128697_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
-                },
-                {
-                    "id": 49,
-                    "name": "Cayman Islands",
-                    "shortName": "CAY",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-                    "color": "#C33637"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128697_english_hls_99577adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Ace Krm Panthers Vs Sbs Cc",
             "tournament": "KCC T20 Challengers A League, 3rd Edition, 2025",
             "short_name": "KCC T20 Challengers A",
@@ -540,6 +502,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/125418_english_hls_86432adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Canada Vs Cayman Islands",
+            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
+            "short_name": "ICC Men's T20 WC Americas Region",
+            "match_id": 128697,
+            "status": "STARTED",
+            "startTime": "16 June 2025 08:00 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128697_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128697_5311_CAN_CAY_fc-web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128697_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 41,
+                    "name": "Canada",
+                    "shortName": "CAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                    "color": "#d01909"
+                },
+                {
+                    "id": 49,
+                    "name": "Cayman Islands",
+                    "shortName": "CAY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+                    "color": "#C33637"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128697_english_hls_99577adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
