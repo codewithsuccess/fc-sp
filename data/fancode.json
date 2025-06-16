@@ -1,51 +1,51 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:50 AM 16-06-2025",
+    "last_updated": "06:37:49 AM 16-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 9,
+    "live_matches": 1,
     "upcoming_matches": 8,
     "matches": [
         {
-            "category": "Golf",
-            "title": "Day 4",
-            "tournament": "US Open",
-            "short_name": "US Open",
-            "match_id": 128464,
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs San Francisco Giants",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128368,
             "status": "STARTED",
-            "startTime": "15 June 2025 08:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "15 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
+            "startTime": "16 June 2025 04:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_SPORTY_APP.png",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/US_open_2025_Sporty_Match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128464_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "WEB": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_SPORTY_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 11584,
-                    "name": "Day 4",
-                    "shortName": "USO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-USO@2x.png",
-                    "color": "#BC1221"
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
                 },
                 {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "id": 2349,
+                    "name": "San Francisco Giants",
+                    "shortName": "SFG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "color": "#581a02"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128464_english_hls_85167adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/128368_english_hls_71776adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -350,44 +350,6 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Baseball",
-            "title": "Los Angeles Dodgers Vs San Francisco Giants",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128368,
-            "status": "STARTED",
-            "startTime": "16 June 2025 04:40 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_APP.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_APP.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_APP.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128368_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2342,
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "color": "#77c0f6"
-                },
-                {
-                    "id": 2349,
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "color": "#581a02"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128368_english_hls_71776adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
