@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:37:45 AM 17-06-2025",
+    "last_updated": "03:44:45 AM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -46,44 +46,6 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128221_english_hls_3655adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Bermuda Vs Bahamas",
-            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
-            "short_name": "ICC Men's T20 WC Americas Region",
-            "match_id": 128698,
-            "status": "STARTED",
-            "startTime": "17 June 2025 01:00 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128698_5311_BER_BAH_fc-app.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128698_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128698_5311_BER_BAH_fc-app.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128698_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 22,
-                    "name": "Bermuda",
-                    "shortName": "BER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "color": "#C33637"
-                },
-                {
-                    "id": 24,
-                    "name": "Bahamas",
-                    "shortName": "BAH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-                    "color": "#40b8de"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128698_english_hls_42091adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -346,6 +308,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "color": "#2d9251"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Scotland Vs Nepal",
+            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
+            "short_name": "SCO vs NED & NEP",
+            "match_id": 127628,
+            "status": "NOT_STARTED",
+            "startTime": "17 June 2025 07:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/127628_5263_SCO_NEP_fc-App.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/127628_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127628_5263_SCO_NEP_fc-App.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127628_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
+                },
+                {
+                    "id": 181,
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
+                    "color": "#0f266e"
                 }
             ],
             "language": "BLOODY_SWEET",
