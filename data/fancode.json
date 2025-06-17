@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:58:20 AM 17-06-2025",
+    "last_updated": "12:05:22 PM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 11,
+    "live_matches": 3,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -388,6 +388,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/128711_english_hls_43514adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Vinohrady Vs Praha Dominators",
+            "tournament": "ECS Czechia, 2025",
+            "short_name": "ECS Czechia",
+            "match_id": 129033,
+            "status": "STARTED",
+            "startTime": "17 June 2025 12:15 PM",
+            "startDate": "16 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/129033_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card_2.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129033_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2599,
+                    "name": "Vinohrady",
+                    "shortName": "VCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-VIN@2x.png",
+                    "color": "#67070b"
+                },
+                {
+                    "id": 8737,
+                    "name": "Praha Dominators",
+                    "shortName": "PD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PD-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PD-CR1@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129033_english_hls_77940adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
