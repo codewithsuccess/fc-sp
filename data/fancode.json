@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:20 PM 17-06-2025",
+    "last_updated": "12:30:32 PM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
+    "total_matches": 14,
     "live_matches": 4,
-    "upcoming_matches": 8,
+    "upcoming_matches": 10,
     "matches": [
         {
             "category": "Cricket",
@@ -54,7 +54,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128061,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "17 June 2025 01:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -82,8 +82,84 @@
                     "color": "#4a56bd"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128061_english_hls_63660adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Vs Servotech Siliguri Strikers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128061,
+            "status": "STARTED",
+            "startTime": "17 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8705,
+                    "name": "Servotech Siliguri Strikers",
+                    "shortName": "SSS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "color": "#4a56bd"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128061_hindi_hls_87176adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Vs Servotech Siliguri Strikers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128061,
+            "status": "STARTED",
+            "startTime": "17 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128061_5282_SSM_SSS_fc-App.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128061_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8707,
+                    "name": "Sobisco Smashers Malda",
+                    "shortName": "SSM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8705,
+                    "name": "Servotech Siliguri Strikers",
+                    "shortName": "SSS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "color": "#4a56bd"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128061_bengali_hls_42779adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -358,7 +434,7 @@
             "tournament": "Sikkim T20 League, 2025",
             "short_name": "Sikkim T20 League",
             "match_id": 128711,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "17 June 2025 08:30 AM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "01 July 2025 05:30 AM",
@@ -386,8 +462,8 @@
                     "color": "#a052f2"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128711_english_hls_43514adfreeta-di_h264/index.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
