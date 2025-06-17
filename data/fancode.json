@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:12:20 PM 17-06-2025",
+    "last_updated": "09:19:32 PM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
-    "upcoming_matches": 7,
+    "total_matches": 18,
+    "live_matches": 13,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -84,6 +84,82 @@
             ],
             "language": "TAMIL",
             "adfree_stream": "https://dai.fancode.com/primary/126542_tamil_hls_51242adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "France U21 Vs Poland U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123330,
+            "status": "STARTED",
+            "startTime": "17 June 2025 09:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6784,
+                    "name": "France U21",
+                    "shortName": "FR-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
+                    "color": "#bdcaf4"
+                },
+                {
+                    "id": 9754,
+                    "name": "Poland U21",
+                    "shortName": "POL-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
+                    "color": "#b2190c"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123330_english_hls_97934adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Football",
+            "title": "Georgia U21 Vs Portugal U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123329,
+            "status": "STARTED",
+            "startTime": "17 June 2025 09:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6888,
+                    "name": "Georgia U21",
+                    "shortName": "GE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
+                    "color": "#EA867E"
+                },
+                {
+                    "id": 752,
+                    "name": "Portugal U21",
+                    "shortName": "PT-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
+                    "color": "#ff4d4d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123329_english_hls_13316adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
@@ -316,82 +392,6 @@
         },
         {
             "category": "Football",
-            "title": "France U21 Vs Poland U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123330,
-            "status": "NOT_STARTED",
-            "startTime": "17 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6784,
-                    "name": "France U21",
-                    "shortName": "FR-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "color": "#bdcaf4"
-                },
-                {
-                    "id": 9754,
-                    "name": "Poland U21",
-                    "shortName": "POL-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "color": "#b2190c"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Georgia U21 Vs Portugal U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123329,
-            "status": "NOT_STARTED",
-            "startTime": "17 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6888,
-                    "name": "Georgia U21",
-                    "shortName": "GE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "color": "#EA867E"
-                },
-                {
-                    "id": 752,
-                    "name": "Portugal U21",
-                    "shortName": "PT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "color": "#ff4d4d"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
             "title": "Spain U21 Vs Italy U21",
             "tournament": "UEFA European Under-21 Championship",
             "short_name": "U21 Euros",
@@ -616,6 +616,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/129037_english_hls_73215adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Chicago Steelpan Players Vs Bess Motors Blue Devils",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128222,
+            "status": "STARTED",
+            "startTime": "17 June 2025 09:30 PM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128222_5288_SPK_BLD_fc-Web.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128222_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128222_5288_SPK_BLD_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128222_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4507,
+                    "name": "Chicago Steelpan Players",
+                    "shortName": "SPK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "color": "#5E4900"
+                },
+                {
+                    "id": 6681,
+                    "name": "Bess Motors Blue Devils",
+                    "shortName": "BLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "color": "#233e56"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128222_english_hls_48894adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
