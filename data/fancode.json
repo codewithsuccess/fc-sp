@@ -1,15 +1,53 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:45 AM 17-06-2025",
+    "last_updated": "09:37:47 AM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 3,
-    "upcoming_matches": 9,
+    "live_matches": 4,
+    "upcoming_matches": 8,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Sri Lanka Vs Bangladesh",
+            "tournament": "Bangladesh tour of Sri Lanka, 2025",
+            "short_name": "SL vs BAN",
+            "match_id": 128426,
+            "status": "STARTED",
+            "startTime": "17 June 2025 10:00 AM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "16 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 44,
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
+            "dai_stream": "Coming Soon"
+        },
         {
             "category": "Cricket",
             "title": "Aryan Sorath Lions Vs Dita Gohilwad Titans",
@@ -42,44 +80,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
                     "color": "#e45825"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Sri Lanka Vs Bangladesh",
-            "tournament": "Bangladesh tour of Sri Lanka, 2025",
-            "short_name": "SL vs BAN",
-            "match_id": 128426,
-            "status": "NOT_STARTED",
-            "startTime": "17 June 2025 10:00 AM",
-            "startDate": "17 June 2025 05:30 AM",
-            "endDate": "16 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 44,
-                    "name": "Sri Lanka",
-                    "shortName": "SL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "color": "#164fad"
-                },
-                {
-                    "id": 25,
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#397b46"
                 }
             ],
             "language": "BLOODY_SWEET",
