@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:51:47 PM 17-06-2025",
+    "last_updated": "05:58:50 PM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 4,
+    "total_matches": 13,
+    "live_matches": 5,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -464,6 +464,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/129035_english_hls_35220adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Horse Racing",
+            "title": "Royal Ascot",
+            "tournament": "Royal Ascot",
+            "short_name": "Royal Ascot",
+            "match_id": 129012,
+            "status": "STARTED",
+            "startTime": "17 June 2025 06:00 PM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "21 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/129012_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129012_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6861,
+                    "name": "Royal Ascot",
+                    "shortName": "RA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-RA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-RA@2x.png",
+                    "color": "#fdf251"
+                },
+                {
+                    "id": 6128,
+                    "name": "Location",
+                    "shortName": "Loc",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
+                    "color": "#12345"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129012_english_hls_42301adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
