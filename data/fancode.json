@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:19:45 AM 17-06-2025",
+    "last_updated": "07:26:46 AM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 0,
+    "total_matches": 10,
+    "live_matches": 1,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -350,6 +350,44 @@
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Baseball",
+            "title": "Oakland Athletics Vs Houston Astros",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128369,
+            "status": "STARTED",
+            "startTime": "17 June 2025 07:35 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128369_CASACARDS_APP.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128369_CASACARDS_APP.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128369_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128369_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2332,
+                    "name": "Oakland Athletics",
+                    "shortName": "OA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
+                    "color": "#f8c33f"
+                },
+                {
+                    "id": 2327,
+                    "name": "Houston Astros",
+                    "shortName": "HAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-HOUST@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-HOUST@2x.png",
+                    "color": "#b7500e"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128369_english_hls_65466adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         }
     ]
