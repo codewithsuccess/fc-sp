@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:58:50 PM 17-06-2025",
+    "last_updated": "06:05:49 PM 17-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 5,
+    "total_matches": 14,
+    "live_matches": 6,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -50,44 +50,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Sri Lanka Vs Bangladesh",
-            "tournament": "Bangladesh tour of Sri Lanka, 2025",
-            "short_name": "SL vs BAN",
-            "match_id": 128426,
-            "status": "PAUSED",
-            "startTime": "17 June 2025 10:00 AM",
-            "startDate": "17 June 2025 05:30 AM",
-            "endDate": "16 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 44,
-                    "name": "Sri Lanka",
-                    "shortName": "SL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "color": "#164fad"
-                },
-                {
-                    "id": 25,
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#397b46"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
             "title": "Adamas Howrah Warriors Vs Murshidabad Kings",
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
@@ -118,6 +80,44 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
                     "color": "#9c69cc"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Sri Lanka Vs Bangladesh",
+            "tournament": "Bangladesh tour of Sri Lanka, 2025",
+            "short_name": "SL vs BAN",
+            "match_id": 128426,
+            "status": "PAUSED",
+            "startTime": "17 June 2025 10:00 AM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "16 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 44,
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -464,6 +464,44 @@
             ],
             "language": "ENGLISH",
             "adfree_stream": "https://dai.fancode.com/primary/129035_english_hls_35220adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Coming Soon"
+        },
+        {
+            "category": "Cricket",
+            "title": "Moravian Vs Prague Spartans",
+            "tournament": "ECS Czechia, 2025",
+            "short_name": "ECS Czechia",
+            "match_id": 129036,
+            "status": "STARTED",
+            "startTime": "17 June 2025 06:15 PM",
+            "startDate": "16 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+            "image_cdn": {
+                "WEB": "https://images.fancode.com/aig/match/v1/129036_CASACARDS_APP.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129036_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2198,
+                    "name": "Moravian",
+                    "shortName": "MCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCC-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCC-CR1@2x.png",
+                    "color": "#0D41C6"
+                },
+                {
+                    "id": 2600,
+                    "name": "Prague Spartans",
+                    "shortName": "PRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRS@2x.png",
+                    "color": "#e5a33f"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129036_english_hls_30760adfreeta-di_h264/index.m3u8",
             "dai_stream": "Coming Soon"
         },
         {
