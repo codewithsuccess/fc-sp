@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:06 PM 18-06-2025",
+    "last_updated": "11:51:08 PM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 8,
+    "total_matches": 14,
+    "live_matches": 9,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -592,6 +592,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/MrPu9LlpTDW6Bf8mKymNTQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Samp Army Cocrico Cavaliers Vs Scarlet Ibis Scorchers",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128226,
+            "status": "STARTED",
+            "startTime": "19 June 2025 12:00 AM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128226_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128226_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4508,
+                    "name": "Samp Army Cocrico Cavaliers",
+                    "shortName": "SCL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "color": "#4d2f79"
+                },
+                {
+                    "id": 4509,
+                    "name": "Scarlet Ibis Scorchers",
+                    "shortName": "SLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
+                    "color": "#b08463"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/pkizqo4pSYGYi227he7Qkw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/pkizqo4pSYGYi227he7Qkw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
