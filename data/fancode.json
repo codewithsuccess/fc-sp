@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:19:06 AM 19-06-2025",
+    "last_updated": "01:26:07 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 6,
+    "total_matches": 13,
+    "live_matches": 7,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -540,6 +540,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128700_english_hls_12558adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128700_english_hls_12558adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/fWXKNtAfQE2L9sMe4qODCg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Seattle Mariners Vs Boston Red Sox",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128371,
+            "status": "STARTED",
+            "startTime": "19 June 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128371_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128371_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2333,
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png",
+                    "color": "#11a6a8"
+                },
+                {
+                    "id": 2323,
+                    "name": "Boston Red Sox",
+                    "shortName": "BRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BOSTON@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BOSTON@2x.png",
+                    "color": "#97182d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128371_english_hls_84559adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128371_english_hls_84559adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128371_english_hls_84559adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
