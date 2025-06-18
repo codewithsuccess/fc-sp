@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:44:38 PM 18-06-2025",
+    "last_updated": "02:51:42 PM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 6,
-    "upcoming_matches": 9,
+    "total_matches": 16,
+    "live_matches": 8,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -200,7 +200,7 @@
             "tournament": "Saurashtra Pro T20 League, 2025",
             "short_name": "Saurashtra T20",
             "match_id": 128201,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "18 June 2025 03:00 PM",
             "startDate": "07 June 2025 05:30 AM",
             "endDate": "20 June 2025 05:30 AM",
@@ -208,7 +208,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128201_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-App.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-Web.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128201_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -229,12 +229,15 @@
                     "color": "#e45825"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128201_english_hls_54968adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/uPt2sQ4JSoK2f09NM_blIQ/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128201_english_hls_54968adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128201_english_hls_54968adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/uPt2sQ4JSoK2f09NM_blIQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -629,6 +632,52 @@
                 "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/YCtNRUSfQSO77Qpp8ANmdA/master.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/YCtNRUSfQSO77Qpp8ANmdA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bundelkhand Bulls Vs Indore Pink Panthers",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128445,
+            "status": "STARTED",
+            "startTime": "18 June 2025 03:00 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128445_5300_BBS_IPP_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128445_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128445_5300_BBS_IPP_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128445_5300_BBS_IPP_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128445_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11582,
+                    "name": "Bundelkhand Bulls",
+                    "shortName": "BBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                    "color": "#ee3e26"
+                },
+                {
+                    "id": 11583,
+                    "name": "Indore Pink Panthers",
+                    "shortName": "IPP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png",
+                    "color": "#f24c9d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128445_english_hls_45415adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/lIJoXAW6TYuhW--OCYGODg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128445_english_hls_45415adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128445_english_hls_45415adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/lIJoXAW6TYuhW--OCYGODg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
