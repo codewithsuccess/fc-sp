@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:05:20 AM 19-06-2025",
+    "last_updated": "12:12:06 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 7,
-    "upcoming_matches": 5,
+    "total_matches": 11,
+    "live_matches": 4,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -103,130 +103,38 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Netherlands U21 Vs Ukraine U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123334,
-            "status": "STARTED",
-            "startTime": "18 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123334_5106_NE-U21_UK-U21_fc-app_1750059167566.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123334_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123334_5106_NE-U21_UK-U21_fc-app_1750059167566.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123334_5106_NE-U21_UK-U21_fc-web_1750059167521.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123334_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6890,
-                    "name": "Netherlands U21",
-                    "shortName": "NE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "color": "#d76e7f"
-                },
-                {
-                    "id": 6894,
-                    "name": "Ukraine U21",
-                    "shortName": "UK-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "color": "#5290d1"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123334_english_hls_20265adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2dqNcg99Rh2nKmfGO1zEfg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/123334_english_hls_20265adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/123334_english_hls_20265adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2dqNcg99Rh2nKmfGO1zEfg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Denmark U21 Vs Finland U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123333,
-            "status": "STARTED",
-            "startTime": "18 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123333_5106_DEN-U21_FIN-U21_fc-app_1750059167506.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123333_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123333_5106_DEN-U21_FIN-U21_fc-app_1750059167506.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123333_5106_DEN-U21_FIN-U21_fc-web_1750059168254.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123333_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9753,
-                    "name": "Denmark U21",
-                    "shortName": "DEN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEN-FT1@2x.png",
-                    "color": "#d7556e"
-                },
-                {
-                    "id": 9752,
-                    "name": "Finland U21",
-                    "shortName": "FIN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "color": "#829dc3"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123333_english_hls_95774adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/eQaBW6_oRvWMOuXT-mHnVg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/123333_english_hls_95774adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/123333_english_hls_95774adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/eQaBW6_oRvWMOuXT-mHnVg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Cricket",
-            "title": "Siechem Madurai Panthers Vs Nellai Royal Kings",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126543,
+            "title": "Harbour Diamonds Vs Lux Shyam Kolkata Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128064,
             "status": "COMPLETED",
-            "startTime": "18 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Sporty_match_card.jpg",
+            "startTime": "18 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-App.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126543_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Sporty_match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128064_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-App.jpg",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126543_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128064_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 685,
-                    "name": "Siechem Madurai Panthers",
-                    "shortName": "SMP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "color": "#D7A2A2"
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
                 },
                 {
-                    "id": 3642,
-                    "name": "Nellai Royal Kings",
-                    "shortName": "NRK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "color": "#cbc4aa"
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -411,48 +319,88 @@
         },
         {
             "category": "Cricket",
-            "title": "Jabalpur Royal Lions Vs Chambal Ghariyals",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128446,
-            "status": "STARTED",
-            "startTime": "18 June 2025 07:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128446_5300_JRL_CGS_fc-web.jpg",
+            "title": "Somerset Women Vs Hampshire Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "short_name": "Women's Vitality Blast T20",
+            "match_id": 125855,
+            "status": "NOT_STARTED",
+            "startTime": "19 June 2025 07:00 PM",
+            "startDate": "30 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125855_5206_SSW_HAM-W_fc-App.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128446_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128446_5300_JRL_CGS_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128446_5300_JRL_CGS_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128446_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125855_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125855_5206_SSW_HAM-W_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125855_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 11579,
-                    "name": "Jabalpur Royal Lions",
-                    "shortName": "JRL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                    "color": "#a34c08"
+                    "id": 9763,
+                    "name": "Somerset Women",
+                    "shortName": "SSW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "color": "#a93653"
                 },
                 {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
+                    "id": 3396,
+                    "name": "Hampshire Women",
+                    "shortName": "HAM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HAM-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HAM-CR1@2x.png",
+                    "color": "#bfbfbf"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128446_english_hls_17237adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/smzef-6aTbqHjj36MkCXUQ/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128446_english_hls_17237adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128446_english_hls_17237adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/smzef-6aTbqHjj36MkCXUQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Rashmi Medinipur Wizards Vs Harbour Diamonds",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128066,
+            "status": "NOT_STARTED",
+            "startTime": "19 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128066_5282_RMW_HD_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128066_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128066_5282_RMW_HD_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128066_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                },
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
