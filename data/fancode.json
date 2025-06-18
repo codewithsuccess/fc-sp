@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:45:23 AM 18-06-2025",
+    "last_updated": "01:36:08 PM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
-    "upcoming_matches": 8,
+    "total_matches": 15,
+    "live_matches": 6,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -59,7 +59,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128063,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "18 June 2025 01:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -67,7 +67,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-Web.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -88,12 +88,107 @@
                     "color": "#f15159"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128063_english_hls_37613adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/QPnZZ8dHQdq6ofoKRUAn7w/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128063_english_hls_37613adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128063_english_hls_37613adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/QPnZZ8dHQdq6ofoKRUAn7w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Vs Rashmi Medinipur Wizards",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128063,
+            "status": "STARTED",
+            "startTime": "18 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                },
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128063_hindi_hls_36653adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/H-rR9YZeR7OK8h2mzU8GBQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128063_hindi_hls_36653adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128063_hindi_hls_36653adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/H-rR9YZeR7OK8h2mzU8GBQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Vs Rashmi Medinipur Wizards",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128063,
+            "status": "STARTED",
+            "startTime": "18 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                },
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128063_bengali_hls_25405adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/di_Nyx2fQRKv7YhDuW5ppQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128063_bengali_hls_25405adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128063_bengali_hls_25405adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/di_Nyx2fQRKv7YhDuW5ppQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "BENGALI"
             }
         },
         {
@@ -399,46 +494,138 @@
         },
         {
             "category": "Cricket",
-            "title": "Alpine S.c Vs Yuksom Capitals",
-            "tournament": "Sikkim T20 League, 2025",
-            "short_name": "Sikkim T20 League",
-            "match_id": 128713,
+            "title": "Moravian Vs Praha Dominators",
+            "tournament": "ECS Czechia, 2025",
+            "short_name": "ECS Czechia",
+            "match_id": 129038,
             "status": "STARTED",
-            "startTime": "18 June 2025 08:30 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "01 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-web.jpg",
+            "startTime": "18 June 2025 12:15 PM",
+            "startDate": "16 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128713_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128713_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129038_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-Challenger_2025_Old_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129038_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 8094,
-                    "name": "Alpine S.C",
-                    "shortName": "ASC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
-                    "color": "#60b610"
+                    "id": 2198,
+                    "name": "Moravian",
+                    "shortName": "MCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCC-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCC-CR1@2x.png",
+                    "color": "#0D41C6"
                 },
                 {
-                    "id": 11599,
-                    "name": "Yuksom Capitals",
-                    "shortName": "YC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YUK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YUK@2x.png",
-                    "color": "#398703"
+                    "id": 8737,
+                    "name": "Praha Dominators",
+                    "shortName": "PD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PD-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PD-CR1@2x.png",
+                    "color": "#FFFFFF"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128713_english_hls_4126adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/G162Clq4T1muknfbcalwmw/master.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/129038_english_hls_61650adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/e6rrtRCmQpOZ_WJm9Y2j4w/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128713_english_hls_4126adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128713_english_hls_4126adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/G162Clq4T1muknfbcalwmw/master.m3u8",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129038_english_hls_61650adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129038_english_hls_61650adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/e6rrtRCmQpOZ_WJm9Y2j4w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Cat Vs Avengers C.c",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128714,
+            "status": "STARTED",
+            "startTime": "18 June 2025 12:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128714_5312_CAT_ACC_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128714_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128714_5312_CAT_ACC_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128714_5312_CAT_ACC_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128714_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8097,
+                    "name": "CAT",
+                    "shortName": "CAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CT@2x.png",
+                    "color": "#cb411a"
+                },
+                {
+                    "id": 11600,
+                    "name": "Avengers C.C",
+                    "shortName": "ACC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVCC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AVCC@2x.png",
+                    "color": "#08088a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128714_english_hls_51440adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/JAWnczdnTgWcs7lXFemjSQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128714_english_hls_51440adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128714_english_hls_51440adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/JAWnczdnTgWcs7lXFemjSQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kueens Womens Vs Servotech Siliguri Strikers Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "short_name": "Bengal Women's Pro T20 League",
+            "match_id": 128094,
+            "status": "STARTED",
+            "startTime": "18 June 2025 01:30 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128094_5283_MK-W_SSS-W_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128094_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128094_5283_MK-W_SSS-W_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128094_5283_MK-W_SSS-W_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128094_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8717,
+                    "name": "Murshidabad Kueens Womens",
+                    "shortName": "MK-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "color": "#C17918"
+                },
+                {
+                    "id": 8714,
+                    "name": "Servotech Siliguri Strikers Womens",
+                    "shortName": "SSS-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSB@2x.png",
+                    "color": "#4a56bd"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128094_english_hls_85772adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/qI-fznw5SQ6Lwuh_LY8JEw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128094_english_hls_85772adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128094_english_hls_85772adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qI-fznw5SQ6Lwuh_LY8JEw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
