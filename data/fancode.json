@@ -1,220 +1,338 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:37:20 PM 17-06-2025",
+    "last_updated": "08:45:21 AM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 11,
-    "upcoming_matches": 4,
+    "total_matches": 11,
+    "live_matches": 4,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
-            "title": "Trichy Grand Cholas Vs Lyca Kovai Kings",
+            "title": "Alpine S.c Vs Yuksom Capitals",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128713,
+            "status": "STARTED",
+            "startTime": "18 June 2025 08:30 AM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128713_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128713_5312_ASC_YC_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128713_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8094,
+                    "name": "Alpine S.C",
+                    "shortName": "ASC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "color": "#60b610"
+                },
+                {
+                    "id": 11599,
+                    "name": "Yuksom Capitals",
+                    "shortName": "YC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YUK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YUK@2x.png",
+                    "color": "#398703"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/G162Clq4T1muknfbcalwmw/master.m3u8",
+            "STREAMING_CDN": {
+                "pramay_playback_url": "https://dai.fancode.com/primary/128713_english_hls_4126adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128713_english_hls_4126adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/G162Clq4T1muknfbcalwmw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Adamas Howrah Warriors Womens Vs Lux Shyam Kolkata Tigers Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "short_name": "Bengal Women's Pro T20 League",
+            "match_id": 128093,
+            "status": "STARTED",
+            "startTime": "18 June 2025 09:00 AM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128093_5283_AHW-W_LSKT-W_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128093_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128093_5283_AHW-W_LSKT-W_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128093_5283_AHW-W_LSKT-W_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128093_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8718,
+                    "name": "Adamas Howrah Warriors Womens",
+                    "shortName": "AHW-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AHW@2x.png",
+                    "color": "#9495ed"
+                },
+                {
+                    "id": 8719,
+                    "name": "Lux Shyam Kolkata Tigers Womens",
+                    "shortName": "LSKT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/JPRWq7kRTvOuMiGV2j2ihQ/master.m3u8",
+            "STREAMING_CDN": {
+                "pramay_playback_url": "https://dai.fancode.com/primary/128093_english_hls_12697adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128093_english_hls_12697adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/JPRWq7kRTvOuMiGV2j2ihQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sri Lanka Vs Bangladesh",
+            "tournament": "Bangladesh tour of Sri Lanka, 2025",
+            "short_name": "SL vs BAN",
+            "match_id": 128426,
+            "status": "PAUSED",
+            "startTime": "17 June 2025 10:00 AM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "16 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 44,
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Vs Rashmi Medinipur Wizards",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128063,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128063_5282_SRT_RMW_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128063_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8709,
+                    "name": "Shrachi Rarh Tigers",
+                    "shortName": "SRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
+                },
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Anmol Kings Halar Vs Dita Gohilwad Titans",
+            "tournament": "Saurashtra Pro T20 League, 2025",
+            "short_name": "Saurashtra T20",
+            "match_id": 128201,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 03:00 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128201_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128201_5287_HH_GG_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128201_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1186,
+                    "name": "Anmol Kings Halar",
+                    "shortName": "AKH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AKR@2x.png",
+                    "color": "#f60e11"
+                },
+                {
+                    "id": 1185,
+                    "name": "Dita Gohilwad Titans",
+                    "shortName": "DGT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DGT@2x.png",
+                    "color": "#e45825"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Lux Shyam Kolkata Tigers",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128064,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128064_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128064_5282_HD_LSKT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128064_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8710,
+                    "name": "Lux Shyam Kolkata Tigers",
+                    "shortName": "LSKT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LSKT@2x.png",
+                    "color": "#2f87e2"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Siechem Madurai Panthers Vs Nellai Royal Kings",
             "tournament": "Shriram Capital TNPL",
             "short_name": "TNPL",
-            "match_id": 126542,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:15 PM",
+            "match_id": 126543,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 07:15 PM",
             "startDate": "05 June 2025 05:30 AM",
             "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Kovai_Sporty_match_card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Sporty_match_card.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/126542_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Kovai_Sporty_match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126542_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126543_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Madurai_v_Nellai_Sporty_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126543_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 683,
-                    "name": "Trichy Grand Cholas",
-                    "shortName": "TGC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "color": "#C2920B"
+                    "id": 685,
+                    "name": "Siechem Madurai Panthers",
+                    "shortName": "SMP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "color": "#D7A2A2"
                 },
                 {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
+                    "id": 3642,
+                    "name": "Nellai Royal Kings",
+                    "shortName": "NRK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "color": "#cbc4aa"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/126542_english_hls_91519adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
         },
         {
             "category": "Cricket",
-            "title": "Trichy Grand Cholas Vs Lyca Kovai Kings",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126542,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Kovai_Sporty_match_card.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/126542_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Trichy_vs_Kovai_Sporty_match_card.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126542_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 683,
-                    "name": "Trichy Grand Cholas",
-                    "shortName": "TGC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
-                    "color": "#C2920B"
-                },
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://dai.fancode.com/primary/126542_tamil_hls_51242adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "France U21 Vs Poland U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123330,
-            "status": "STARTED",
-            "startTime": "17 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123330_5106_FR-U21_POL-U21_fc-app_1750059167503.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123330_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6784,
-                    "name": "France U21",
-                    "shortName": "FR-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FRA-FT1@2x.png",
-                    "color": "#bdcaf4"
-                },
-                {
-                    "id": 9754,
-                    "name": "Poland U21",
-                    "shortName": "POL-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PLN@2x.png",
-                    "color": "#b2190c"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123330_english_hls_97934adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Georgia U21 Vs Portugal U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123329,
-            "status": "STARTED",
-            "startTime": "17 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123329_5106_GE-U21_PT-U21_fc-app_1750059167508.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123329_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6888,
-                    "name": "Georgia U21",
-                    "shortName": "GE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GEO-FT1@2x.png",
-                    "color": "#EA867E"
-                },
-                {
-                    "id": 752,
-                    "name": "Portugal U21",
-                    "shortName": "PT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "color": "#ff4d4d"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123329_english_hls_13316adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies Women Vs South Africa Women",
-            "tournament": "South Africa Women tour of West Indies, 2025",
-            "short_name": "WI-w vs SA-w",
-            "match_id": 127546,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "23 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card.png",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127546_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127546_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 647,
-                    "name": "West Indies Women",
-                    "shortName": "WI-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#91033c"
-                },
-                {
-                    "id": 706,
-                    "name": "South Africa Women",
-                    "shortName": "SA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "color": "#2d9251"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127546_english_hls_90548adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Scotland Vs Nepal",
+            "title": "Scotland Vs Netherlands",
             "tournament": "Nepal and Netherlands tour of Scotland, 2025",
             "short_name": "SCO vs NED & NEP",
-            "match_id": 127628,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:30 PM",
+            "match_id": 127630,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 07:30 PM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/127628_5263_SCO_NEP_fc-App.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/127628_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127628_5263_SCO_NEP_fc-App.png",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127628_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
@@ -226,35 +344,48 @@
                     "color": "#1672c1"
                 },
                 {
-                    "id": 181,
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png",
-                    "color": "#0f266e"
+                    "id": 178,
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "color": "#2c5ab3"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127628_english_hls_88283adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
+            "language": "BLOODY_SWEET",
+            "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
         },
         {
             "category": "Cricket",
-            "title": "Zalawad Strikers Vs Aryan Sorath Lions",
+            "title": "Jmd Kutch Riders Vs Zalawad Strikers",
             "tournament": "Saurashtra Pro T20 League, 2025",
             "short_name": "Saurashtra T20",
-            "match_id": 128200,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:30 PM",
+            "match_id": 128202,
+            "status": "NOT_STARTED",
+            "startTime": "18 June 2025 07:30 PM",
             "startDate": "07 June 2025 05:30 AM",
             "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128200_5287_ZR_SL_fc-App.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128202_5287_KW_ZR_fc-App.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128200_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128200_5287_ZR_SL_fc-App.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128200_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128202_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128202_5287_KW_ZR_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128202_5287_KW_ZR_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128202_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
+                {
+                    "id": 1188,
+                    "name": "JMD Kutch Riders",
+                    "shortName": "JKR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKR@2x.png",
+                    "color": "#0f7e9e"
+                },
                 {
                     "id": 1187,
                     "name": "Zalawad Strikers",
@@ -262,323 +393,107 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZWS@2x.png",
                     "color": "#4558d8"
-                },
-                {
-                    "id": 1184,
-                    "name": "Aryan Sorath Lions",
-                    "shortName": "ASL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SL@2x.png",
-                    "color": "#2798cc"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128200_english_hls_90903adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Football",
-            "title": "Spain U21 Vs Italy U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123332,
-            "status": "NOT_STARTED",
-            "startTime": "18 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123332_5106_ES-U21_IT-U21_fc-app_1750059167526.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123332_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123332_5106_ES-U21_IT-U21_fc-app_1750059167526.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123332_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 750,
-                    "name": "Spain U21",
-                    "shortName": "ES-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SPA-FT1@2x.png",
-                    "color": "#fdebb4"
-                },
-                {
-                    "id": 749,
-                    "name": "Italy U21",
-                    "shortName": "IT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "color": "#df787f"
                 }
             ],
             "language": "BLOODY_SWEET",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "pramay_playback_url": null
+            }
         },
         {
-            "category": "Football",
-            "title": "Romania U21 Vs Slovakia U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123331,
-            "status": "NOT_STARTED",
-            "startTime": "18 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123331_5106_RO-U21_SL-U21_fc-app_1750059167501.jpg",
+            "category": "Cricket",
+            "title": "Pondicherry Emerging Xi Vs Malaysia Xi",
+            "tournament": "Pondicherry Emerging XI tour of Malaysia, 2025",
+            "short_name": "MAL vs PON XI",
+            "match_id": 128781,
+            "status": "STARTED",
+            "startTime": "18 June 2025 07:30 AM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "23 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123331_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123331_5106_RO-U21_SL-U21_fc-app_1750059167501.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123331_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128781_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Emerging-XI-tour-of-Malaysia,-2025-old-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128781_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 6892,
-                    "name": "Romania U21",
-                    "shortName": "RO-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ROM-FT2@2x.png",
-                    "color": "#fddf5b"
+                    "id": 11605,
+                    "name": "Pondicherry Emerging XI",
+                    "shortName": "PON-XI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PE@2x.png",
+                    "color": "#104AA1"
                 },
                 {
-                    "id": 9751,
-                    "name": "Slovakia U21",
-                    "shortName": "SL-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/SLO-FT1@2x.png",
-                    "color": "#5583be"
+                    "id": 8421,
+                    "name": "Malaysia XI",
+                    "shortName": "MAS XI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+                    "color": "#ffd800"
                 }
             ],
-            "language": "BLOODY_SWEET",
+            "language": "ENGLISH",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
+            "dai_stream": "https://dai.google.com/linear/hls/event/a5DOPyEIQxKX54E8eVM5Nw/master.m3u8",
+            "STREAMING_CDN": {
+                "pramay_playback_url": "https://dai.fancode.com/primary/128781_english_hls_42755adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128781_english_hls_42755adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/a5DOPyEIQxKX54E8eVM5Nw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
         },
         {
-            "category": "Football",
-            "title": "Netherlands U21 Vs Ukraine U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123334,
-            "status": "NOT_STARTED",
-            "startTime": "18 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123334_5106_NE-U21_UK-U21_fc-app_1750059167566.jpg",
+            "category": "Baseball",
+            "title": "Los Angeles Dodgers Vs San Diego Padres",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128370,
+            "status": "STARTED",
+            "startTime": "18 June 2025 07:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_APP.png",
             "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/123334_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123334_5106_NE-U21_UK-U21_fc-app_1750059167566.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123334_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128370_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128370_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 6890,
-                    "name": "Netherlands U21",
-                    "shortName": "NE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "color": "#d76e7f"
+                    "id": 2342,
+                    "name": "Los Angeles Dodgers",
+                    "shortName": "LAD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
+                    "color": "#77c0f6"
                 },
                 {
-                    "id": 6894,
-                    "name": "Ukraine U21",
-                    "shortName": "UK-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/UKR-FT1@2x.png",
-                    "color": "#5290d1"
+                    "id": 2348,
+                    "name": "San Diego Padres",
+                    "shortName": "SDP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANDG@2x.png",
+                    "color": "#ffb700"
                 }
             ],
-            "language": "BLOODY_SWEET",
+            "language": "ENGLISH",
             "adfree_stream": "https://video.twimg.com/amplify_video/1869037412439261184/pl/th-SCwIUMtNo-PsU.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Pruthvi Panthers Vs Diamond Dazzlers",
-            "tournament": "Baroda Premier League, 2025",
-            "short_name": "Baroda Premier League",
-            "match_id": 128675,
-            "status": "STARTED",
-            "startTime": "17 June 2025 06:45 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "29 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128675_5310_PTP_DDZ_fc-Web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128675_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128675_5310_PTP_DDZ_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128675_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11597,
-                    "name": "Pruthvi Panthers",
-                    "shortName": "PTP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTP@2x.png",
-                    "color": "#bf1d2c"
-                },
-                {
-                    "id": 11595,
-                    "name": "Diamond Dazzlers",
-                    "shortName": "DDZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "color": "#1d9032"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128675_english_hls_65234adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Rewa Jaguars Vs Bhopal Leopards",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128444,
-            "status": "STARTED",
-            "startTime": "17 June 2025 07:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128444_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128444_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11580,
-                    "name": "Rewa Jaguars",
-                    "shortName": "RW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                    "color": "#862900"
-                },
-                {
-                    "id": 11578,
-                    "name": "Bhopal Leopards",
-                    "shortName": "BL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
-                    "color": "#d18e09"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128444_english_hls_12014adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Northern Knights Vs Leinster Lightning",
-            "tournament": "Ireland Inter-Provincial T20 Trophy, 2025",
-            "short_name": "Inter-Provincial T20 Trophy",
-            "match_id": 125115,
-            "status": "STARTED",
-            "startTime": "17 June 2025 08:15 PM",
-            "startDate": "17 June 2025 05:30 AM",
-            "endDate": "10 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125115_5173_NK_LLG_fc-Web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/125115_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125115_5173_NK_LLG_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125115_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2493,
-                    "name": "Northern Knights",
-                    "shortName": "NK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
-                    "color": "#cd51a4"
-                },
-                {
-                    "id": 2495,
-                    "name": "Leinster Lightning",
-                    "shortName": "LLG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
-                    "color": "#30a0ff"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125115_english_hls_55960adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Cricket",
-            "title": "Chicago Steelpan Players Vs Bess Motors Blue Devils",
-            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-            "short_name": "Dream11 Trinidad T10 Blast",
-            "match_id": 128222,
-            "status": "STARTED",
-            "startTime": "17 June 2025 09:30 PM",
-            "startDate": "09 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128222_5288_SPK_BLD_fc-Web.jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/128222_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128222_5288_SPK_BLD_fc-Web.jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128222_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 4507,
-                    "name": "Chicago Steelpan Players",
-                    "shortName": "SPK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
-                    "color": "#5E4900"
-                },
-                {
-                    "id": 6681,
-                    "name": "Bess Motors Blue Devils",
-                    "shortName": "BLD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
-                    "color": "#233e56"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128222_english_hls_48894adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
-        },
-        {
-            "category": "Horse Racing",
-            "title": "Royal Ascot",
-            "tournament": "Royal Ascot",
-            "short_name": "Royal Ascot",
-            "match_id": 129012,
-            "status": "STARTED",
-            "startTime": "17 June 2025 06:00 PM",
-            "startDate": "17 June 2025 05:30 AM",
-            "endDate": "21 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-            "image_cdn": {
-                "WEB": "https://images.fancode.com/aig/match/v1/129012_CASACARDS_APP.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129012_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6861,
-                    "name": "Royal Ascot",
-                    "shortName": "RA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-RA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-RA@2x.png",
-                    "color": "#fdf251"
-                },
-                {
-                    "id": 6128,
-                    "name": "Location",
-                    "shortName": "Loc",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/hr-flags/FC-LOC@2x.png",
-                    "color": "#12345"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129012_english_hls_42301adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Coming Soon"
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "pramay_playback_url": "https://dai.fancode.com/primary/128370_english_hls_53326adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128370_english_hls_53326adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
         }
     ]
 }
