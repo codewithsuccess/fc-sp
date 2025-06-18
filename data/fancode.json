@@ -1,61 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:05:06 AM 19-06-2025",
+    "last_updated": "02:12:06 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 7,
-    "upcoming_matches": 6,
+    "total_matches": 11,
+    "live_matches": 4,
+    "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Kent Vs Gloucestershire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125944,
-            "status": "STARTED",
-            "startTime": "18 June 2025 11:00 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125944_5207_KET_GLO_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125944_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125944_5207_KET_GLO_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125944_5207_KET_GLO_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125944_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 296,
-                    "name": "Kent",
-                    "shortName": "KET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
-                    "color": "#843961"
-                },
-                {
-                    "id": 363,
-                    "name": "Gloucestershire",
-                    "shortName": "GLO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "color": "#17836e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Football",
             "title": "England U21 Vs Germany U21",
@@ -408,94 +362,45 @@
         },
         {
             "category": "Cricket",
-            "title": "Thunder Cats Vs Thunder Cats   B",
-            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
-            "short_name": "KCC T20 Challengers B",
-            "match_id": 128651,
-            "status": "STARTED",
-            "startTime": "18 June 2025 11:00 PM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "04 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_APP.png",
+            "title": "Somerset Vs Hampshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125948,
+            "status": "NOT_STARTED",
+            "startTime": "19 June 2025 11:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125948_5207_SOM_HAM_fc-App.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128651_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128651_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125948_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125948_5207_SOM_HAM_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125948_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 9012,
-                    "name": "Thunder Cats",
-                    "shortName": "THN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "color": "#ea4848"
+                    "id": 282,
+                    "name": "Somerset",
+                    "shortName": "SOM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "color": "#a93653"
                 },
                 {
-                    "id": 9715,
-                    "name": "Thunder Cats - B",
-                    "shortName": "THU-B",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "color": "#ea4848"
+                    "id": 308,
+                    "name": "Hampshire",
+                    "shortName": "HAM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
+                    "color": "#9b7614"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/MrPu9LlpTDW6Bf8mKymNTQ/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/MrPu9LlpTDW6Bf8mKymNTQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Samp Army Cocrico Cavaliers Vs Scarlet Ibis Scorchers",
-            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
-            "short_name": "Dream11 Trinidad T10 Blast",
-            "match_id": 128226,
-            "status": "STARTED",
-            "startTime": "19 June 2025 12:00 AM",
-            "startDate": "09 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128226_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128226_5288_SCL_SLS_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128226_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 4508,
-                    "name": "Samp Army Cocrico Cavaliers",
-                    "shortName": "SCL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
-                    "color": "#4d2f79"
-                },
-                {
-                    "id": 4509,
-                    "name": "Scarlet Ibis Scorchers",
-                    "shortName": "SLS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCARIB@2x.png",
-                    "color": "#b08463"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/pkizqo4pSYGYi227he7Qkw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128226_english_hls_48163adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/pkizqo4pSYGYi227he7Qkw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
