@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:19:53 AM 19-06-2025",
+    "last_updated": "04:26:53 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -52,52 +52,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128227_english_hls_12484adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128227_english_hls_12484adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/xnJuniJ7TfOuakPcH3JqXw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Canada Vs Bahamas",
-            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
-            "short_name": "ICC Men's T20 WC Americas Region",
-            "match_id": 128700,
-            "status": "STARTED",
-            "startTime": "19 June 2025 01:00 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128700_5311_CAN_BAH_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128700_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128700_5311_CAN_BAH_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128700_5311_CAN_BAH_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128700_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 41,
-                    "name": "Canada",
-                    "shortName": "CAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                    "color": "#d01909"
-                },
-                {
-                    "id": 24,
-                    "name": "Bahamas",
-                    "shortName": "BAH",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-                    "color": "#40b8de"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128700_english_hls_12558adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/fWXKNtAfQE2L9sMe4qODCg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128700_english_hls_12558adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128700_english_hls_12558adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/fWXKNtAfQE2L9sMe4qODCg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -393,6 +347,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
                     "color": "#9b7614"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Leicestershire Vs Nottinghamshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125947,
+            "status": "NOT_STARTED",
+            "startTime": "19 June 2025 11:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125947_5207_LEI_NOT_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125947_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125947_5207_LEI_NOT_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125947_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 297,
+                    "name": "Leicestershire",
+                    "shortName": "LEI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEI@2x.png",
+                    "color": "#c00b18"
+                },
+                {
+                    "id": 368,
+                    "name": "Nottinghamshire",
+                    "shortName": "NOT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOT@2x.png",
+                    "color": "#449438"
                 }
             ],
             "language": "BLOODY_SWEET",
