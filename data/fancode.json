@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:44:06 PM 18-06-2025",
+    "last_updated": "09:51:08 PM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 19,
-    "live_matches": 13,
-    "upcoming_matches": 6,
+    "live_matches": 14,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -333,6 +333,52 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Worcestershire Vs Durham",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125943,
+            "status": "STARTED",
+            "startTime": "18 June 2025 10:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125943_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125943_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 372,
+                    "name": "Worcestershire",
+                    "shortName": "WOR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
+                    "color": "#116030"
+                },
+                {
+                    "id": 360,
+                    "name": "Durham",
+                    "shortName": "DUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125943_english_hls_27749adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/QKf3xpFOTwianKbmP-ubHQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/125943_english_hls_27749adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/125943_english_hls_27749adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/QKf3xpFOTwianKbmP-ubHQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Football",
             "title": "Netherlands U21 Vs Ukraine U21",
             "tournament": "UEFA European Under-21 Championship",
@@ -422,49 +468,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/eQaBW6_oRvWMOuXT-mHnVg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Worcestershire Vs Durham",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125943,
-            "status": "NOT_STARTED",
-            "startTime": "18 June 2025 10:00 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125943_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125943_5207_WOR_DUR_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125943_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 372,
-                    "name": "Worcestershire",
-                    "shortName": "WOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
-                    "color": "#116030"
-                },
-                {
-                    "id": 360,
-                    "name": "Durham",
-                    "shortName": "DUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
