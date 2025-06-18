@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:05:07 PM 18-06-2025",
+    "last_updated": "11:12:06 PM 18-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 13,
+    "total_matches": 17,
+    "live_matches": 12,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -242,52 +242,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Scotland Vs Netherlands",
-            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
-            "short_name": "SCO vs NED & NEP",
-            "match_id": 127630,
-            "status": "STARTED",
-            "startTime": "18 June 2025 07:30 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "20 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-Web.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 276,
-                    "name": "Scotland",
-                    "shortName": "SCO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
-                    "color": "#1672c1"
-                },
-                {
-                    "id": 178,
-                    "name": "Netherlands",
-                    "shortName": "NED",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
-                    "color": "#2c5ab3"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/43x-G2eGRImasyPA7OFOOQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/43x-G2eGRImasyPA7OFOOQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Worcestershire Vs Durham",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -466,6 +420,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/123333_english_hls_95774adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/123333_english_hls_95774adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/eQaBW6_oRvWMOuXT-mHnVg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Scotland Vs Netherlands",
+            "tournament": "Nepal and Netherlands tour of Scotland, 2025",
+            "short_name": "SCO vs NED & NEP",
+            "match_id": 127630,
+            "status": "STARTED",
+            "startTime": "18 June 2025 07:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "20 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-App.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/127630_5263_SCO_NED_fc-Web.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127630_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 276,
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png",
+                    "color": "#1672c1"
+                },
+                {
+                    "id": 178,
+                    "name": "Netherlands",
+                    "shortName": "NED",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NED@2x.png",
+                    "color": "#2c5ab3"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/43x-G2eGRImasyPA7OFOOQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/127630_english_hls_22222adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/43x-G2eGRImasyPA7OFOOQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -782,52 +782,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128651_english_hls_39396adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/MrPu9LlpTDW6Bf8mKymNTQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Bermuda Vs Cayman Islands",
-            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
-            "short_name": "ICC Men's T20 WC Americas Region",
-            "match_id": 128699,
-            "status": "STARTED",
-            "startTime": "18 June 2025 08:00 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128699_5311_BER_CAY_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128699_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128699_5311_BER_CAY_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128699_5311_BER_CAY_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128699_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 22,
-                    "name": "Bermuda",
-                    "shortName": "BER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRM@2x.png",
-                    "color": "#C33637"
-                },
-                {
-                    "id": 49,
-                    "name": "Cayman Islands",
-                    "shortName": "CAY",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
-                    "color": "#C33637"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128699_english_hls_12649adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/p1AiUDPQRLi3u9O6_IU90g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128699_english_hls_12649adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128699_english_hls_12649adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/p1AiUDPQRLi3u9O6_IU90g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
