@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:00:07 PM 19-06-2025",
+    "last_updated": "11:05:05 PM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 14,
-    "upcoming_matches": 4,
+    "total_matches": 17,
+    "live_matches": 12,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -700,7 +700,7 @@
             "tournament": "Royal Ascot",
             "short_name": "Royal Ascot",
             "match_id": 129014,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "19 June 2025 06:00 PM",
             "startDate": "17 June 2025 05:30 AM",
             "endDate": "21 June 2025 11:45 PM",
@@ -708,7 +708,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/129014_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Royal-Ascot-Derby_old-(1).jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129014_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -729,15 +729,12 @@
                     "color": "#12345"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129014_english_hls_17235adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/fyrUqCgrQcmNgS5Ne2s1kA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129014_english_hls_17235adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129014_english_hls_17235adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/fyrUqCgrQcmNgS5Ne2s1kA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -782,52 +779,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128373_english_hls_42174adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128373_english_hls_42174adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "A4 Power Strikers Vs Diamond Dazzlers",
-            "tournament": "Baroda Premier League, 2025",
-            "short_name": "Baroda Premier League",
-            "match_id": 128679,
-            "status": "STARTED",
-            "startTime": "19 June 2025 06:45 PM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "29 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128679_5310_APT_DDZ_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128679_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128679_5310_APT_DDZ_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128679_5310_APT_DDZ_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128679_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11598,
-                    "name": "A4 Power Strikers",
-                    "shortName": "APT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-APT@2x.png",
-                    "color": "#ffba52"
-                },
-                {
-                    "id": 11595,
-                    "name": "Diamond Dazzlers",
-                    "shortName": "DDZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDZ@2x.png",
-                    "color": "#1d9032"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128679_english_hls_19058adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/RCis0fJ7SpecmITOCUEAgw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128679_english_hls_19058adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128679_english_hls_19058adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/RCis0fJ7SpecmITOCUEAgw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
