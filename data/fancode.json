@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:53 AM 19-06-2025",
+    "last_updated": "08:51:55 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 2,
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -57,47 +57,47 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "San Francisco Giants Vs Cleveland Guardians",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128372,
+            "category": "Cricket",
+            "title": "Shrachi Rarh Tigers Womens Vs Harbour Diamonds Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "short_name": "Bengal Women's Pro T20 League",
+            "match_id": 128095,
             "status": "STARTED",
-            "startTime": "19 June 2025 07:15 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_SPORTY_APP.png",
+            "startTime": "19 June 2025 09:00 AM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128095_5283_SRT-W_HD-W_fc-App.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128372_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128095_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128095_5283_SRT-W_HD-W_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128095_5283_SRT-W_HD-W_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128095_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 2349,
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "color": "#581a02"
+                    "id": 8716,
+                    "name": "Shrachi Rarh Tigers Womens",
+                    "shortName": "SRT-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
+                    "color": "#fbb27e"
                 },
                 {
-                    "id": 2325,
-                    "name": "Cleveland Guardians",
-                    "shortName": "CLE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "color": "#0c2346"
+                    "id": 8715,
+                    "name": "Harbour Diamonds Womens",
+                    "shortName": "HD-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "adfree_stream": "https://dai.fancode.com/primary/128095_english_hls_85483adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/oH89eUblTii4jampfTrUUA/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128095_english_hls_85483adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128095_english_hls_85483adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/oH89eUblTii4jampfTrUUA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -401,6 +401,52 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "San Francisco Giants Vs Cleveland Guardians",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128372,
+            "status": "STARTED",
+            "startTime": "19 June 2025 07:15 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128372_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128372_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2349,
+                    "name": "San Francisco Giants",
+                    "shortName": "SFG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
+                    "color": "#581a02"
+                },
+                {
+                    "id": 2325,
+                    "name": "Cleveland Guardians",
+                    "shortName": "CLE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
+                    "color": "#0c2346"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128372_english_hls_2097adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
