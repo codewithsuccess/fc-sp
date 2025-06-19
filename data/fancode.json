@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:55 AM 19-06-2025",
+    "last_updated": "11:51:55 AM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -399,52 +399,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Pakyong Xi Vs Black Eagles",
-            "tournament": "Sikkim T20 League, 2025",
-            "short_name": "Sikkim T20 League",
-            "match_id": 128715,
-            "status": "STARTED",
-            "startTime": "19 June 2025 08:30 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "01 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128715_5312_PAK_BES_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128715_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128715_5312_PAK_BES_fc-web.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128715_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8093,
-                    "name": "Pakyong XI",
-                    "shortName": "PAK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "color": "#ef3f3a"
-                },
-                {
-                    "id": 8100,
-                    "name": "Black Eagles",
-                    "shortName": "BES",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
-                    "color": "#876500"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/mmN-lr1mRiabgvfTk6xQWw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/mmN-lr1mRiabgvfTk6xQWw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Bhopal Wolves Women Vs Bundelkhand Bulls Women",
             "tournament": "Madhya Pradesh Women's League, 2025",
             "short_name": "MPL-W, 2025",
@@ -485,6 +439,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128837_english_hls_43740adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128837_english_hls_43740adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ycKfbhuRRoa21bZ7vfBvjw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakyong Xi Vs Black Eagles",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128715,
+            "status": "STARTED",
+            "startTime": "19 June 2025 08:30 AM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128715_5312_PAK_BES_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128715_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128715_5312_PAK_BES_fc-web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128715_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8093,
+                    "name": "Pakyong XI",
+                    "shortName": "PAK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
+                    "color": "#ef3f3a"
+                },
+                {
+                    "id": 8100,
+                    "name": "Black Eagles",
+                    "shortName": "BES",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BES@2x.png",
+                    "color": "#876500"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/mmN-lr1mRiabgvfTk6xQWw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128715_english_hls_90489adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/mmN-lr1mRiabgvfTk6xQWw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
