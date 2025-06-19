@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:15:05 AM 20-06-2025",
+    "last_updated": "02:20:07 AM 20-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 9,
+    "total_matches": 14,
+    "live_matches": 10,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -546,6 +546,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128653_english_hls_73425adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128653_english_hls_73425adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/KQXgkO4uSD-7ZL20EJW5Qg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Chicago Steelpan Players Vs Leatherback Strikers",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128230,
+            "status": "STARTED",
+            "startTime": "20 June 2025 02:30 AM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128230_5288_SPK_TLS_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128230_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128230_5288_SPK_TLS_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128230_5288_SPK_TLS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128230_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4507,
+                    "name": "Chicago Steelpan Players",
+                    "shortName": "SPK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SPK-CR2@2x.png",
+                    "color": "#5E4900"
+                },
+                {
+                    "id": 9198,
+                    "name": "Leatherback Strikers",
+                    "shortName": "TLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TLS-CR1@2x.png",
+                    "color": "#633600"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128230_english_hls_84933adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/yAwNtLDKRIun9cp4ydmJyA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128230_english_hls_84933adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128230_english_hls_84933adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yAwNtLDKRIun9cp4ydmJyA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
