@@ -1,15 +1,107 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:55:07 PM 19-06-2025",
+    "last_updated": "07:00:07 PM 19-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 10,
+    "total_matches": 15,
+    "live_matches": 9,
     "upcoming_matches": 6,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Skm Salem Spartans Vs Chepauk Super Gillies",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126544,
+            "status": "STARTED",
+            "startTime": "19 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                },
+                {
+                    "id": 680,
+                    "name": "Chepauk Super Gillies",
+                    "shortName": "CSG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "color": "#FFE68C"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/1zwUxa3bRrKFbAuAJ1J_Pw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/1zwUxa3bRrKFbAuAJ1J_Pw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Skm Salem Spartans Vs Chepauk Super Gillies",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126544,
+            "status": "STARTED",
+            "startTime": "19 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                },
+                {
+                    "id": 680,
+                    "name": "Chepauk Super Gillies",
+                    "shortName": "CSG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "color": "#FFE68C"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/xl2_i8J8RUm4jCyZxjKPUg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/xl2_i8J8RUm4jCyZxjKPUg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "TAMIL"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Rashmi Medinipur Wizards Vs Harbour Diamonds",
@@ -334,98 +426,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Skm Salem Spartans Vs Chepauk Super Gillies",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126544,
-            "status": "STARTED",
-            "startTime": "19 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Old_match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 3640,
-                    "name": "SKM Salem Spartans",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "color": "#FFF200"
-                },
-                {
-                    "id": 680,
-                    "name": "Chepauk Super Gillies",
-                    "shortName": "CSG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "color": "#FFE68C"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/1zwUxa3bRrKFbAuAJ1J_Pw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/126544_english_hls_17220adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/1zwUxa3bRrKFbAuAJ1J_Pw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Skm Salem Spartans Vs Chepauk Super Gillies",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126544,
-            "status": "STARTED",
-            "startTime": "19 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Sporty_match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Chepauk_Old_match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126544_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 3640,
-                    "name": "SKM Salem Spartans",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "color": "#FFF200"
-                },
-                {
-                    "id": 680,
-                    "name": "Chepauk Super Gillies",
-                    "shortName": "CSG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "color": "#FFE68C"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/xl2_i8J8RUm4jCyZxjKPUg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/126544_tamil_hls_7065adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/xl2_i8J8RUm4jCyZxjKPUg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "TAMIL"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Nepal Vs Netherlands",
             "tournament": "Nepal and Netherlands tour of Scotland, 2025",
             "short_name": "SCO vs NED & NEP",
@@ -687,52 +687,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129014_english_hls_17235adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129014_english_hls_17235adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/fyrUqCgrQcmNgS5Ne2s1kA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Bohemians Vs Brno",
-            "tournament": "ECS Czechia, Premier, 2025",
-            "short_name": "ECS Czechia, Premier",
-            "match_id": 129208,
-            "status": "STARTED",
-            "startTime": "19 June 2025 04:15 PM",
-            "startDate": "16 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129208_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129208_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2185,
-                    "name": "Bohemians",
-                    "shortName": "BCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHOE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BHOE@2x.png",
-                    "color": "#34ae20"
-                },
-                {
-                    "id": 4780,
-                    "name": "Brno",
-                    "shortName": "BRN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRNO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRNO@2x.png",
-                    "color": "#15337c"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129208_english_hls_65842adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Q6zxInnqSqGw74KjjnuqfA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129208_english_hls_65842adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129208_english_hls_65842adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Q6zxInnqSqGw74KjjnuqfA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
