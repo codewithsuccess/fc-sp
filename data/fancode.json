@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:55:05 AM 21-06-2025",
+    "last_updated": "03:00:07 AM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 10,
-    "upcoming_matches": 2,
+    "live_matches": 8,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -52,52 +52,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/127547_english_hls_86904adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/127547_english_hls_86904adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/kYBgxg-fQOu83EhaEkWwvA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Gloucestershire Vs Hampshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125956,
-            "status": "STARTED",
-            "startTime": "20 June 2025 11:30 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125956_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125956_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 363,
-                    "name": "Gloucestershire",
-                    "shortName": "GLO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "color": "#17836e"
-                },
-                {
-                    "id": 308,
-                    "name": "Hampshire",
-                    "shortName": "HAM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
-                    "color": "#9b7614"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125956_english_hls_44227adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/F-kXooduSTe_n8ty4EYiBw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/125956_english_hls_44227adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/125956_english_hls_44227adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/F-kXooduSTe_n8ty4EYiBw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -334,6 +288,49 @@
         },
         {
             "category": "Cricket",
+            "title": "Gloucestershire Vs Hampshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125956,
+            "status": "COMPLETED",
+            "startTime": "20 June 2025 11:30 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125956_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125956_5207_GLO_HAM_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125956_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 363,
+                    "name": "Gloucestershire",
+                    "shortName": "GLO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "color": "#17836e"
+                },
+                {
+                    "id": 308,
+                    "name": "Hampshire",
+                    "shortName": "HAM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HAMP@2x.png",
+                    "color": "#9b7614"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
             "tournament": "Bangladesh tour of Sri Lanka, 2025",
             "short_name": "SL vs BAN",
@@ -516,7 +513,7 @@
             "tournament": "Major League Baseball, 2025",
             "short_name": "Major League Baseball",
             "match_id": 128376,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "20 June 2025 11:50 PM",
             "startDate": "18 March 2025 05:30 AM",
             "endDate": "31 October 2025 05:30 AM",
@@ -524,7 +521,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128376_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://images.fancode.com/aig/match/v1/128376_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128376_CASACARDS_APP.png",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128376_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -545,15 +542,12 @@
                     "color": "#11a6a8"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128376_english_hls_17759adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128376_english_hls_17759adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128376_english_hls_17759adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
