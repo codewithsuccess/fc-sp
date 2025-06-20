@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:00:07 PM 20-06-2025",
+    "last_updated": "10:05:05 PM 20-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 17,
-    "live_matches": 13,
-    "upcoming_matches": 4,
+    "live_matches": 11,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -380,52 +380,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Durham Women Vs Essex Women",
-            "tournament": "Women's Vitality Blast T20, 2025",
-            "short_name": "Women's Vitality Blast T20",
-            "match_id": 125857,
-            "status": "STARTED",
-            "startTime": "20 June 2025 07:00 PM",
-            "startDate": "30 May 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125857_5206_DHW_ESS-W_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125857_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125857_5206_DHW_ESS-W_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125857_5206_DHW_ESS-W_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125857_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9765,
-                    "name": "Durham Women",
-                    "shortName": "DHW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 3397,
-                    "name": "Essex Women",
-                    "shortName": "ESS-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
-                    "color": "#FF5253"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/125857_english_hls_38296adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/y3rgQvMcQRuw_YFSDBH-Tw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/125857_english_hls_38296adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/125857_english_hls_38296adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/y3rgQvMcQRuw_YFSDBH-Tw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Glamorgan Vs Somerset",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -512,11 +466,54 @@
         },
         {
             "category": "Cricket",
+            "title": "Sri Lanka Vs Bangladesh",
+            "tournament": "Bangladesh tour of Sri Lanka, 2025",
+            "short_name": "SL vs BAN",
+            "match_id": 128426,
+            "status": "PAUSED",
+            "startTime": "17 June 2025 10:00 AM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "16 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-tour-of-Sri-Lanka-2025-sporty-match-card.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128426_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 44,
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                },
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Diamond Dazzlers Vs Alembic Warriors",
             "tournament": "Baroda Premier League, 2025",
             "short_name": "Baroda Premier League",
             "match_id": 128681,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "20 June 2025 06:45 PM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "29 June 2025 05:30 AM",
@@ -524,7 +521,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128681_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128681_5310_DDZ_AWS_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128681_5310_DDZ_AWS_fc-Web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128681_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -545,15 +542,12 @@
                     "color": "#1466b5"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128681_english_hls_30675adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/C_gZalNBQcq13AQNFDGN-Q/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128681_english_hls_30675adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128681_english_hls_30675adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/C_gZalNBQcq13AQNFDGN-Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
