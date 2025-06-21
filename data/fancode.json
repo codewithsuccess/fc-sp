@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:40:06 PM 21-06-2025",
+    "last_updated": "02:45:08 PM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
+    "total_matches": 19,
     "live_matches": 10,
-    "upcoming_matches": 8,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "MotoGP",
@@ -730,11 +730,57 @@
         },
         {
             "category": "Cricket",
+            "title": "Bundelkhand Bulls Vs Jabalpur Royal Lions",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128450,
+            "status": "STARTED",
+            "startTime": "21 June 2025 03:00 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128450_5300_BBS_JRL_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128450_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128450_5300_BBS_JRL_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128450_5300_BBS_JRL_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128450_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11582,
+                    "name": "Bundelkhand Bulls",
+                    "shortName": "BBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                    "color": "#ee3e26"
+                },
+                {
+                    "id": 11579,
+                    "name": "Jabalpur Royal Lions",
+                    "shortName": "JRL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                    "color": "#a34c08"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128450_english_hls_92333adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/hyn9J1hoRkOYXEw26re4OA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128450_english_hls_92333adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128450_english_hls_92333adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/hyn9J1hoRkOYXEw26re4OA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Chambal Ghariyals Women Vs Bhopal Wolves Women",
             "tournament": "Madhya Pradesh Women's League, 2025",
             "short_name": "MPL-W, 2025",
             "match_id": 128839,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "21 June 2025 11:00 AM",
             "startDate": "19 June 2025 05:30 AM",
             "endDate": "24 June 2025 05:30 AM",
@@ -742,7 +788,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128839_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128839_5325_CGW_BWW_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128839_5325_CGW_BWW_fc-web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128839_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -763,58 +809,55 @@
                     "color": "#4343A9"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128839_english_hls_93963adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/7k15c5roTsq57qxujnxtfA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128839_english_hls_93963adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128839_english_hls_93963adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/7k15c5roTsq57qxujnxtfA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
             "category": "Football",
-            "title": "Machida Zelvia Vs Kashima Antlers",
+            "title": "Cerezo Osaka Vs Tokyo Verdy",
             "tournament": "J League 2025",
             "short_name": "J League",
-            "match_id": 126257,
+            "match_id": 126260,
             "status": "STARTED",
-            "startTime": "21 June 2025 12:30 PM",
+            "startTime": "21 June 2025 03:00 PM",
             "startDate": "08 February 2025 05:30 AM",
             "endDate": "06 December 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126260_4795_OSA_VER_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126257_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126257_4795_MZ_ANL_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126257_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126260_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126260_4795_OSA_VER_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126260_4795_OSA_VER_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126260_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 8166,
-                    "name": "Machida Zelvia",
-                    "shortName": "MZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "color": "#248eff"
+                    "id": 1764,
+                    "name": "Cerezo Osaka",
+                    "shortName": "OSA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png",
+                    "color": "#2a2a63"
                 },
                 {
-                    "id": 1767,
-                    "name": "Kashima Antlers",
-                    "shortName": "ANL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KAN@2x.png",
-                    "color": "#b13151"
+                    "id": 8071,
+                    "name": "Tokyo Verdy",
+                    "shortName": "VER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-TV@2x.png",
+                    "color": "#109556"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/126257_english_hls_45929adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/126260_english_hls_24899adfreeta-di_h264/index.m3u8",
             "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/126257_english_hls_45929adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/126257_english_hls_45929adfreeta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126260_english_hls_24899adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126260_english_hls_24899adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
