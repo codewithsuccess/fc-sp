@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:20:06 PM 21-06-2025",
+    "last_updated": "11:25:04 PM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,52 +10,6 @@
     "live_matches": 12,
     "upcoming_matches": 3,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Portugal U21 Vs Netherlands U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123337,
-            "status": "STARTED",
-            "startTime": "21 June 2025 09:30 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_Sporty_1750474818496.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123337_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_Sporty_1750474818496.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old_1750474818455.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123337_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 752,
-                    "name": "Portugal U21",
-                    "shortName": "PT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
-                    "color": "#ff4d4d"
-                },
-                {
-                    "id": 6890,
-                    "name": "Netherlands U21",
-                    "shortName": "NE-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
-                    "color": "#d76e7f"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/aay7IYfJSnanuGvW700rKA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/aay7IYfJSnanuGvW700rKA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Golf",
             "title": "Main Feed   Day 3",
@@ -282,6 +236,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128993_english_hls_98585adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128993_english_hls_98585adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/R6bm7GbNSdKVeW2nj3hHzg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Portugal U21 Vs Netherlands U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123337,
+            "status": "STARTED",
+            "startTime": "21 June 2025 09:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_Sporty_1750474818496.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123337_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_Sporty_1750474818496.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Portugal-vs-Netherland_old_1750474818455.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123337_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 752,
+                    "name": "Portugal U21",
+                    "shortName": "PT-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/POR-FT1@2x.png",
+                    "color": "#ff4d4d"
+                },
+                {
+                    "id": 6890,
+                    "name": "Netherlands U21",
+                    "shortName": "NE-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/NED-FT1@2x.png",
+                    "color": "#d76e7f"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/aay7IYfJSnanuGvW700rKA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/123337_english_hls_69136adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/aay7IYfJSnanuGvW700rKA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
