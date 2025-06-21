@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:40:07 PM 21-06-2025",
+    "last_updated": "10:45:07 PM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 14,
+    "total_matches": 19,
+    "live_matches": 15,
     "upcoming_matches": 4,
     "matches": [
         {
@@ -739,6 +739,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128234_english_hls_38343adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128234_english_hls_38343adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/n590ocnLTrSEh5OpoVtR7w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Thunder Cats   B Vs Lexus",
+            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
+            "short_name": "KCC T20 Challengers B",
+            "match_id": 128655,
+            "status": "STARTED",
+            "startTime": "21 June 2025 11:00 PM",
+            "startDate": "13 June 2025 05:30 AM",
+            "endDate": "04 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128655_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128655_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9715,
+                    "name": "Thunder Cats - B",
+                    "shortName": "THU-B",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
+                    "color": "#ea4848"
+                },
+                {
+                    "id": 7396,
+                    "name": "Lexus",
+                    "shortName": "LEX",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
+                    "color": "#2f86b7"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128655_english_hls_15839adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/rwau4MmURmWeX64VGV70ng/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128655_english_hls_15839adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128655_english_hls_15839adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rwau4MmURmWeX64VGV70ng/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
