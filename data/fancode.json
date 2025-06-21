@@ -1,107 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:55:04 AM 21-06-2025",
+    "last_updated": "09:00:06 AM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
+    "total_matches": 11,
     "live_matches": 2,
-    "upcoming_matches": 7,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Pakyong Xi Vs Alpine S.c",
-            "tournament": "Sikkim T20 League, 2025",
-            "short_name": "Sikkim T20 League",
-            "match_id": 128719,
-            "status": "STARTED",
-            "startTime": "21 June 2025 08:30 AM",
-            "startDate": "15 June 2025 05:30 AM",
-            "endDate": "01 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128719_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128719_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8093,
-                    "name": "Pakyong XI",
-                    "shortName": "PAK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
-                    "color": "#ef3f3a"
-                },
-                {
-                    "id": 8094,
-                    "name": "Alpine S.C",
-                    "shortName": "ASC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
-                    "color": "#60b610"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Lj5UB2oaS3efRzcvPSTlZw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Lj5UB2oaS3efRzcvPSTlZw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Sobisco Smashers Malda Womens Vs Murshidabad Kueens Womens",
-            "tournament": "Bengal Women's Pro T20 League, 2025",
-            "short_name": "Bengal Women's Pro T20 League",
-            "match_id": 128099,
-            "status": "STARTED",
-            "startTime": "21 June 2025 09:00 AM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128099_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128099_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8721,
-                    "name": "Sobisco Smashers Malda Womens",
-                    "shortName": "SSM-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
-                    "color": "#ee8d3c"
-                },
-                {
-                    "id": 8717,
-                    "name": "Murshidabad Kueens Womens",
-                    "shortName": "MK-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
-                    "color": "#C17918"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/cCs_Af4EQrip5rjzM3sMQg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/cCs_Af4EQrip5rjzM3sMQg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
@@ -401,6 +309,184 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Germany U21 Vs Italy U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123339,
+            "status": "NOT_STARTED",
+            "startTime": "22 June 2025 04:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                },
+                {
+                    "id": 749,
+                    "name": "Italy U21",
+                    "shortName": "IT-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "color": "#df787f"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Rashmi Medinipur Wizards",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128071,
+            "status": "NOT_STARTED",
+            "startTime": "22 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128071_5282_MK_RMW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128071_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128071_5282_MK_RMW_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128071_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakyong Xi Vs Alpine S.c",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128719,
+            "status": "STARTED",
+            "startTime": "21 June 2025 08:30 AM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128719_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128719_5312_PAK_ASC_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128719_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8093,
+                    "name": "Pakyong XI",
+                    "shortName": "PAK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PY@2x.png",
+                    "color": "#ef3f3a"
+                },
+                {
+                    "id": 8094,
+                    "name": "Alpine S.C",
+                    "shortName": "ASC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "color": "#60b610"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Lj5UB2oaS3efRzcvPSTlZw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128719_english_hls_64009adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Lj5UB2oaS3efRzcvPSTlZw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sobisco Smashers Malda Womens Vs Murshidabad Kueens Womens",
+            "tournament": "Bengal Women's Pro T20 League, 2025",
+            "short_name": "Bengal Women's Pro T20 League",
+            "match_id": 128099,
+            "status": "STARTED",
+            "startTime": "21 June 2025 09:00 AM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128099_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128099_5283_SSM-W_MK-W_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128099_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8721,
+                    "name": "Sobisco Smashers Malda Womens",
+                    "shortName": "SSM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSM@2x.png",
+                    "color": "#ee8d3c"
+                },
+                {
+                    "id": 8717,
+                    "name": "Murshidabad Kueens Womens",
+                    "shortName": "MK-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MKW@2x.png",
+                    "color": "#C17918"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/cCs_Af4EQrip5rjzM3sMQg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128099_english_hls_67185adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/cCs_Af4EQrip5rjzM3sMQg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
