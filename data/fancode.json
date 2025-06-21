@@ -1,15 +1,107 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:35:04 PM 21-06-2025",
+    "last_updated": "07:40:06 PM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 12,
+    "total_matches": 17,
+    "live_matches": 11,
     "upcoming_matches": 6,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Nellai Royal Kings",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126545,
+            "status": "STARTED",
+            "startTime": "21 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 3642,
+                    "name": "Nellai Royal Kings",
+                    "shortName": "NRK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "color": "#cbc4aa"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/mwPQEE0rSP2oo_AjqAAnUQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/mwPQEE0rSP2oo_AjqAAnUQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Nellai Royal Kings",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126545,
+            "status": "STARTED",
+            "startTime": "21 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 3642,
+                    "name": "Nellai Royal Kings",
+                    "shortName": "NRK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "color": "#cbc4aa"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/XArVrU63TXKKPiRXaOMq9g/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/XArVrU63TXKKPiRXaOMq9g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "TAMIL"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Lux Shyam Kolkata Tigers Vs Sobisco Smashers Malda",
@@ -146,98 +238,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/SHFDV8MsS06qANK_y38Nvw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "BENGALI"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Lyca Kovai Kings Vs Nellai Royal Kings",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126545,
-            "status": "STARTED",
-            "startTime": "21 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Old_match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                },
-                {
-                    "id": 3642,
-                    "name": "Nellai Royal Kings",
-                    "shortName": "NRK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "color": "#cbc4aa"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/mwPQEE0rSP2oo_AjqAAnUQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/126545_english_hls_25920adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/mwPQEE0rSP2oo_AjqAAnUQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Lyca Kovai Kings Vs Nellai Royal Kings",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126545,
-            "status": "STARTED",
-            "startTime": "21 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Sporty_match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Nellai_Old_match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126545_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                },
-                {
-                    "id": 3642,
-                    "name": "Nellai Royal Kings",
-                    "shortName": "NRK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "color": "#cbc4aa"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/XArVrU63TXKKPiRXaOMq9g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/126545_tamil_hls_30705adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/XArVrU63TXKKPiRXaOMq9g/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "TAMIL"
             }
         },
         {
@@ -595,52 +595,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128784_english_hls_93873adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128784_english_hls_93873adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/1ZSpKxJiToOxLmTfLpDx3A/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Prague Cc Vs Prague Barbarians",
-            "tournament": "ECS Czechia, Premier, 2025",
-            "short_name": "ECS Czechia, Premier",
-            "match_id": 129200,
-            "status": "STARTED",
-            "startTime": "21 June 2025 06:15 PM",
-            "startDate": "16 June 2025 05:30 AM",
-            "endDate": "22 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129200_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Czechia_-premier_2025_Old_match-card_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129200_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2188,
-                    "name": "Prague CC",
-                    "shortName": "PCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PCC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PCC@2x.png",
-                    "color": "#c7c71d"
-                },
-                {
-                    "id": 2602,
-                    "name": "Prague Barbarians",
-                    "shortName": "PRB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PRB@2x.png",
-                    "color": "#f2935a"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129200_english_hls_43692adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/6wTd924DS9WRFcHzQPhHMQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129200_english_hls_43692adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129200_english_hls_43692adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/6wTd924DS9WRFcHzQPhHMQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
