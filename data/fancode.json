@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:10:06 AM 22-06-2025",
+    "last_updated": "05:15:06 AM 22-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -16,7 +16,7 @@
             "tournament": "ICC Men's T20 World Cup Americas Regional Final",
             "short_name": "ICC Men's T20 WC Americas Region",
             "match_id": 128704,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "22 June 2025 01:00 AM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "22 June 2025 05:30 AM",
@@ -24,7 +24,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128704_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128704_5311_CAY_BER_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128704_5311_CAY_BER_fc-web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128704_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -45,15 +45,12 @@
                     "color": "#C33637"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128704_english_hls_17360adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/OKmGAm1OSrqZ2bu11qSZvA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128704_english_hls_17360adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128704_english_hls_17360adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OKmGAm1OSrqZ2bu11qSZvA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
