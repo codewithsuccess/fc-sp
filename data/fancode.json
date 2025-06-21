@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:40:06 PM 21-06-2025",
+    "last_updated": "06:45:10 PM 21-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 10,
+    "total_matches": 17,
+    "live_matches": 11,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -684,6 +684,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128683_english_hls_84039adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128683_english_hls_84039adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/nh6AwSWlTpOsEkj9_9rc0g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Academy Vs Sri Lanka Emerging",
+            "tournament": "Sri Lanka Emerging tour of West Indies",
+            "short_name": "WI-A vs SL-A",
+            "match_id": 128399,
+            "status": "STARTED",
+            "startTime": "21 June 2025 07:00 PM",
+            "startDate": "07 June 2025 05:30 AM",
+            "endDate": "26 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanks-Emerging-tour-of-West-Indies-old.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128399_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanks-Emerging-tour-of-West-Indies-old.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanks-Emerging-tour-of-West-Indies-old.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128399_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6451,
+                    "name": "West Indies Academy",
+                    "shortName": "WIC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIC@2x.png",
+                    "color": "#CB1414"
+                },
+                {
+                    "id": 1294,
+                    "name": "Sri Lanka Emerging",
+                    "shortName": "SL-ET",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128399_english_hls_35917adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/RbqBCyZXQGCo3F4ecjrG0A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128399_english_hls_35917adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128399_english_hls_35917adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/RbqBCyZXQGCo3F4ecjrG0A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
