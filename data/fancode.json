@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:05:04 AM 23-06-2025",
+    "last_updated": "03:10:07 AM 23-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 12,
-    "live_matches": 8,
-    "upcoming_matches": 4,
+    "live_matches": 7,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Football",
@@ -98,52 +98,6 @@
                 "Primary_Playback_URL": "https://mls3.fancode.com/59857dde-55b5-4df7-a0d9-6ecb9109d963/index.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 4",
-            "tournament": "Travelers Championship",
-            "short_name": "Travelers Championship",
-            "match_id": 128999,
-            "status": "STARTED",
-            "startTime": "22 June 2025 04:30 PM",
-            "startDate": "19 June 2025 05:30 AM",
-            "endDate": "22 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_Sporty_02_1750131699695.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128999_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_Sporty_02_1750131699695.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_02_1750131699712.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128999_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11618,
-                    "name": "Main Feed - Day 4",
-                    "shortName": "TC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCP@2x.png",
-                    "color": "#ff0006"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128999_english_hls_19559adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/PHeSD1F7QZWj96sLVSw8BQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128999_english_hls_19559adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128999_english_hls_19559adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/PHeSD1F7QZWj96sLVSw8BQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -402,6 +356,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "color": "#2d9251"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Murshidabad Kings Vs Rashmi Medinipur Wizards",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128071,
+            "status": "COMPLETED",
+            "startTime": "22 June 2025 01:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128071_5282_MK_RMW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128071_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128071_5282_MK_RMW_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128071_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                },
+                {
+                    "id": 8708,
+                    "name": "Rashmi Medinipur Wizards",
+                    "shortName": "RMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMW@2x.png",
+                    "color": "#f15159"
                 }
             ],
             "language": "BLOODY_SWEET",
