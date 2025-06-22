@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:00:09 AM 23-06-2025",
+    "last_updated": "02:05:04 AM 23-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 13,
-    "live_matches": 10,
-    "upcoming_matches": 3,
+    "live_matches": 9,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Football",
@@ -96,52 +96,6 @@
             "dai_stream": "Unavailable",
             "STREAMING_CDN": {
                 "Primary_Playback_URL": "https://mls3.fancode.com/59857dde-55b5-4df7-a0d9-6ecb9109d963/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Marquee Group   Day 4",
-            "tournament": "Travelers Championship",
-            "short_name": "Travelers Championship",
-            "match_id": 129000,
-            "status": "STARTED",
-            "startTime": "22 June 2025 04:30 PM",
-            "startDate": "19 June 2025 05:30 AM",
-            "endDate": "22 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_Sporty_02_1750131699695.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129000_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_Sporty_02_1750131699695.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Travelers-Championship_old_02_1750131699712.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129000_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11618,
-                    "name": "Marquee Group - Day 4",
-                    "shortName": "TC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TCP@2x.png",
-                    "color": "#ff0006"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://mls3.fancode.com/a9639b96-89b7-4318-acb0-c475b8287975/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://mls3.fancode.com/a9639b96-89b7-4318-acb0-c475b8287975/index.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
@@ -405,6 +359,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "color": "#C2920B"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Women Vs South Africa Women",
+            "tournament": "South Africa Women tour of West Indies, 2025",
+            "short_name": "WI-w vs SA-w",
+            "match_id": 127549,
+            "status": "NOT_STARTED",
+            "startTime": "23 June 2025 11:30 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "23 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card_1750236997454.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127549_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Women-tour-of-West-Indies,-2025-kv-Sporty-match-card_1750236997454.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127549_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 647,
+                    "name": "West Indies Women",
+                    "shortName": "WI-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#91033c"
+                },
+                {
+                    "id": 706,
+                    "name": "South Africa Women",
+                    "shortName": "SA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "color": "#2d9251"
                 }
             ],
             "language": "BLOODY_SWEET",
