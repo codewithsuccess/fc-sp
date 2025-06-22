@@ -1,15 +1,61 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:15:06 AM 23-06-2025",
+    "last_updated": "12:20:12 AM 23-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 8,
-    "upcoming_matches": 5,
+    "total_matches": 14,
+    "live_matches": 10,
+    "upcoming_matches": 4,
     "matches": [
+        {
+            "category": "Football",
+            "title": "Germany U21 Vs Italy U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123339,
+            "status": "STARTED",
+            "startTime": "23 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                },
+                {
+                    "id": 749,
+                    "name": "Italy U21",
+                    "shortName": "IT-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
+                    "color": "#df787f"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123339_english_hls_98440adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/S5pIOSeITcyHLcrCcMJh4w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/123339_english_hls_98440adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/123339_english_hls_98440adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/S5pIOSeITcyHLcrCcMJh4w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
         {
             "category": "Golf",
             "title": "Featured Groups   Day 4",
@@ -241,49 +287,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Germany U21 Vs Italy U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123339,
-            "status": "NOT_STARTED",
-            "startTime": "23 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Germany-vs-Italy_Sporty.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123339_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 751,
-                    "name": "Germany U21",
-                    "shortName": "GER-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "color": "#ea6363"
-                },
-                {
-                    "id": 749,
-                    "name": "Italy U21",
-                    "shortName": "IT-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ITA-FT1@2x.png",
-                    "color": "#df787f"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Murshidabad Kings Vs Lux Shyam Kolkata Tigers",
             "tournament": "Bengal Pro T20 league, 2025",
@@ -459,12 +462,58 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Bess Motors Blue Devils Vs Samp Army Cocrico Cavaliers",
+            "tournament": "Dream11 Trinidad T10 Blast, 7th Edition, 2025",
+            "short_name": "Dream11 Trinidad T10 Blast",
+            "match_id": 128237,
+            "status": "STARTED",
+            "startTime": "23 June 2025 12:30 AM",
+            "startDate": "09 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128213_5288_BLD_SCL_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128237_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128213_5288_BLD_SCL_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128213_5288_BLD_SCL_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128237_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6681,
+                    "name": "Bess Motors Blue Devils",
+                    "shortName": "BLD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLUD@2x.png",
+                    "color": "#233e56"
+                },
+                {
+                    "id": 4508,
+                    "name": "Samp Army Cocrico Cavaliers",
+                    "shortName": "SCL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SAMPC@2x.png",
+                    "color": "#4d2f79"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128237_english_hls_76115adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/UMACt0aKQoyY9f5j3rPo0w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128237_english_hls_76115adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128237_english_hls_76115adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/UMACt0aKQoyY9f5j3rPo0w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Baseball",
             "title": "New York Yankees Vs Baltimore Orioles",
             "tournament": "Major League Baseball, 2025",
             "short_name": "Major League Baseball",
             "match_id": 128381,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "22 June 2025 09:05 PM",
             "startDate": "18 March 2025 05:30 AM",
             "endDate": "31 October 2025 05:30 AM",
@@ -472,7 +521,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128381_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://images.fancode.com/aig/match/v1/128381_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128381_CASACARDS_APP.png",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128381_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -493,12 +542,55 @@
                     "color": "#ff8048"
                 }
             ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Colorado Rockies Vs Arizona Diamondbacks",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128382,
+            "status": "STARTED",
+            "startTime": "23 June 2025 12:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128382_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128382_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128382_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128382_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128382_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2341,
+                    "name": "Colorado Rockies",
+                    "shortName": "COR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png",
+                    "color": "#53409a"
+                },
+                {
+                    "id": 2337,
+                    "name": "Arizona Diamondbacks",
+                    "shortName": "AD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png",
+                    "color": "#6f212e"
+                }
+            ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128381_english_hls_90056adfreeta-di_h264/index.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/128382_english_hls_39542adfreeta-di_h264/index.m3u8",
             "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128381_english_hls_90056adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128381_english_hls_90056adfreeta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128382_english_hls_39542adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128382_english_hls_39542adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
@@ -548,49 +640,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/zwOJ2HSaTd2KUMHbICfU_g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Chambal Ghariyals Vs Bundelkhand Bulls",
-            "tournament": "Madhya Pradesh League, 2025",
-            "short_name": "MPL",
-            "match_id": 128453,
-            "status": "COMPLETED",
-            "startTime": "22 June 2025 07:30 PM",
-            "startDate": "12 June 2025 05:30 AM",
-            "endDate": "24 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128453_5300_CGS_BBS_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128453_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128453_5300_CGS_BBS_fc-web.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128453_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11581,
-                    "name": "Chambal Ghariyals",
-                    "shortName": "CGS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                    "color": "#22c13a"
-                },
-                {
-                    "id": 11582,
-                    "name": "Bundelkhand Bulls",
-                    "shortName": "BBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                    "color": "#ee3e26"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         }
     ]
