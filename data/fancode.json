@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:40:06 PM 22-06-2025",
+    "last_updated": "07:45:07 PM 22-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 10,
+    "total_matches": 17,
+    "live_matches": 11,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -736,6 +736,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129004_english_hls_33744adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129004_english_hls_33744adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/99AApcbgR5yQuBBewqme-A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bahamas Vs Cayman Islands",
+            "tournament": "ICC Men's T20 World Cup Americas Regional Final",
+            "short_name": "ICC Men's T20 WC Americas Region",
+            "match_id": 128705,
+            "status": "STARTED",
+            "startTime": "22 June 2025 08:00 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "22 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128705_5311_BAH_CAY_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128705_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128705_5311_BAH_CAY_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128705_5311_BAH_CAY_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128705_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 24,
+                    "name": "Bahamas",
+                    "shortName": "BAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+                    "color": "#40b8de"
+                },
+                {
+                    "id": 49,
+                    "name": "Cayman Islands",
+                    "shortName": "CAY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYIS@2x.png",
+                    "color": "#C33637"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128705_english_hls_92705adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/iRjOzB0QRXSuNaCQcGX3Mw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128705_english_hls_92705adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128705_english_hls_92705adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/iRjOzB0QRXSuNaCQcGX3Mw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
