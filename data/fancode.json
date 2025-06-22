@@ -1,15 +1,107 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:55:07 PM 22-06-2025",
+    "last_updated": "03:00:13 PM 22-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
-    "live_matches": 9,
+    "total_matches": 20,
+    "live_matches": 11,
     "upcoming_matches": 9,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Skm Salem Spartans Vs Dindigul Dragons",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126546,
+            "status": "STARTED",
+            "startTime": "22 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                },
+                {
+                    "id": 682,
+                    "name": "Dindigul Dragons",
+                    "shortName": "DD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "color": "#AA7B7C"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126546_english_hls_17547adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/d3poW2HpTeKw5x-foHrMvA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126546_english_hls_17547adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126546_english_hls_17547adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/d3poW2HpTeKw5x-foHrMvA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Skm Salem Spartans Vs Dindigul Dragons",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126546,
+            "status": "STARTED",
+            "startTime": "22 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Old_match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                },
+                {
+                    "id": 682,
+                    "name": "Dindigul Dragons",
+                    "shortName": "DD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "color": "#AA7B7C"
+                }
+            ],
+            "language": "TAMIL",
+            "adfree_stream": "https://dai.fancode.com/primary/126546_tamil_hls_75837adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/P4y8Jd7GRhmBuY-iudEfxQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126546_tamil_hls_75837adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126546_tamil_hls_75837adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/P4y8Jd7GRhmBuY-iudEfxQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "TAMIL"
+            }
+        },
         {
             "category": "MotoGP",
             "title": "Race Day",
@@ -192,49 +284,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/NIHa3b1DTiWClTgAibl-_A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "BENGALI"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Skm Salem Spartans Vs Dindigul Dragons",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126546,
-            "status": "NOT_STARTED",
-            "startTime": "22 June 2025 03:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Salem_vs_Dindigul_Sporty_match_card.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126546_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 3640,
-                    "name": "SKM Salem Spartans",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "color": "#FFF200"
-                },
-                {
-                    "id": 682,
-                    "name": "Dindigul Dragons",
-                    "shortName": "DD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "color": "#AA7B7C"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -721,6 +770,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128452_english_hls_27780adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128452_english_hls_27780adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/zyOMVrH1QxmEIc6gGZQDEQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Dragons Women Vs Typhoons Women",
+            "tournament": "Evoke Super 20 Trophy, 2025",
+            "short_name": "Evoke Super 20 Trophy, 2025",
+            "match_id": 129003,
+            "status": "STARTED",
+            "startTime": "22 June 2025 03:15 PM",
+            "startDate": "22 June 2025 05:30 AM",
+            "endDate": "07 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129003_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129003_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4677,
+                    "name": "Dragons Women",
+                    "shortName": "DG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRAW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRAW@2x.png",
+                    "color": "#cb1414"
+                },
+                {
+                    "id": 2448,
+                    "name": "Typhoons Women",
+                    "shortName": "TYP-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
+                    "color": "#B5651D"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129003_english_hls_28954adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/C18TlBw2QAiJ1WgYVnv8wQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129003_english_hls_28954adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129003_english_hls_28954adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/C18TlBw2QAiJ1WgYVnv8wQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
