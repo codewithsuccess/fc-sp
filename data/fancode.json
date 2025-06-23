@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:40:07 PM 23-06-2025",
+    "last_updated": "02:45:09 PM 23-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 7,
+    "total_matches": 18,
+    "live_matches": 8,
     "upcoming_matches": 10,
     "matches": [
         {
@@ -764,6 +764,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128686_english_hls_77163adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128686_english_hls_77163adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/rlhWgwvmTsmB1pmhj3CYOQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Rewa Jaguars Vs Bhopal Leopards",
+            "tournament": "Madhya Pradesh League, 2025",
+            "short_name": "MPL",
+            "match_id": 128454,
+            "status": "STARTED",
+            "startTime": "23 June 2025 03:00 PM",
+            "startDate": "12 June 2025 05:30 AM",
+            "endDate": "24 June 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128454_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128444_5300_RW_BL_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128454_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11580,
+                    "name": "Rewa Jaguars",
+                    "shortName": "RW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
+                    "color": "#862900"
+                },
+                {
+                    "id": 11578,
+                    "name": "Bhopal Leopards",
+                    "shortName": "BL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BL@2x.png",
+                    "color": "#d18e09"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128454_english_hls_21712adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Gwv0oLbuQzCeL6v9YjstWA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128454_english_hls_21712adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128454_english_hls_21712adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Gwv0oLbuQzCeL6v9YjstWA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
