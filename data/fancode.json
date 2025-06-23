@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:55:05 PM 23-06-2025",
+    "last_updated": "05:00:10 PM 23-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 17,
-    "live_matches": 7,
-    "upcoming_matches": 10,
+    "live_matches": 6,
+    "upcoming_matches": 11,
     "matches": [
         {
             "category": "Cricket",
@@ -728,7 +728,7 @@
             "tournament": "Bengal Women's Pro T20 League, 2025",
             "short_name": "Bengal Women's Pro T20 League",
             "match_id": 128093,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "23 June 2025 01:15 PM",
             "startDate": "12 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -757,15 +757,12 @@
                     "color": "#2f87e2"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128093_english_hls_22253adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/4ORgCmnDTcCrJkeRinEh7w/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128093_english_hls_22253adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128093_english_hls_22253adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/4ORgCmnDTcCrJkeRinEh7w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
