@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:10:08 PM 24-06-2025",
+    "last_updated": "09:15:08 PM 24-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 7,
+    "total_matches": 18,
+    "live_matches": 8,
     "upcoming_matches": 10,
     "matches": [
         {
@@ -767,6 +767,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/125121_english_hls_6402adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/125121_english_hls_6402adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Z4gBQ2FeT5yUjYE9-sqwBg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Iyanola Heritage Vs Amazonian Warriors",
+            "tournament": "St. Lucia T10 Blast, 2025",
+            "short_name": "St. Lucia T10",
+            "match_id": 129245,
+            "status": "STARTED",
+            "startTime": "24 June 2025 09:30 PM",
+            "startDate": "24 June 2025 05:30 AM",
+            "endDate": "08 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129245_5345_IYH_AMW_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129245_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129245_5345_IYH_AMW_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129245_5345_IYH_AMW_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129245_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11634,
+                    "name": "Iyanola Heritage",
+                    "shortName": "IYH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IYH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IYH@2x.png",
+                    "color": "#929908"
+                },
+                {
+                    "id": 11631,
+                    "name": "Amazonian Warriors",
+                    "shortName": "AMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
+                    "color": "#1093c2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129245_english_hls_84090adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/cdiHs84TSYCxXnTFEdBz2Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129245_english_hls_84090adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129245_english_hls_84090adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/cdiHs84TSYCxXnTFEdBz2Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
