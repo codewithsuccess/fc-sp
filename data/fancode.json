@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:10:07 AM 25-06-2025",
+    "last_updated": "10:15:07 AM 25-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
+    "total_matches": 12,
     "live_matches": 4,
-    "upcoming_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -536,49 +536,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/UkAzUeroQXmsM_w_v5qplQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "San Francisco Giants Vs Miami Marlins",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128384,
-            "status": "COMPLETED",
-            "startTime": "25 June 2025 07:15 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128384_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128384_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128384_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128384_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2349,
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "color": "#581a02"
-                },
-                {
-                    "id": 2343,
-                    "name": "Miami Marlins",
-                    "shortName": "MM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MIAMI@2x.png",
-                    "color": "#38758d"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         }
     ]
