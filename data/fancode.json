@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:35:04 PM 25-06-2025",
+    "last_updated": "05:40:06 PM 25-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 6,
-    "upcoming_matches": 9,
+    "total_matches": 13,
+    "live_matches": 5,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -62,7 +62,7 @@
             "tournament": "Bengal Pro T20 league, 2025",
             "short_name": "Bengal Pro T20 league",
             "match_id": 128077,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "25 June 2025 01:00 PM",
             "startDate": "11 June 2025 05:30 AM",
             "endDate": "28 June 2025 05:30 AM",
@@ -70,7 +70,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-Web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -91,107 +91,12 @@
                     "color": "#fbb27e"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128077_english_hls_26476adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/qm-mOmkjQguWzo3m3_occA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128077_english_hls_26476adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128077_english_hls_26476adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qm-mOmkjQguWzo3m3_occA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Harbour Diamonds Vs Shrachi Rarh Tigers",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128077,
-            "status": "STARTED",
-            "startTime": "25 June 2025 01:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8706,
-                    "name": "Harbour Diamonds",
-                    "shortName": "HD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "color": "#077e80"
-                },
-                {
-                    "id": 8709,
-                    "name": "Shrachi Rarh Tigers",
-                    "shortName": "SRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "color": "#fbb27e"
-                }
-            ],
-            "language": "HINDI",
-            "adfree_stream": "https://dai.fancode.com/primary/128077_hindi_hls_831adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/hFnJQ61zQmiSIfoBF4G1Sw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128077_hindi_hls_831adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128077_hindi_hls_831adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/hFnJQ61zQmiSIfoBF4G1Sw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Harbour Diamonds Vs Shrachi Rarh Tigers",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128077,
-            "status": "STARTED",
-            "startTime": "25 June 2025 01:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128077_5282_HD_SRT_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128077_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8706,
-                    "name": "Harbour Diamonds",
-                    "shortName": "HD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "color": "#077e80"
-                },
-                {
-                    "id": 8709,
-                    "name": "Shrachi Rarh Tigers",
-                    "shortName": "SRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRT@2x.png",
-                    "color": "#fbb27e"
-                }
-            ],
-            "language": "BENGALI",
-            "adfree_stream": "https://dai.fancode.com/primary/128077_bengali_hls_3633adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ivwQnPGaRjSxnwQTg-_UZg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128077_bengali_hls_3633adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128077_bengali_hls_3633adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ivwQnPGaRjSxnwQTg-_UZg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "BENGALI"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
