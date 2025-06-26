@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:10:06 PM 26-06-2025",
+    "last_updated": "06:15:06 PM 26-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -239,6 +239,49 @@
         },
         {
             "category": "Cricket",
+            "title": "Nellai Royal Kings Vs Dindigul Dragons",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126551,
+            "status": "NOT_STARTED",
+            "startTime": "26 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Nellai_v_Dindigul_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126551_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Nellai_v_Dindigul_Sporty_match_card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126551_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3642,
+                    "name": "Nellai Royal Kings",
+                    "shortName": "NRK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
+                    "color": "#cbc4aa"
+                },
+                {
+                    "id": 682,
+                    "name": "Dindigul Dragons",
+                    "shortName": "DD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "color": "#AA7B7C"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
             "tournament": "Bangladesh tour of Sri Lanka, 2025",
             "short_name": "SL vs BAN",
@@ -313,49 +356,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
                     "color": "#002695"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Nellai Royal Kings Vs Dindigul Dragons",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126551,
-            "status": "NOT_STARTED",
-            "startTime": "26 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Nellai_v_Dindigul_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126551_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Nellai_v_Dindigul_Sporty_match_card.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126551_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 3642,
-                    "name": "Nellai Royal Kings",
-                    "shortName": "NRK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NELR@2x.png",
-                    "color": "#cbc4aa"
-                },
-                {
-                    "id": 682,
-                    "name": "Dindigul Dragons",
-                    "shortName": "DD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
-                    "color": "#AA7B7C"
                 }
             ],
             "language": "BLOODY_SWEET",
