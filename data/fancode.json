@@ -1,61 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:10:08 AM 27-06-2025",
+    "last_updated": "04:15:05 AM 27-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Yssc Vs Thunder Cats",
-            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
-            "short_name": "KCC T20 Challengers B",
-            "match_id": 128661,
-            "status": "STARTED",
-            "startTime": "27 June 2025 01:15 AM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "04 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128661_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128661_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128661_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128661_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128661_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5326,
-                    "name": "YSSC",
-                    "shortName": "YSS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSSC@2x.png",
-                    "color": "#ffac43"
-                },
-                {
-                    "id": 9012,
-                    "name": "Thunder Cats",
-                    "shortName": "THN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "color": "#ea4848"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128661_english_hls_51240adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/rDzgfAQgR3Si9OLotZo1WQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128661_english_hls_51240adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128661_english_hls_51240adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rDzgfAQgR3Si9OLotZo1WQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
@@ -389,6 +343,49 @@
                     "shortName": "LOC",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Formula 1",
+            "title": "Practice 1",
+            "tournament": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+            "short_name": "Austrian GP",
+            "match_id": 118431,
+            "status": "NOT_STARTED",
+            "startTime": "27 June 2025 05:00 PM",
+            "startDate": "27 June 2025 05:30 AM",
+            "endDate": "29 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Practice-1.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118431_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Practice-1.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118431_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8200,
+                    "name": "Practice 1",
+                    "shortName": "P1",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
                     "color": "#141414"
                 }
             ],
