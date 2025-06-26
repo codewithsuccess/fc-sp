@@ -1,61 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:05:05 AM 27-06-2025",
+    "last_updated": "12:10:06 AM 27-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 10,
-    "upcoming_matches": 4,
+    "total_matches": 13,
+    "live_matches": 8,
+    "upcoming_matches": 5,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "West Indies Vs Australia",
-            "tournament": "Australia Tour of West Indies, 2025",
-            "short_name": "WI vs AUS",
-            "match_id": 127550,
-            "status": "STARTED",
-            "startTime": "25 June 2025 07:30 PM",
-            "startDate": "25 June 2025 05:30 AM",
-            "endDate": "29 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127550_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127550_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                },
-                {
-                    "id": 13,
-                    "name": "Australia",
-                    "shortName": "AUS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "color": "#002695"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/V5fTO8sbQNSeWhprSARPAQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/V5fTO8sbQNSeWhprSARPAQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Golf",
             "title": "Main Feed   Day 1",
@@ -242,6 +196,52 @@
         },
         {
             "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127550,
+            "status": "STARTED",
+            "startTime": "25 June 2025 07:30 PM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127550_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127550_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                },
+                {
+                    "id": 13,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "color": "#002695"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/V5fTO8sbQNSeWhprSARPAQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/127550_english_hls_86882adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/V5fTO8sbQNSeWhprSARPAQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
             "tournament": "Bangladesh tour of Sri Lanka, 2025",
             "short_name": "SL vs BAN",
@@ -418,7 +418,7 @@
             "tournament": "Sri Lanka Emerging tour of West Indies",
             "short_name": "WI-A vs SL-A",
             "match_id": 128401,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "26 June 2025 07:00 PM",
             "startDate": "07 June 2025 05:30 AM",
             "endDate": "26 June 2025 05:30 AM",
@@ -426,7 +426,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128401_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanks-Emerging-tour-of-West-Indies-old.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanks-Emerging-tour-of-West-Indies-old.png",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128401_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -447,61 +447,12 @@
                     "color": "#164fad"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128401_english_hls_15413adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/SIfQTSALQpaFP26kDs68HA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128401_english_hls_15413adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128401_english_hls_15413adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/SIfQTSALQpaFP26kDs68HA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Bamboo Blasters Vs Amazonian Warriors",
-            "tournament": "St. Lucia T10 Blast, 2025",
-            "short_name": "St. Lucia T10",
-            "match_id": 129249,
-            "status": "STARTED",
-            "startTime": "26 June 2025 09:30 PM",
-            "startDate": "24 June 2025 05:30 AM",
-            "endDate": "08 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129249_5345_BMB_AMW_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129249_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129249_5345_BMB_AMW_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129249_5345_BMB_AMW_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129249_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11632,
-                    "name": "Bamboo Blasters",
-                    "shortName": "BMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BMB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BMB@2x.png",
-                    "color": "#49a216"
-                },
-                {
-                    "id": 11631,
-                    "name": "Amazonian Warriors",
-                    "shortName": "AMW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
-                    "color": "#1093c2"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129249_english_hls_56381adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/WctZCIqWTQO0uDN9nxtirw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129249_english_hls_56381adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129249_english_hls_56381adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WctZCIqWTQO0uDN9nxtirw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
