@@ -1,15 +1,61 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:00:12 PM 27-06-2025",
+    "last_updated": "08:05:04 PM 27-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 16,
-    "upcoming_matches": 3,
+    "total_matches": 18,
+    "live_matches": 14,
+    "upcoming_matches": 4,
     "matches": [
+        {
+            "category": "Formula 1",
+            "title": "Practice 2",
+            "tournament": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+            "short_name": "Austrian GP",
+            "match_id": 118432,
+            "status": "STARTED",
+            "startTime": "27 June 2025 08:30 PM",
+            "startDate": "27 June 2025 05:30 AM",
+            "endDate": "29 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/PracticE-2.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118432_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/PracticE-2.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118432_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8201,
+                    "name": "Practice 2",
+                    "shortName": "P2",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
+                "language": "ENGLISH"
+            }
+        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
@@ -425,52 +471,6 @@
             }
         },
         {
-            "category": "Formula 1",
-            "title": "Practice 2",
-            "tournament": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
-            "short_name": "Austrian GP",
-            "match_id": 118432,
-            "status": "STARTED",
-            "startTime": "27 June 2025 08:30 PM",
-            "startDate": "27 June 2025 05:30 AM",
-            "endDate": "29 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/PracticE-2.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118432_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/PracticE-2.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118432_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8201,
-                    "name": "Practice 2",
-                    "shortName": "P2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "https://d19st7qtpol1v5.cloudfront.net/out/v1/68a7ee3551d94b79adaf4cee8002fc58/index.m3u8",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
             "tournament": "Bangladesh tour of Sri Lanka, 2025",
@@ -745,52 +745,6 @@
         },
         {
             "category": "Motorsports",
-            "title": "Formula 2",
-            "tournament": "F2 SPIELBERG 2025",
-            "short_name": "F2 Austria",
-            "match_id": 119050,
-            "status": "STARTED",
-            "startTime": "27 June 2025 07:25 PM",
-            "startDate": "27 June 2025 05:30 AM",
-            "endDate": "29 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119050_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119050_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8236,
-                    "name": "Qualifying Session",
-                    "shortName": "F2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "color": "#123456"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/119050_english_hls_82154adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/119050_english_hls_82154adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Motorsports",
             "title": "E1",
             "tournament": "E1 Lago Maggiore GP",
             "short_name": "E1 Lago Maggiore",
@@ -841,7 +795,7 @@
             "tournament": "Baroda Premier League, 2025",
             "short_name": "Baroda Premier League",
             "match_id": 128691,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "27 June 2025 02:45 PM",
             "startDate": "15 June 2025 05:30 AM",
             "endDate": "29 June 2025 05:30 AM",
@@ -849,7 +803,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/128691_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://images.fancode.com/aig/match/v1/128691_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128691_CASACARDS_APP.png",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128691_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -870,15 +824,12 @@
                     "color": "#bf1d2c"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128691_english_hls_77601adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/miqMDnaGSCCap2oInitKWA/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128691_english_hls_77601adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128691_english_hls_77601adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/miqMDnaGSCCap2oInitKWA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
