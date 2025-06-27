@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:12 AM 28-06-2025",
+    "last_updated": "03:35:05 AM 28-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 5,
-    "upcoming_matches": 5,
+    "total_matches": 9,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -58,95 +58,6 @@
         },
         {
             "category": "Golf",
-            "title": "Main Feed   Day 2",
-            "tournament": "Rocket Classic",
-            "short_name": "Rocket Classic",
-            "match_id": 129330,
-            "status": "STARTED",
-            "startTime": "27 June 2025 04:15 PM",
-            "startDate": "26 June 2025 05:30 AM",
-            "endDate": "30 June 2025 01:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129330_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129330_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11637,
-                    "name": "Main Feed - Day 2",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129330_english_hls_42459adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YjLyps31QaWMrCfReLB7pg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129330_english_hls_42459adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129330_english_hls_42459adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YjLyps31QaWMrCfReLB7pg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Holes   Day 2",
-            "tournament": "Rocket Classic",
-            "short_name": "Rocket Classic",
-            "match_id": 129361,
-            "status": "COMPLETED",
-            "startTime": "27 June 2025 04:30 PM",
-            "startDate": "26 June 2025 05:30 AM",
-            "endDate": "30 June 2025 01:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129361_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129361_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11637,
-                    "name": "Featured Holes - Day 2",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Golf",
             "title": "Featured Groups   Day 2",
             "tournament": "Rocket Classic",
             "short_name": "Rocket Classic",
@@ -187,52 +98,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129354_english_hls_19730adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129354_english_hls_19730adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Nn_6gbR7QfOjGYwwtJE9og/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "World Feed   Day 2",
-            "tournament": "Rocket Classic",
-            "short_name": "Rocket Classic",
-            "match_id": 129362,
-            "status": "STARTED",
-            "startTime": "28 June 2025 12:30 AM",
-            "startDate": "26 June 2025 05:30 AM",
-            "endDate": "30 June 2025 01:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129362_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--Sporty-match-card.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic--old-match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129362_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11637,
-                    "name": "World Feed - Day 2",
-                    "shortName": "RC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-RC@2x.png",
-                    "color": "#B8142D"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129362_english_hls_21353adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/0iXDnaPXTNOTU_lUhMJ3cA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129362_english_hls_21353adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129362_english_hls_21353adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0iXDnaPXTNOTU_lUhMJ3cA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -410,49 +275,132 @@
             }
         },
         {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "LIV Golf Dallas",
-            "short_name": "LIV Golf Dallas",
-            "match_id": 129374,
-            "status": "STARTED",
-            "startTime": "27 June 2025 09:45 PM",
-            "startDate": "27 June 2025 05:30 AM",
-            "endDate": "29 June 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Dallas-old.jpg",
+            "category": "Cricket",
+            "title": "England Women Vs India Women",
+            "tournament": "India Women tour of England, 2025",
+            "short_name": "ENG-W vs IND-W",
+            "match_id": 128740,
+            "status": "NOT_STARTED",
+            "startTime": "28 June 2025 07:00 PM",
+            "startDate": "28 June 2025 05:30 AM",
+            "endDate": "22 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_Sporty_Match_card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129374_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Dallas-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/LIV-Golf-Dallas-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129374_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128740_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_Sporty_Match_card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128740_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 8056,
-                    "name": "Day 1",
-                    "shortName": "LIV",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LM@2x.png",
-                    "color": "#6ECB51"
+                    "id": 646,
+                    "name": "England Women",
+                    "shortName": "EN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
+                    "color": "#3c9ae8"
                 },
                 {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
+                    "id": 710,
+                    "name": "India Women",
+                    "shortName": "IN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
+                    "color": "#0f60de"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129374_english_hls_46237adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/xzQmScMsQ32-uhb-ksS07A/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129374_english_hls_46237adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129374_english_hls_46237adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/xzQmScMsQ32-uhb-ksS07A/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Lyca Kovai Kings Vs Skm Salem Spartans",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126553,
+            "status": "NOT_STARTED",
+            "startTime": "28 June 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Salem_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126553_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Salem_Sporty_match_card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126553_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 681,
+                    "name": "Lyca Kovai Kings",
+                    "shortName": "LKK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
+                    "color": "#FFE6A8"
+                },
+                {
+                    "id": 3640,
+                    "name": "SKM Salem Spartans",
+                    "shortName": "SS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
+                    "color": "#FFF200"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "England U21 Vs Germany U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123343,
+            "status": "NOT_STARTED",
+            "startTime": "29 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 755,
+                    "name": "England U21",
+                    "shortName": "EN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "color": "#eb5764"
+                },
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
