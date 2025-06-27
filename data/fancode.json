@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:15 PM 27-06-2025",
+    "last_updated": "06:35:09 PM 27-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
+    "total_matches": 18,
     "live_matches": 14,
-    "upcoming_matches": 3,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Formula 1",
@@ -54,6 +54,144 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "https://d7mslouiqq3lr.cloudfront.net/out/v1/f1e9b677e69649298ec1f8aac5c33fda/index.m3u8",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Murshidabad Kings",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128079,
+            "status": "STARTED",
+            "startTime": "27 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128079_english_hls_13115adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/eOrMMaGdTo-LF9joGv7sXQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128079_english_hls_13115adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128079_english_hls_13115adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/eOrMMaGdTo-LF9joGv7sXQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Murshidabad Kings",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128079,
+            "status": "STARTED",
+            "startTime": "27 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://dai.fancode.com/primary/128079_hindi_hls_78820adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/CTUNKQYOSQesislCRPKD1w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128079_hindi_hls_78820adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128079_hindi_hls_78820adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CTUNKQYOSQesislCRPKD1w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Harbour Diamonds Vs Murshidabad Kings",
+            "tournament": "Bengal Pro T20 league, 2025",
+            "short_name": "Bengal Pro T20 league",
+            "match_id": 128079,
+            "status": "STARTED",
+            "startTime": "27 June 2025 07:00 PM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8706,
+                    "name": "Harbour Diamonds",
+                    "shortName": "HD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
+                    "color": "#077e80"
+                },
+                {
+                    "id": 8711,
+                    "name": "Murshidabad Kings",
+                    "shortName": "MK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
+                    "color": "#9c69cc"
+                }
+            ],
+            "language": "BENGALI",
+            "adfree_stream": "https://dai.fancode.com/primary/128079_bengali_hls_30767adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/vv1psFmhR0qfYkxZ9QCbjg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128079_bengali_hls_30767adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128079_bengali_hls_30767adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/vv1psFmhR0qfYkxZ9QCbjg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "BENGALI"
             }
         },
         {
@@ -288,49 +426,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Harbour Diamonds Vs Murshidabad Kings",
-            "tournament": "Bengal Pro T20 league, 2025",
-            "short_name": "Bengal Pro T20 league",
-            "match_id": 128079,
-            "status": "NOT_STARTED",
-            "startTime": "27 June 2025 07:00 PM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128079_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128079_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8706,
-                    "name": "Harbour Diamonds",
-                    "shortName": "HD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HD@2x.png",
-                    "color": "#077e80"
-                },
-                {
-                    "id": 8711,
-                    "name": "Murshidabad Kings",
-                    "shortName": "MK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MK@2x.png",
-                    "color": "#9c69cc"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Sri Lanka Vs Bangladesh",
             "tournament": "Bangladesh tour of Sri Lanka, 2025",
             "short_name": "SL vs BAN",
@@ -503,52 +598,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/128691_english_hls_77601adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/128691_english_hls_77601adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/miqMDnaGSCCap2oInitKWA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Btcc Dark Knights Vs Hadley's Empire Xi",
-            "tournament": "ECS Finland, 2025",
-            "short_name": "ECS Finland",
-            "match_id": 129399,
-            "status": "STARTED",
-            "startTime": "27 June 2025 04:45 PM",
-            "startDate": "23 June 2025 05:30 AM",
-            "endDate": "27 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129399_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Finland-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129399_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2170,
-                    "name": "BTCC Dark Knights",
-                    "shortName": "BTCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BTC-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BTC-CR1@2x.png",
-                    "color": "#EA861B"
-                },
-                {
-                    "id": 2171,
-                    "name": "Hadley's Empire XI",
-                    "shortName": "EMP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ECC-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ECC-CR1@2x.png",
-                    "color": "#133293"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129399_english_hls_29838adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/V5Cy3OTqSI68EzQqRkrRpQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129399_english_hls_29838adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129399_english_hls_29838adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/V5Cy3OTqSI68EzQqRkrRpQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
