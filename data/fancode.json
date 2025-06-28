@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:20:06 AM 29-06-2025",
+    "last_updated": "01:25:06 AM 29-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 11,
+    "total_matches": 20,
+    "live_matches": 12,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -810,6 +810,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129375_english_hls_13354adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129375_english_hls_13354adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/34fdPL6DSAuuDg3Yu8-_lQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Milwaukee Brewers Vs Colorado Rockies",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 128389,
+            "status": "STARTED",
+            "startTime": "29 June 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/128389_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128389_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/128389_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128389_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128389_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2344,
+                    "name": "Milwaukee Brewers",
+                    "shortName": "MB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MILWAU@2x.png",
+                    "color": "#1f3b65"
+                },
+                {
+                    "id": 2341,
+                    "name": "Colorado Rockies",
+                    "shortName": "COR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-COLO@2x.png",
+                    "color": "#53409a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128389_english_hls_37580adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128389_english_hls_37580adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128389_english_hls_37580adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
