@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:31:08 PM 28-06-2025",
+    "last_updated": "03:24:47 PM 28-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 6,
-    "upcoming_matches": 7,
+    "total_matches": 15,
+    "live_matches": 10,
+    "upcoming_matches": 5,
     "matches": [
         {
             "category": "Cricket",
@@ -52,6 +52,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/127558_english_hls_2867adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/127558_english_hls_2867adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/hzMvKGjBSzWXj8zc4IAPGw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Chepauk Super Gillies Vs Siechem Madurai Panthers",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126552,
+            "status": "STARTED",
+            "startTime": "28 June 2025 03:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Sporty_match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126552_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Sporty_match_card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126552_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 680,
+                    "name": "Chepauk Super Gillies",
+                    "shortName": "CSG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
+                    "color": "#FFE68C"
+                },
+                {
+                    "id": 685,
+                    "name": "Siechem Madurai Panthers",
+                    "shortName": "SMP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
+                    "color": "#D7A2A2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126552_english_hls_9309adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/V36UOZI4RkavOwFwd8BPSw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126552_english_hls_9309adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126552_english_hls_9309adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/V36UOZI4RkavOwFwd8BPSw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -103,46 +149,49 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Chepauk Super Gillies Vs Siechem Madurai Panthers",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126552,
-            "status": "NOT_STARTED",
-            "startTime": "28 June 2025 03:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Sporty_match_card.jpg",
+            "category": "Motorsports",
+            "title": "Porsche Mobil 1 Supercup",
+            "tournament": "Porsche Mobil 1 Super Cup",
+            "short_name": "Porsche Austria",
+            "match_id": 129332,
+            "status": "STARTED",
+            "startTime": "28 June 2025 02:50 PM",
+            "startDate": "16 May 2025 05:30 AM",
+            "endDate": "07 September 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126552_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Chepauk_vs_Madurai_Sporty_match_card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129332_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126552_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129332_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 680,
-                    "name": "Chepauk Super Gillies",
-                    "shortName": "CSG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGL@2x.png",
-                    "color": "#FFE68C"
+                    "id": 8594,
+                    "name": "Qualifying Session",
+                    "shortName": "POR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "color": "#06a355"
                 },
                 {
-                    "id": 685,
-                    "name": "Siechem Madurai Panthers",
-                    "shortName": "SMP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MADU@2x.png",
-                    "color": "#D7A2A2"
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129332_english_hls_84469adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129332_english_hls_84469adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129332_english_hls_84469adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -361,49 +410,6 @@
             }
         },
         {
-            "category": "Motorsports",
-            "title": "Porsche Mobil 1 Supercup",
-            "tournament": "Porsche Mobil 1 Super Cup",
-            "short_name": "Porsche Austria",
-            "match_id": 129332,
-            "status": "NOT_STARTED",
-            "startTime": "28 June 2025 02:50 PM",
-            "startDate": "16 May 2025 05:30 AM",
-            "endDate": "07 September 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129332_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup-Spielberg_Sporty-(1).jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129332_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8594,
-                    "name": "Qualifying Session",
-                    "shortName": "POR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#06a355"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Black Eagles Vs Cat",
             "tournament": "Sikkim T20 League, 2025",
@@ -497,75 +503,167 @@
         },
         {
             "category": "Cricket",
-            "title": "Pcs W Vs Oulu Cc W",
-            "tournament": "ECS-W Finland, 2025",
-            "short_name": "ECS-W Finland",
-            "match_id": 129643,
+            "title": "Hindukush Strikers Vs Mahipar Stars",
+            "tournament": "Afghanistan National T20, 2025",
+            "short_name": "Afghanistan National T20",
+            "match_id": 129335,
             "status": "STARTED",
-            "startTime": "28 June 2025 01:45 PM",
+            "startTime": "28 June 2025 03:00 PM",
             "startDate": "28 June 2025 05:30 AM",
-            "endDate": "29 June 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
+            "endDate": "07 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129335_5349_HS_MPS_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129643_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Finland_2025_Old_match-card_2025_Old_match-card_2_1750820537686.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129643_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129335_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129335_5349_HS_MPS_fc-web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129335_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 11653,
-                    "name": "PCS-W",
-                    "shortName": "PCS-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PCS-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PCS-CR1@2x.png",
-                    "color": "#1370E2"
+                    "id": 4711,
+                    "name": "Hindukush Strikers",
+                    "shortName": "HS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HSR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HSR@2x.png",
+                    "color": "#30273d"
                 },
                 {
-                    "id": 11655,
-                    "name": "Oulu CC-W",
-                    "shortName": "OCC-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OCC-CR4@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/OCC-CR4@2x.png",
-                    "color": "#6ECB51"
+                    "id": 11639,
+                    "name": "Mahipar Stars",
+                    "shortName": "MPS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MP@2x.png",
+                    "color": "#16498b"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129643_english_hls_54586adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/G_CETHhSQceuV-4YxiXTUQ/master.m3u8",
+            "adfree_stream": "https://dai.fancode.com/primary/129335_english_hls_5478adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/H-ncEXW_Tf2aPC2ZaMPWTg/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129643_english_hls_54586adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129643_english_hls_54586adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/G_CETHhSQceuV-4YxiXTUQ/master.m3u8",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129335_english_hls_5478adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129335_english_hls_5478adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/H-ncEXW_Tf2aPC2ZaMPWTg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Shimizu S Pulse Vs Kashiwa Reysol",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 126262,
+            "status": "STARTED",
+            "startTime": "28 June 2025 03:00 PM",
+            "startDate": "08 February 2025 05:30 AM",
+            "endDate": "06 December 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126262_4795_PUL_REY_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126262_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126262_4795_PUL_REY_fc-web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126262_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1774,
+                    "name": "Shimizu S-Pulse",
+                    "shortName": "PUL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
+                    "color": "#446ccb"
+                },
+                {
+                    "id": 1768,
+                    "name": "Kashiwa Reysol",
+                    "shortName": "REY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-KRE@2x.png",
+                    "color": "#1c3bac"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126262_english_hls_37400adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126262_english_hls_37400adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126262_english_hls_37400adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Sanfrecce Hiroshima Vs Nagoya Grampus",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 126263,
+            "status": "STARTED",
+            "startTime": "28 June 2025 03:30 PM",
+            "startDate": "08 February 2025 05:30 AM",
+            "endDate": "06 December 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126263_4795_HIR_NGY_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126263_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126263_4795_HIR_NGY_fc-web.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126263_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1773,
+                    "name": "Sanfrecce Hiroshima",
+                    "shortName": "HIR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png",
+                    "color": "#544194"
+                },
+                {
+                    "id": 1770,
+                    "name": "Nagoya Grampus",
+                    "shortName": "NGY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NGR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NGR@2x.png",
+                    "color": "#876641"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/126263_english_hls_55847adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/126263_english_hls_55847adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/126263_english_hls_55847adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
         },
         {
             "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 SPIELBERG 2025",
-            "short_name": "F3 Austria",
-            "match_id": 119094,
+            "title": "E1",
+            "tournament": "E1 Lago Maggiore GP",
+            "short_name": "E1 Lago Maggiore",
+            "match_id": 129415,
             "status": "STARTED",
-            "startTime": "28 June 2025 01:35 PM",
+            "startTime": "28 June 2025 03:25 PM",
             "startDate": "27 June 2025 05:30 AM",
-            "endDate": "29 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119094_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119094_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129415_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129415_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 8242,
-                    "name": "Sprint Race",
-                    "shortName": "F3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "color": "#ff5800"
+                    "id": 9603,
+                    "name": "Session 3 - Group Races",
+                    "shortName": "E1",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                    "color": "#EE0000"
                 },
                 {
                     "id": 8235,
@@ -577,12 +675,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/119094_english_hls_78565adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "adfree_stream": "https://dai.fancode.com/primary/129415_english_hls_59059adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/f1FDx05VS0akhowb6AFVQg/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/119094_english_hls_78565adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/119094_english_hls_78565adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129415_english_hls_59059adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129415_english_hls_59059adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/f1FDx05VS0akhowb6AFVQg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
