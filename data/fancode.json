@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:40:07 PM 28-06-2025",
+    "last_updated": "06:45:07 PM 28-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 18,
+    "total_matches": 17,
     "live_matches": 14,
-    "upcoming_matches": 4,
+    "upcoming_matches": 3,
     "matches": [
         {
             "category": "Cricket",
@@ -517,46 +517,49 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "England Women Vs India Women",
-            "tournament": "India Women tour of England, 2025",
-            "short_name": "ENG-W vs IND-W",
-            "match_id": 128740,
-            "status": "NOT_STARTED",
-            "startTime": "28 June 2025 07:00 PM",
-            "startDate": "28 June 2025 05:30 AM",
-            "endDate": "22 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_Sporty_Match_card.jpg",
+            "category": "Formula 1",
+            "title": "Qualifying",
+            "tournament": "F1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+            "short_name": "Austrian GP",
+            "match_id": 118434,
+            "status": "STARTED",
+            "startTime": "28 June 2025 07:30 PM",
+            "startDate": "27 June 2025 05:30 AM",
+            "endDate": "29 June 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Qualifying.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128740_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/IND-Vs-ENG_T-20-Series_2025_Sporty_Match_card.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128740_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118434_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Qualifying.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FORMULA-1-MSC-CRUISES-AUSTRIAN-GRAND-PRIX-2025-Old-Match-card.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118434_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 646,
-                    "name": "England Women",
-                    "shortName": "EN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ENG@2x.png",
-                    "color": "#3c9ae8"
+                    "id": 8203,
+                    "name": "Qualifying",
+                    "shortName": "QF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
                 },
                 {
-                    "id": 710,
-                    "name": "India Women",
-                    "shortName": "IN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IND@2x.png",
-                    "color": "#0f60de"
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://d1l1cywglscget.cloudfront.net/out/v1/4f3ce10c57da46ea96d4112e3bf9a571/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://d1l1cywglscget.cloudfront.net/out/v1/4f3ce10c57da46ea96d4112e3bf9a571/index.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "https://d1l1cywglscget.cloudfront.net/out/v1/4f3ce10c57da46ea96d4112e3bf9a571/index.m3u8",
+                "language": "ENGLISH"
             }
         },
         {
@@ -739,52 +742,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/119051_english_hls_83587adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/119051_english_hls_83587adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Motorsports",
-            "title": "E1",
-            "tournament": "E1 Lago Maggiore GP",
-            "short_name": "E1 Lago Maggiore",
-            "match_id": 129416,
-            "status": "STARTED",
-            "startTime": "28 June 2025 06:15 PM",
-            "startDate": "27 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129416_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/_E1--Maggiore-GP-old-match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129416_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9603,
-                    "name": "Session 4 - Race Off",
-                    "shortName": "E1",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129416_english_hls_89177adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/SUMEAA7eQV6TpVT90lBP9Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129416_english_hls_89177adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129416_english_hls_89177adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/SUMEAA7eQV6TpVT90lBP9Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
