@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:15:08 AM 29-06-2025",
+    "last_updated": "12:20:07 AM 29-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,6 +10,52 @@
     "live_matches": 14,
     "upcoming_matches": 9,
     "matches": [
+        {
+            "category": "Football",
+            "title": "England U21 Vs Germany U21",
+            "tournament": "UEFA European Under-21 Championship",
+            "short_name": "U21 Euros",
+            "match_id": 123343,
+            "status": "STARTED",
+            "startTime": "29 June 2025 12:30 AM",
+            "startDate": "11 June 2025 05:30 AM",
+            "endDate": "28 June 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 755,
+                    "name": "England U21",
+                    "shortName": "EN-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
+                    "color": "#eb5764"
+                },
+                {
+                    "id": 751,
+                    "name": "Germany U21",
+                    "shortName": "GER-U21",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
+                    "color": "#ea6363"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2m5TSGSuSd2dQ_iZxbZV4w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2m5TSGSuSd2dQ_iZxbZV4w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Lyca Kovai Kings Vs Skm Salem Spartans",
@@ -238,52 +284,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/A15-5CJZRLStSVPIyinfQA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "BENGALI"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "England U21 Vs Germany U21",
-            "tournament": "UEFA European Under-21 Championship",
-            "short_name": "U21 Euros",
-            "match_id": 123343,
-            "status": "STARTED",
-            "startTime": "29 June 2025 12:30 AM",
-            "startDate": "11 June 2025 05:30 AM",
-            "endDate": "28 June 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_Sporty.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Eng-vs-Ger_old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123343_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 755,
-                    "name": "England U21",
-                    "shortName": "EN-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ENG-FT1@2x.png",
-                    "color": "#eb5764"
-                },
-                {
-                    "id": 751,
-                    "name": "Germany U21",
-                    "shortName": "GER-U21",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/GER-FT1@2x.png",
-                    "color": "#ea6363"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2m5TSGSuSd2dQ_iZxbZV4w/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/123343_english_hls_89488adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2m5TSGSuSd2dQ_iZxbZV4w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
