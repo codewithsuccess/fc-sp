@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:40:07 AM 29-06-2025",
+    "last_updated": "01:45:06 AM 29-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 10,
-    "upcoming_matches": 9,
+    "total_matches": 17,
+    "live_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Football",
@@ -401,52 +401,6 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Thunder Cats   B Vs Phoenix Cricketers",
-            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
-            "short_name": "KCC T20 Challengers B",
-            "match_id": 128664,
-            "status": "STARTED",
-            "startTime": "28 June 2025 11:00 PM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "04 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128664_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128664_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128664_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128664_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128664_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9715,
-                    "name": "Thunder Cats - B",
-                    "shortName": "THU-B",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-THN@2x.png",
-                    "color": "#ea4848"
-                },
-                {
-                    "id": 7398,
-                    "name": "Phoenix Cricketers",
-                    "shortName": "PCT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png",
-                    "color": "#920b05"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128664_english_hls_8104adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/t90Oa2J2RPSn1zIH-3dkkQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128664_english_hls_8104adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128664_english_hls_8104adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/t90Oa2J2RPSn1zIH-3dkkQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Golf",
             "title": "Main Feed   Day 3",
             "tournament": "Rocket Classic",
@@ -674,49 +628,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/mZFVigHtRVult_gjikJq2A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "New York Yankees Vs Oakland Athletics",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128388,
-            "status": "COMPLETED",
-            "startTime": "28 June 2025 10:35 PM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128388_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128388_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128388_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128388_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2331,
-                    "name": "New York Yankees",
-                    "shortName": "NEY",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
-                    "color": "#ced4e5"
-                },
-                {
-                    "id": 2332,
-                    "name": "Oakland Athletics",
-                    "shortName": "OA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png",
-                    "color": "#f8c33f"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
