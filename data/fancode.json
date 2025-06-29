@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:15 AM 30-06-2025",
+    "last_updated": "12:35:06 AM 30-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 10,
+    "total_matches": 16,
+    "live_matches": 9,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -135,49 +135,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "color": "#2d9251"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Lyca Kovai Kings Vs Skm Salem Spartans",
-            "tournament": "Shriram Capital TNPL",
-            "short_name": "TNPL",
-            "match_id": 126553,
-            "status": "COMPLETED",
-            "startTime": "28 June 2025 07:15 PM",
-            "startDate": "05 June 2025 05:30 AM",
-            "endDate": "06 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Salem_Sporty_match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126553_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/TNPL_Kovai_v_Salem_Sporty_match_card.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126553_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 681,
-                    "name": "Lyca Kovai Kings",
-                    "shortName": "LKK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKK@2x.png",
-                    "color": "#FFE6A8"
-                },
-                {
-                    "id": 3640,
-                    "name": "SKM Salem Spartans",
-                    "shortName": "SS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SSSP@2x.png",
-                    "color": "#FFF200"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -404,6 +361,49 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Dindigul Dragons Vs Trichy Grand Cholas",
+            "tournament": "Shriram Capital TNPL",
+            "short_name": "TNPL",
+            "match_id": 126557,
+            "status": "NOT_STARTED",
+            "startTime": "02 July 2025 07:15 PM",
+            "startDate": "05 June 2025 05:30 AM",
+            "endDate": "06 July 2025 05:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126557_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126557_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 682,
+                    "name": "Dindigul Dragons",
+                    "shortName": "DD",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DD@2x.png",
+                    "color": "#AA7B7C"
+                },
+                {
+                    "id": 683,
+                    "name": "Trichy Grand Cholas",
+                    "shortName": "TGC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
+                    "color": "#C2920B"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
             "category": "Golf",
             "title": "Main Feed   Day 4",
             "tournament": "Rocket Classic",
@@ -583,52 +583,6 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129368_english_hls_71155adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129368_english_hls_71155adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/B9jpnTMhQYKRsjibq9hy0w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "Cleveland Guardians Vs St. Louis Cardinals",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 128391,
-            "status": "STARTED",
-            "startTime": "29 June 2025 09:35 PM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128391_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128391_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128391_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128391_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128391_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2325,
-                    "name": "Cleveland Guardians",
-                    "shortName": "CLE",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CLEVE@2x.png",
-                    "color": "#0c2346"
-                },
-                {
-                    "id": 2350,
-                    "name": "St. Louis Cardinals",
-                    "shortName": "SLC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-STLOU@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-STLOU@2x.png",
-                    "color": "#00305e"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128391_english_hls_45088adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128391_english_hls_45088adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128391_english_hls_45088adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
