@@ -1,107 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:15:08 AM 01-07-2025",
+    "last_updated": "02:20:10 AM 01-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Yssc Vs Lexus",
-            "tournament": "KCC T20 Challengers B League Edition 3, 2025",
-            "short_name": "KCC T20 Challengers B",
-            "match_id": 128666,
-            "status": "STARTED",
-            "startTime": "30 June 2025 11:00 PM",
-            "startDate": "13 June 2025 05:30 AM",
-            "endDate": "04 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_SPORTY_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_SPORTY_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/128666_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128666_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5326,
-                    "name": "YSSC",
-                    "shortName": "YSS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSSC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YSSC@2x.png",
-                    "color": "#ffac43"
-                },
-                {
-                    "id": 7396,
-                    "name": "Lexus",
-                    "shortName": "LEX",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LEX@2x.png",
-                    "color": "#2f86b7"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/128666_english_hls_78583adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yDxo0VLfR7ucidJ3ECizHw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/128666_english_hls_78583adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/128666_english_hls_78583adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yDxo0VLfR7ucidJ3ECizHw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Bamboo Blasters Vs Whiptail Smashers",
-            "tournament": "St. Lucia T10 Blast, 2025",
-            "short_name": "St. Lucia T10",
-            "match_id": 129258,
-            "status": "STARTED",
-            "startTime": "01 July 2025 12:00 AM",
-            "startDate": "24 June 2025 05:30 AM",
-            "endDate": "08 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129258_5345_BMB_WTS_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129258_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129258_5345_BMB_WTS_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129258_5345_BMB_WTS_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129258_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11632,
-                    "name": "Bamboo Blasters",
-                    "shortName": "BMB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BMB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BMB@2x.png",
-                    "color": "#49a216"
-                },
-                {
-                    "id": 11636,
-                    "name": "Whiptail Smashers",
-                    "shortName": "WTS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
-                    "color": "#065fa5"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129258_english_hls_9776adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/hZjF5XHtSFmhYFZdbep3Pg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129258_english_hls_9776adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129258_english_hls_9776adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/hZjF5XHtSFmhYFZdbep3Pg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Zimbabwe Vs South Africa",
@@ -393,6 +301,92 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
                     "color": "#ea392a"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127551,
+            "status": "NOT_STARTED",
+            "startTime": "03 July 2025 07:30 PM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                },
+                {
+                    "id": 13,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "color": "#002695"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Belgium Women Vs Italy Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123347,
+            "status": "NOT_STARTED",
+            "startTime": "03 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123347_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123347_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 4992,
+                    "name": "Belgium Women",
+                    "shortName": "BEL-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
+                    "color": "#b3a91d"
+                },
+                {
+                    "id": 1257,
+                    "name": "Italy Women",
+                    "shortName": "ITA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ITA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ITA@2x.png",
+                    "color": "#a42322"
                 }
             ],
             "language": "BLOODY_SWEET",
