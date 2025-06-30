@@ -1,22 +1,68 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:35:07 PM 30-06-2025",
+    "last_updated": "08:40:11 PM 30-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 9,
+    "live_matches": 1,
     "upcoming_matches": 8,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "Mus Akademik Ravens Vs Bcc Spartan",
+            "tournament": "ECS Bulgaria, 2025",
+            "short_name": "ECS Bulgaria",
+            "match_id": 129510,
+            "status": "STARTED",
+            "startTime": "30 June 2025 07:15 PM",
+            "startDate": "30 June 2025 05:30 AM",
+            "endDate": "07 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129510_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129510_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2559,
+                    "name": "MUS Akademik Ravens",
+                    "shortName": "MAR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "color": "#EC7D26"
+                },
+                {
+                    "id": 6600,
+                    "name": "BCC Spartan",
+                    "shortName": "SSP",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOSP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOSP@2x.png",
+                    "color": "#4F171A"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/tLrV403YQZqRI-1OWokK2w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/tLrV403YQZqRI-1OWokK2w/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
         {
             "category": "Cricket",
             "title": "Zimbabwe Vs South Africa",
             "tournament": "South Africa tour of Zimbabwe, 2025",
             "short_name": "ZIM vs SA",
             "match_id": 127558,
-            "status": "STARTED",
+            "status": "PAUSED",
             "startTime": "28 June 2025 01:30 PM",
             "startDate": "28 June 2025 05:30 AM",
             "endDate": "10 July 2025 05:30 AM",
@@ -24,7 +70,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/127558_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised-.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised-.png",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127558_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -45,15 +91,12 @@
                     "color": "#2d9251"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/127558_english_hls_18815adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/lHWDxc-EQTS-rZuspBMfGQ/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/127558_english_hls_18815adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/127558_english_hls_18815adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/lHWDxc-EQTS-rZuspBMfGQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -355,95 +398,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies Vs Australia",
-            "tournament": "Australia Tour of West Indies, 2025",
-            "short_name": "WI vs AUS",
-            "match_id": 127551,
-            "status": "NOT_STARTED",
-            "startTime": "03 July 2025 07:30 PM",
-            "startDate": "25 June 2025 05:30 AM",
-            "endDate": "29 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                },
-                {
-                    "id": 13,
-                    "name": "Australia",
-                    "shortName": "AUS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "color": "#002695"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Mus Akademik Ravens Vs Bcc Spartan",
-            "tournament": "ECS Bulgaria, 2025",
-            "short_name": "ECS Bulgaria",
-            "match_id": 129510,
-            "status": "STARTED",
-            "startTime": "30 June 2025 07:15 PM",
-            "startDate": "30 June 2025 05:30 AM",
-            "endDate": "07 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129510_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129510_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2559,
-                    "name": "MUS Akademik Ravens",
-                    "shortName": "MAR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "color": "#EC7D26"
-                },
-                {
-                    "id": 6600,
-                    "name": "BCC Spartan",
-                    "shortName": "SSP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOSP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOSP@2x.png",
-                    "color": "#4F171A"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/tLrV403YQZqRI-1OWokK2w/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129510_english_hls_89887adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/tLrV403YQZqRI-1OWokK2w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         }
     ]
