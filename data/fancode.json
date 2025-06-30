@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:10:08 PM 30-06-2025",
+    "last_updated": "12:15:09 PM 30-06-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 2,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -52,6 +52,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129506_english_hls_2394adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129506_english_hls_2394adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/5NRJr643Qaew9wZVPvQp8Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Alpine S.c Vs Irises C.c",
+            "tournament": "Sikkim T20 League, 2025",
+            "short_name": "Sikkim T20 League",
+            "match_id": 128738,
+            "status": "STARTED",
+            "startTime": "30 June 2025 12:30 PM",
+            "startDate": "15 June 2025 05:30 AM",
+            "endDate": "01 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128738_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/128733_5312_ICC_ASC_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128738_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8094,
+                    "name": "Alpine S.C",
+                    "shortName": "ASC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AC@2x.png",
+                    "color": "#60b610"
+                },
+                {
+                    "id": 8096,
+                    "name": "Irises C.C",
+                    "shortName": "ICC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ICC@2x.png",
+                    "color": "#a052f2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/128738_english_hls_612adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/xxzQFiCkQBqVgKSq45stlg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/128738_english_hls_612adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/128738_english_hls_612adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/xxzQFiCkQBqVgKSq45stlg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -347,49 +393,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRG@2x.png",
                     "color": "#C2920B"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Iceland Women Vs Finland Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123345,
-            "status": "NOT_STARTED",
-            "startTime": "02 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123345_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123345_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 4995,
-                    "name": "Iceland Women",
-                    "shortName": "ICE-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ICE-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ICE-FT1@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 4982,
-                    "name": "Finland Women",
-                    "shortName": "FIN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "color": "#141414"
                 }
             ],
             "language": "BLOODY_SWEET",
