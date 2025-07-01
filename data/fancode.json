@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:55:09 PM 01-07-2025",
+    "last_updated": "08:00:11 PM 01-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 3,
+    "total_matches": 13,
+    "live_matches": 4,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -488,6 +488,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129515_english_hls_5719adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129515_english_hls_5719adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/r-zyWCaoQyibn8UkPIjN-g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Knights Vs Leinster Lightning",
+            "tournament": "Ireland Inter-Provincial T20 Trophy, 2025",
+            "short_name": "Inter-Provincial T20 Trophy",
+            "match_id": 125127,
+            "status": "STARTED",
+            "startTime": "01 July 2025 08:15 PM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "10 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125127_5173_NK_LLG_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125127_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125127_5173_NK_LLG_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125127_5173_NK_LLG_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125127_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2493,
+                    "name": "Northern Knights",
+                    "shortName": "NK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
+                    "color": "#cd51a4"
+                },
+                {
+                    "id": 2495,
+                    "name": "Leinster Lightning",
+                    "shortName": "LLG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LLG@2x.png",
+                    "color": "#30a0ff"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125127_english_hls_89399adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/drfL7yWXT6Otkvp_w-4Bhw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/125127_english_hls_89399adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/125127_english_hls_89399adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/drfL7yWXT6Otkvp_w-4Bhw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
