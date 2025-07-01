@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:15:07 PM 01-07-2025",
+    "last_updated": "10:20:09 PM 01-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 2,
+    "total_matches": 12,
+    "live_matches": 3,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -488,6 +488,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/125127_english_hls_89399adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/125127_english_hls_89399adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/drfL7yWXT6Otkvp_w-4Bhw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Calabash Giants Vs Amazonian Warriors",
+            "tournament": "St. Lucia T10 Blast, 2025",
+            "short_name": "St. Lucia T10",
+            "match_id": 129259,
+            "status": "STARTED",
+            "startTime": "01 July 2025 10:30 PM",
+            "startDate": "24 June 2025 05:30 AM",
+            "endDate": "08 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129259_5345_CBG_AMW_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129259_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129259_5345_CBG_AMW_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129259_5345_CBG_AMW_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129259_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11633,
+                    "name": "Calabash Giants",
+                    "shortName": "CBG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBG@2x.png",
+                    "color": "#003878"
+                },
+                {
+                    "id": 11631,
+                    "name": "Amazonian Warriors",
+                    "shortName": "AMW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMW@2x.png",
+                    "color": "#1093c2"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129259_english_hls_55519adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/82uv6Xv5T7eyKu9H14g78Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129259_english_hls_55519adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129259_english_hls_55519adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/82uv6Xv5T7eyKu9H14g78Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
