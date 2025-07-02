@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:15:06 AM 02-07-2025",
+    "last_updated": "11:20:10 AM 02-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 2,
+    "total_matches": 12,
+    "live_matches": 3,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -485,6 +485,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129516_english_hls_1554adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129516_english_hls_1554adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/0M5xjqkvQkaLRLmL53Xw_A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Thane Vs Ahmednagar",
+            "tournament": "Maharashtra Inter-District Youth Championship 2025",
+            "short_name": "MIYC 2025",
+            "match_id": 129742,
+            "status": "STARTED",
+            "startTime": "02 July 2025 11:30 AM",
+            "startDate": "01 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/129742_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129742_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/129742_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/129742_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129742_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11672,
+                    "name": "Thane",
+                    "shortName": "TAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-TAN@2x.png",
+                    "color": "#777474"
+                },
+                {
+                    "id": 11666,
+                    "name": "Ahmednagar",
+                    "shortName": "AMN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AMN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AMN@2x.png",
+                    "color": "#c6281a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/129742_english_hls_27982adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/6EQC8XYpQ7GhIPAOrp2pTg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/129742_english_hls_27982adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/129742_english_hls_27982adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/6EQC8XYpQ7GhIPAOrp2pTg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
