@@ -1,68 +1,22 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:00:12 AM 04-07-2025",
+    "last_updated": "05:05:06 AM 04-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 5,
-    "upcoming_matches": 7,
+    "total_matches": 10,
+    "live_matches": 1,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Golf",
-            "title": "Main Feed   Day 1",
-            "tournament": "John Deere Classic",
-            "short_name": "John Deere Classic",
-            "match_id": 130225,
-            "status": "STARTED",
-            "startTime": "03 July 2025 05:15 PM",
-            "startDate": "03 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_Sporty_Match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130225_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_Sporty_Match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130225_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11692,
-                    "name": "Main Feed - Day 1",
-                    "shortName": "JDC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/130225_english_hls_981adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/kMx1tf4uQxm6gIrJjypj5Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/130225_english_hls_981adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/130225_english_hls_981adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/kMx1tf4uQxm6gIrJjypj5Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Golf",
             "title": "Featured Group   Day 1",
             "tournament": "John Deere Classic",
             "short_name": "John Deere Classic",
             "match_id": 130224,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "03 July 2025 05:45 PM",
             "startDate": "03 July 2025 05:30 AM",
             "endDate": "06 July 2025 11:30 PM",
@@ -70,7 +24,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/130224_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_Sporty_Match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130224_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -91,15 +45,55 @@
                     "color": "#141414"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/130224_english_hls_49765adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AfMuNi6VSTGZ7EMVKN6AJg/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/130224_english_hls_49765adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/130224_english_hls_49765adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/AfMuNi6VSTGZ7EMVKN6AJg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Marquee Group   Day 1",
+            "tournament": "John Deere Classic",
+            "short_name": "John Deere Classic",
+            "match_id": 130223,
+            "status": "COMPLETED",
+            "startTime": "03 July 2025 06:00 PM",
+            "startDate": "03 July 2025 05:30 AM",
+            "endDate": "06 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130223_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_Sporty_Match_card.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130223_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11692,
+                    "name": "Marquee Group - Day 1",
+                    "shortName": "JDC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                    "color": "#FF0000"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -401,98 +395,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Featured Holes   Day 1",
-            "tournament": "John Deere Classic",
-            "short_name": "John Deere Classic",
-            "match_id": 130222,
-            "status": "STARTED",
-            "startTime": "03 July 2025 05:45 PM",
-            "startDate": "03 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130222_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130222_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11692,
-                    "name": "Featured Holes - Day 1",
-                    "shortName": "JDC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/130222_english_hls_15412adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/2GZzoM6jSzOZwnO7nu1-BQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/130222_english_hls_15412adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/130222_english_hls_15412adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2GZzoM6jSzOZwnO7nu1-BQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Marquee Group   Day 1",
-            "tournament": "John Deere Classic",
-            "short_name": "John Deere Classic",
-            "match_id": 130223,
-            "status": "STARTED",
-            "startTime": "03 July 2025 06:00 PM",
-            "startDate": "03 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130223_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_2025_match-card_1751540737472.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130223_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11692,
-                    "name": "Marquee Group - Day 1",
-                    "shortName": "JDC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#FF0000"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/130223_english_hls_72996adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yXqwTsC7SDSHXsaGcH8BHw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/130223_english_hls_72996adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/130223_english_hls_72996adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yXqwTsC7SDSHXsaGcH8BHw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
