@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:55:09 PM 03-07-2025",
+    "last_updated": "08:00:16 PM 03-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 7,
+    "total_matches": 16,
+    "live_matches": 8,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -442,6 +442,52 @@
                 "Primary_Playback_URL": "https://dai.fancode.com/primary/129525_english_hls_53999adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://dai.fancode.com/primary/129525_english_hls_53999adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/r2n5us6AQfWdmKx-eCoZJA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "North West Warriors Vs Northern Knights",
+            "tournament": "Ireland Inter-Provincial T20 Trophy, 2025",
+            "short_name": "Inter-Provincial T20 Trophy",
+            "match_id": 125131,
+            "status": "STARTED",
+            "startTime": "03 July 2025 08:15 PM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "10 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125131_5173_NWW_NK_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125131_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125131_5173_NWW_NK_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125131_5173_NWW_NK_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125131_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2494,
+                    "name": "North West Warriors",
+                    "shortName": "NWW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NWW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NWW@2x.png",
+                    "color": "#57af28"
+                },
+                {
+                    "id": 2493,
+                    "name": "Northern Knights",
+                    "shortName": "NK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KNIG@2x.png",
+                    "color": "#cd51a4"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.fancode.com/primary/125131_english_hls_76204adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/zKJN1IttT7OL5S49ujxG3w/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.fancode.com/primary/125131_english_hls_76204adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://dai.fancode.com/primary/125131_english_hls_76204adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/zKJN1IttT7OL5S49ujxG3w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
