@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:15:08 PM 03-07-2025",
+    "last_updated": "03:20:09 PM 03-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 11,
-    "live_matches": 4,
-    "upcoming_matches": 7,
+    "live_matches": 3,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -455,7 +455,7 @@
             "tournament": "ECS Bulgaria, 2025",
             "short_name": "ECS Bulgaria",
             "match_id": 129522,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "03 July 2025 01:15 PM",
             "startDate": "30 June 2025 05:30 AM",
             "endDate": "07 July 2025 05:30 AM",
@@ -463,7 +463,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/129522_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129522_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -484,15 +484,12 @@
                     "color": "#4F171A"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129522_english_hls_24164adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/wKnehMk5SruSuSrF93kB1w/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129522_english_hls_24164adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129522_english_hls_24164adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/wKnehMk5SruSuSrF93kB1w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
