@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:10:10 PM 04-07-2025",
+    "last_updated": "07:15:06 PM 04-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 19,
-    "live_matches": 12,
+    "total_matches": 17,
+    "live_matches": 10,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -52,52 +52,6 @@
                 "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Durham Women Vs Somerset Women",
-            "tournament": "Women's Vitality Blast T20, 2025",
-            "short_name": "Women's Vitality Blast T20",
-            "match_id": 125859,
-            "status": "STARTED",
-            "startTime": "04 July 2025 07:00 PM",
-            "startDate": "30 May 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125859_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125859_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9765,
-                    "name": "Durham Women",
-                    "shortName": "DHW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 9763,
-                    "name": "Somerset Women",
-                    "shortName": "SSW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
-                    "color": "#a93653"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/BtKHFKxlTqiJxIxYoBIVbQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/BtKHFKxlTqiJxIxYoBIVbQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -192,6 +146,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Bv_frN2tSiOePhyu_PheNg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "TAMIL"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Durham Women Vs Somerset Women",
+            "tournament": "Women's Vitality Blast T20, 2025",
+            "short_name": "Women's Vitality Blast T20",
+            "match_id": 125859,
+            "status": "STARTED",
+            "startTime": "04 July 2025 07:00 PM",
+            "startDate": "30 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125859_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125859_5206_DHW_SSW_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125859_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9765,
+                    "name": "Durham Women",
+                    "shortName": "DHW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
+                },
+                {
+                    "id": 9763,
+                    "name": "Somerset Women",
+                    "shortName": "SSW",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOM@2x.png",
+                    "color": "#a93653"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/BtKHFKxlTqiJxIxYoBIVbQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125859_english_hls_40569ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/BtKHFKxlTqiJxIxYoBIVbQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -730,52 +730,6 @@
         },
         {
             "category": "Motorsports",
-            "title": "Formula 3",
-            "tournament": "F3 GREAT BRITAIN 2025",
-            "short_name": "F3 Silverstone",
-            "match_id": 119097,
-            "status": "STARTED",
-            "startTime": "04 July 2025 06:30 PM",
-            "startDate": "04 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119097_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/F3_Old_match-card_2.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119097_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8242,
-                    "name": "Qualifying",
-                    "shortName": "F3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
-                    "color": "#ff5800"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/119097_english_hls_79195adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/119097_english_hls_79195adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/119097_english_hls_79195adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Motorsports",
             "title": "Dtm",
             "tournament": "DTM Norisring",
             "short_name": "DTM Norisring",
@@ -816,52 +770,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130201_english_hls_27017ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130201_english_hls_27017ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/bdZ07lQhTA6DtESsadWehw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Hindukush Strikers Vs Maiwand Champions",
-            "tournament": "Afghanistan National T20, 2025",
-            "short_name": "Afghanistan National T20",
-            "match_id": 129343,
-            "status": "STARTED",
-            "startTime": "04 July 2025 03:30 PM",
-            "startDate": "28 June 2025 05:30 AM",
-            "endDate": "07 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129343_5349_HS_MDS_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129343_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129343_5349_HS_MDS_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129343_5349_HS_MDS_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129343_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 4711,
-                    "name": "Hindukush Strikers",
-                    "shortName": "HS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HSR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HSR@2x.png",
-                    "color": "#30273d"
-                },
-                {
-                    "id": 11638,
-                    "name": "Maiwand Champions",
-                    "shortName": "MDS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDS@2x.png",
-                    "color": "#b22044"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.fancode.com/primary/129343_english_hls_91320adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/0ljBfs1sS-2qTZn3lCpcZg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.fancode.com/primary/129343_english_hls_91320adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://dai.fancode.com/primary/129343_english_hls_91320adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0ljBfs1sS-2qTZn3lCpcZg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
