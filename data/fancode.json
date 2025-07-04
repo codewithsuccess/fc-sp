@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:35:06 AM 05-07-2025",
+    "last_updated": "01:40:12 AM 05-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -57,52 +57,6 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "West Indies Vs Australia",
-            "tournament": "Australia Tour of West Indies, 2025",
-            "short_name": "WI vs AUS",
-            "match_id": 127551,
-            "status": "STARTED",
-            "startTime": "03 July 2025 07:15 PM",
-            "startDate": "25 June 2025 05:30 AM",
-            "endDate": "29 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 260,
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
-                    "color": "#7B0041"
-                },
-                {
-                    "id": 13,
-                    "name": "Australia",
-                    "shortName": "AUS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
-                    "color": "#002695"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Football",
             "title": "Germany Women Vs Poland Women",
             "tournament": "UEFA Women's EURO 2025",
@@ -144,6 +98,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123348_english_hls_209ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123348_english_hls_209ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Rr2kWvdzTheb69M2Aljlcg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Australia",
+            "tournament": "Australia Tour of West Indies, 2025",
+            "short_name": "WI vs AUS",
+            "match_id": 127551,
+            "status": "STARTED",
+            "startTime": "03 July 2025 07:15 PM",
+            "startDate": "25 June 2025 05:30 AM",
+            "endDate": "29 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Sporty_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/WI_vs_AUS_2025_Old_match-card_2025_Old_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127551_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 260,
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                    "color": "#7B0041"
+                },
+                {
+                    "id": 13,
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                    "color": "#002695"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
