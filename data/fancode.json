@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:20:11 AM 06-07-2025",
+    "last_updated": "01:25:07 AM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 7,
+    "total_matches": 14,
+    "live_matches": 8,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -554,10 +554,10 @@
             "startTime": "05 July 2025 11:40 PM",
             "startDate": "18 March 2025 05:30 AM",
             "endDate": "31 October 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "image": "https://images.fancode.com/aig/match/v1/130292_CASACARDS_APP.png",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/130292_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "APP": "https://images.fancode.com/aig/match/v1/130292_CASACARDS_APP.png",
                 "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130292_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -585,6 +585,52 @@
             "STREAMING_CDN": {
                 "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130292_english_hls_47324ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130292_english_hls_47324ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": ""
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "New York Mets Vs New York Yankees",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130293,
+            "status": "STARTED",
+            "startTime": "06 July 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130293_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130293_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2345,
+                    "name": "New York Mets",
+                    "shortName": "NYM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "color": "#002d71"
+                },
+                {
+                    "id": 2331,
+                    "name": "New York Yankees",
+                    "shortName": "NEY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYYAN@2x.png",
+                    "color": "#ced4e5"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/130293_english_hls_77302ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130293_english_hls_77302ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130293_english_hls_77302ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
