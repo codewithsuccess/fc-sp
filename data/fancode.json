@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:20:10 PM 05-07-2025",
+    "last_updated": "11:25:09 PM 05-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
-    "live_matches": 9,
-    "upcoming_matches": 7,
+    "total_matches": 17,
+    "live_matches": 11,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Football",
@@ -108,7 +108,7 @@
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
             "match_id": 125965,
-            "status": "NOT_STARTED",
+            "status": "STARTED",
             "startTime": "05 July 2025 11:30 PM",
             "startDate": "29 May 2025 05:30 AM",
             "endDate": "13 September 2025 05:30 AM",
@@ -116,7 +116,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/125965_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/125965_5207_SUS_HAM_fc-App.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125965_5207_SUS_HAM_fc-Web.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125965_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -137,12 +137,15 @@
                     "color": "#9b7614"
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/2wNKn5gLSaqxNWiqsz7-vQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -723,6 +726,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/QgNNcAyBSJuH7yFhGevhSQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Minnesota Twins Vs Tampa Bay Rays",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130292,
+            "status": "STARTED",
+            "startTime": "05 July 2025 11:40 PM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130292_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130292_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2330,
+                    "name": "Minnesota Twins",
+                    "shortName": "MIT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MINNES@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-MINNES@2x.png",
+                    "color": "#0a58dd"
+                },
+                {
+                    "id": 2334,
+                    "name": "Tampa Bay Rays",
+                    "shortName": "TAB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "color": "#4173b8"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/130292_english_hls_47324ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130292_english_hls_47324ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130292_english_hls_47324ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": ""
             }
         }
     ]
