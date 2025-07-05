@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:25:05 PM 05-07-2025",
+    "last_updated": "04:30:15 PM 05-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -543,52 +543,6 @@
         },
         {
             "category": "Football",
-            "title": "Machida Zelvia Vs Shimizu S Pulse",
-            "tournament": "J League 2025",
-            "short_name": "J League",
-            "match_id": 126265,
-            "status": "STARTED",
-            "startTime": "05 July 2025 02:30 PM",
-            "startDate": "08 February 2025 05:30 AM",
-            "endDate": "06 December 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126265_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126265_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8166,
-                    "name": "Machida Zelvia",
-                    "shortName": "MZ",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
-                    "color": "#248eff"
-                },
-                {
-                    "id": 1774,
-                    "name": "Shimizu S-Pulse",
-                    "shortName": "PUL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
-                    "color": "#446ccb"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
             "title": "Cerezo Osaka Vs Gamba Osaka",
             "tournament": "J League 2025",
             "short_name": "J League",
@@ -723,6 +677,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/SKrREMogSNGW0TOyz9VFzA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Machida Zelvia Vs Shimizu S Pulse",
+            "tournament": "J League 2025",
+            "short_name": "J League",
+            "match_id": 126265,
+            "status": "STARTED",
+            "startTime": "05 July 2025 02:30 PM",
+            "startDate": "08 February 2025 05:30 AM",
+            "endDate": "06 December 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126265_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126265_4795_MZ_PUL_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126265_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8166,
+                    "name": "Machida Zelvia",
+                    "shortName": "MZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png",
+                    "color": "#248eff"
+                },
+                {
+                    "id": 1774,
+                    "name": "Shimizu S-Pulse",
+                    "shortName": "PUL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUL@2x.png",
+                    "color": "#446ccb"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/126265_english_hls_15692ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
