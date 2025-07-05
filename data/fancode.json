@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:15 PM 05-07-2025",
+    "last_updated": "12:35:13 PM 05-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 4,
+    "total_matches": 14,
+    "live_matches": 5,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -531,6 +531,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130378_english_hls_66908ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130378_english_hls_66908ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/2KItvuWVS1qF6bd8TPwQnQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Motorsports",
+            "title": "Dtm",
+            "tournament": "DTM Norisring",
+            "short_name": "DTM Norisring",
+            "match_id": 130202,
+            "status": "STARTED",
+            "startTime": "05 July 2025 12:45 PM",
+            "startDate": "04 July 2025 05:30 AM",
+            "endDate": "06 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130202_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/DTM_2025_old_1751619140580.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130202_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8518,
+                    "name": "Qualifying 1",
+                    "shortName": "DTM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                    "color": "#FFCC00"
+                },
+                {
+                    "id": 8235,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                    "color": "#123456"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130202_english_hls_33612ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/9x5BNk5tTyywslqgNGn-hw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130202_english_hls_33612ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130202_english_hls_33612ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/9x5BNk5tTyywslqgNGn-hw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
