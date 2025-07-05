@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:40:10 PM 05-07-2025",
+    "last_updated": "05:45:07 PM 05-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 18,
-    "live_matches": 11,
-    "upcoming_matches": 7,
+    "live_matches": 8,
+    "upcoming_matches": 10,
     "matches": [
         {
             "category": "Cricket",
@@ -53,52 +53,6 @@
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Formula 1",
-            "title": "Practice 3",
-            "tournament": "F1 QATAR AIRWAYS BRITISH GRAND PRIX 2025",
-            "short_name": "British GP",
-            "match_id": 118438,
-            "status": "STARTED",
-            "startTime": "05 July 2025 04:00 PM",
-            "startDate": "04 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_Practice_3_Match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118438_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_Practice_3_Match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/British_GP_F1_GP_Old_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118438_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8202,
-                    "name": "Practice 3",
-                    "shortName": "P3",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8199,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://d2cqprhhyuc1u7.cloudfront.net/out/v1/0efcfaef226b440ba7f9d3ea5ade0966/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://d2cqprhhyuc1u7.cloudfront.net/out/v1/0efcfaef226b440ba7f9d3ea5ade0966/index.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "https://d2cqprhhyuc1u7.cloudfront.net/out/v1/0efcfaef226b440ba7f9d3ea5ade0966/index.m3u8",
                 "language": "ENGLISH"
             }
         },
@@ -393,6 +347,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
                     "color": "#843961"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Durham Vs Warwickshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125967,
+            "status": "NOT_STARTED",
+            "startTime": "06 July 2025 07:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 360,
+                    "name": "Durham",
+                    "shortName": "DUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
+                },
+                {
+                    "id": 371,
+                    "name": "Warwickshire",
+                    "shortName": "WAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
+                    "color": "#152e56"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -731,7 +728,7 @@
             "tournament": "J League 2025",
             "short_name": "J League",
             "match_id": 126267,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "05 July 2025 03:30 PM",
             "startDate": "08 February 2025 05:30 AM",
             "endDate": "06 December 2025 11:30 PM",
@@ -739,7 +736,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/126267_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/126267_4795_OSA_OSK_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126267_4795_OSA_OSK_fc-web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126267_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -760,15 +757,12 @@
                     "color": "#003f76"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/126267_english_hls_75408ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/126267_english_hls_75408ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/126267_english_hls_75408ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -777,7 +771,7 @@
             "tournament": "J League 2025",
             "short_name": "J League",
             "match_id": 126266,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "05 July 2025 03:30 PM",
             "startDate": "08 February 2025 05:30 AM",
             "endDate": "06 December 2025 11:30 PM",
@@ -785,7 +779,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/126266_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/126266_4795_YKH_YKFM_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/126266_4795_YKH_YKFM_fc-web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126266_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -806,15 +800,12 @@
                     "color": "#bd1c45"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/126266_english_hls_60820ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/126266_english_hls_60820ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/126266_english_hls_60820ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
