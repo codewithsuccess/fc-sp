@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:55:06 PM 05-07-2025",
+    "last_updated": "12:00:13 AM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,52 +10,6 @@
     "live_matches": 11,
     "upcoming_matches": 6,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Wales Women Vs Netherlands Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123351,
-            "status": "STARTED",
-            "startTime": "05 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123351_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123351_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8820,
-                    "name": "Wales Women",
-                    "shortName": "WAL-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/WAL-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/WAL-FT1@2x.png",
-                    "color": "#dd717a"
-                },
-                {
-                    "id": 1253,
-                    "name": "Netherlands Women",
-                    "shortName": "NED-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
-                    "color": "#fc8200"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Qc48jgVoRB-RP83Tl6IuTQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Qc48jgVoRB-RP83Tl6IuTQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "West Indies Vs Australia",
@@ -98,6 +52,52 @@
                 "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
                 "fancode_cdn": "Unavailable",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/M35A4MhcQyGmBkmW4V_9YA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Wales Women Vs Netherlands Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123351,
+            "status": "STARTED",
+            "startTime": "05 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123351_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123351_5107_WAL-W_NED-W_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123351_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8820,
+                    "name": "Wales Women",
+                    "shortName": "WAL-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/WAL-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/WAL-FT1@2x.png",
+                    "color": "#dd717a"
+                },
+                {
+                    "id": 1253,
+                    "name": "Netherlands Women",
+                    "shortName": "NED-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
+                    "color": "#fc8200"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Qc48jgVoRB-RP83Tl6IuTQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123351_english_hls_2998ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Qc48jgVoRB-RP83Tl6IuTQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
