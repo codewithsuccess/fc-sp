@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:45:08 PM 06-07-2025",
+    "last_updated": "05:50:11 PM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,52 +10,6 @@
     "live_matches": 10,
     "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Zimbabwe Vs South Africa",
-            "tournament": "South Africa tour of Zimbabwe, 2025",
-            "short_name": "ZIM vs SA",
-            "match_id": 127559,
-            "status": "STARTED",
-            "startTime": "06 July 2025 01:30 PM",
-            "startDate": "28 June 2025 05:30 AM",
-            "endDate": "10 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised--(2).png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 267,
-                    "name": "Zimbabwe",
-                    "shortName": "ZIM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "color": "#dfd32c"
-                },
-                {
-                    "id": 212,
-                    "name": "South Africa",
-                    "shortName": "SA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "color": "#2d9251"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/spurWgHPR--W_kiucbny3g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/spurWgHPR--W_kiucbny3g/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Formula 1",
             "title": "Race",
@@ -192,6 +146,52 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "https://d78kvb2w5osdu.cloudfront.net/out/v1/634053c3a12a4849ab50d9606079e38c/index.m3u8",
                 "language": "TAMIL"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Zimbabwe Vs South Africa",
+            "tournament": "South Africa tour of Zimbabwe, 2025",
+            "short_name": "ZIM vs SA",
+            "match_id": 127559,
+            "status": "STARTED",
+            "startTime": "06 July 2025 01:30 PM",
+            "startDate": "28 June 2025 05:30 AM",
+            "endDate": "10 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-old-match-card-Revised--(2).png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 267,
+                    "name": "Zimbabwe",
+                    "shortName": "ZIM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
+                    "color": "#dfd32c"
+                },
+                {
+                    "id": 212,
+                    "name": "South Africa",
+                    "shortName": "SA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "color": "#2d9251"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/spurWgHPR--W_kiucbny3g/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/127559_english_hls_59676ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/spurWgHPR--W_kiucbny3g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
