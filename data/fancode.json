@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:10:12 PM 06-07-2025",
+    "last_updated": "09:15:13 PM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 24,
-    "live_matches": 17,
-    "upcoming_matches": 7,
+    "total_matches": 25,
+    "live_matches": 19,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Formula 1",
@@ -425,6 +425,52 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Norway Women Vs Finland Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123352,
+            "status": "STARTED",
+            "startTime": "06 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1258,
+                    "name": "Norway Women",
+                    "shortName": "NR-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
+                    "color": "#ea392a"
+                },
+                {
+                    "id": 4982,
+                    "name": "Finland Women",
+                    "shortName": "FIN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Zimbabwe Vs South Africa",
             "tournament": "South Africa tour of Zimbabwe, 2025",
@@ -457,49 +503,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
                     "color": "#2d9251"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Norway Women Vs Finland Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123352,
-            "status": "NOT_STARTED",
-            "startTime": "06 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1258,
-                    "name": "Norway Women",
-                    "shortName": "NR-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
-                    "color": "#ea392a"
-                },
-                {
-                    "id": 4982,
-                    "name": "Finland Women",
-                    "shortName": "FIN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "color": "#141414"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -647,52 +650,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Sofia Stars Vs Mus Akademik Ravens",
-            "tournament": "ECS Bulgaria, 2025",
-            "short_name": "ECS Bulgaria",
-            "match_id": 129539,
-            "status": "STARTED",
-            "startTime": "06 July 2025 07:15 PM",
-            "startDate": "30 June 2025 05:30 AM",
-            "endDate": "07 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8861,
-                    "name": "Sofia Stars",
-                    "shortName": "SFS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-                    "color": "#96081C"
-                },
-                {
-                    "id": 2559,
-                    "name": "MUS Akademik Ravens",
-                    "shortName": "MAR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "color": "#EC7D26"
-                }
-            ],
-            "language": "",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/vZlQY4GUSx-smcN3M5oecQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/vZlQY4GUSx-smcN3M5oecQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": ""
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Typhoons Women Vs Dragons Women",
             "tournament": "Evoke Super 20 Trophy, 2025",
             "short_name": "Evoke Super 20 Trophy, 2025",
@@ -733,6 +690,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129010_english_hls_80113ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129010_english_hls_80113ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/_qRGheN-QXe8SJQrfqRvbA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Piton Strikers Vs Whiptail Smashers",
+            "tournament": "St. Lucia T10 Blast, 2025",
+            "short_name": "St. Lucia T10",
+            "match_id": 129269,
+            "status": "STARTED",
+            "startTime": "06 July 2025 09:30 PM",
+            "startDate": "24 June 2025 05:30 AM",
+            "endDate": "08 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129269_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129269_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11635,
+                    "name": "Piton Strikers",
+                    "shortName": "PTS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTS@2x.png",
+                    "color": "#ff0000"
+                },
+                {
+                    "id": 11636,
+                    "name": "Whiptail Smashers",
+                    "shortName": "WTS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
+                    "color": "#065fa5"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129269_english_hls_12113ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/qq7BDMJHS0WzLxIPjB7Kcg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129269_english_hls_12113ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129269_english_hls_12113ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qq7BDMJHS0WzLxIPjB7Kcg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1101,6 +1104,52 @@
                 "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130295_english_hls_87623ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130295_english_hls_87623ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": ""
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sofia Stars Vs Mus Akademik Ravens",
+            "tournament": "ECS Bulgaria, 2025",
+            "short_name": "ECS Bulgaria",
+            "match_id": 129539,
+            "status": "STARTED",
+            "startTime": "06 July 2025 07:15 PM",
+            "startDate": "30 June 2025 05:30 AM",
+            "endDate": "07 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8861,
+                    "name": "Sofia Stars",
+                    "shortName": "SFS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
+                    "color": "#96081C"
+                },
+                {
+                    "id": 2559,
+                    "name": "MUS Akademik Ravens",
+                    "shortName": "MAR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
+                    "color": "#EC7D26"
+                }
+            ],
+            "language": "",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/vZlQY4GUSx-smcN3M5oecQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129539_english_hls_63927ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/vZlQY4GUSx-smcN3M5oecQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
             }
