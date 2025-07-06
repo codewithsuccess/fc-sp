@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:20 PM 06-07-2025",
+    "last_updated": "09:35:05 PM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 25,
-    "live_matches": 17,
-    "upcoming_matches": 8,
+    "total_matches": 23,
+    "live_matches": 16,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -146,6 +146,144 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/3FKtD-enTHCfRce2_uUh6g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "TAMIL"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Durham Vs Warwickshire",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125967,
+            "status": "STARTED",
+            "startTime": "06 July 2025 07:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 360,
+                    "name": "Durham",
+                    "shortName": "DUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
+                    "color": "#8c8301"
+                },
+                {
+                    "id": 371,
+                    "name": "Warwickshire",
+                    "shortName": "WAS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
+                    "color": "#152e56"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/M4lzHS1dSbOG7_FobJ_lRg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/M4lzHS1dSbOG7_FobJ_lRg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gloucestershire Vs Middlesex",
+            "tournament": "Vitality Blast T20, 2025",
+            "short_name": "Vitality Blast T20",
+            "match_id": 125972,
+            "status": "STARTED",
+            "startTime": "06 July 2025 08:30 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "13 September 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125972_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125972_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 363,
+                    "name": "Gloucestershire",
+                    "shortName": "GLO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
+                    "color": "#17836e"
+                },
+                {
+                    "id": 366,
+                    "name": "Middlesex",
+                    "shortName": "MID",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
+                    "color": "#2d4475"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/9h8kwcENRQWS-9tm48TExA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/9h8kwcENRQWS-9tm48TExA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Norway Women Vs Finland Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123352,
+            "status": "STARTED",
+            "startTime": "06 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1258,
+                    "name": "Norway Women",
+                    "shortName": "NR-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
+                    "color": "#ea392a"
+                },
+                {
+                    "id": 4982,
+                    "name": "Finland Women",
+                    "shortName": "FIN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -288,187 +426,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Glamorgan Vs Kent",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125968,
-            "status": "COMPLETED",
-            "startTime": "06 July 2025 07:00 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125968_5207_GLA_KET_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125968_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125968_5207_GLA_KET_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125968_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 362,
-                    "name": "Glamorgan",
-                    "shortName": "GLA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
-                    "color": "#528c3d"
-                },
-                {
-                    "id": 296,
-                    "name": "Kent",
-                    "shortName": "KET",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
-                    "color": "#843961"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Durham Vs Warwickshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125967,
-            "status": "STARTED",
-            "startTime": "06 July 2025 07:00 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125967_5207_DUR_WAS_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125967_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 360,
-                    "name": "Durham",
-                    "shortName": "DUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 371,
-                    "name": "Warwickshire",
-                    "shortName": "WAS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
-                    "color": "#152e56"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/M4lzHS1dSbOG7_FobJ_lRg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125967_english_hls_4489ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/M4lzHS1dSbOG7_FobJ_lRg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Gloucestershire Vs Middlesex",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125972,
-            "status": "STARTED",
-            "startTime": "06 July 2025 08:30 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125972_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/125972_5207_GLO_MID_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125972_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 363,
-                    "name": "Gloucestershire",
-                    "shortName": "GLO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLO@2x.png",
-                    "color": "#17836e"
-                },
-                {
-                    "id": 366,
-                    "name": "Middlesex",
-                    "shortName": "MID",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MID@2x.png",
-                    "color": "#2d4475"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/9h8kwcENRQWS-9tm48TExA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/125972_english_hls_60777ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/9h8kwcENRQWS-9tm48TExA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Norway Women Vs Finland Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123352,
-            "status": "STARTED",
-            "startTime": "06 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123352_5107_NR-W_FIN-W_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123352_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1258,
-                    "name": "Norway Women",
-                    "shortName": "NR-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NORW@2x.png",
-                    "color": "#ea392a"
-                },
-                {
-                    "id": 4982,
-                    "name": "Finland Women",
-                    "shortName": "FIN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FIN-FT1@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123352_english_hls_58033ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/IL_gCwsqSjiUQdK_Z92VeQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Zimbabwe Vs South Africa",
             "tournament": "South Africa tour of Zimbabwe, 2025",
             "short_name": "ZIM vs SA",
@@ -543,6 +500,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ICE-FT1@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/ICE-FT1@2x.png",
                     "color": "#141414"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Spain Women Vs Belgium Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123355,
+            "status": "NOT_STARTED",
+            "startTime": "07 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123355_5107_SPA-W_BEL-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123355_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123355_5107_SPA-W_BEL-W_fc-app.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123355_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1259,
+                    "name": "Spain Women",
+                    "shortName": "SPA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESP@2x.png",
+                    "color": "#ffb400"
+                },
+                {
+                    "id": 4992,
+                    "name": "Belgium Women",
+                    "shortName": "BEL-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
+                    "color": "#b3a91d"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -923,52 +923,6 @@
         },
         {
             "category": "Golf",
-            "title": "Day 4",
-            "tournament": "KPMG Women\u2019s Irish Open",
-            "short_name": "KPMG Womens Irish Open",
-            "match_id": 128872,
-            "status": "STARTED",
-            "startTime": "06 July 2025 06:30 PM",
-            "startDate": "03 July 2025 05:30 AM",
-            "endDate": "06 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG-Women's-Irish-open-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128872_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KPMG-Women's-Irish-open-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/KPMG-Women's-Irish-open-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128872_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9006,
-                    "name": "Day 4",
-                    "shortName": "KWIO",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KWI@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KWI@2x.png",
-                    "color": "#182ca0"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/128872_english_hls_58231ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LIgoRjWHQi6Y8GmlWnW4NA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/128872_english_hls_58231ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/128872_english_hls_58231ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LIgoRjWHQi6Y8GmlWnW4NA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
             "title": "Marquee Group   Day 4",
             "tournament": "John Deere Classic",
             "short_name": "John Deere Classic",
@@ -1103,49 +1057,6 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Sofia Stars Vs Mus Akademik Ravens",
-            "tournament": "ECS Bulgaria, 2025",
-            "short_name": "ECS Bulgaria",
-            "match_id": 129539,
-            "status": "COMPLETED",
-            "startTime": "06 July 2025 07:15 PM",
-            "startDate": "30 June 2025 05:30 AM",
-            "endDate": "07 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Bulgaria-old.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129539_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8861,
-                    "name": "Sofia Stars",
-                    "shortName": "SFS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-                    "color": "#96081C"
-                },
-                {
-                    "id": 2559,
-                    "name": "MUS Akademik Ravens",
-                    "shortName": "MAR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR7@2x.png",
-                    "color": "#EC7D26"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         }
     ]
