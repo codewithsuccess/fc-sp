@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:25:07 PM 06-07-2025",
+    "last_updated": "07:30:20 PM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 25,
-    "live_matches": 18,
+    "total_matches": 26,
+    "live_matches": 19,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -779,6 +779,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129851_english_hls_7993ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129851_english_hls_7993ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/UVz3lyYGSgi975eW2BgnRw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Typhoons Women Vs Dragons Women",
+            "tournament": "Evoke Super 20 Trophy, 2025",
+            "short_name": "Evoke Super 20 Trophy, 2025",
+            "match_id": 129010,
+            "status": "STARTED",
+            "startTime": "06 July 2025 07:45 PM",
+            "startDate": "22 June 2025 05:30 AM",
+            "endDate": "07 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129010_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Evoke-Super-20-Trophy-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129010_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2448,
+                    "name": "Typhoons Women",
+                    "shortName": "TYP-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TYPW@2x.png",
+                    "color": "#B5651D"
+                },
+                {
+                    "id": 4677,
+                    "name": "Dragons Women",
+                    "shortName": "DG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRAW@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DRAW@2x.png",
+                    "color": "#cb1414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129010_english_hls_80113ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/_qRGheN-QXe8SJQrfqRvbA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129010_english_hls_80113ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129010_english_hls_80113ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_qRGheN-QXe8SJQrfqRvbA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
