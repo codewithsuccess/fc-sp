@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:25:08 PM 06-07-2025",
+    "last_updated": "10:30:21 PM 06-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 23,
+    "total_matches": 22,
     "live_matches": 16,
-    "upcoming_matches": 7,
+    "upcoming_matches": 6,
     "matches": [
         {
             "category": "Cricket",
@@ -646,6 +646,52 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Mec Study Group Vs Tally Rangers",
+            "tournament": "KCC T20 Summer League, 2025",
+            "short_name": "KCC T20 Summer League",
+            "match_id": 129986,
+            "status": "STARTED",
+            "startTime": "06 July 2025 10:45 PM",
+            "startDate": "05 July 2025 05:30 AM",
+            "endDate": "08 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129986_5379_MEC_TCC_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129986_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129986_5379_MEC_TCC_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129986_5379_MEC_TCC_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129986_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6244,
+                    "name": "MEC Study Group",
+                    "shortName": "MEC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSTG@2x.png",
+                    "color": "#ffc300"
+                },
+                {
+                    "id": 6241,
+                    "name": "Tally Rangers",
+                    "shortName": "TCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TALLY@2x.png",
+                    "color": "#CC1D1C"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129986_english_hls_66917ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Fe94IhV9TvqjpoiR_vQeQQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129986_english_hls_66917ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129986_english_hls_66917ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Fe94IhV9TvqjpoiR_vQeQQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Live events",
             "title": "Men's Auction",
             "tournament": "Delhi Premier League Auction 2025",
@@ -965,98 +1011,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/UjixQ4AmSreAnT2bkDs9wQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Ossudu Accord Warriors Vs Ruby White Town Legends",
-            "tournament": "Pondicherry Premier League, 2025",
-            "short_name": "PPL",
-            "match_id": 130099,
-            "status": "STARTED",
-            "startTime": "06 July 2025 06:30 PM",
-            "startDate": "06 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130099_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130099_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8874,
-                    "name": "Ossudu Accord Warriors",
-                    "shortName": "OAW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OAW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OAW@2x.png",
-                    "color": "#f14142"
-                },
-                {
-                    "id": 11688,
-                    "name": "Ruby White Town Legends",
-                    "shortName": "RWT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RWT-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RWT-CR1@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130099_english_hls_80143ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NpBfkj9SSQCK9XW9YzuTVQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130099_english_hls_80143ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130099_english_hls_80143ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NpBfkj9SSQCK9XW9YzuTVQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Ossudu Accord Warriors Vs Ruby White Town Legends",
-            "tournament": "Pondicherry Premier League, 2025",
-            "short_name": "PPL",
-            "match_id": 130099,
-            "status": "STARTED",
-            "startTime": "06 July 2025 06:30 PM",
-            "startDate": "06 July 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130099_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Pondicherry-Premier-League,-2025_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130099_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8874,
-                    "name": "Ossudu Accord Warriors",
-                    "shortName": "OAW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OAW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OAW@2x.png",
-                    "color": "#f14142"
-                },
-                {
-                    "id": 11688,
-                    "name": "Ruby White Town Legends",
-                    "shortName": "RWT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RWT-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RWT-CR1@2x.png",
-                    "color": "#B8142D"
-                }
-            ],
-            "language": "TAMIL",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130099_tamil_hls_19329ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/KWhUK7GXTtm1gOLr41j_tQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130099_tamil_hls_19329ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130099_tamil_hls_19329ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/KWhUK7GXTtm1gOLr41j_tQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "TAMIL"
             }
         }
     ]
