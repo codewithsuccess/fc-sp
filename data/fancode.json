@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:25:06 AM 08-07-2025",
+    "last_updated": "12:30:18 AM 08-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 11,
-    "live_matches": 4,
-    "upcoming_matches": 7,
+    "live_matches": 3,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -95,52 +95,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123354_english_hls_36149ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123354_english_hls_36149ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/Fusym5gNSyyEIoxapO4FVw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Spain Women Vs Belgium Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123355,
-            "status": "STARTED",
-            "startTime": "07 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123355_5107_SPA-W_BEL-W_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123355_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123355_5107_SPA-W_BEL-W_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123355_5107_SPA-W_BEL-W_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123355_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1259,
-                    "name": "Spain Women",
-                    "shortName": "SPA-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ESP@2x.png",
-                    "color": "#ffb400"
-                },
-                {
-                    "id": 4992,
-                    "name": "Belgium Women",
-                    "shortName": "BEL-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-BELG@2x.png",
-                    "color": "#b3a91d"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123355_english_hls_22956ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/CWmE2eGvRsWV6AP8tg1yUA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123355_english_hls_22956ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123355_english_hls_22956ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CWmE2eGvRsWV6AP8tg1yUA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -393,6 +347,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUR@2x.png",
                     "color": "#572700"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "England Women Vs Netherlands Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123358,
+            "status": "NOT_STARTED",
+            "startTime": "09 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123358_5107_ENG-W_NED-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123358_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123358_5107_ENG-W_NED-W_fc-app.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123358_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1251,
+                    "name": "England Women",
+                    "shortName": "ENG-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ENGL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ENGL@2x.png",
+                    "color": "#2257c1"
+                },
+                {
+                    "id": 1253,
+                    "name": "Netherlands Women",
+                    "shortName": "NED-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-NED@2x.png",
+                    "color": "#fc8200"
                 }
             ],
             "language": "BLOODY_SWEET",
