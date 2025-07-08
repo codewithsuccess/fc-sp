@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:10:09 PM 08-07-2025",
+    "last_updated": "09:15:12 PM 08-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 15,
-    "live_matches": 6,
-    "upcoming_matches": 9,
+    "total_matches": 16,
+    "live_matches": 8,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -57,6 +57,52 @@
             }
         },
         {
+            "category": "Football",
+            "title": "Germany Women Vs Denmark Women",
+            "tournament": "UEFA Women's EURO 2025",
+            "short_name": "Women's Euro",
+            "match_id": 123357,
+            "status": "STARTED",
+            "startTime": "08 July 2025 09:30 PM",
+            "startDate": "02 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/123357_5107_GER-W_DEN-W_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123357_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123357_5107_GER-W_DEN-W_fc-app.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/123357_5107_GER-W_DEN-W_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123357_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1252,
+                    "name": "Germany Women",
+                    "shortName": "GER-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GER@2x.png",
+                    "color": "#d2b838"
+                },
+                {
+                    "id": 4983,
+                    "name": "Denmark Women",
+                    "shortName": "DEN-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEN@2x.png",
+                    "color": "#cb3529"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/123357_english_hls_55822ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/gsbAjJqvR_-IeDks9K_Diw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/123357_english_hls_55822ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/123357_english_hls_55822ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/gsbAjJqvR_-IeDks9K_Diw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Somerset Vs Essex",
             "tournament": "Vitality Blast T20, 2025",
@@ -89,49 +135,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESSE@2x.png",
                     "color": "#FF5253"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Germany Women Vs Denmark Women",
-            "tournament": "UEFA Women's EURO 2025",
-            "short_name": "Women's Euro",
-            "match_id": 123357,
-            "status": "NOT_STARTED",
-            "startTime": "08 July 2025 09:30 PM",
-            "startDate": "02 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/123357_5107_GER-W_DEN-W_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/123357_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/123357_5107_GER-W_DEN-W_fc-app.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/123357_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1252,
-                    "name": "Germany Women",
-                    "shortName": "GER-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GER@2x.png",
-                    "color": "#d2b838"
-                },
-                {
-                    "id": 4983,
-                    "name": "Denmark Women",
-                    "shortName": "DEN-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DEN@2x.png",
-                    "color": "#cb3529"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -674,6 +677,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/tU5R7K7zQca_uUKsr8iMMw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Whiptail Smashers Vs Piton Strikers",
+            "tournament": "St. Lucia T10 Blast, 2025",
+            "short_name": "St. Lucia T10",
+            "match_id": 129273,
+            "status": "STARTED",
+            "startTime": "08 July 2025 09:30 PM",
+            "startDate": "24 June 2025 05:30 AM",
+            "endDate": "08 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129273_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129246_5345_PTS_WTS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129273_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11636,
+                    "name": "Whiptail Smashers",
+                    "shortName": "WTS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WTS@2x.png",
+                    "color": "#065fa5"
+                },
+                {
+                    "id": 11635,
+                    "name": "Piton Strikers",
+                    "shortName": "PTS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PTS@2x.png",
+                    "color": "#ff0000"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129273_english_hls_25236ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/4f5W2iE3QFukoSudo8KF4Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129273_english_hls_25236ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129273_english_hls_25236ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/4f5W2iE3QFukoSudo8KF4Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
