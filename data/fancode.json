@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:10:11 PM 08-07-2025",
+    "last_updated": "06:15:09 PM 08-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -405,52 +405,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Guernsey Vs Jersey",
-            "tournament": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
-            "short_name": "ICC Europe Regional Final",
-            "match_id": 129852,
-            "status": "STARTED",
-            "startTime": "08 July 2025 02:30 PM",
-            "startDate": "05 July 2025 05:30 AM",
-            "endDate": "11 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129852_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129852_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 93,
-                    "name": "Guernsey",
-                    "shortName": "GSY",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUER@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUER@2x.png",
-                    "color": "#E8112D"
-                },
-                {
-                    "id": 123,
-                    "name": "Jersey",
-                    "shortName": "JER",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
-                    "color": "#D7B524"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/dyTghKqUSCunexIthdY33Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/dyTghKqUSCunexIthdY33Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Leinster Lightning Vs Munster Reds",
             "tournament": "Ireland Inter-Provincial T20 Trophy, 2025",
             "short_name": "Inter-Provincial T20 Trophy",
@@ -723,6 +677,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/-zXFNwgOTfiVhfxFxxdUZA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": ""
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Guernsey Vs Jersey",
+            "tournament": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
+            "short_name": "ICC Europe Regional Final",
+            "match_id": 129852,
+            "status": "STARTED",
+            "startTime": "08 July 2025 02:30 PM",
+            "startDate": "05 July 2025 05:30 AM",
+            "endDate": "11 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129852_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129852_5372_GSY_JER_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129852_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 93,
+                    "name": "Guernsey",
+                    "shortName": "GSY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUER@2x.png",
+                    "color": "#E8112D"
+                },
+                {
+                    "id": 123,
+                    "name": "Jersey",
+                    "shortName": "JER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JERSE@2x.png",
+                    "color": "#D7B524"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/dyTghKqUSCunexIthdY33Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129852_english_hls_80195ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/dyTghKqUSCunexIthdY33Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
