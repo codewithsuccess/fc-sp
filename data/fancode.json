@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:00:13 PM 09-07-2025",
+    "last_updated": "06:05:08 PM 09-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
+    "total_matches": 14,
     "live_matches": 5,
-    "upcoming_matches": 8,
+    "upcoming_matches": 9,
     "matches": [
         {
             "category": "Cricket",
@@ -362,37 +362,37 @@
         },
         {
             "category": "Cricket",
-            "title": "Zimbabwe Vs South Africa",
-            "tournament": "South Africa tour of Zimbabwe, 2025",
-            "short_name": "ZIM vs SA",
-            "match_id": 127559,
-            "status": "PAUSED",
-            "startTime": "06 July 2025 01:30 PM",
-            "startDate": "28 June 2025 05:30 AM",
-            "endDate": "10 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
+            "title": "Sri Lanka Vs Bangladesh",
+            "tournament": "Bangladesh tour of Sri Lanka, 2025",
+            "short_name": "SL vs BAN",
+            "match_id": 128430,
+            "status": "COMPLETED",
+            "startTime": "08 July 2025 02:30 PM",
+            "startDate": "17 June 2025 05:30 AM",
+            "endDate": "16 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-ODIs-Sporrty-match-card.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/South-Africa-Tour-of-Zimbabwe-test-sporty-match-card-Revised--(1).png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128430_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Bangladesh-Tour-of-Sri-Lanka,-ODIs-Sporrty-match-card.png",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/127559_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128430_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 267,
-                    "name": "Zimbabwe",
-                    "shortName": "ZIM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZIM@2x.png",
-                    "color": "#dfd32c"
+                    "id": 44,
+                    "name": "Sri Lanka",
+                    "shortName": "SL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                    "color": "#164fad"
                 },
                 {
-                    "id": 212,
-                    "name": "South Africa",
-                    "shortName": "SA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
-                    "color": "#2d9251"
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -543,11 +543,57 @@
         },
         {
             "category": "Cricket",
+            "title": "Leuven Lions Vs Hasselt Titans",
+            "tournament": "ECS Belgium, 2025",
+            "short_name": "ECS Belgium",
+            "match_id": 130342,
+            "status": "STARTED",
+            "startTime": "09 July 2025 06:15 PM",
+            "startDate": "07 July 2025 05:30 AM",
+            "endDate": "11 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130342_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Belgium_old_02.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130342_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11701,
+                    "name": "Leuven Lions",
+                    "shortName": "LL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/LL-CR3@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/LL-CR3@2x.png",
+                    "color": "#9F6804"
+                },
+                {
+                    "id": 11700,
+                    "name": "Hasselt Titans",
+                    "shortName": "HT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HT-CR4@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HT-CR4@2x.png",
+                    "color": "#AA5500"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130342_english_hls_28768adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/mauX2s4ORlKctB4TGuRPJQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130342_english_hls_28768adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130342_english_hls_28768adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/mauX2s4ORlKctB4TGuRPJQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Italy Vs Scotland",
             "tournament": "ICC Men\u2019s T20 World Cup Europe Regional Final 2025",
             "short_name": "ICC Europe Regional Final",
             "match_id": 129854,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "09 July 2025 02:30 PM",
             "startDate": "05 July 2025 05:30 AM",
             "endDate": "11 July 2025 05:30 AM",
@@ -555,7 +601,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/129854_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129854_5372_ITA_SCO_fc-Web.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129854_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -576,15 +622,12 @@
                     "color": "#1672c1"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129854_english_hls_79321ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LXeyNhaJQtGJmC2pBBu_Gg/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129854_english_hls_79321ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129854_english_hls_79321ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LXeyNhaJQtGJmC2pBBu_Gg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
