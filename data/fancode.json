@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:25:06 PM 10-07-2025",
+    "last_updated": "08:30:19 PM 10-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 16,
+    "total_matches": 15,
     "live_matches": 7,
-    "upcoming_matches": 9,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -58,6 +58,52 @@
         },
         {
             "category": "Cricket",
+            "title": "Central Stags Vs Dubai Capitals",
+            "tournament": "Global Super League, 2025",
+            "short_name": "GSL",
+            "match_id": 130480,
+            "status": "STARTED",
+            "startTime": "10 July 2025 07:30 PM",
+            "startDate": "10 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130480_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-Web_1752057006984.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130480_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 292,
+                    "name": "Central Stags",
+                    "shortName": "CS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
+                    "color": "#03684A"
+                },
+                {
+                    "id": 5829,
+                    "name": "Dubai Capitals",
+                    "shortName": "DC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
+                    "color": "#bd8a16"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/_DHLHV9TSXOSqM-gcH-yZg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_DHLHV9TSXOSqM-gcH-yZg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Derbyshire Vs Worcestershire",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -89,6 +135,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WOR@2x.png",
                     "color": "#116030"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Guyana Amazon Warriors Vs Rangpur Riders",
+            "tournament": "Global Super League, 2025",
+            "short_name": "GSL",
+            "match_id": 130481,
+            "status": "NOT_STARTED",
+            "startTime": "11 July 2025 04:30 AM",
+            "startDate": "10 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130481_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130481_5402_GUY_RAN_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130481_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 290,
+                    "name": "Guyana Amazon Warriors",
+                    "shortName": "GUY",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GUWA@2x.png",
+                    "color": "#b01018"
+                },
+                {
+                    "id": 326,
+                    "name": "Rangpur Riders",
+                    "shortName": "RAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RANG@2x.png",
+                    "color": "#42b7e8"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -187,6 +276,49 @@
         },
         {
             "category": "Cricket",
+            "title": "Hobart Hurricanes Vs Dubai Capitals",
+            "tournament": "Global Super League, 2025",
+            "short_name": "GSL",
+            "match_id": 130482,
+            "status": "NOT_STARTED",
+            "startTime": "11 July 2025 07:30 PM",
+            "startDate": "10 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130482_5402_HUR_DC_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130482_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130482_5402_HUR_DC_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130482_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 316,
+                    "name": "Hobart Hurricanes",
+                    "shortName": "HUR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png",
+                    "color": "#771ad2"
+                },
+                {
+                    "id": 5829,
+                    "name": "Dubai Capitals",
+                    "shortName": "DC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
+                    "color": "#bd8a16"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Worcestershire Vs Warwickshire",
             "tournament": "Vitality Blast T20, 2025",
             "short_name": "Vitality Blast T20",
@@ -261,135 +393,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "color": "#152e56"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Durham Women Vs Hampshire Women",
-            "tournament": "Women's Vitality Blast T20, 2025",
-            "short_name": "Women's Vitality Blast T20",
-            "match_id": 125870,
-            "status": "NOT_STARTED",
-            "startTime": "11 July 2025 11:00 PM",
-            "startDate": "30 May 2025 05:30 AM",
-            "endDate": "27 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125870_5206_DHW_HAM-W_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125870_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125870_5206_DHW_HAM-W_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125870_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9765,
-                    "name": "Durham Women",
-                    "shortName": "DHW",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DURC@2x.png",
-                    "color": "#8c8301"
-                },
-                {
-                    "id": 3396,
-                    "name": "Hampshire Women",
-                    "shortName": "HAM-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HAM-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HAM-CR1@2x.png",
-                    "color": "#bfbfbf"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Lancashire Vs Yorkshire",
-            "tournament": "Vitality Blast T20, 2025",
-            "short_name": "Vitality Blast T20",
-            "match_id": 125989,
-            "status": "NOT_STARTED",
-            "startTime": "11 July 2025 11:30 PM",
-            "startDate": "29 May 2025 05:30 AM",
-            "endDate": "13 September 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/125989_5207_LAN_YOR_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/125989_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/125989_5207_LAN_YOR_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/125989_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 364,
-                    "name": "Lancashire",
-                    "shortName": "LAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LAN@2x.png",
-                    "color": "#e9515e"
-                },
-                {
-                    "id": 313,
-                    "name": "Yorkshire",
-                    "shortName": "YOR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-YOR@2x.png",
-                    "color": "#4e706c"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "MotoGP",
-            "title": "Day 1",
-            "tournament": "LIQUI MOLY GRAND PRIX OF GERMANY",
-            "short_name": "Germany MotoGP",
-            "match_id": 118604,
-            "status": "NOT_STARTED",
-            "startTime": "11 July 2025 12:30 PM",
-            "startDate": "11 July 2025 12:30 PM",
-            "endDate": "13 July 2025 08:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Germany_Moto-GP_Sporty.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118604_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Germany_Moto-GP_Sporty.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118604_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9458,
-                    "name": "Day 1",
-                    "shortName": "PP",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 9462,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                    "color": "#EE0000"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -536,52 +539,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/T2_36UyVQy6c0mnJvd958w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "TAMIL"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Central Stags Vs Dubai Capitals",
-            "tournament": "Global Super League, 2025",
-            "short_name": "Global Super League",
-            "match_id": 130480,
-            "status": "STARTED",
-            "startTime": "10 July 2025 07:30 PM",
-            "startDate": "10 July 2025 05:30 AM",
-            "endDate": "18 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-Web_1752057006984.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130480_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-Web_1752057006984.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130480_5402_CS_DC_fc-Web_1752057006984.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130480_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 292,
-                    "name": "Central Stags",
-                    "shortName": "CS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
-                    "color": "#03684A"
-                },
-                {
-                    "id": 5829,
-                    "name": "Dubai Capitals",
-                    "shortName": "DC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DCDP@2x.png",
-                    "color": "#bd8a16"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/_DHLHV9TSXOSqM-gcH-yZg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130480_english_hls_94270adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_DHLHV9TSXOSqM-gcH-yZg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
