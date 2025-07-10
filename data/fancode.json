@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:20:11 PM 10-07-2025",
+    "last_updated": "09:25:06 PM 10-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 6,
+    "total_matches": 15,
+    "live_matches": 7,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -629,6 +629,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130153_english_hls_16546adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130153_english_hls_16546adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/JnJokLeORuqyhkKVhsg4Iw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Baltimore Orioles Vs New York Mets",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130303,
+            "status": "STARTED",
+            "startTime": "10 July 2025 09:35 PM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130303_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v2/130303_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130303_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2322,
+                    "name": "Baltimore Orioles",
+                    "shortName": "BAO",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BALTI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BALTI@2x.png",
+                    "color": "#ff8048"
+                },
+                {
+                    "id": 2345,
+                    "name": "New York Mets",
+                    "shortName": "NYM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-NYMT@2x.png",
+                    "color": "#002d71"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/130303_english_hls_76019adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130303_english_hls_76019adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130303_english_hls_76019adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
