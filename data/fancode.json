@@ -1,61 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:45:08 AM 12-07-2025",
+    "last_updated": "10:50:14 AM 12-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 4,
+    "total_matches": 9,
+    "live_matches": 2,
     "upcoming_matches": 7,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "South Korea Vs Indonesia",
-            "tournament": "Bali Bash International Tri Series, 2025",
-            "short_name": "Bali Bash International Tri Seri",
-            "match_id": 130262,
-            "status": "STARTED",
-            "startTime": "12 July 2025 07:00 AM",
-            "startDate": "06 July 2025 05:30 AM",
-            "endDate": "13 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130262_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130262_5392_SK_INA_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130262_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 134,
-                    "name": "South Korea",
-                    "shortName": "SK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOK@2x.png",
-                    "color": "#00006c"
-                },
-                {
-                    "id": 112,
-                    "name": "Indonesia",
-                    "shortName": "INA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png",
-                    "color": "#dc3f31"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130262_english_hls_33596ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ZtlxtDFKR06pUOWhf89c-Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130262_english_hls_33596ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130262_english_hls_33596ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ZtlxtDFKR06pUOWhf89c-Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Malaysia Blues Vs Malaysia Reds",
@@ -98,6 +52,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129717_english_hls_53089ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129717_english_hls_53089ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/MyEHCiiYTLOhvhPnm22zZQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs Navarang Club",
+            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Summer Challenge T20",
+            "match_id": 130412,
+            "status": "STARTED",
+            "startTime": "12 July 2025 09:30 AM",
+            "startDate": "08 July 2025 05:30 AM",
+            "endDate": "24 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130412_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130412_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6052,
+                    "name": "Gauhati Town Club",
+                    "shortName": "GTC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
+                    "color": "#3f0909"
+                },
+                {
+                    "id": 11703,
+                    "name": "Navarang Club",
+                    "shortName": "NVR",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
+                    "color": "#DFE4EE"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/htbJ4A64TEGzTr-zMfXjWA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/htbJ4A64TEGzTr-zMfXjWA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -401,98 +401,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Vs Navarang Club",
-            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Summer Challenge T20",
-            "match_id": 130412,
-            "status": "STARTED",
-            "startTime": "12 July 2025 09:30 AM",
-            "startDate": "08 July 2025 05:30 AM",
-            "endDate": "24 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130412_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130412_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6052,
-                    "name": "Gauhati Town Club",
-                    "shortName": "GTC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-                    "color": "#3f0909"
-                },
-                {
-                    "id": 11703,
-                    "name": "Navarang Club",
-                    "shortName": "NVR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png",
-                    "color": "#DFE4EE"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/htbJ4A64TEGzTr-zMfXjWA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130412_english_hls_19631ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/htbJ4A64TEGzTr-zMfXjWA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "San Francisco Giants Vs Los Angeles Dodgers",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130305,
-            "status": "STARTED",
-            "startTime": "12 July 2025 07:45 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130305_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/130305_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130305_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2349,
-                    "name": "San Francisco Giants",
-                    "shortName": "SFG",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SANFC@2x.png",
-                    "color": "#581a02"
-                },
-                {
-                    "id": 2342,
-                    "name": "Los Angeles Dodgers",
-                    "shortName": "LAD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-LODOG@2x.png",
-                    "color": "#77c0f6"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130305_english_hls_39471adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         }
     ]
