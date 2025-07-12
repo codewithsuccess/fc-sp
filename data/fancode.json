@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:40:12 PM 12-07-2025",
+    "last_updated": "12:42:39 PM 12-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 6,
+    "total_matches": 15,
+    "live_matches": 7,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -527,15 +527,15 @@
                     "color": "#1ba10e"
                 }
             ],
-            "language": "",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287ta-di_h264/index.m3u8",
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287adfreeta-di_h264/index.m3u8",
             "dai_stream": "https://dai.google.com/linear/hls/event/jSDmARMkRL2CmOwbh-Fv2w/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130580_english_hls_35287adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/jSDmARMkRL2CmOwbh-Fv2w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
-                "language": ""
+                "language": "ENGLISH"
             }
         },
         {
@@ -580,6 +580,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130552_english_hls_92524ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130552_english_hls_92524ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ZnYH8UuOSV2TpdFvbfBTSg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Malawi Vs Bahrain",
+            "tournament": "Malawi T20I Quad Series, 2025",
+            "short_name": "Malawi T20I Quad Series",
+            "match_id": 130195,
+            "status": "STARTED",
+            "startTime": "12 July 2025 01:00 PM",
+            "startDate": "05 July 2025 05:30 AM",
+            "endDate": "13 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Malawi-T20I-quad-series-old.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130195_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Malawi-T20I-quad-series-old.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Malawi-T20I-quad-series-old.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130195_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 157,
+                    "name": "Malawi",
+                    "shortName": "MAL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALA@2x.png",
+                    "color": "#710000"
+                },
+                {
+                    "id": 19,
+                    "name": "Bahrain",
+                    "shortName": "BAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+                    "color": "#ff5142"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130195_english_hls_72979adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HOIsiddWQbmri-b65an_Qg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130195_english_hls_72979adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130195_english_hls_72979adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HOIsiddWQbmri-b65an_Qg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
