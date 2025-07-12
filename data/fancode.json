@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:25:05 PM 12-07-2025",
+    "last_updated": "02:30:26 PM 12-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 8,
+    "total_matches": 18,
+    "live_matches": 9,
     "upcoming_matches": 9,
     "matches": [
         {
@@ -718,6 +718,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130581_english_hls_9981adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130581_english_hls_9981adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/THSE4o3WQVCPhYu9TJurHA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Germany Vs Belgium",
+            "tournament": "ECI Germany-Belgium, 2025",
+            "short_name": "ECI Germany-Belgium",
+            "match_id": 130708,
+            "status": "STARTED",
+            "startTime": "12 July 2025 02:45 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "13 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130708_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Germany-Belgium,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130708_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 95,
+                    "name": "Germany",
+                    "shortName": "GER",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GER@2x.png",
+                    "color": "#bc2013"
+                },
+                {
+                    "id": 23,
+                    "name": "Belgium",
+                    "shortName": "BEL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png",
+                    "color": "#b3a91d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130708_english_hls_94500adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/MEmbV0mmTga8-mbXRZiwCA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130708_english_hls_94500adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130708_english_hls_94500adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/MEmbV0mmTga8-mbXRZiwCA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
