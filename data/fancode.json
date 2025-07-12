@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:15:16 AM 13-07-2025",
+    "last_updated": "01:30:30 AM 13-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 7,
+    "total_matches": 13,
+    "live_matches": 8,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -543,6 +543,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130546_english_hls_22468adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130546_english_hls_22468adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/PVO_-M8uREypR8bZTIdklg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Boston Red Sox Vs Tampa Bay Rays",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 130307,
+            "status": "STARTED",
+            "startTime": "13 July 2025 01:40 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/130307_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130307_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v2/130307_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v2/130307_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130307_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2323,
+                    "name": "Boston Red Sox",
+                    "shortName": "BRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BOSTON@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BOSTON@2x.png",
+                    "color": "#97182d"
+                },
+                {
+                    "id": 2334,
+                    "name": "Tampa Bay Rays",
+                    "shortName": "TAB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-TAMPB@2x.png",
+                    "color": "#4173b8"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/130307_english_hls_43163adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/130307_english_hls_43163adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/130307_english_hls_43163adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
