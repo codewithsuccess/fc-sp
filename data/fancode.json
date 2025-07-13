@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:15:08 AM 13-07-2025",
+    "last_updated": "07:20:23 AM 13-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 11,
+    "live_matches": 3,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -442,6 +442,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130264_english_hls_43502adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130264_english_hls_43502adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/ozQYXhRsRPOd33SRIB1nlQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Malaysia Women Vs Assam Women",
+            "tournament": "Assam Women tour of Malaysia, 2025",
+            "short_name": "MAL-W vs ASM-W",
+            "match_id": 130526,
+            "status": "STARTED",
+            "startTime": "13 July 2025 07:30 AM",
+            "startDate": "07 July 2025 05:30 AM",
+            "endDate": "15 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130526_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Assam-Women's-Tour-of-Malaysia-old-match-card.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130526_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 904,
+                    "name": "Malaysia Women",
+                    "shortName": "ML W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MALY@2x.png",
+                    "color": "#ffd800"
+                },
+                {
+                    "id": 3122,
+                    "name": "Assam Women",
+                    "shortName": "ASM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ASM-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ASM-CR1@2x.png",
+                    "color": "#5ea39d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130526_english_hls_62000adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/sQrEnTzmRw-rwQsgjeVrqg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130526_english_hls_62000adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130526_english_hls_62000adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sQrEnTzmRw-rwQsgjeVrqg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
