@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:30:30 PM 15-07-2025",
+    "last_updated": "04:35:07 PM 15-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,52 +10,6 @@
     "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Vs Bud Cricket Club",
-            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
-            "short_name": "GTC Summer Challenge T20",
-            "match_id": 130419,
-            "status": "STARTED",
-            "startTime": "15 July 2025 01:30 PM",
-            "startDate": "08 July 2025 05:30 AM",
-            "endDate": "24 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130419_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_Sporty_Match_card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130419_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 6052,
-                    "name": "Gauhati Town Club",
-                    "shortName": "GTC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
-                    "color": "#3f0909"
-                },
-                {
-                    "id": 6050,
-                    "name": "Bud Cricket Club",
-                    "shortName": "BCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
-                    "color": "#036103"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/0qiD9md4T2WhKJB2qTzNow/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0qiD9md4T2WhKJB2qTzNow/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Karaikal Kniights Vs Ruby White Town Legends",
@@ -146,6 +100,52 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/vrRlntNZQWmesFpwZ__hbQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "TAMIL"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Grey Caps Aachen Vs Koln Cc",
+            "tournament": "ECS Germany, Krefeld, 2025",
+            "short_name": "ECS Germany, Krefeld",
+            "match_id": 130595,
+            "status": "STARTED",
+            "startTime": "15 July 2025 04:45 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-20255_Sporty_Match_card...jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130595_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-20255_Sporty_Match_card...jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130595_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11718,
+                    "name": "Grey Caps Aachen",
+                    "shortName": "GCA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GCA-CR2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GCA-CR2@2x.png",
+                    "color": "#262626"
+                },
+                {
+                    "id": 3386,
+                    "name": "Koln CC",
+                    "shortName": "KCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLS@2x.png",
+                    "color": "#f258c5"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/NYg-Px8pSGyqLzfe8TqSng/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NYg-Px8pSGyqLzfe8TqSng/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -450,52 +450,6 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Grey Caps Aachen Vs Koln Cc",
-            "tournament": "ECS Germany, Krefeld, 2025",
-            "short_name": "ECS Germany, Krefeld",
-            "match_id": 130595,
-            "status": "STARTED",
-            "startTime": "15 July 2025 04:45 PM",
-            "startDate": "14 July 2025 05:30 AM",
-            "endDate": "18 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130595_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130595_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11718,
-                    "name": "Grey Caps Aachen",
-                    "shortName": "GCA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GCA-CR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/GCA-CR2@2x.png",
-                    "color": "#262626"
-                },
-                {
-                    "id": 3386,
-                    "name": "Koln CC",
-                    "shortName": "KCC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KOLS@2x.png",
-                    "color": "#f258c5"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NYg-Px8pSGyqLzfe8TqSng/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130595_english_hls_19596adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NYg-Px8pSGyqLzfe8TqSng/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Live events",
             "title": "Maharaja Trophy Ksca T20 Auction",
             "tournament": "Maharaja Trophy KSCA T20 Auction",
@@ -537,6 +491,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131246_english_hls_46985adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131246_english_hls_46985adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/dsQjKdWMR7uv2Yf3-zva4Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs Bud Cricket Club",
+            "tournament": "GTC Summer Challenge T20 Trophy, 2025",
+            "short_name": "GTC Summer Challenge T20",
+            "match_id": 130419,
+            "status": "STARTED",
+            "startTime": "15 July 2025 01:30 PM",
+            "startDate": "08 July 2025 05:30 AM",
+            "endDate": "24 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130419_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Summer-Challenge-T20-Trophy,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130419_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 6052,
+                    "name": "Gauhati Town Club",
+                    "shortName": "GTC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png",
+                    "color": "#3f0909"
+                },
+                {
+                    "id": 6050,
+                    "name": "Bud Cricket Club",
+                    "shortName": "BCC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png",
+                    "color": "#036103"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/0qiD9md4T2WhKJB2qTzNow/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130419_english_hls_87783adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0qiD9md4T2WhKJB2qTzNow/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
