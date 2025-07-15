@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:25:05 PM 15-07-2025",
+    "last_updated": "06:30:25 PM 15-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 11,
+    "live_matches": 3,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -447,6 +447,52 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Lenkerbeck Marl Vs Vfb Gelsenkirchen",
+            "tournament": "ECS Germany, Krefeld, 2025",
+            "short_name": "ECS Germany, Krefeld",
+            "match_id": 130596,
+            "status": "STARTED",
+            "startTime": "15 July 2025 06:45 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130596_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130596_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11717,
+                    "name": "Lenkerbeck Marl",
+                    "shortName": "LEM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/LEM-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/LEM-CR1@2x.png",
+                    "color": "#513E12"
+                },
+                {
+                    "id": 3385,
+                    "name": "VFB Gelsenkirchen",
+                    "shortName": "VG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GEL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GEL@2x.png",
+                    "color": "#5ae37d"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130596_english_hls_90473adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ztdhXXrlQJqk2pJCEpAl3A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130596_english_hls_90473adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130596_english_hls_90473adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ztdhXXrlQJqk2pJCEpAl3A/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
