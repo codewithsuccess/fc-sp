@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:40:17 AM 15-07-2025",
+    "last_updated": "09:45:12 AM 15-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 9,
-    "live_matches": 2,
+    "total_matches": 10,
+    "live_matches": 3,
     "upcoming_matches": 7,
     "matches": [
         {
@@ -401,6 +401,52 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Live events",
+            "title": "Maharaja Trophy Ksca T20 Auction",
+            "tournament": "Maharaja Trophy KSCA T20 Auction",
+            "short_name": "KSCA T20 Auction",
+            "match_id": 131246,
+            "status": "STARTED",
+            "startTime": "15 July 2025 10:00 AM",
+            "startDate": "15 July 2025 05:30 AM",
+            "endDate": "15 July 2025 11:30 PM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja_trophy_2024__Auction_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131246_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja_trophy_2024__Auction_match-card.jpg",
+                "PLAYBACK": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja_trophy_2024__Auction_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131246_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 7101,
+                    "name": "Maharaja Trophy KSCA T20 Auction",
+                    "shortName": "KSCA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-KSCA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-KSCA@2x.png",
+                    "color": "#fdf251"
+                },
+                {
+                    "id": 6236,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/le-flags/FC-LOC@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131246_english_hls_46985adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/dsQjKdWMR7uv2Yf3-zva4Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131246_english_hls_46985adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131246_english_hls_46985adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/dsQjKdWMR7uv2Yf3-zva4Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         }
     ]
