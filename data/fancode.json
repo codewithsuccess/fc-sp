@@ -1,57 +1,57 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:20:17 AM 16-07-2025",
+    "last_updated": "08:25:05 AM 16-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 10,
-    "live_matches": 2,
+    "total_matches": 9,
+    "live_matches": 1,
     "upcoming_matches": 8,
     "matches": [
         {
-            "category": "Cricket",
-            "title": "Hobart Hurricanes Vs Central Stags",
-            "tournament": "Global Super League, 2025",
-            "short_name": "GSL",
-            "match_id": 130486,
+            "category": "Baseball",
+            "title": "Al All Stars Vs Nl All Stars",
+            "tournament": "Major League Baseball, 2025",
+            "short_name": "Major League Baseball",
+            "match_id": 131481,
             "status": "STARTED",
-            "startTime": "16 July 2025 04:30 AM",
-            "startDate": "10 July 2025 05:30 AM",
-            "endDate": "18 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130486_5402_HUR_CS_fc-App.jpg",
+            "startTime": "16 July 2025 05:30 AM",
+            "startDate": "18 March 2025 05:30 AM",
+            "endDate": "31 October 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_SPORTY_APP.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130486_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130486_5402_HUR_CS_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130486_5402_HUR_CS_fc-Web_1752057007000.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130486_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131481_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 316,
-                    "name": "Hobart Hurricanes",
-                    "shortName": "HUR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png",
-                    "color": "#771ad2"
+                    "id": 3518,
+                    "name": "AL All Stars",
+                    "shortName": "ALS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/ALS-BB1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/ALS-BB1@2x.png",
+                    "color": "#B1F3FF"
                 },
                 {
-                    "id": 292,
-                    "name": "Central Stags",
-                    "shortName": "CS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSGT@2x.png",
-                    "color": "#03684A"
+                    "id": 3519,
+                    "name": "NL All Stars",
+                    "shortName": "NLS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/NLS-BB1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/NLS-BB1@2x.png",
+                    "color": "#FFF8B9"
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130486_english_hls_44024adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yufQKSDbQx6eZV8OVkD8aA/master.m3u8",
+            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130486_english_hls_44024adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130486_english_hls_44024adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yufQKSDbQx6eZV8OVkD8aA/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -398,52 +398,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "Al All Stars Vs Nl All Stars",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 131481,
-            "status": "STARTED",
-            "startTime": "16 July 2025 05:30 AM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/131481_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131481_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 3518,
-                    "name": "AL All Stars",
-                    "shortName": "ALS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/ALS-BB1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/ALS-BB1@2x.png",
-                    "color": "#B1F3FF"
-                },
-                {
-                    "id": 3519,
-                    "name": "NL All Stars",
-                    "shortName": "NLS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/NLS-BB1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/NLS-BB1@2x.png",
-                    "color": "#FFF8B9"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/131481_english_hls_42755adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         }
     ]
