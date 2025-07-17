@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:10:15 PM 17-07-2025",
+    "last_updated": "12:15:10 PM 17-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 12,
+    "live_matches": 4,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -488,6 +488,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130758_english_hls_13839adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130758_english_hls_13839adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/rcqtiYO3TJK2bVa5fXaR_Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Strass Rising Stars Vs Monchengladbach",
+            "tournament": "ECS Germany, Krefeld, 2025",
+            "short_name": "ECS Germany, Krefeld",
+            "match_id": 130603,
+            "status": "STARTED",
+            "startTime": "17 July 2025 12:30 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/130603_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130603_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/130603_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/130603_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130603_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3383,
+                    "name": "Strass Rising Stars",
+                    "shortName": "SRS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRS-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SRS-CR1@2x.png",
+                    "color": "#3F100A"
+                },
+                {
+                    "id": 11719,
+                    "name": "Monchengladbach",
+                    "shortName": "MCG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCG-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MCG-CR1@2x.png",
+                    "color": "#005970"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130603_english_hls_1968adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/yEO_bpiGR-KTIDLT1KpmjA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130603_english_hls_1968adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130603_english_hls_1968adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yEO_bpiGR-KTIDLT1KpmjA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
