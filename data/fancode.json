@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:15:14 PM 17-07-2025",
+    "last_updated": "10:20:15 PM 17-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -195,52 +195,6 @@
             }
         },
         {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "The Open Championship",
-            "short_name": "The Open Championship",
-            "match_id": 131280,
-            "status": "STARTED",
-            "startTime": "17 July 2025 11:00 AM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "20 July 2025 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-sporty.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131280_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-sporty.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131280_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11750,
-                    "name": "Day 1",
-                    "shortName": "TON",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
-                    "color": "#8A8A8A"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Grand Cayman Falcons Vs Cayman Bay Stingrays",
             "tournament": "Max60 Season 2, 2025",
@@ -282,6 +236,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131667_english_hls_32583adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131667_english_hls_32583adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/AlzmuUoPQvetSgPG6zvBhg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "The Open Championship",
+            "short_name": "The Open Championship",
+            "match_id": 131280,
+            "status": "STARTED",
+            "startTime": "17 July 2025 11:00 AM",
+            "startDate": "17 July 2025 05:30 AM",
+            "endDate": "20 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131280_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/The-Open-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131280_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11750,
+                    "name": "Day 1",
+                    "shortName": "TON",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-TON@2x.png",
+                    "color": "#8A8A8A"
+                },
+                {
+                    "id": 5942,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131280_english_hls_19834adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/CQaYOqf1TIqsKsg32Vw0yg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
