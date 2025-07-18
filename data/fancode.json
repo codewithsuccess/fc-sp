@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:25:08 PM 18-07-2025",
+    "last_updated": "10:30:32 PM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 5,
+    "total_matches": 12,
+    "live_matches": 6,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -58,6 +58,52 @@
         },
         {
             "category": "Cricket",
+            "title": "England Champions Vs Pakistan Champions",
+            "tournament": "World Championship of Legends, 2025",
+            "short_name": "WCL",
+            "match_id": 129718,
+            "status": "STARTED",
+            "startTime": "18 July 2025 09:00 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "02 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129718_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/129718_5370_EDC_PNC_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129718_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8763,
+                    "name": "England Champions",
+                    "shortName": "EDC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDC@2x.png",
+                    "color": "#3a8ee4"
+                },
+                {
+                    "id": 8765,
+                    "name": "Pakistan Champions",
+                    "shortName": "PNC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNC@2x.png",
+                    "color": "#0b9333"
+                }
+            ],
+            "language": "HINDI",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/129718_hindi_hls_90527adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/uGz5YsEMR2mM6V6H57ZbNQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/129718_hindi_hls_90527adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/129718_hindi_hls_90527adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/uGz5YsEMR2mM6V6H57ZbNQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "HINDI"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Cayman Bay Stingrays Vs Florida Lions",
             "tournament": "Max60 Season 2, 2025",
             "short_name": "Max60",
@@ -98,6 +144,52 @@
                 "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131740_english_hls_91227adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131740_english_hls_91227adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/MeyVJKQHQxejWJ-U55Y6RQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Caribbean Tigers Vs Boca Raton Trailblazers",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131741,
+            "status": "STARTED",
+            "startTime": "18 July 2025 10:45 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131741_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131741_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8931,
+                    "name": "Caribbean Tigers",
+                    "shortName": "CAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
+                    "color": "#b9160c"
+                },
+                {
+                    "id": 8933,
+                    "name": "Boca Raton Trailblazers",
+                    "shortName": "BRT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRT@2x.png",
+                    "color": "#1867af"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131741_english_hls_48489adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/SXn9aq0sRlanCjY-mvcqIA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131741_english_hls_48489adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131741_english_hls_48489adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/SXn9aq0sRlanCjY-mvcqIA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -146,49 +238,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/QbE4AljhSR-c5DJP8wuTCA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Caribbean Tigers Vs Boca Raton Trailblazers",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131741,
-            "status": "NOT_STARTED",
-            "startTime": "18 July 2025 10:45 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131741_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131448_5453_CAT_BRT_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131741_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8931,
-                    "name": "Caribbean Tigers",
-                    "shortName": "CAT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
-                    "color": "#b9160c"
-                },
-                {
-                    "id": 8933,
-                    "name": "Boca Raton Trailblazers",
-                    "shortName": "BRT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BRT@2x.png",
-                    "color": "#1867af"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
