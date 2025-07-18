@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:40:14 PM 18-07-2025",
+    "last_updated": "06:45:15 PM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 9,
+    "total_matches": 15,
+    "live_matches": 10,
     "upcoming_matches": 5,
     "matches": [
         {
@@ -589,6 +589,52 @@
                 "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130120_english_hls_89632adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130120_english_hls_89632adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/44NI9JhyQn-N1qG_gWL3wQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Glamorgan Women Vs Kent Women",
+            "tournament": "Women's Vitality Blast League 2, 2025",
+            "short_name": "Women's Vitality Blast League 2",
+            "match_id": 126080,
+            "status": "STARTED",
+            "startTime": "18 July 2025 07:00 PM",
+            "startDate": "29 May 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/126080_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126080_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9852,
+                    "name": "Glamorgan Women",
+                    "shortName": "GLA-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GLA@2x.png",
+                    "color": "#528c3d"
+                },
+                {
+                    "id": 3400,
+                    "name": "Kent Women",
+                    "shortName": "KET-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KET@2x.png",
+                    "color": "#843961"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/8-7gZw69R7Ci1W7KCKgc-Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/8-7gZw69R7Ci1W7KCKgc-Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
