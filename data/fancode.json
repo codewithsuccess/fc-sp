@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:10:13 PM 18-07-2025",
+    "last_updated": "08:15:25 PM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 13,
-    "live_matches": 7,
+    "total_matches": 15,
+    "live_matches": 9,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -500,6 +500,98 @@
         },
         {
             "category": "Cricket",
+            "title": "Chennai Kings Ca Vs Cecc",
+            "tournament": "KCC T20 Summer League, 2025",
+            "short_name": "KCC T20 Summer League",
+            "match_id": 130001,
+            "status": "STARTED",
+            "startTime": "18 July 2025 08:30 PM",
+            "startDate": "05 July 2025 05:30 AM",
+            "endDate": "08 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130001_5379_CHK_CEC-A_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130001_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130001_5379_CHK_CEC-A_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130001_5379_CHK_CEC-A_fc-web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130001_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 9318,
+                    "name": "Chennai Kings CA",
+                    "shortName": "CHK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKC@2x.png",
+                    "color": "#f7b716"
+                },
+                {
+                    "id": 5332,
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
+                    "color": "#bf9737"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130001_english_hls_77964adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/HcQu5vd7SAuH09fepqNfuQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130001_english_hls_77964adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130001_english_hls_77964adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HcQu5vd7SAuH09fepqNfuQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Vfb Gelsenkirchen Vs Dusseldorf Blackcaps",
+            "tournament": "ECS Germany, Krefeld, 2025",
+            "short_name": "ECS Germany, Krefeld",
+            "match_id": 130611,
+            "status": "STARTED",
+            "startTime": "18 July 2025 08:30 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "18 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130611_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Krefeld,-2025_match-card-(1).jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130611_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 3385,
+                    "name": "VFB Gelsenkirchen",
+                    "shortName": "VG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GEL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GEL@2x.png",
+                    "color": "#5ae37d"
+                },
+                {
+                    "id": 3388,
+                    "name": "Dusseldorf Blackcaps",
+                    "shortName": "DB",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DUSSB@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DUSSB@2x.png",
+                    "color": "#0030FF"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/130611_english_hls_4510adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/N4jRNGzFRqWPypYulODCSA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130611_english_hls_4510adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130611_english_hls_4510adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/N4jRNGzFRqWPypYulODCSA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Glamorgan Women Vs Kent Women",
             "tournament": "Women's Vitality Blast League 2, 2025",
             "short_name": "Women's Vitality Blast League 2",
@@ -549,22 +641,22 @@
             "title": "E1",
             "tournament": "E1 Monaco GP",
             "short_name": "E1 Monaco",
-            "match_id": 131388,
+            "match_id": 131389,
             "status": "STARTED",
-            "startTime": "18 July 2025 04:30 PM",
+            "startTime": "18 July 2025 08:25 PM",
             "startDate": "18 July 2025 05:30 AM",
             "endDate": "19 July 2025 11:30 PM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131388_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131389_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
                 "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131388_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131389_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
                     "id": 9603,
-                    "name": "Session 1 - Qualifying Time Trials",
+                    "name": "Session 2 - Qualifying Races",
                     "shortName": "E1",
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
@@ -580,12 +672,12 @@
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131388_english_hls_31053adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/KgnegfJES8G4iIaEGP94jw/master.m3u8",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/oHto7CHdQRG8Tfxmt2zbBg/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131388_english_hls_31053adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131388_english_hls_31053adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/KgnegfJES8G4iIaEGP94jw/master.m3u8",
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/oHto7CHdQRG8Tfxmt2zbBg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
