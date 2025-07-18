@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:29 AM 18-07-2025",
+    "last_updated": "06:35:05 AM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 2,
-    "upcoming_matches": 7,
+    "live_matches": 1,
+    "upcoming_matches": 8,
     "matches": [
         {
             "category": "Cricket",
@@ -52,52 +52,6 @@
                 "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130776_english_hls_24219adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130776_english_hls_24219adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/IsUEDdQnSQO9ghNIvx7nsA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "Barracuda Championship 2025",
-            "short_name": "Barracuda Championship",
-            "match_id": 131255,
-            "status": "STARTED",
-            "startTime": "18 July 2025 03:30 AM",
-            "startDate": "17 July 2025 05:30 AM",
-            "endDate": "20 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-sporty.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131255_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-sporty.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Barracuda-championship-old.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131255_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5941,
-                    "name": "Day 1",
-                    "shortName": "PGA",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                    "color": "#141414"
-                },
-                {
-                    "id": 5942,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                    "color": "#141414"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131255_english_hls_11941adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/NUzed22dQY-tkxLPBqO0lQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131255_english_hls_11941adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131255_english_hls_11941adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/NUzed22dQY-tkxLPBqO0lQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -393,6 +347,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIBE@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MIBE@2x.png",
                     "color": "#59020c"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Cayman Bay Stingrays Vs Florida Lions",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131740,
+            "status": "NOT_STARTED",
+            "startTime": "18 July 2025 08:45 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131740_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131740_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11720,
+                    "name": "Cayman Bay Stingrays",
+                    "shortName": "CBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
+                    "color": "#009cff"
+                },
+                {
+                    "id": 11724,
+                    "name": "Florida Lions",
+                    "shortName": "FLI",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FLI@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-FLI@2x.png",
+                    "color": "#63b5e4"
                 }
             ],
             "language": "BLOODY_SWEET",
