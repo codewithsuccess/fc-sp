@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:55:06 PM 18-07-2025",
+    "last_updated": "05:00:22 PM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 12,
-    "live_matches": 6,
+    "total_matches": 13,
+    "live_matches": 7,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -494,6 +494,52 @@
                 "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/130761_english_hls_76432adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/130761_english_hls_76432adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/CkpKTd-5ToiyriGOXzJ-RA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Bahrain Vs Rwanda",
+            "tournament": "Rwanda Tri Nations T20 Cup 2025",
+            "short_name": "RWA vs BAH vs MLW",
+            "match_id": 131263,
+            "status": "STARTED",
+            "startTime": "18 July 2025 05:15 PM",
+            "startDate": "18 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/131263_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131263_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/131263_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/131263_CASACARDS_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131263_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 19,
+                    "name": "Bahrain",
+                    "shortName": "BAH",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAH@2x.png",
+                    "color": "#ff5142"
+                },
+                {
+                    "id": 207,
+                    "name": "Rwanda",
+                    "shortName": "RWA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWA@2x.png",
+                    "color": "#227de0"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131263_english_hls_5196adfreeta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/Joms630YTsuRlbSYEBn2tQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131263_english_hls_5196adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131263_english_hls_5196adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Joms630YTsuRlbSYEBn2tQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
