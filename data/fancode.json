@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:00:17 PM 18-07-2025",
+    "last_updated": "10:05:07 PM 18-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 14,
-    "live_matches": 8,
-    "upcoming_matches": 6,
+    "total_matches": 13,
+    "live_matches": 6,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -550,7 +550,7 @@
             "tournament": "Women's Vitality Blast League 2, 2025",
             "short_name": "Women's Vitality Blast League 2",
             "match_id": 126080,
-            "status": "STARTED",
+            "status": "COMPLETED",
             "startTime": "18 July 2025 07:00 PM",
             "startDate": "29 May 2025 05:30 AM",
             "endDate": "27 July 2025 05:30 AM",
@@ -558,7 +558,7 @@
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/126080_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Vitality-blast-womens-league-2-old.jpg",
+                "PLAYBACK": null,
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/126080_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -579,61 +579,12 @@
                     "color": "#843961"
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/8-7gZw69R7Ci1W7KCKgc-Q/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/126080_english_hls_86039adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/8-7gZw69R7Ci1W7KCKgc-Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Motorsports",
-            "title": "E1",
-            "tournament": "E1 Monaco GP",
-            "short_name": "E1 Monaco",
-            "match_id": 131389,
-            "status": "STARTED",
-            "startTime": "18 July 2025 08:25 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "19 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131389_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/E1-generic---old-match-card.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131389_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 9603,
-                    "name": "Session 2 - Qualifying Races",
-                    "shortName": "E1",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                    "color": "#EE0000"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/oHto7CHdQRG8Tfxmt2zbBg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-pdlive.fancode.com/mumbai/131389_english_hls_57561adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/oHto7CHdQRG8Tfxmt2zbBg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
