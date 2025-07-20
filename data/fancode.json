@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:31 PM 20-07-2025",
+    "last_updated": "06:35:09 PM 20-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 17,
-    "live_matches": 11,
-    "upcoming_matches": 6,
+    "live_matches": 10,
+    "upcoming_matches": 7,
     "matches": [
         {
             "category": "Cricket",
@@ -411,52 +411,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Djk Munich W Vs Baden Wurttemberg United W",
-            "tournament": "ECS-W Germany, Krefeld, 2025",
-            "short_name": "ECS-W Germany, Krefeld",
-            "match_id": 131562,
-            "status": "STARTED",
-            "startTime": "20 July 2025 04:45 PM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "20 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131562_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11762,
-                    "name": "DJK Munich-W",
-                    "shortName": "DM-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DMN-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DMN-CR1@2x.png",
-                    "color": "#e35232"
-                },
-                {
-                    "id": 11763,
-                    "name": "Baden-Wurttemberg United-W",
-                    "shortName": "BWU-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWU-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWU-CR1@2x.png",
-                    "color": "#f673b8"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131562_english_hls_31109adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YOjDzQvmTC2aoAfhw8MM4Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131562_english_hls_31109adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131562_english_hls_31109adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YOjDzQvmTC2aoAfhw8MM4Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Rwanda Vs Bahrain",
             "tournament": "Rwanda Tri Nations T20 Cup 2025",
             "short_name": "RWA vs BAH vs MLW",
@@ -775,6 +729,49 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/TDCofZuKR56AFr_dYdlSvA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Djk Munich W Vs Baden Wurttemberg United W",
+            "tournament": "ECS-W Germany, Krefeld, 2025",
+            "short_name": "ECS-W Germany, Krefeld",
+            "match_id": 131562,
+            "status": "COMPLETED",
+            "startTime": "20 July 2025 04:45 PM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "20 July 2025 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/131562_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131562_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 11762,
+                    "name": "DJK Munich-W",
+                    "shortName": "DM-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DMN-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DMN-CR1@2x.png",
+                    "color": "#e35232"
+                },
+                {
+                    "id": 11763,
+                    "name": "Baden-Wurttemberg United-W",
+                    "shortName": "BWU-W",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWU-CR1@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BWU-CR1@2x.png",
+                    "color": "#f673b8"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         }
     ]
