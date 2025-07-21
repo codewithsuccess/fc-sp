@@ -1,58 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:00:25 PM 21-07-2025",
+    "last_updated": "02:05:07 PM 21-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 17,
-    "live_matches": 7,
+    "total_matches": 16,
+    "live_matches": 6,
     "upcoming_matches": 10,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Amo Sharks Vs Band E Amir Dragons",
-            "tournament": "Shpageeza Cricket League, 2025",
-            "short_name": "Shpageeza Cricket League",
-            "match_id": 130793,
-            "status": "COMPLETED",
-            "startTime": "21 July 2025 10:00 AM",
-            "startDate": "19 July 2025 05:30 AM",
-            "endDate": "01 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130793_5425_AM_BD_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130793_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130793_5425_AM_BD_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130793_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 1498,
-                    "name": "Amo Sharks",
-                    "shortName": "AM",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
-                    "color": "#00a6ff"
-                },
-                {
-                    "id": 1499,
-                    "name": "Band-e-Amir Dragons",
-                    "shortName": "BD",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BD@2x.png",
-                    "color": "#308b20"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
         {
             "category": "Cricket",
             "title": "Boost Defenders Vs Mis E Ainak Knights",
@@ -399,6 +356,49 @@
         },
         {
             "category": "Cricket",
+            "title": "New Zealand Vs South Africa",
+            "tournament": "Zimbabwe T20I Tri Series, 2025",
+            "short_name": "NZ vs ZIM vs SA",
+            "match_id": 128757,
+            "status": "NOT_STARTED",
+            "startTime": "22 July 2025 04:30 PM",
+            "startDate": "14 July 2025 05:30 AM",
+            "endDate": "26 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-app.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/128757_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/128757_5315_NZ_SA_fc-app.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/128757_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 186,
+                    "name": "New Zealand",
+                    "shortName": "NZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
+                    "color": "#1d2c6b"
+                },
+                {
+                    "id": 212,
+                    "name": "South Africa",
+                    "shortName": "SA",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RSA@2x.png",
+                    "color": "#2d9251"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "United Arab Emirates Vs Nigeria",
             "tournament": "Pearl of Africa T20, 2025",
             "short_name": "Pearl of Africa T20",
@@ -439,52 +439,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130764_english_hls_69257adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130764_english_hls_69257adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/T7SuWgC6SOy18em63h-BCQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Alby Zalmi W Vs Djurgardens If W",
-            "tournament": "ECS-W Sweden, Stockholm, 2025",
-            "short_name": "ECS-W Sweden",
-            "match_id": 131621,
-            "status": "STARTED",
-            "startTime": "21 July 2025 12:15 PM",
-            "startDate": "21 July 2025 05:30 AM",
-            "endDate": "22 July 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/131621_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131621_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/131621_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/131621_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131621_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 11767,
-                    "name": "Alby Zalmi-W",
-                    "shortName": "ALZ-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ALZ-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ALZ-CR1@2x.png",
-                    "color": "#EAD494"
-                },
-                {
-                    "id": 11765,
-                    "name": "Djurgardens IF-W",
-                    "shortName": "DIF-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DIC-CR1@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DIC-CR1@2x.png",
-                    "color": "#A4C5DC"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131621_english_hls_59298adfreeta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3CtJXBSqR2etsJp1R2UWEw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131621_english_hls_59298adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131621_english_hls_59298adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/3CtJXBSqR2etsJp1R2UWEw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
