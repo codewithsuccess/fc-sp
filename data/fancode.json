@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:50:14 PM 22-07-2025",
+    "last_updated": "08:55:06 PM 22-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -150,6 +150,52 @@
         },
         {
             "category": "Cricket",
+            "title": "Caribbean Tigers Vs Cayman Bay Stingrays",
+            "tournament": "Max60 Season 2, 2025",
+            "short_name": "Max60",
+            "match_id": 131718,
+            "status": "STARTED",
+            "startTime": "22 July 2025 08:30 PM",
+            "startDate": "16 July 2025 05:30 AM",
+            "endDate": "23 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131718_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-App.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-Web.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131718_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8931,
+                    "name": "Caribbean Tigers",
+                    "shortName": "CAT",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
+                    "color": "#b9160c"
+                },
+                {
+                    "id": 11720,
+                    "name": "Cayman Bay Stingrays",
+                    "shortName": "CBS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
+                    "color": "#009cff"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/LuKLek1_Sn2xQtKHk7EySA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LuKLek1_Sn2xQtKHk7EySA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "England Champions Vs West Indies Champions",
             "tournament": "World Championship of Legends, 2025",
             "short_name": "WCL",
@@ -238,52 +284,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/kxLRjUTTRp6wzrA-6HuB_w/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "HINDI"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Caribbean Tigers Vs Cayman Bay Stingrays",
-            "tournament": "Max60 Season 2, 2025",
-            "short_name": "Max60",
-            "match_id": 131718,
-            "status": "STARTED",
-            "startTime": "22 July 2025 08:30 PM",
-            "startDate": "16 July 2025 05:30 AM",
-            "endDate": "23 July 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131718_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-App.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/131452_5453_CAT_CBS_fc-Web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131718_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8931,
-                    "name": "Caribbean Tigers",
-                    "shortName": "CAT",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAT@2x.png",
-                    "color": "#b9160c"
-                },
-                {
-                    "id": 11720,
-                    "name": "Cayman Bay Stingrays",
-                    "shortName": "CBS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CBS@2x.png",
-                    "color": "#009cff"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LuKLek1_Sn2xQtKHk7EySA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131718_english_hls_48244ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LuKLek1_Sn2xQtKHk7EySA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
