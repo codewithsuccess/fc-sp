@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:25:06 AM 24-07-2025",
+    "last_updated": "02:30:28 AM 24-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 11,
-    "live_matches": 3,
+    "total_matches": 10,
+    "live_matches": 2,
     "upcoming_matches": 8,
     "matches": [
         {
@@ -398,52 +398,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Baseball",
-            "title": "Chicago Cubs Vs Kansas City Royals",
-            "tournament": "Major League Baseball, 2025",
-            "short_name": "Major League Baseball",
-            "match_id": 130272,
-            "status": "STARTED",
-            "startTime": "23 July 2025 11:50 PM",
-            "startDate": "18 March 2025 05:30 AM",
-            "endDate": "31 October 2025 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/130272_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130272_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/130272_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/130272_CASACARDS_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130272_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 2339,
-                    "name": "Chicago Cubs",
-                    "shortName": "CHC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png",
-                    "color": "#d64140"
-                },
-                {
-                    "id": 2328,
-                    "name": "Kansas City Royals",
-                    "shortName": "KCR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-KANS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-KANS@2x.png",
-                    "color": "#a98334"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130272_english_hls_66118ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130272_english_hls_66118ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130272_english_hls_66118ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
