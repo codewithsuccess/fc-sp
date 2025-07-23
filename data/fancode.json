@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:00:22 PM 23-07-2025",
+    "last_updated": "07:05:06 PM 23-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,52 +10,6 @@
     "live_matches": 6,
     "upcoming_matches": 8,
     "matches": [
-        {
-            "category": "Football",
-            "title": "Arsenal Vs Milan",
-            "tournament": "Club Friendlies 2025",
-            "short_name": "Club Friendlies",
-            "match_id": 129904,
-            "status": "STARTED",
-            "startTime": "23 July 2025 05:00 PM",
-            "startDate": "12 July 2025 05:30 AM",
-            "endDate": "10 August 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129904_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_old_1753269451119.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129904_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 409,
-                    "name": "Arsenal",
-                    "shortName": "ARS",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARS@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARS@2x.png",
-                    "color": "#5ebae9"
-                },
-                {
-                    "id": 559,
-                    "name": "Milan",
-                    "shortName": "MIL",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIL@2x.png",
-                    "color": "#f2696a"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Australia Champions Vs West Indies Champions",
@@ -140,6 +94,52 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Arsenal Vs Milan",
+            "tournament": "Club Friendlies 2025",
+            "short_name": "Club Friendlies",
+            "match_id": 129904,
+            "status": "STARTED",
+            "startTime": "23 July 2025 05:00 PM",
+            "startDate": "12 July 2025 05:30 AM",
+            "endDate": "10 August 2025 11:30 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129904_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_Sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Arsenal-VS-Milan_old_1753269451119.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129904_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 409,
+                    "name": "Arsenal",
+                    "shortName": "ARS",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ARS@2x.png",
+                    "color": "#5ebae9"
+                },
+                {
+                    "id": 559,
+                    "name": "Milan",
+                    "shortName": "MIL",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIL@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MIL@2x.png",
+                    "color": "#f2696a"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/129904_english_hls_73561ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/TJx_Lmf5QvyZJPwXtdJ9vQ/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
