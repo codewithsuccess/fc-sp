@@ -1,61 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:50:15 AM 25-07-2025",
+    "last_updated": "04:55:06 AM 25-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 9,
-    "live_matches": 1,
-    "upcoming_matches": 8,
+    "live_matches": 0,
+    "upcoming_matches": 9,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Stack Cc Vs Cecc",
-            "tournament": "KCC T20 Summer League, 2025",
-            "short_name": "KCC T20 Summer League",
-            "match_id": 130009,
-            "status": "STARTED",
-            "startTime": "25 July 2025 01:15 AM",
-            "startDate": "05 July 2025 05:30 AM",
-            "endDate": "08 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/130009_5379_STAX_CEC-A_fc-app.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130009_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130009_5379_STAX_CEC-A_fc-app.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/130009_5379_STAX_CEC-A_fc-web.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130009_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 5330,
-                    "name": "Stack CC",
-                    "shortName": "STAX",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-STAX@2x.png",
-                    "color": "#2042D2"
-                },
-                {
-                    "id": 5332,
-                    "name": "CECC",
-                    "shortName": "CEC-A",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png",
-                    "color": "#bf9737"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/130009_english_hls_5471ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/eZ_k5feTSJufTsnaPK3tkg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130009_english_hls_5471ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130009_english_hls_5471ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/eZ_k5feTSJufTsnaPK3tkg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Mis E Ainak Knights Vs Amo Sharks",
@@ -390,6 +344,49 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                     "color": "#123456"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Amo Sharks Vs Speen Ghar Tigers",
+            "tournament": "Shpageeza Cricket League, 2025",
+            "short_name": "Shpageeza Cricket League",
+            "match_id": 130798,
+            "status": "COMPLETED",
+            "startTime": "24 July 2025 10:00 AM",
+            "startDate": "19 July 2025 05:30 AM",
+            "endDate": "01 August 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/130798_5425_AM_SG_fc-App.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/130798_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/130798_5425_AM_SG_fc-App.jpg",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/130798_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 1498,
+                    "name": "Amo Sharks",
+                    "shortName": "AM",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AS@2x.png",
+                    "color": "#00a6ff"
+                },
+                {
+                    "id": 1502,
+                    "name": "Speen Ghar Tigers",
+                    "shortName": "SG",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ST@2x.png",
+                    "color": "#f92c41"
                 }
             ],
             "language": "BLOODY_SWEET",
