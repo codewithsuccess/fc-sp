@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:20:11 PM 26-07-2025",
+    "last_updated": "06:25:08 PM 26-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 23,
+    "total_matches": 22,
     "live_matches": 18,
-    "upcoming_matches": 5,
+    "upcoming_matches": 4,
     "matches": [
         {
             "category": "Cricket",
@@ -287,6 +287,52 @@
             }
         },
         {
+            "category": "Formula 1",
+            "title": "Qualifying",
+            "tournament": "F1 MOET & CHANDON BELGIAN GRAND PRIX 2025",
+            "short_name": "Belgian GP",
+            "match_id": 118444,
+            "status": "STARTED",
+            "startTime": "26 July 2025 07:30 PM",
+            "startDate": "25 July 2025 05:30 AM",
+            "endDate": "27 July 2025 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Qualifying_Sporty.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/118444_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Qualifying_Sporty.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Belgian-Grand-Prix_F1_Race_old.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/118444_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 8203,
+                    "name": "Qualifying",
+                    "shortName": "QF",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                    "color": "#EE0000"
+                },
+                {
+                    "id": 8199,
+                    "name": "Location",
+                    "shortName": "LOC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                    "color": "#141414"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://d37nxc6d3532w4.cloudfront.net/out/v1/260a0d55c721493b9a09c76e738a5254/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://d37nxc6d3532w4.cloudfront.net/out/v1/260a0d55c721493b9a09c76e738a5254/index.m3u8",
+                "fancode_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "https://d37nxc6d3532w4.cloudfront.net/out/v1/260a0d55c721493b9a09c76e738a5254/index.m3u8",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
             "title": "Pakistan Champions Vs West Indies Champions",
             "tournament": "World Championship of Legends, 2025",
@@ -405,49 +451,6 @@
                     "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WAS@2x.png",
                     "color": "#152e56"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "South Africa Champions Vs Australia Champions",
-            "tournament": "World Championship of Legends, 2025",
-            "short_name": "WCL",
-            "match_id": 129729,
-            "status": "NOT_STARTED",
-            "startTime": "27 July 2025 05:00 PM",
-            "startDate": "18 July 2025 05:30 AM",
-            "endDate": "02 August 2025 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/129729_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/129729_5370_SAC_AAC_fc-App.jpg",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/129729_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8767,
-                    "name": "South Africa Champions",
-                    "shortName": "SAC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACW@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SACW@2x.png",
-                    "color": "#e9ba2d"
-                },
-                {
-                    "id": 8766,
-                    "name": "Australia Champions",
-                    "shortName": "AAC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AACC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AACC@2x.png",
-                    "color": "#27bb12"
                 }
             ],
             "language": "BLOODY_SWEET",
@@ -730,52 +733,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131973_english_hls_40634ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131973_english_hls_40634ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/5Pn2F0CbRmiCZR0MekIUsw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Motorsports",
-            "title": "Formula 2",
-            "tournament": "F2 BELGIUM 2025",
-            "short_name": "F2 Belgium",
-            "match_id": 119059,
-            "status": "STARTED",
-            "startTime": "26 July 2025 05:15 PM",
-            "startDate": "25 July 2025 05:30 AM",
-            "endDate": "27 July 2025 11:30 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/119059_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/119059_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 8236,
-                    "name": "Sprint Race",
-                    "shortName": "F2",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR2@2x.png",
-                    "color": "#123456"
-                },
-                {
-                    "id": 8235,
-                    "name": "Location",
-                    "shortName": "LOC",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                    "color": "#123456"
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/119059_english_hls_58635adfreeta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/119059_english_hls_58635adfreeta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/119059_english_hls_58635adfreeta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
