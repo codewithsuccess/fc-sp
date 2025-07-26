@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:55:07 PM 26-07-2025",
+    "last_updated": "08:00:22 PM 26-07-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 23,
-    "live_matches": 17,
+    "total_matches": 24,
+    "live_matches": 18,
     "upcoming_matches": 6,
     "matches": [
         {
@@ -727,6 +727,52 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131669_english_hls_34712ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131669_english_hls_34712ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/aKT4JCaXTA6dOTgCsHsQ9Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Alby Zalmi Vs Rising Phoenix",
+            "tournament": "ECS Sweden, Stockholm, 2025",
+            "short_name": "ECS Sweden, Stockholm",
+            "match_id": 131920,
+            "status": "STARTED",
+            "startTime": "26 July 2025 08:15 PM",
+            "startDate": "23 July 2025 05:30 AM",
+            "endDate": "27 July 2025 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131920_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Sweden,-Stockholm,-2025_match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131920_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 2107,
+                    "name": "Alby Zalmi",
+                    "shortName": "ALZ",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALZ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ALZ@2x.png",
+                    "color": "#ffcd3a"
+                },
+                {
+                    "id": 11799,
+                    "name": "Rising Phoenix",
+                    "shortName": "RPHX",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR13@2x.png",
+                    "color": "#FFFFFF"
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131920_english_hls_36621ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/gNGDD1DqQ0CnmC4scXKTuw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131920_english_hls_36621ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131920_english_hls_36621ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/gNGDD1DqQ0CnmC4scXKTuw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
