@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:31:08 AM 02-08-2025",
+    "last_updated": "12:37:49 AM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 10,
     "upcoming_matches": 28,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "London County Cricket Vs Guildford",
-            "tournament": "ECS England, Wimbledon, 2025",
-            "match_id": 132051,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "01 August 2025 10:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132051_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132051_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "London County Cricket",
-                    "shortName": "LCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR20@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#F9F0B0",
-                    "cricketScore": [
-                        {
-                            "runs": 226,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "COMPLETED",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Guildford",
-                    "shortName": "GFD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#FFFF8F",
-                    "cricketScore": [
-                        {
-                            "runs": 155,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "IN_PROGRESS",
-                            "wickets": 4
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/_Pwl41Q0QsOI63bbcBXbow/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Pwl41Q0QsOI63bbcBXbow/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Kuwait Swedish Vs Sbs Cc",
@@ -155,11 +68,11 @@
                     "color": "#ae3c22",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 59,
+                            "overs": "7.1",
+                            "balls": "43",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -683,6 +596,93 @@
         },
         {
             "category": "Cricket",
+            "title": "London County Cricket Vs Guildford",
+            "tournament": "ECS England, Wimbledon, 2025",
+            "match_id": 132051,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "01 August 2025 10:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132051_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132051_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "London County Cricket",
+                    "shortName": "LCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR20@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#F9F0B0",
+                    "cricketScore": [
+                        {
+                            "runs": 226,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "COMPLETED",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Guildford",
+                    "shortName": "GFD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR3@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#FFFF8F",
+                    "cricketScore": [
+                        {
+                            "runs": 155,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "IN_PROGRESS",
+                            "wickets": 4
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/_Pwl41Q0QsOI63bbcBXbow/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132051_english_hls_54985ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/_Pwl41Q0QsOI63bbcBXbow/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Keraniganj Challengers Vs Jhelum Jaguars",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132137,
@@ -710,14 +710,22 @@
                     },
                     "isWinner": null,
                     "color": "#d50e25",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
