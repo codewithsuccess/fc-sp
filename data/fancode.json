@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:31:06 PM 01-08-2025",
+    "last_updated": "08:37:50 PM 01-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -139,9 +139,9 @@
                     "color": "#1E1A15",
                     "cricketScore": [
                         {
-                            "runs": 120,
-                            "overs": "17.1",
-                            "balls": "103",
+                            "runs": 144,
+                            "overs": "18.4",
+                            "balls": "112",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -252,7 +252,7 @@
             "title": "Cfs Pinnacle Pro Vs Guildford",
             "tournament": "ECS England, Wimbledon, 2025",
             "match_id": 132050,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "01 August 2025 08:45 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -639,14 +639,22 @@
                     },
                     "isWinner": null,
                     "color": "#5380de",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
