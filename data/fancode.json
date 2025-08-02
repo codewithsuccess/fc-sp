@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:25 PM 02-08-2025",
+    "last_updated": "11:30:32 PM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -216,8 +216,8 @@
                     "cricketScore": [
                         {
                             "runs": 58,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -857,7 +857,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Sloggers Vs Pirates",
+            "title": "Pirates Vs Sloggers",
             "tournament": "ECS Gibraltar, 2025",
             "match_id": 132826,
             "status": "NOT_STARTED",
@@ -877,25 +877,6 @@
             },
             "teams": [
                 {
-                    "name": "Sloggers",
-                    "shortName": "SLO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b33b19",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Pirates",
                     "shortName": "PIR",
                     "flag": {
@@ -903,6 +884,33 @@
                     },
                     "isWinner": null,
                     "color": "#dab712",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Sloggers",
+                    "shortName": "SLO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b33b19",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
