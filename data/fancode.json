@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:31:06 AM 02-08-2025",
+    "last_updated": "09:37:48 AM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "9.2",
-                            "balls": "56",
+                            "runs": 49,
+                            "overs": "10.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#941210",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "4.2",
-                            "balls": "26",
+                            "runs": 19,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -396,7 +396,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Rays Vs Magic",
+            "title": "Magic Vs Rays",
             "tournament": "Mackay T20 Championship, 2025",
             "match_id": 132520,
             "status": "NOT_STARTED",
@@ -416,25 +416,6 @@
             },
             "teams": [
                 {
-                    "name": "Rays",
-                    "shortName": "RYS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RYS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#005121",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Magic",
                     "shortName": "MGC",
                     "flag": {
@@ -442,6 +423,33 @@
                     },
                     "isWinner": null,
                     "color": "#8471b7",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Rays",
+                    "shortName": "RYS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RYS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#005121",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
