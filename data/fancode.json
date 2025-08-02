@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:38:12 PM 02-08-2025",
+    "last_updated": "01:44:55 PM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -136,9 +136,9 @@
                     "color": "#80081C",
                     "cricketScore": [
                         {
-                            "runs": 18,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 21,
+                            "overs": "5",
+                            "balls": "30",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -302,11 +302,11 @@
                     "color": "#dab712",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "1.3",
-                            "balls": "9",
+                            "runs": 30,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -362,9 +362,9 @@
                     "color": "#322D04",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 77,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -512,9 +512,9 @@
                     "color": "#a58b06",
                     "cricketScore": [
                         {
-                            "runs": 8,
-                            "overs": "1.4",
-                            "balls": "10",
+                            "runs": 25,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -1524,74 +1524,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Cardiff City Vs Peterborough United",
-            "tournament": "League One 2025-26",
-            "match_id": 132013,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "02 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132013_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-League-One.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132013_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Cardiff City",
-                    "shortName": "CAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CARDF@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#527ec3",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Peterborough United",
-                    "shortName": "PTU",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PET@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d4ebff",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Nabajyoti Club Vs City Cricket Club",
             "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
@@ -1640,6 +1572,74 @@
                     "isWinner": null,
                     "color": "#ed1f24",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Cardiff City Vs Peterborough United",
+            "tournament": "League One 2025-26",
+            "match_id": 132013,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "02 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132013_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-League-One.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/League-One-2025-26_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132013_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Cardiff City",
+                    "shortName": "CAR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CARDF@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#527ec3",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Peterborough United",
+                    "shortName": "PTU",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PET@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d4ebff",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
