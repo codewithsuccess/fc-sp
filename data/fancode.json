@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:26:32 PM 02-08-2025",
+    "last_updated": "08:30:16 PM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -345,7 +345,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PAJ-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#06458D",
                     "cricketScore": [
                         {
@@ -372,13 +372,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EVE-CR2@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#1E1A15",
                     "cricketScore": [
                         {
-                            "runs": 131,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 147,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -436,11 +436,11 @@
                     "color": "#b33b19",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "2.1",
-                            "balls": "13",
+                            "runs": 28,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
