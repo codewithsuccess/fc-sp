@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:44:32 PM 02-08-2025",
+    "last_updated": "07:51:15 PM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -86,7 +86,7 @@
             "title": "South Delhi Superstarz Vs East Delhi Riders",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132464,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "02 August 2025 08:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -210,11 +210,11 @@
                     "color": "#1E1A15",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "5.2",
-                            "balls": "32",
+                            "runs": 37,
+                            "overs": "6.3",
+                            "balls": "39",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -266,7 +266,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RUC@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#f03c3c",
                     "cricketScore": [
                         {
@@ -293,15 +293,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#dab712",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 87,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
