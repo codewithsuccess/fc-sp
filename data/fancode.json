@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:52:05 AM 02-08-2025",
+    "last_updated": "10:58:49 AM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -112,11 +112,11 @@
                     "color": "#8471b7",
                     "cricketScore": [
                         {
-                            "runs": 66,
-                            "overs": "12.1",
-                            "balls": "73",
+                            "runs": 73,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -230,7 +230,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Putrajaya Vs Perak",
+            "title": "Perak Vs Putrajaya",
             "tournament": "MCA Men's T20 Inter-State Championship, 2025",
             "match_id": 132612,
             "status": "NOT_STARTED",
@@ -250,25 +250,6 @@
             },
             "teams": [
                 {
-                    "name": "Putrajaya",
-                    "shortName": "PJY",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#80081C",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Perak",
                     "shortName": "PER",
                     "flag": {
@@ -276,6 +257,33 @@
                     },
                     "isWinner": null,
                     "color": "#968205",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Putrajaya",
+                    "shortName": "PJY",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#80081C",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
