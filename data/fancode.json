@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:05:14 PM 02-08-2025",
+    "last_updated": "08:05:20 PM 02-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -386,7 +386,7 @@
             "title": "Bradford City Vs Wycombe Wanderers",
             "tournament": "League One 2025-26",
             "match_id": 132019,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "02 August 2025 07:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -415,11 +415,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
                     "name": "Wycombe Wanderers",
@@ -434,11 +430,7 @@
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
