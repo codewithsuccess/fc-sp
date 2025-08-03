@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:38:02 PM 03-08-2025",
+    "last_updated": "01:38:07 PM 03-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -486,7 +486,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Marlins Vs Pirates",
+            "title": "Pirates Vs Marlins",
             "tournament": "Mackay T20 Championship, 2025",
             "match_id": 132527,
             "status": "NOT_STARTED",
@@ -506,25 +506,6 @@
             },
             "teams": [
                 {
-                    "name": "Marlins",
-                    "shortName": "MAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#cb561b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Pirates",
                     "shortName": "PRS",
                     "flag": {
@@ -532,6 +513,33 @@
                     },
                     "isWinner": null,
                     "color": "#db3a70",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Marlins",
+                    "shortName": "MAR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#cb561b",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
