@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:06:14 PM 03-08-2025",
+    "last_updated": "05:12:57 PM 03-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 8,
     "upcoming_matches": 32,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Navarang Club Vs Bud Cricket Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_id": 132400,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "03 August 2025 01:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132400_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132400_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Navarang Club",
-                    "shortName": "NVR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#DFE4EE",
-                    "cricketScore": [
-                        {
-                            "runs": 48,
-                            "overs": "5",
-                            "balls": "30",
-                            "status": "COMPLETED",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Bud Cricket Club",
-                    "shortName": "BCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#036103",
-                    "cricketScore": [
-                        {
-                            "runs": 46,
-                            "overs": "4.3",
-                            "balls": "27",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Sloggers Vs Rugby Cc",
@@ -155,9 +68,9 @@
                     "color": "#f03c3c",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 24,
+                            "overs": "1.4",
+                            "balls": "10",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -245,8 +158,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "201666",
+                                "shortName": "H Barnes",
+                                "isOwnGoal": false,
+                                "goalTime": "38'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -389,9 +309,9 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 98,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 107,
+                            "overs": "11.5",
+                            "balls": "71",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -700,6 +620,93 @@
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "https://d1qiw7nhet8pjk.cloudfront.net/out/v1/3a5748556f2c4605bfa590852a46c587/index.m3u8",
                 "language": "TAMIL"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Navarang Club Vs Bud Cricket Club",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_id": 132400,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "03 August 2025 01:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132400_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132400_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132400_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Navarang Club",
+                    "shortName": "NVR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR15@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#DFE4EE",
+                    "cricketScore": [
+                        {
+                            "runs": 48,
+                            "overs": "5",
+                            "balls": "30",
+                            "status": "COMPLETED",
+                            "wickets": 2
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bud Cricket Club",
+                    "shortName": "BCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BCC@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#036103",
+                    "cricketScore": [
+                        {
+                            "runs": 49,
+                            "overs": "4.5",
+                            "balls": "29",
+                            "status": "IN_PROGRESS",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
