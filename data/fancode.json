@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:13:14 PM 03-08-2025",
+    "last_updated": "01:19:58 PM 03-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 39,
+    "total_matches": 38,
     "live_matches": 7,
-    "upcoming_matches": 32,
+    "upcoming_matches": 31,
     "matches": [
         {
             "category": "Cricket",
@@ -44,7 +44,7 @@
                             "runs": 90,
                             "overs": "18.4",
                             "balls": "112",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -54,7 +54,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -66,14 +66,22 @@
                     },
                     "isWinner": null,
                     "color": "#80081C",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0.1",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -120,11 +128,11 @@
                     "color": "#e04848",
                     "cricketScore": [
                         {
-                            "runs": 99,
-                            "overs": "15.1",
-                            "balls": "91",
+                            "runs": 115,
+                            "overs": "16.5",
+                            "balls": "101",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -226,11 +234,11 @@
                     "color": "#DC192A",
                     "cricketScore": [
                         {
-                            "runs": 6,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 17,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -286,9 +294,9 @@
                     "color": "#081A5E",
                     "cricketScore": [
                         {
-                            "runs": 17,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 37,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -401,180 +409,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132400_english_hls_95305ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/yVHw7g0oQI6p9qZDd_fP6Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Rays Vs Marlins",
-            "tournament": "Mackay T20 Championship, 2025",
-            "match_id": 132525,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "03 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_CCL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132525_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Rays",
-                    "shortName": "RYS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RYS@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#005121",
-                    "cricketScore": [
-                        {
-                            "runs": 154,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Marlins",
-                    "shortName": "MAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARC@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#cb561b",
-                    "cricketScore": [
-                        {
-                            "runs": 155,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/LN6wwxSeT9ywyqeajN5FBg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/LN6wwxSeT9ywyqeajN5FBg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Rays Vs Marlins",
-            "tournament": "Mackay T20 Championship, 2025",
-            "match_id": 132525,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "03 August 2025 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_CCL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132525_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132525_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Rays",
-                    "shortName": "RYS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RYS@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#005121",
-                    "cricketScore": [
-                        {
-                            "runs": 154,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Marlins",
-                    "shortName": "MAR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MARC@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#cb561b",
-                    "cricketScore": [
-                        {
-                            "runs": 155,
-                            "overs": "19.4",
-                            "balls": "118",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/iaPV_tEqSnGkbvevmZzdkA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132525_english_hls_22967ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/iaPV_tEqSnGkbvevmZzdkA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1612,15 +1446,15 @@
             "title": "Feature Race",
             "tournament": "F2 HUNGARY 2025",
             "match_id": 119064,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "03 August 2025 01:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/119064_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/03/R13-Hungary-GP-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Motorsports-1440-x-360_2.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Formula2_Old_match-card-(1).jpg",
@@ -1667,12 +1501,15 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/119064_english_hls_73028adfreeta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/119064_english_hls_73028adfreeta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/119064_english_hls_73028adfreeta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
@@ -1704,14 +1541,22 @@
                     },
                     "isWinner": null,
                     "color": "#4686c7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1840,7 +1685,7 @@
                     },
                     "isWinner": null,
                     "color": "#202654",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1859,7 +1704,7 @@
                     },
                     "isWinner": null,
                     "color": "#ed1f24",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2743,6 +2588,74 @@
                     },
                     "isWinner": null,
                     "color": "#FFFF8F",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Oakland Athletics Vs Arizona Diamondbacks",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132841,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "04 August 2025 01:35 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132841_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132841_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Oakland Athletics",
+                    "shortName": "OA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-OAKL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f8c33f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Arizona Diamondbacks",
+                    "shortName": "AD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-ARIZ@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#6f212e",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
