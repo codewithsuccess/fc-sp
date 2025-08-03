@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:19:56 PM 03-08-2025",
+    "last_updated": "06:26:39 PM 03-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#1E1A15",
                     "cricketScore": [
                         {
-                            "runs": 97,
-                            "overs": "12.3",
-                            "balls": "75",
+                            "runs": 120,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -120,9 +120,9 @@
                     "color": "#DC192A",
                     "cricketScore": [
                         {
-                            "runs": 4,
-                            "overs": "0.4",
-                            "balls": "4",
+                            "runs": 12,
+                            "overs": "2.2",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -1592,7 +1592,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Outer Delhi Warriors Vs New Delhi Tigers",
+            "title": "New Delhi Tigers Vs Outer Delhi Warriors",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132466,
             "status": "NOT_STARTED",
@@ -1612,25 +1612,6 @@
             },
             "teams": [
                 {
-                    "name": "Outer Delhi Warriors",
-                    "shortName": "ODW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a2346",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "New Delhi Tigers",
                     "shortName": "NDT",
                     "flag": {
@@ -1638,6 +1619,33 @@
                     },
                     "isWinner": null,
                     "color": "#B8142D",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Outer Delhi Warriors",
+                    "shortName": "ODW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a2346",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
