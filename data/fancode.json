@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:31:04 PM 03-08-2025",
+    "last_updated": "03:31:09 PM 03-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -249,93 +249,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Gaming Cc Vs Sloggers",
-            "tournament": "ECS Gibraltar, 2025",
-            "match_id": 132828,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "03 August 2025 02:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132828_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Gaming CC",
-                    "shortName": "GAM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#DC192A",
-                    "cricketScore": [
-                        {
-                            "runs": 61,
-                            "overs": "9.5",
-                            "balls": "59",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Sloggers",
-                    "shortName": "SLO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SG@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#b33b19",
-                    "cricketScore": [
-                        {
-                            "runs": 64,
-                            "overs": "2.5",
-                            "balls": "17",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/jiQ7o7jFQ3mlp98sHUNVBw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/jiQ7o7jFQ3mlp98sHUNVBw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "North Delhi Strikers Vs Central Delhi Kings",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132465,
@@ -480,6 +393,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132114_english_hls_59485adfreeta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132114_english_hls_59485adfreeta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gaming Cc Vs Sloggers",
+            "tournament": "ECS Gibraltar, 2025",
+            "match_id": 132828,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "03 August 2025 02:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132828_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132828_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Gaming CC",
+                    "shortName": "GAM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR17@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#DC192A",
+                    "cricketScore": [
+                        {
+                            "runs": 61,
+                            "overs": "9.5",
+                            "balls": "59",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Sloggers",
+                    "shortName": "SLO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SG@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#b33b19",
+                    "cricketScore": [
+                        {
+                            "runs": 64,
+                            "overs": "2.5",
+                            "balls": "17",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/jiQ7o7jFQ3mlp98sHUNVBw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132828_english_hls_66816ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/jiQ7o7jFQ3mlp98sHUNVBw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
