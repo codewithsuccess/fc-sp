@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "04:19:39 PM 04-08-2025",
+    "last_updated": "04:26:23 PM 04-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "15.1",
-                            "balls": "91",
+                            "runs": 97,
+                            "overs": "17",
+                            "balls": "102",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -102,7 +102,7 @@
             "title": "Guildford Vs Wimbledon",
             "tournament": "ECS England, Wimbledon, 2025",
             "match_id": 132053,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "04 August 2025 04:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -281,7 +281,7 @@
                             "runs": 208,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 4
                         }
                     ],
@@ -291,7 +291,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -303,14 +303,22 @@
                     },
                     "isWinner": null,
                     "color": "#ed4d0b",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
