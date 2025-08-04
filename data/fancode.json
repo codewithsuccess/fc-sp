@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:51:28 PM 04-08-2025",
+    "last_updated": "01:51:33 PM 04-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -249,7 +249,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Kreative Sports Xi Vs Guildford",
+            "title": "Guildford Vs Kreative Sports Xi",
             "tournament": "ECS England, Wimbledon, 2025",
             "match_id": 132052,
             "status": "NOT_STARTED",
@@ -269,25 +269,6 @@
             },
             "teams": [
                 {
-                    "name": "Kreative Sports XI",
-                    "shortName": "KSXI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bdcaf4",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Guildford",
                     "shortName": "GFD",
                     "flag": {
@@ -295,6 +276,33 @@
                     },
                     "isWinner": null,
                     "color": "#FFFF8F",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Kreative Sports XI",
+                    "shortName": "KSXI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR4@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bdcaf4",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
