@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:37 PM 04-08-2025",
+    "last_updated": "11:51:21 PM 04-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#5380de",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "6.1",
-                            "balls": "38",
+                            "runs": 114,
+                            "overs": "8.2",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -155,11 +155,11 @@
                     "color": "#E96E5D",
                     "cricketScore": [
                         {
-                            "runs": 12,
-                            "overs": "0.5",
-                            "balls": "5",
+                            "runs": 34,
+                            "overs": "2",
+                            "balls": "12",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -186,7 +186,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Bihar Cc Vs Bader & Nie Cricket Club",
+            "title": "Bader & Nie Cricket Club Vs Bihar Cc",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132139,
             "status": "NOT_STARTED",
@@ -206,25 +206,6 @@
             },
             "teams": [
                 {
-                    "name": "Bihar CC",
-                    "shortName": "BCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#702963",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Bader & Nie Cricket Club",
                     "shortName": "BNC",
                     "flag": {
@@ -232,6 +213,33 @@
                     },
                     "isWinner": null,
                     "color": "#0d395a",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Bihar CC",
+                    "shortName": "BCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR8@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#702963",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
