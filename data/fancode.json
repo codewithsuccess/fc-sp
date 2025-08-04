@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:12:38 PM 04-08-2025",
+    "last_updated": "10:19:21 PM 04-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CFS-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#DFE4EE",
                     "cricketScore": [
                         {
@@ -64,7 +64,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WIM-CR1@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#E96E5D",
                     "cricketScore": [
                         {
@@ -128,9 +128,9 @@
                     "color": "#920b05",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 8,
+                            "overs": "0.3",
+                            "balls": "3",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1592,7 +1592,7 @@
                     },
                     "isWinner": null,
                     "color": "#ea6363",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1611,7 +1611,7 @@
                     },
                     "isWinner": null,
                     "color": "#CC1D1C",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
