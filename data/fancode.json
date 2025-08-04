@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:19:39 PM 04-08-2025",
+    "last_updated": "03:26:23 PM 04-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -147,9 +147,9 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 6,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -234,9 +234,9 @@
                     "color": "#bdcaf4",
                     "cricketScore": [
                         {
-                            "runs": 14,
-                            "overs": "1.1",
-                            "balls": "7",
+                            "runs": 42,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -294,9 +294,9 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 120,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 134,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -344,7 +344,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Wimbledon Vs Guildford",
+            "title": "Guildford Vs Wimbledon",
             "tournament": "ECS England, Wimbledon, 2025",
             "match_id": 132053,
             "status": "NOT_STARTED",
@@ -364,25 +364,6 @@
             },
             "teams": [
                 {
-                    "name": "Wimbledon",
-                    "shortName": "WIM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WIM-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#E96E5D",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Guildford",
                     "shortName": "GFD",
                     "flag": {
@@ -390,6 +371,33 @@
                     },
                     "isWinner": null,
                     "color": "#FFFF8F",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Wimbledon",
+                    "shortName": "WIM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/WIM-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#E96E5D",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
