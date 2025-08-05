@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:44:29 AM 05-08-2025",
+    "last_updated": "08:51:12 AM 05-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -44,7 +44,7 @@
                             "runs": 234,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 3
                         }
                     ],
@@ -54,7 +54,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -66,14 +66,22 @@
                     },
                     "isWinner": null,
                     "color": "#141414",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 2,
+                            "overs": "0.2",
+                            "balls": "2",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -120,9 +128,9 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 146,
-                            "overs": "17.1",
-                            "balls": "104",
+                            "runs": 165,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -173,7 +181,7 @@
             "title": "Bud Cricket Club Vs Guwahati Giants",
             "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
             "match_id": 132403,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "05 August 2025 09:00 AM",
             "startDate": "01 January 1970 05:30 AM",
