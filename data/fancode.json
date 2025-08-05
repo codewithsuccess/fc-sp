@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:05:29 AM 05-08-2025",
+    "last_updated": "07:12:12 AM 05-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#efe641",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "0.5",
-                            "balls": "5",
+                            "runs": 19,
+                            "overs": "2.2",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -159,7 +159,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Kelantan Vs Pahang",
+            "title": "Pahang Vs Kelantan",
             "tournament": "MCA Men's T20 Inter-State Championship, 2025",
             "match_id": 132628,
             "status": "NOT_STARTED",
@@ -179,25 +179,6 @@
             },
             "teams": [
                 {
-                    "name": "Kelantan",
-                    "shortName": "KEL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KELAN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#941210",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Pahang",
                     "shortName": "PHG",
                     "flag": {
@@ -205,6 +186,33 @@
                     },
                     "isWinner": null,
                     "color": "#B8142D",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Kelantan",
+                    "shortName": "KEL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KELAN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#941210",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
