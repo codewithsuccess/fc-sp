@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:52:12 PM 06-08-2025",
+    "last_updated": "11:58:55 PM 06-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 99,
-                            "overs": "15.4",
-                            "balls": "79",
+                            "runs": 108,
+                            "overs": "17",
+                            "balls": "85",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -147,9 +147,9 @@
                     "color": "#E96E5D",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 73,
+                            "overs": "5.5",
+                            "balls": "35",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -209,7 +209,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 11
+                        "points": 18
                     },
                     "hockeyScore": null,
                     "status": {
@@ -230,7 +230,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 16
+                        "points": 24
                     },
                     "hockeyScore": null,
                     "status": {
@@ -2626,43 +2626,35 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "North Delhi Strikers Vs Outer Delhi Warriors",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132472,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "06 August 2025 07:00 PM",
+            "category": "Arm Wrestling",
+            "title": "Day 3",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132191,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "07 August 2025 05:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132472_5521_NDS_ODW_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132472_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132472_5521_NDS_ODW_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132191_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132472_5521_NDS_ODW_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132472_5521_NDS_ODW_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132472_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/07/Pro-Panja_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Arm-Wrestling-1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/sporty-match-card-bg.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132191_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "North Delhi Strikers",
-                    "shortName": "NDS",
+                    "name": "Day 3",
+                    "shortName": "Day 3",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-PPL@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#4686c7",
-                    "cricketScore": [
-                        {
-                            "runs": 163,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 7
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2674,29 +2666,21 @@
                     }
                 },
                 {
-                    "name": "Outer Delhi Warriors",
-                    "shortName": "ODW",
+                    "name": "India",
+                    "shortName": "India",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-LOC@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#0a2346",
-                    "cricketScore": [
-                        {
-                            "runs": 144,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
