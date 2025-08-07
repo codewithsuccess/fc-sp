@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:58:27 AM 07-08-2025",
+    "last_updated": "12:05:10 PM 07-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#DFE4EE",
                     "cricketScore": [
                         {
-                            "runs": 114,
-                            "overs": "14.4",
-                            "balls": "88",
+                            "runs": 126,
+                            "overs": "15.5",
+                            "balls": "95",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -507,7 +507,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Croatia Vs Cyprus",
+            "title": "Cyprus Vs Croatia",
             "tournament": "ECN Croatia-Cyprus T20I, 2025",
             "match_id": 133315,
             "status": "NOT_STARTED",
@@ -527,25 +527,6 @@
             },
             "teams": [
                 {
-                    "name": "Croatia",
-                    "shortName": "CRO",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4091d7",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Cyprus",
                     "shortName": "CYP",
                     "flag": {
@@ -553,6 +534,33 @@
                     },
                     "isWinner": null,
                     "color": "#ed7a00",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Croatia",
+                    "shortName": "CRO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4091d7",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
