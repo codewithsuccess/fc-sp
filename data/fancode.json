@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:31:01 PM 07-08-2025",
+    "last_updated": "09:37:34 PM 07-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 10,
     "upcoming_matches": 28,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "South Delhi Superstarz Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132474,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132474_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132474_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "South Delhi Superstarz",
-                    "shortName": "SDS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#921b36",
-                    "cricketScore": [
-                        {
-                            "runs": 80,
-                            "overs": "15.4",
-                            "balls": "94",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#0082cb",
-                    "cricketScore": [
-                        {
-                            "runs": 82,
-                            "overs": "6",
-                            "balls": "36",
-                            "status": "IN_PROGRESS",
-                            "wickets": 1
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Northern Superchargers Women Vs Welsh Fire Women",
@@ -155,11 +68,11 @@
                     "color": "#eb9ba1",
                     "cricketScore": [
                         {
-                            "runs": 63,
-                            "overs": "11",
-                            "balls": "55",
+                            "runs": 72,
+                            "overs": "13",
+                            "balls": "65",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,9 +155,9 @@
                     "color": "#bdcaf4",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 37,
+                            "overs": "1.4",
+                            "balls": "10",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -304,7 +217,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 41
+                        "points": 48
                     },
                     "hockeyScore": null,
                     "status": {
@@ -325,7 +238,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 55
+                        "points": 60
                     },
                     "hockeyScore": null,
                     "status": {
@@ -697,6 +610,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132846_english_hls_28502ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132846_english_hls_28502ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "South Delhi Superstarz Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132474,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "07 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132474_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132474_5521_CDK_SDS_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132474_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "South Delhi Superstarz",
+                    "shortName": "SDS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#921b36",
+                    "cricketScore": [
+                        {
+                            "runs": 80,
+                            "overs": "15.4",
+                            "balls": "94",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#0082cb",
+                    "cricketScore": [
+                        {
+                            "runs": 82,
+                            "overs": "6",
+                            "balls": "36",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132474_english_hls_84755ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/4zqaxUsRSmy2X92gHHTr8A/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
