@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:44:24 PM 07-08-2025",
+    "last_updated": "01:51:07 PM 07-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "3.4",
+                            "runs": 10,
+                            "overs": "5.1",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -120,9 +120,9 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 37,
+                            "overs": "4.2",
+                            "balls": "26",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -170,6 +170,85 @@
         },
         {
             "category": "Cricket",
+            "title": "Purani Delhi 6 Vs West Delhi Lions",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132473,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132473_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132473_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Purani Delhi 6",
+                    "shortName": "PD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c3333e",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "West Delhi Lions",
+                    "shortName": "WDL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ed4d0b",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Cyprus Vs Croatia",
             "tournament": "ECN Croatia-Cyprus T20I, 2025",
             "match_id": 133315,
@@ -199,9 +278,9 @@
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
-                            "runs": 131,
-                            "overs": "13.5",
-                            "balls": "83",
+                            "runs": 142,
+                            "overs": "15.3",
+                            "balls": "94",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -278,11 +357,11 @@
                     "color": "#3f0909",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "5.2",
-                            "balls": "32",
+                            "runs": 56,
+                            "overs": "6.4",
+                            "balls": "40",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -430,7 +509,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 6
+                        "points": 14
                     },
                     "hockeyScore": null,
                     "status": {
@@ -451,7 +530,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 12
+                        "points": 29
                     },
                     "hockeyScore": null,
                     "status": {
@@ -468,85 +547,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133190_english_hls_26281ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133190_english_hls_26281ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/CRXJ4_ZqQM-iIPW5IeGRfg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Purani Delhi 6 Vs West Delhi Lions",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132473,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132473_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132473_5521_PD_WDL_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132473_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Purani Delhi 6",
-                    "shortName": "PD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c3333e",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "West Delhi Lions",
-                    "shortName": "WDL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ed4d0b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132473_english_hls_61733ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sgOdO5ttRdqbD04i9SwkNA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -757,7 +757,7 @@
         },
         {
             "category": "Cricket",
-            "title": "East Molesey Vs London County Cricket",
+            "title": "London County Cricket Vs East Molesey",
             "tournament": "ECS England, Wimbledon, 2025",
             "match_id": 132067,
             "status": "NOT_STARTED",
@@ -777,25 +777,6 @@
             },
             "teams": [
                 {
-                    "name": "East Molesey",
-                    "shortName": "EM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR11@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141422",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "London County Cricket",
                     "shortName": "LCC",
                     "flag": {
@@ -803,6 +784,33 @@
                     },
                     "isWinner": null,
                     "color": "#F9F0B0",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "East Molesey",
+                    "shortName": "EM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR11@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141422",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2280,7 +2288,7 @@
                     },
                     "isWinner": null,
                     "color": "#B8142D",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2299,7 +2307,7 @@
                     },
                     "isWinner": null,
                     "color": "#774704",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
