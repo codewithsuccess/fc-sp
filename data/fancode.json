@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:24 PM 07-08-2025",
+    "last_updated": "02:26:07 PM 07-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,8 +41,8 @@
                     "color": "#dfd32c",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "12",
+                            "runs": 30,
+                            "overs": "13.3",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 1
@@ -120,11 +120,11 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 77,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 83,
+                            "overs": "13.3",
+                            "balls": "81",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,9 +199,9 @@
                     "color": "#c3333e",
                     "cricketScore": [
                         {
-                            "runs": 36,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 47,
+                            "overs": "3.4",
+                            "balls": "22",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -357,9 +357,9 @@
                     "color": "#3f0909",
                     "cricketScore": [
                         {
-                            "runs": 96,
-                            "overs": "13.3",
-                            "balls": "81",
+                            "runs": 103,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -477,6 +477,85 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "London County Cricket Vs East Molesey",
+            "tournament": "ECS England, Wimbledon, 2025",
+            "match_id": 132067,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "07 August 2025 02:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132067_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card_1753431540157.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132067_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "London County Cricket",
+                    "shortName": "LCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR20@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#F9F0B0",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "East Molesey",
+                    "shortName": "EM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR11@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141422",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/kVWvVMsBRtCqyipWM7iXjw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/kVWvVMsBRtCqyipWM7iXjw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Basketball",
             "title": "India Vs China",
             "tournament": "FIBA Asia Cup, 2025",
@@ -547,85 +626,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133190_english_hls_26281ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133190_english_hls_26281ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/CRXJ4_ZqQM-iIPW5IeGRfg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "London County Cricket Vs East Molesey",
-            "tournament": "ECS England, Wimbledon, 2025",
-            "match_id": 132067,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "07 August 2025 02:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132067_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-old-match-card_1753431539335.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-England,-Wimbledon,-2025-Sporty-match-card_1753431540157.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132067_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "London County Cricket",
-                    "shortName": "LCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR20@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#F9F0B0",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "East Molesey",
-                    "shortName": "EM",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR11@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#141422",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/kVWvVMsBRtCqyipWM7iXjw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132067_english_hls_43088ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/kVWvVMsBRtCqyipWM7iXjw/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
