@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:26:24 PM 07-08-2025",
+    "last_updated": "02:30:07 PM 07-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -42,10 +42,10 @@
                     "cricketScore": [
                         {
                             "runs": 30,
-                            "overs": "13.4",
+                            "overs": "14.1",
                             "balls": "0",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,9 +120,9 @@
                     "color": "#4d66a3",
                     "cricketScore": [
                         {
-                            "runs": 85,
-                            "overs": "13.4",
-                            "balls": "82",
+                            "runs": 97,
+                            "overs": "15",
+                            "balls": "90",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -199,9 +199,9 @@
                     "color": "#c3333e",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "3.4",
-                            "balls": "22",
+                            "runs": 56,
+                            "overs": "4.3",
+                            "balls": "27",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -281,7 +281,7 @@
                             "runs": 213,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 3
                         }
                     ],
@@ -291,7 +291,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -303,14 +303,22 @@
                     },
                     "isWinner": null,
                     "color": "#4091d7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 1,
+                            "overs": "0",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -357,9 +365,9 @@
                     "color": "#3f0909",
                     "cricketScore": [
                         {
-                            "runs": 104,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 108,
+                            "overs": "15.4",
+                            "balls": "94",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -588,7 +596,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 31
+                        "points": 39
                     },
                     "hockeyScore": null,
                     "status": {
@@ -609,7 +617,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 53
+                        "points": 58
                     },
                     "hockeyScore": null,
                     "status": {
@@ -1992,74 +2000,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Eavion Eagles Vs Pupkewitz Motors Wildcats",
-            "tournament": "Namibia T20, 2025",
-            "match_id": 132439,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "08 August 2025 01:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132439_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-T20_Tour-Logo5.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132439_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Eavion Eagles",
-                    "shortName": "EAE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EVE-CR2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1E1A15",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pupkewitz Motors Wildcats",
-                    "shortName": "PMW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PMW-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#081A5E",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Mumbai Vs Royal Challenger Delhi",
             "tournament": "LEGEN\u2011Z T10 League",
             "match_id": 133363,
@@ -2174,6 +2114,74 @@
                     },
                     "isWinner": null,
                     "color": "#b58c05",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Eavion Eagles Vs Pupkewitz Motors Wildcats",
+            "tournament": "Namibia T20, 2025",
+            "match_id": 132439,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "08 August 2025 01:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132439_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-T20_Tour-Logo5.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-Domestic-T20_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132439_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Eavion Eagles",
+                    "shortName": "EAE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EVE-CR2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1E1A15",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pupkewitz Motors Wildcats",
+                    "shortName": "PMW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/PMW-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#081A5E",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2359,7 +2367,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2378,7 +2386,7 @@
                     },
                     "isWinner": null,
                     "color": "#dcdcdc",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
