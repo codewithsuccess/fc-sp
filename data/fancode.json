@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:30:55 AM 09-08-2025",
+    "last_updated": "01:30:59 AM 09-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -37,7 +37,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#e87c03",
                     "cricketScore": [
                         {
@@ -64,7 +64,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
@@ -269,8 +269,8 @@
                     "cricketScore": [
                         {
                             "runs": 138,
-                            "overs": "26.5",
-                            "balls": "161",
+                            "overs": "27",
+                            "balls": "162",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
