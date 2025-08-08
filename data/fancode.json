@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:13:08 PM 08-08-2025",
+    "last_updated": "06:19:56 PM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 11,
-    "upcoming_matches": 28,
+    "live_matches": 12,
+    "upcoming_matches": 27,
     "matches": [
         {
             "category": "Cricket",
@@ -124,7 +124,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#0a2346",
                     "cricketScore": [
                         {
@@ -151,13 +151,13 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 227,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 235,
+                            "overs": "19.2",
+                            "balls": "116",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -215,9 +215,9 @@
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
-                            "runs": 124,
-                            "overs": "15",
-                            "balls": "90",
+                            "runs": 138,
+                            "overs": "16.2",
+                            "balls": "98",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -294,11 +294,11 @@
                     "color": "#06458D",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 66,
+                            "overs": "11.2",
+                            "balls": "68",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -375,7 +375,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 60
+                        "points": 62
                     },
                     "hockeyScore": null,
                     "status": {
@@ -396,7 +396,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 58
+                        "points": 60
                     },
                     "hockeyScore": null,
                     "status": {
@@ -844,8 +844,79 @@
             }
         },
         {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "PIF Championship",
+            "match_id": 133003,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "08 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133003_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/PIF-London-Championship-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-old-match-card.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/PIF-Championship-Sporty-match-card.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133003_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Day 1",
+                    "shortName": "Day 1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PIY@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0056B5",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Centurion Club ",
+                    "shortName": "Centurion Club ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133003_english_hls_7299ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/0ox-QwXtRzCQAW080snXtg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133003_english_hls_7299ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133003_english_hls_7299ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/0ox-QwXtRzCQAW080snXtg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Cricket",
-            "title": "New Delhi Tigers Vs Purani Delhi 6",
+            "title": "Purani Delhi 6 Vs New Delhi Tigers",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132476,
             "status": "NOT_STARTED",
@@ -865,25 +936,6 @@
             },
             "teams": [
                 {
-                    "name": "New Delhi Tigers",
-                    "shortName": "NDT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NDT-CR2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#B8142D",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Purani Delhi 6",
                     "shortName": "PD",
                     "flag": {
@@ -891,6 +943,33 @@
                     },
                     "isWinner": null,
                     "color": "#c3333e",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "New Delhi Tigers",
+                    "shortName": "NDT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NDT-CR2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#B8142D",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2477,74 +2556,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Ireland Women Vs Pakistan Women",
-            "tournament": "Pakistan Women tour of Ireland, 2025",
-            "match_id": 131607,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "08 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Ireland Women",
-                    "shortName": "IR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#32752E",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pakistan Women",
-                    "shortName": "PK-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#559830",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Vijayawada Sunshiners Vs Royals Of Rayalaseema",
             "tournament": "Andhra Premier League, 2025",
             "match_id": 132761,
@@ -2613,33 +2624,33 @@
         },
         {
             "category": "Cricket",
-            "title": "Hubli Tigers Women Vs Mangaluru Dragons Women",
-            "tournament": "Maharani Trophy, 2025",
-            "match_id": 132928,
+            "title": "Ireland Women Vs Pakistan Women",
+            "tournament": "Pakistan Women tour of Ireland, 2025",
+            "match_id": 131607,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 01:45 PM",
+            "startTime": "08 August 2025 08:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132928_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Maharani-Trophy.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
                 "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132928_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Hubli Tigers Women",
-                    "shortName": "HT-W",
+                    "name": "Ireland Women",
+                    "shortName": "IR-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HT-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#2e3d78",
+                    "color": "#32752E",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2652,13 +2663,13 @@
                     }
                 },
                 {
-                    "name": "Mangaluru Dragons Women",
-                    "shortName": "MD-W",
+                    "name": "Pakistan Women",
+                    "shortName": "PK-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#B8142D",
+                    "color": "#559830",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
