@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:06:18 PM 08-08-2025",
+    "last_updated": "12:13:02 PM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 5,
     "upcoming_matches": 33,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Gauhati Town Club Vs 91 Yards Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_id": 132409,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "08 August 2025 09:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132409_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132409_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Gauhati Town Club",
-                    "shortName": "GTC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3f0909",
-                    "cricketScore": [
-                        {
-                            "runs": 43,
-                            "overs": "5",
-                            "balls": "30",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "91 Yards Club",
-                    "shortName": "NYC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#202654",
-                    "cricketScore": [
-                        {
-                            "runs": 28,
-                            "overs": "2.2",
-                            "balls": "14",
-                            "status": "IN_PROGRESS",
-                            "wickets": 1
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/sMoR2j62QB6F9JsjY6tNhQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sMoR2j62QB6F9JsjY6tNhQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Johor Vs Penang",
@@ -155,11 +68,11 @@
                     "color": "#3d89e1",
                     "cricketScore": [
                         {
-                            "runs": 73,
-                            "overs": "9.3",
-                            "balls": "57",
+                            "runs": 77,
+                            "overs": "11",
+                            "balls": "66",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,11 +155,11 @@
                     "color": "#F6E6A9",
                     "cricketScore": [
                         {
-                            "runs": 43,
-                            "overs": "10.1",
-                            "balls": "61",
+                            "runs": 52,
+                            "overs": "11.5",
+                            "balls": "71",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -302,9 +215,9 @@
                     "color": "#996de7",
                     "cricketScore": [
                         {
-                            "runs": 101,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 117,
+                            "overs": "8.2",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -346,6 +259,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132637_english_hls_98569ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132637_english_hls_98569ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/6WOeVoefQCOqSh_iqCWVow/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs 91 Yards Club",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_id": 132409,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "08 August 2025 09:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132409_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132409_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132409_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Gauhati Town Club",
+                    "shortName": "GTC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#3f0909",
+                    "cricketScore": [
+                        {
+                            "runs": 43,
+                            "overs": "5",
+                            "balls": "30",
+                            "status": "COMPLETED",
+                            "wickets": 5
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "91 Yards Club",
+                    "shortName": "NYC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NYC@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#202654",
+                    "cricketScore": [
+                        {
+                            "runs": 44,
+                            "overs": "2.5",
+                            "balls": "17",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/sMoR2j62QB6F9JsjY6tNhQ/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132409_english_hls_62676ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sMoR2j62QB6F9JsjY6tNhQ/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -988,7 +988,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Eavion Eagles Vs Pupkewitz Motors Wildcats",
+            "title": "Pupkewitz Motors Wildcats Vs Eavion Eagles",
             "tournament": "Namibia T20, 2025",
             "match_id": 132439,
             "status": "NOT_STARTED",
@@ -1008,25 +1008,6 @@
             },
             "teams": [
                 {
-                    "name": "Eavion Eagles",
-                    "shortName": "EAE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EVE-CR2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1E1A15",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Pupkewitz Motors Wildcats",
                     "shortName": "PMW",
                     "flag": {
@@ -1034,6 +1015,33 @@
                     },
                     "isWinner": null,
                     "color": "#081A5E",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Eavion Eagles",
+                    "shortName": "EAE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/EVE-CR2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1E1A15",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
