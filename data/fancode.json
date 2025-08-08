@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:27:19 PM 08-08-2025",
+    "last_updated": "03:31:02 PM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
                     "color": "#1d2c6b",
                     "cricketScore": [
                         {
-                            "runs": 304,
-                            "overs": "69.2",
+                            "runs": 306,
+                            "overs": "70.2",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 2
@@ -128,9 +128,9 @@
                     "color": "#0a2346",
                     "cricketScore": [
                         {
-                            "runs": 171,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 178,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -234,9 +234,9 @@
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
-                            "runs": 101,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 109,
+                            "overs": "15.3",
+                            "balls": "93",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -321,9 +321,9 @@
                     "color": "#1E1A15",
                     "cricketScore": [
                         {
-                            "runs": 62,
-                            "overs": "10.5",
-                            "balls": "65",
+                            "runs": 74,
+                            "overs": "11.4",
+                            "balls": "70",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -408,9 +408,9 @@
                     "color": "#036103",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "6.4",
-                            "balls": "40",
+                            "runs": 52,
+                            "overs": "7.4",
+                            "balls": "46",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -495,11 +495,11 @@
                     "color": "#B8142D",
                     "cricketScore": [
                         {
-                            "runs": 3,
-                            "overs": "1.4",
-                            "balls": "10",
+                            "runs": 5,
+                            "overs": "2.2",
+                            "balls": "14",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -547,7 +547,7 @@
             "teams": [
                 {
                     "name": "South Korea",
-                    "shortName": "SKR",
+                    "shortName": "KOR",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/KOR-NB1@2x.png"
                     },
@@ -556,13 +556,19 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 75
+                    },
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "Qatar",
-                    "shortName": "QAT",
+                    "shortName": "QTRW",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/QAT-NB1@2x.png"
                     },
@@ -571,9 +577,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 61
+                    },
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "ENGLISH",
@@ -2112,7 +2124,7 @@
                     },
                     "isWinner": null,
                     "color": "#b8b3ba",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2131,7 +2143,7 @@
                     },
                     "isWinner": null,
                     "color": "#adb6b9",
-                    "cricketScore": null,
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
