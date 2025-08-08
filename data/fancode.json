@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:31:01 PM 08-08-2025",
+    "last_updated": "05:37:54 PM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 10,
-    "upcoming_matches": 29,
+    "live_matches": 12,
+    "upcoming_matches": 27,
     "matches": [
         {
             "category": "Cricket",
@@ -68,8 +68,8 @@
                     "color": "#1d2c6b",
                     "cricketScore": [
                         {
-                            "runs": 370,
-                            "overs": "89.3",
+                            "runs": 385,
+                            "overs": "90.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 3
@@ -155,9 +155,9 @@
                     "color": "#e7993a",
                     "cricketScore": [
                         {
-                            "runs": 143,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 161,
+                            "overs": "14.4",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,9 +242,9 @@
                     "color": "#141422",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 85,
+                            "overs": "4.4",
+                            "balls": "28",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -302,11 +302,11 @@
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
-                            "runs": 44,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 52,
+                            "overs": "7.3",
+                            "balls": "45",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -381,9 +381,9 @@
                     "color": "#06458D",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 5,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -462,7 +462,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 32
+                        "points": 34
                     },
                     "hockeyScore": null,
                     "status": {
@@ -500,6 +500,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133203_english_hls_864ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133203_english_hls_864ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/rkIaMlJATBuRwr-49_zFgw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Kakinada Kings Vs Amaravathi Royals",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132760,
+            "status": "NOT_STARTED",
+            "streamingStatus": "STARTED",
+            "startTime": "08 August 2025 07:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132760_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132760_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Kakinada Kings",
+                    "shortName": "KNK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#062642",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Amaravathi Royals",
+                    "shortName": "AMR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMRA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d0b648",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132760_english_hls_19717ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/1Tv925EuS0yRel9rjbFquA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132760_english_hls_19717ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132760_english_hls_19717ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/1Tv925EuS0yRel9rjbFquA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -713,6 +784,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132910_english_hls_93783ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132910_english_hls_93783ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/aKy0fQhcSkCF5TyF4EszDg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Golf",
+            "title": "Main Feed   Day 2",
+            "tournament": "FedEx St. Jude Championship 2025",
+            "match_id": 133324,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "08 August 2025 05:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133324_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ST.-Jude-Championship_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133324_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Main Feed - Day 2",
+                    "shortName": "Main Feed - Day 2",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "TPC Southwind - Memphis, Tennessee ",
+                    "shortName": "TPC Southwind - Memphis, Tennessee ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133324_english_hls_85462ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/MuTPQU3GSlGjd0BuZ88cUA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133324_english_hls_85462ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133324_english_hls_85462ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/MuTPQU3GSlGjd0BuZ88cUA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1146,74 +1288,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Kakinada Kings Vs Amaravathi Royals",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132760,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "08 August 2025 07:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132760_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132760_5529_KNK_AMR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132760_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Kakinada Kings",
-                    "shortName": "KNK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#062642",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Amaravathi Royals",
-                    "shortName": "AMR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AMRA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d0b648",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Ace Krm Panthers Vs Cecc",
             "tournament": "KCC T20 Summer League, 2025",
             "match_id": 130019,
@@ -1260,6 +1334,74 @@
                     },
                     "isWinner": null,
                     "color": "#bf9737",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mumbai Stars Vs Rajasthan Raiders",
+            "tournament": "LEGEN\u2011Z T10 League",
+            "match_id": 133362,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "09 August 2025 03:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133362_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Legenz-T10-Mandatories_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133362_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mumbai Stars",
+                    "shortName": "MUM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#59a033",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Rajasthan Raiders",
+                    "shortName": "RAJ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAJR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ba8036",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1350,33 +1492,33 @@
         },
         {
             "category": "Cricket",
-            "title": "Mumbai Stars Vs Rajasthan Raiders",
-            "tournament": "LEGEN\u2011Z T10 League",
-            "match_id": 133362,
+            "title": "Oval Invincibles Women Vs Manchester Originals Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132260,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 03:00 PM",
+            "startTime": "09 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133362_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132260_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Legenz-T10-Mandatories_Tour-Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133362_5560_MUM_RAJ_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133362_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132260_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Mumbai Stars",
-                    "shortName": "MUM",
+                    "name": "Oval Invincibles Women",
+                    "shortName": "OVI-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#59a033",
+                    "color": "#b8b3ba",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1389,13 +1531,13 @@
                     }
                 },
                 {
-                    "name": "Rajasthan Raiders",
-                    "shortName": "RAJ",
+                    "name": "Manchester Originals Women",
+                    "shortName": "MNR-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAJR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ba8036",
+                    "color": "#adb6b9",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1533,74 +1675,6 @@
                     "isWinner": null,
                     "color": "#2758a1",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Oval Invincibles Women Vs Manchester Originals Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132260,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132260_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132260_5506_OVI-W_MNR-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132260_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Oval Invincibles Women",
-                    "shortName": "OVI-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OVALINC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b8b3ba",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Manchester Originals Women",
-                    "shortName": "MNR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#adb6b9",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1962,7 +2036,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Tbc Vs Tbc",
+            "title": "Mysore Warriors Women Vs Shivamogga Lioness Women",
             "tournament": "Maharani Trophy, 2025",
             "match_id": 132927,
             "status": "NOT_STARTED",
@@ -1982,13 +2056,13 @@
             },
             "teams": [
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Mysore Warriors Women",
+                    "shortName": "MW-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MWAR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#129766",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2001,13 +2075,13 @@
                     }
                 },
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Shivamogga Lioness Women",
+                    "shortName": "SL-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SLW@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#774704",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2642,7 +2716,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Tbc Vs Tbc",
+            "title": "Hubli Tigers Women Vs Mangaluru Dragons Women",
             "tournament": "Maharani Trophy, 2025",
             "match_id": 132928,
             "status": "NOT_STARTED",
@@ -2662,13 +2736,13 @@
             },
             "teams": [
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Hubli Tigers Women",
+                    "shortName": "HT-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HT-CR1@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#2e3d78",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2681,82 +2755,14 @@
                     }
                 },
                 {
-                    "name": "TBC",
-                    "shortName": "TBC",
+                    "name": "Mangaluru Dragons Women",
+                    "shortName": "MD-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MDR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#dcdcdc",
+                    "color": "#B8142D",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Welsh Fire Women Vs London Spirit Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132261,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "09 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132261_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132261_5506_WEF-W_LNS-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132261_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Welsh Fire Women",
-                    "shortName": "WEF-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WELFS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#eb9ba1",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "London Spirit Women",
-                    "shortName": "LNS-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LONDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#a0a0d4",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
