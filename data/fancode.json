@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:52:01 AM 08-08-2025",
+    "last_updated": "08:58:44 AM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#db2029",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.2",
-                            "balls": "2",
+                            "runs": 12,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -322,7 +322,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Mumbai Vs Royal Challenger Delhi",
+            "title": "Mumbai Stars Vs Royal Challenger Delhi",
             "tournament": "LEGEN\u2011Z T10 League",
             "match_id": 133363,
             "status": "NOT_STARTED",
@@ -342,13 +342,13 @@
             },
             "teams": [
                 {
-                    "name": "Mumbai",
+                    "name": "Mumbai Stars",
                     "shortName": "MUM",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#DCDCDC",
+                    "color": "#59a033",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -458,7 +458,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Bengal Tigers Vs Rajasthan",
+            "title": "Bengal Tigers Vs Rajasthan Raiders",
             "tournament": "LEGEN\u2011Z T10 League",
             "match_id": 133364,
             "status": "NOT_STARTED",
@@ -497,13 +497,13 @@
                     }
                 },
                 {
-                    "name": "Rajasthan",
+                    "name": "Rajasthan Raiders",
                     "shortName": "RAJ",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RAJR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#DCDCDC",
+                    "color": "#ba8036",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -594,7 +594,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Mumbai Vs Southern United",
+            "title": "Mumbai Stars Vs Southern United",
             "tournament": "LEGEN\u2011Z T10 League",
             "match_id": 133365,
             "status": "NOT_STARTED",
@@ -614,13 +614,13 @@
             },
             "teams": [
                 {
-                    "name": "Mumbai",
+                    "name": "Mumbai Stars",
                     "shortName": "MUM",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#DCDCDC",
+                    "color": "#59a033",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -757,14 +757,22 @@
                     },
                     "isWinner": null,
                     "color": "#efe641",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
