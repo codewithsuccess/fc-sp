@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:20:07 PM 08-08-2025",
+    "last_updated": "08:26:50 PM 08-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,8 +68,8 @@
                     "color": "#1d2c6b",
                     "cricketScore": [
                         {
-                            "runs": 584,
-                            "overs": "127.4",
+                            "runs": 600,
+                            "overs": "128.5",
                             "balls": "0",
                             "status": "IN_PROGRESS",
                             "wickets": 3
@@ -128,11 +128,11 @@
                     "color": "#c3333e",
                     "cricketScore": [
                         {
-                            "runs": 175,
-                            "overs": "16.1",
-                            "balls": "97",
+                            "runs": 184,
+                            "overs": "17.1",
+                            "balls": "103",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -207,11 +207,11 @@
                     "color": "#eba095",
                     "cricketScore": [
                         {
-                            "runs": 99,
-                            "overs": "14",
-                            "balls": "70",
+                            "runs": 115,
+                            "overs": "15.4",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -282,7 +282,7 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CYR@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": true,
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
@@ -309,15 +309,15 @@
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CROA@2x.png"
                     },
-                    "isWinner": null,
+                    "isWinner": false,
                     "color": "#4091d7",
                     "cricketScore": [
                         {
-                            "runs": 140,
-                            "overs": "19.4",
-                            "balls": "118",
+                            "runs": 141,
+                            "overs": "19.5",
+                            "balls": "119",
                             "status": "IN_PROGRESS",
-                            "wickets": 9
+                            "wickets": 10
                         }
                     ],
                     "kabaddiScore": null,
@@ -400,9 +400,9 @@
                     "color": "#322D04",
                     "cricketScore": [
                         {
-                            "runs": 118,
-                            "overs": "14.1",
-                            "balls": "85",
+                            "runs": 117,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -460,9 +460,9 @@
                     "color": "#062642",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "3.4",
-                            "balls": "22",
+                            "runs": 55,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -539,9 +539,9 @@
                     "color": "#bf9737",
                     "cricketScore": [
                         {
-                            "runs": 50,
-                            "overs": "4.5",
-                            "balls": "29",
+                            "runs": 75,
+                            "overs": "6.1",
+                            "balls": "37",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -583,6 +583,85 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/130019_english_hls_99957ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/130019_english_hls_99957ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/KWzZ5-S8TUK0qbW_RMwu1g/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Pakistan Women Vs Ireland Women",
+            "tournament": "Pakistan Women tour of Ireland, 2025",
+            "match_id": 131607,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "08 August 2025 08:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Pakistan Women",
+                    "shortName": "PK-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#559830",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Ireland Women",
+                    "shortName": "IR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#32752E",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/EeDfZAmjT--1D0NLgWxW-g/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/EeDfZAmjT--1D0NLgWxW-g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -654,85 +733,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133204_english_hls_49350ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133204_english_hls_49350ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/mAMbR5bETtShOVvbcaY00w/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Pakistan Women Vs Ireland Women",
-            "tournament": "Pakistan Women tour of Ireland, 2025",
-            "match_id": 131607,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "08 August 2025 08:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131607_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Pakistan Women",
-                    "shortName": "PK-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#559830",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Ireland Women",
-                    "shortName": "IR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IRE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#32752E",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/EeDfZAmjT--1D0NLgWxW-g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131607_english_hls_7740ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/EeDfZAmjT--1D0NLgWxW-g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
