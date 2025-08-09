@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:59 AM 10-08-2025",
+    "last_updated": "01:30:45 AM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 11,
-    "upcoming_matches": 27,
+    "live_matches": 10,
+    "upcoming_matches": 28,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#CB1414",
                     "cricketScore": [
                         {
-                            "runs": 146,
-                            "overs": "18.4",
-                            "balls": "94",
+                            "runs": 149,
+                            "overs": "19.3",
+                            "balls": "98",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -155,11 +155,11 @@
                     "color": "#d50e25",
                     "cricketScore": [
                         {
-                            "runs": 12,
-                            "overs": "3.1",
-                            "balls": "19",
+                            "runs": 15,
+                            "overs": "3.5",
+                            "balls": "23",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -190,14 +190,14 @@
             "tournament": "FIBA Asia Cup, 2025",
             "match_id": 133197,
             "status": "LIVE",
-            "streamingStatus": "STARTED",
+            "streamingStatus": "COMPLETED",
             "startTime": "09 August 2025 11:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133197_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
+                "PLAYBACK": null,
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Cup-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133197_5549_CT_NZ_fc-Web.jpg",
@@ -248,15 +248,12 @@
                     }
                 }
             ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133197_english_hls_32012ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/rvMI4DBBQDeN-yjw4rNMwg/master.m3u8",
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133197_english_hls_32012ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133197_english_hls_32012ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/rvMI4DBBQDeN-yjw4rNMwg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
             }
         },
         {
@@ -2525,74 +2522,6 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132477,
-            "status": "ABANDONED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "09 August 2025 02:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132477_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132477_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0082cb",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Outer Delhi Warriors",
-                    "shortName": "ODW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a2346",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Football",
             "title": "Sanfrecce Hiroshima Vs Shimizu S Pulse",
             "tournament": "J League 2025",
@@ -2641,6 +2570,74 @@
                     "isWinner": null,
                     "color": "#446ccb",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Central Delhi Kings Vs Outer Delhi Warriors",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132477,
+            "status": "ABANDONED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "09 August 2025 02:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132477_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132477_5521_CDK_ODW_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132477_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Outer Delhi Warriors",
+                    "shortName": "ODW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a2346",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
