@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:05:28 AM 09-08-2025",
+    "last_updated": "11:12:11 AM 09-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -12,7 +12,7 @@
     "matches": [
         {
             "category": "Cricket",
-            "title": "City Cricket Club Vs Nabajyoti Club",
+            "title": "Nabajyoti Club Vs City Cricket Club",
             "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
             "match_id": 132411,
             "status": "LIVE",
@@ -32,25 +32,6 @@
             },
             "teams": [
                 {
-                    "name": "City Cricket Club",
-                    "shortName": "CCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ed1f24",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Nabajyoti Club",
                     "shortName": "NBC",
                     "flag": {
@@ -58,6 +39,33 @@
                     },
                     "isWinner": null,
                     "color": "#0b258b",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "City Cricket Club",
+                    "shortName": "CCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ed1f24",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -139,9 +147,9 @@
                     "color": "#968205",
                     "cricketScore": [
                         {
-                            "runs": 8,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 24,
+                            "overs": "2.5",
+                            "balls": "17",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -199,11 +207,11 @@
                     "color": "#774704",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "19",
-                            "balls": "114",
+                            "runs": 107,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 8
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
