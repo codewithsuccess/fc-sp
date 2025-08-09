@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:58:59 PM 09-08-2025",
+    "last_updated": "08:05:43 PM 09-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 100,
-                            "overs": "16.1",
-                            "balls": "81",
+                            "runs": 113,
+                            "overs": "18.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -120,11 +120,11 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 103,
-                            "overs": "16.3",
-                            "balls": "83",
+                            "runs": 112,
+                            "overs": "18.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -297,11 +297,11 @@
                     "color": "#081A5E",
                     "cricketScore": [
                         {
-                            "runs": 57,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 61,
+                            "overs": "12",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
-                            "wickets": 7
+                            "wickets": 9
                         }
                     ],
                     "kabaddiScore": null,
@@ -357,9 +357,9 @@
                     "color": "#997832",
                     "cricketScore": [
                         {
-                            "runs": 94,
-                            "overs": "17",
-                            "balls": "102",
+                            "runs": 98,
+                            "overs": "18.3",
+                            "balls": "111",
                             "status": "IN_PROGRESS",
                             "wickets": 8
                         }
@@ -439,7 +439,7 @@
                             "runs": 66,
                             "overs": "9.1",
                             "balls": "55",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -449,7 +449,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -461,14 +461,22 @@
                     },
                     "isWinner": null,
                     "color": "#4091d7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0.1",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
