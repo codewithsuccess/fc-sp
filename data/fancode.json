@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:48 PM 10-08-2025",
+    "last_updated": "02:19:55 PM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -603,9 +603,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 33
+                    },
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
                     "name": "Australia",
@@ -618,9 +624,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 36
+                    },
                     "hockeyScore": null,
-                    "status": null
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "ENGLISH",
