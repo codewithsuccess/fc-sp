@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:26:33 AM 10-08-2025",
+    "last_updated": "05:30:20 AM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -2055,7 +2055,7 @@
             "title": "Syria Vs Iran",
             "tournament": "FIBA Asia Cup, 2025",
             "match_id": 133201,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "NOT_STARTED",
             "startTime": "10 August 2025 11:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -2082,7 +2082,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 3
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
@@ -2101,7 +2103,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 2
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
