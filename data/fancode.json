@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:45:00 PM 10-08-2025",
+    "last_updated": "12:51:43 PM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#129766",
                     "cricketScore": [
                         {
-                            "runs": 71,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 82,
+                            "overs": "16",
+                            "balls": "96",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -207,11 +207,11 @@
                     "color": "#ed7a00",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "2.4",
-                            "balls": "16",
+                            "runs": 34,
+                            "overs": "3.4",
+                            "balls": "22",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -260,7 +260,7 @@
             "title": "Npl Bears Vs Eavion Eagles",
             "tournament": "Namibia T20, 2025",
             "match_id": 132443,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "10 August 2025 01:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -981,14 +981,22 @@
                     },
                     "isWinner": null,
                     "color": "#0b258b",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
