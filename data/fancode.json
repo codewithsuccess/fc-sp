@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:05:44 PM 10-08-2025",
+    "last_updated": "09:12:54 PM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 18,
-    "upcoming_matches": 21,
+    "live_matches": 19,
+    "upcoming_matches": 20,
     "matches": [
         {
             "category": "Cricket",
@@ -68,11 +68,11 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 85,
-                            "overs": "11.3",
-                            "balls": "58",
+                            "runs": 110,
+                            "overs": "13.2",
+                            "balls": "67",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
-                            "runs": 69,
-                            "overs": "10.4",
-                            "balls": "54",
+                            "runs": 78,
+                            "overs": "12.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,9 +242,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 7,
-                            "overs": "0.4",
-                            "balls": "4",
+                            "runs": 29,
+                            "overs": "1.3",
+                            "balls": "9",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -329,9 +329,9 @@
                     "color": "#f79b46",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 6,
+                            "overs": "1",
+                            "balls": "6",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -457,6 +457,83 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131245_english_hls_17314ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131245_english_hls_17314ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/-BwFNkacQsKB5-ogEt55tg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Football",
+            "title": "Borussia Dortmund Vs Juventus",
+            "tournament": "Club Friendlies 2025",
+            "match_id": 131244,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "10 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131244_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131244_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Borussia Dortmund",
+                    "shortName": "DOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DOR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fde64e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Juventus",
+                    "shortName": "JUV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JUVE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4c4c4c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": {
+                        "points": 0,
+                        "goals": []
+                    },
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -691,77 +768,6 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Borussia Dortmund Vs Juventus",
-            "tournament": "Club Friendlies 2025",
-            "match_id": 131244,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "10 August 2025 09:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131244_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_old.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Borussia-Dortmund-vs-Juventus_Sporty.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131244_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Borussia Dortmund",
-                    "shortName": "DOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-DOR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#fde64e",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Juventus",
-                    "shortName": "JUV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-JUVE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4c4c4c",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131244_english_hls_756ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/sHKmRSUITne8ut4hASxAhg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Ireland Women Vs Pakistan Women",
             "tournament": "Pakistan Women tour of Ireland, 2025",
@@ -792,9 +798,9 @@
                     "color": "#32752E",
                     "cricketScore": [
                         {
-                            "runs": 70,
-                            "overs": "8.1",
-                            "balls": "49",
+                            "runs": 84,
+                            "overs": "10.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -2457,15 +2463,15 @@
             "title": "Featured Hole   Day 4",
             "tournament": "FedEx St. Jude Championship 2025",
             "match_id": 133336,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
             "startTime": "10 August 2025 09:30 PM",
             "startDate": "01 January 1970 05:30 AM",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/133336_CASACARDS_PARTNER_16_9_1920_1080.png",
                 "APP": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
-                "PLAYBACK": null,
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
                 "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ST.-Jude-Championship_Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Golf_Fallback_Old_match-card.jpg",
                 "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2025_match-card.jpg",
@@ -2512,12 +2518,15 @@
                     }
                 }
             ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133336_english_hls_30949ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/gf0dvwTnQNC1xeq-xqA9Pg/master.m3u8",
             "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133336_english_hls_30949ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133336_english_hls_30949ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/gf0dvwTnQNC1xeq-xqA9Pg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
             }
         },
         {
