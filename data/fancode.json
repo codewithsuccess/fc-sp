@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:51:32 AM 10-08-2025",
+    "last_updated": "10:58:15 AM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,9 +120,9 @@
                     "color": "#132f86",
                     "cricketScore": [
                         {
-                            "runs": 81,
-                            "overs": "14.4",
-                            "balls": "88",
+                            "runs": 85,
+                            "overs": "16.2",
+                            "balls": "98",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -199,9 +199,9 @@
                     "color": "#2e3d78",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "12",
-                            "balls": "72",
+                            "runs": 65,
+                            "overs": "13.2",
+                            "balls": "80",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -796,7 +796,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Selangor Vs Kuala Lumpur",
+            "title": "Kuala Lumpur Vs Selangor",
             "tournament": "MCA Men's T20 Inter-State Championship, 2025",
             "match_id": 132644,
             "status": "NOT_STARTED",
@@ -816,25 +816,6 @@
             },
             "teams": [
                 {
-                    "name": "Selangor",
-                    "shortName": "SEL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSEL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#db2029",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Kuala Lumpur",
                     "shortName": "KL",
                     "flag": {
@@ -842,6 +823,33 @@
                     },
                     "isWinner": null,
                     "color": "#996de7",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Selangor",
+                    "shortName": "SEL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CSEL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#db2029",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
