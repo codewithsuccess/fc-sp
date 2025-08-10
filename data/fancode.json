@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:44:44 PM 10-08-2025",
+    "last_updated": "11:51:44 PM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 110,
-                            "overs": "18.3",
-                            "balls": "93",
+                            "runs": 124,
+                            "overs": "20",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
                             "wickets": 9
                         }
@@ -147,11 +147,11 @@
                     "color": "#ae3c22",
                     "cricketScore": [
                         {
-                            "runs": 88,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 109,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -1048,7 +1048,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Ncm Investment Vs Phoenix Cricketers",
+            "title": "Phoenix Cricketers Vs Ncm Investment",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132149,
             "status": "NOT_STARTED",
@@ -1068,25 +1068,6 @@
             },
             "teams": [
                 {
-                    "name": "NCM Investment",
-                    "shortName": "NCMI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#be7d23",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Phoenix Cricketers",
                     "shortName": "PCT",
                     "flag": {
@@ -1094,6 +1075,33 @@
                     },
                     "isWinner": null,
                     "color": "#920b05",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "NCM Investment",
+                    "shortName": "NCMI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#be7d23",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
