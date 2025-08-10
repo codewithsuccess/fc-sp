@@ -1,102 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:30:47 PM 10-08-2025",
+    "last_updated": "09:37:44 PM 10-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 17,
-    "upcoming_matches": 22,
+    "live_matches": 16,
+    "upcoming_matches": 23,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Birmingham Phoenix Vs Southern Brave",
-            "tournament": "The Hundred, 2025",
-            "match_id": 132228,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "10 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132228_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132228_5505_SOB_BPH_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132228_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Birmingham Phoenix",
-                    "shortName": "BPH",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BIRM@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#e87c03",
-                    "cricketScore": [
-                        {
-                            "runs": 106,
-                            "overs": "20",
-                            "balls": "100",
-                            "status": "COMPLETED",
-                            "wickets": 7
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Southern Brave",
-                    "shortName": "SOB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#97c8a5",
-                    "cricketScore": [
-                        {
-                            "runs": 109,
-                            "overs": "16.1",
-                            "balls": "81",
-                            "status": "IN_PROGRESS",
-                            "wickets": 1
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-                "fancode_cdn": "Unavailable",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "East Delhi Riders Vs West Delhi Lions",
@@ -155,9 +68,9 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 63,
-                            "overs": "5.3",
-                            "balls": "33",
+                            "runs": 73,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -242,9 +155,9 @@
                     "color": "#f79b46",
                     "cricketScore": [
                         {
-                            "runs": 29,
-                            "overs": "4",
-                            "balls": "24",
+                            "runs": 39,
+                            "overs": "5.1",
+                            "balls": "31",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -556,7 +469,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 57
+                        "points": 64
                     },
                     "hockeyScore": null,
                     "status": {
@@ -577,7 +490,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 40
+                        "points": 45
                     },
                     "hockeyScore": null,
                     "status": {
@@ -629,9 +542,9 @@
                     "color": "#32752E",
                     "cricketScore": [
                         {
-                            "runs": 110,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 121,
+                            "overs": "16.1",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -708,9 +621,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 67,
-                            "overs": "18.3",
-                            "balls": "111",
+                            "runs": 78,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -1360,90 +1273,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/-BwFNkacQsKB5-ogEt55tg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Trent Rockets Women Vs Northern Superchargers Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132263,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "10 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132263_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132263_5506_TRT-W_NOS-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132263_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Trent Rockets Women",
-                    "shortName": "TRT-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#d09b8a",
-                    "cricketScore": [
-                        {
-                            "runs": 128,
-                            "overs": "20",
-                            "balls": "100",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Northern Superchargers Women",
-                    "shortName": "NOS-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#b9a3c7",
-                    "cricketScore": [
-                        {
-                            "runs": 129,
-                            "overs": "15.4",
-                            "balls": "79",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
             }
         },
         {
@@ -2855,6 +2684,142 @@
                     "isWinner": null,
                     "color": "#0581c5",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Mumbai Stars Vs Bengal Tigers",
+            "tournament": "LEGEN\u2011Z T10 League",
+            "match_id": 133539,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "11 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133539_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Legenz-T10-Mandatories_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133539_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Mumbai Stars",
+                    "shortName": "MUM",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MUMS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#59a033",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Bengal Tigers",
+                    "shortName": "BT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b58c05",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Cecc Vs Royal Trivianz",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132150,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "11 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132150_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132150_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bf9737",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Royal Trivianz",
+                    "shortName": "RTZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea6363",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
