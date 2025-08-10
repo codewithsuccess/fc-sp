@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:26:44 AM 11-08-2025",
+    "last_updated": "12:30:44 AM 11-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#d09b8a",
                     "cricketScore": [
                         {
-                            "runs": 48,
-                            "overs": "6.1",
-                            "balls": "31",
+                            "runs": 57,
+                            "overs": "7.3",
+                            "balls": "38",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -128,9 +128,9 @@
                     "color": "#920b05",
                     "cricketScore": [
                         {
-                            "runs": 26,
-                            "overs": "2.2",
-                            "balls": "14",
+                            "runs": 29,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -181,7 +181,7 @@
             "title": "Syria Vs Iran",
             "tournament": "FIBA Asia Cup, 2025",
             "match_id": 133201,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "10 August 2025 11:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -208,7 +208,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 3
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
@@ -227,7 +229,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 2
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
@@ -278,9 +282,9 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 145,
-                            "overs": "34.5",
-                            "balls": "209",
+                            "runs": 154,
+                            "overs": "36",
+                            "balls": "216",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
