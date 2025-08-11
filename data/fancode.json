@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:37:12 PM 11-08-2025",
+    "last_updated": "08:44:12 PM 11-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#4686c7",
                     "cricketScore": [
                         {
-                            "runs": 144,
-                            "overs": "17.4",
-                            "balls": "106",
+                            "runs": 158,
+                            "overs": "18.4",
+                            "balls": "112",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -120,11 +120,11 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 60,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 66,
+                            "overs": "8",
+                            "balls": "48",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -199,11 +199,11 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 118,
-                            "overs": "19.1",
-                            "balls": "96",
+                            "runs": 122,
+                            "overs": "20",
+                            "balls": "100",
                             "status": "IN_PROGRESS",
-                            "wickets": 5
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -281,7 +281,7 @@
                             "runs": 207,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 7
                         }
                     ],
@@ -291,7 +291,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -303,14 +303,22 @@
                     },
                     "isWinner": null,
                     "color": "#062642",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -428,9 +436,9 @@
                     "color": "#0581c5",
                     "cricketScore": [
                         {
-                            "runs": 22,
-                            "overs": "1.1",
-                            "balls": "7",
+                            "runs": 49,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1232,74 +1240,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Gauhati Town Club Vs City Cricket Club",
-            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
-            "match_id": 132417,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 August 2025 09:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132417_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132417_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Gauhati Town Club",
-                    "shortName": "GTC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3f0909",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "City Cricket Club",
-                    "shortName": "CCC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ed1f24",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Purani Delhi 6 Vs East Delhi Riders",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132484,
@@ -1346,6 +1286,74 @@
                     },
                     "isWinner": null,
                     "color": "#e7993a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Gauhati Town Club Vs City Cricket Club",
+            "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
+            "match_id": 132417,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 August 2025 09:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132417_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/GTC-Men's-Spring-T20-Cup-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v2/132417_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132417_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Gauhati Town Club",
+                    "shortName": "GTC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#3f0909",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "City Cricket Club",
+                    "shortName": "CCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CCLB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ed1f24",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
