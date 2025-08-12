@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:05:34 AM 12-08-2025",
+    "last_updated": "08:12:32 AM 12-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#efe641",
                     "cricketScore": [
                         {
-                            "runs": 83,
-                            "overs": "13.5",
-                            "balls": "83",
+                            "runs": 92,
+                            "overs": "15.1",
+                            "balls": "91",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -2542,42 +2542,34 @@
         },
         {
             "category": "Cricket",
-            "title": "New Delhi Tigers Vs South Delhi Superstarz",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132481,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "11 August 2025 02:00 PM",
+            "title": "Rijeka Markhors Vs Sir Oliver Split",
+            "tournament": "ECS Croatia, 2025",
+            "match_id": 133410,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 12:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132481_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133410_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132481_5521_SDS_NDT_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132481_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133410_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "New Delhi Tigers",
-                    "shortName": "NDT",
+                    "name": "Rijeka Markhors",
+                    "shortName": "RJM",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/NDT-CR2@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#B8142D",
-                    "cricketScore": [
-                        {
-                            "runs": 196,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 9
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#E2D9CA",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2589,29 +2581,21 @@
                     }
                 },
                 {
-                    "name": "South Delhi Superstarz",
-                    "shortName": "SDS",
+                    "name": "Sir Oliver Split",
+                    "shortName": "SOS",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-OLVSP@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#921b36",
-                    "cricketScore": [
-                        {
-                            "runs": 198,
-                            "overs": "19.5",
-                            "balls": "119",
-                            "status": "IN_PROGRESS",
-                            "wickets": 7
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#ff0000",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
