@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:26:32 AM 12-08-2025",
+    "last_updated": "11:30:35 AM 12-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#3f0909",
                     "cricketScore": [
                         {
-                            "runs": 84,
-                            "overs": "10.4",
-                            "balls": "64",
+                            "runs": 85,
+                            "overs": "11.1",
+                            "balls": "67",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -129,8 +129,8 @@
                     "cricketScore": [
                         {
                             "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "overs": "0.1",
+                            "balls": "1",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -657,7 +657,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Zagreb Warriors Vs Zagreb Sokol",
+            "title": "Zagreb Sokol Vs Zagreb Warriors",
             "tournament": "ECS Croatia, 2025",
             "match_id": 133405,
             "status": "NOT_STARTED",
@@ -677,25 +677,6 @@
             },
             "teams": [
                 {
-                    "name": "Zagreb Warriors",
-                    "shortName": "ZW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGWR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#dd7d1c",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Zagreb Sokol",
                     "shortName": "ZAS",
                     "flag": {
@@ -703,6 +684,33 @@
                     },
                     "isWinner": null,
                     "color": "#163fd0",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Zagreb Warriors",
+                    "shortName": "ZW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGWR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dd7d1c",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2560,34 +2568,34 @@
             }
         },
         {
-            "category": "Padel",
-            "title": "Vernost Jaguars Vs Gamechangers Lions",
-            "tournament": "World Padel League - Season 3",
-            "match_id": 132930,
+            "category": "Cricket",
+            "title": "Zagreb Assassins Vs Rijeka Markhors",
+            "tournament": "ECS Croatia, 2025",
+            "match_id": 133411,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "12 August 2025 04:00 PM",
+            "startTime": "13 August 2025 02:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132930_5502_JA_LO_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132930_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132930_5502_JA_LO_fc-Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133411_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WPL.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Padel_Tennis-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132930_5502_JA_LO_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132930_5502_JA_LO_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132930_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Croatia_Sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133411_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Vernost Jaguars",
-                    "shortName": "JA",
+                    "name": "Zagreb Assassins",
+                    "shortName": "ZA",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/padel-flags/FC-JA@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ZAGR@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#82321B",
+                    "color": "#0581c5",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2600,13 +2608,13 @@
                     }
                 },
                 {
-                    "name": "Gamechangers Lions",
-                    "shortName": "LO",
+                    "name": "Rijeka Markhors",
+                    "shortName": "RJM",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/padel-flags/FC-LO@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#A38618",
+                    "color": "#E2D9CA",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
