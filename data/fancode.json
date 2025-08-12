@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:44:34 AM 13-08-2025",
+    "last_updated": "12:51:34 AM 13-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#e87c03",
                     "cricketScore": [
                         {
-                            "runs": 10,
-                            "overs": "2.2",
-                            "balls": "12",
+                            "runs": 22,
+                            "overs": "4",
+                            "balls": "20",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -128,9 +128,9 @@
                     "color": "#2125DA",
                     "cricketScore": [
                         {
-                            "runs": 91,
-                            "overs": "6.5",
-                            "balls": "41",
+                            "runs": 115,
+                            "overs": "8.2",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -388,8 +388,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "149485",
+                                "shortName": "E Lee",
+                                "isOwnGoal": false,
+                                "goalTime": "31'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -465,8 +472,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "149485",
+                                "shortName": "E Lee",
+                                "isOwnGoal": false,
+                                "goalTime": "31'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -876,11 +890,11 @@
                     "color": "#559830",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "17.4",
-                            "balls": "106",
+                            "runs": 61,
+                            "overs": "19.3",
+                            "balls": "117",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
