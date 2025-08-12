@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:05:59 PM 12-08-2025",
+    "last_updated": "03:12:57 PM 12-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#0082cb",
                     "cricketScore": [
                         {
-                            "runs": 94,
-                            "overs": "12.1",
-                            "balls": "73",
+                            "runs": 102,
+                            "overs": "13.2",
+                            "balls": "80",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -94,7 +94,7 @@
             "title": "Hubli Tigers Vs Shivamogga Lions",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132787,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "12 August 2025 03:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -226,11 +226,11 @@
                     "color": "#0b258b",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.1",
-                            "balls": "1",
+                            "runs": 4,
+                            "overs": "1.1",
+                            "balls": "7",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -853,14 +853,22 @@
                     },
                     "isWinner": null,
                     "color": "#dd7d1c",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1445,14 +1453,14 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "13 August 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR_1754991598359.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/131986_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR_1754991598359.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Carabao_Cup.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR_1754991598359.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131986_5488_WAT_NOR.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131986_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -1513,14 +1521,14 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "13 August 2025 12:15 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL_1754991598398.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/131983_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL_1754991598398.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Carabao_Cup.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL_1754991598398.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131983_5488_WRX_HUL.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131983_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -1649,14 +1657,14 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "13 August 2025 12:30 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT_1754991598326.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/131985_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT_1754991598326.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/Carabao_Cup.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT_1754991598326.jpg",
                 "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131985_5488_BRO_IPT.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131985_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
@@ -2186,74 +2194,6 @@
         },
         {
             "category": "Cricket",
-            "title": "West Indies Vs Pakistan",
-            "tournament": "Pakistan tour of West Indies, 2025",
-            "match_id": 131401,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131401_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Wi-vs-PAK.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131401_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#7B0041",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pakistan",
-                    "shortName": "PAK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#559830",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Rijeka Markhors Vs Sir Oliver Split",
             "tournament": "ECS Croatia, 2025",
             "match_id": 133410,
@@ -2300,6 +2240,74 @@
                     },
                     "isWinner": null,
                     "color": "#ff0000",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs Pakistan",
+            "tournament": "Pakistan tour of West Indies, 2025",
+            "match_id": 131401,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "12 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131401_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Wi-vs-PAK.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131401_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#7B0041",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pakistan",
+                    "shortName": "PAK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#559830",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
