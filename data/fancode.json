@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "10:44:34 PM 12-08-2025",
+    "last_updated": "10:51:34 PM 12-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 7,
     "upcoming_matches": 32,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Purani Delhi 6 Vs East Delhi Riders",
-            "tournament": "Delhi Premier League, 2025",
-            "match_id": 132484,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "12 August 2025 07:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132484_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132484_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Purani Delhi 6",
-                    "shortName": "PD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c3333e",
-                    "cricketScore": [
-                        {
-                            "runs": 182,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "East Delhi Riders",
-                    "shortName": "EDR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e7993a",
-                    "cricketScore": [
-                        {
-                            "runs": 180,
-                            "overs": "19.2",
-                            "balls": "116",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/OPDMZMURSrSDBLIsPHJ49Q/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OPDMZMURSrSDBLIsPHJ49Q/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Mysore Warriors Vs Gulbarga Mystics",
@@ -155,9 +68,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 75,
-                            "overs": "8",
-                            "balls": "48",
+                            "runs": 87,
+                            "overs": "9",
+                            "balls": "54",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -286,11 +199,11 @@
                     "color": "#0d395a",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 74,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -365,11 +278,11 @@
                     "color": "#0d395a",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 74,
+                            "overs": "7.5",
+                            "balls": "47",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -446,7 +359,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 49
+                        "points": 64
                     },
                     "hockeyScore": null,
                     "status": {
@@ -467,7 +380,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 71
+                        "points": 81
                     },
                     "hockeyScore": null,
                     "status": {
@@ -519,9 +432,9 @@
                     "color": "#7B0041",
                     "cricketScore": [
                         {
-                            "runs": 286,
-                            "overs": "49.2",
-                            "balls": "296",
+                            "runs": 294,
+                            "overs": "50",
+                            "balls": "300",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -563,6 +476,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/131401_english_hls_12417ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/131401_english_hls_12417ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/I04DsKCeTFyOOpAeAa7NuA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Purani Delhi 6 Vs East Delhi Riders",
+            "tournament": "Delhi Premier League, 2025",
+            "match_id": 132484,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "12 August 2025 07:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132484_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/DPL_Tour_Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132484_5521_PD_EDR_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132484_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Purani Delhi 6",
+                    "shortName": "PD",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#c3333e",
+                    "cricketScore": [
+                        {
+                            "runs": 182,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Delhi Riders",
+                    "shortName": "EDR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#e7993a",
+                    "cricketScore": [
+                        {
+                            "runs": 186,
+                            "overs": "19.5",
+                            "balls": "119",
+                            "status": "IN_PROGRESS",
+                            "wickets": 5
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/OPDMZMURSrSDBLIsPHJ49Q/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132484_english_hls_76379ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OPDMZMURSrSDBLIsPHJ49Q/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
