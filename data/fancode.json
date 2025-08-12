@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:30:35 AM 12-08-2025",
+    "last_updated": "08:37:34 AM 12-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -44,7 +44,7 @@
                             "runs": 100,
                             "overs": "17.1",
                             "balls": "103",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -54,7 +54,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -66,14 +66,22 @@
                     },
                     "isWinner": null,
                     "color": "#996de7",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -570,7 +578,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Gauhati Town Club Vs City Cricket Club",
+            "title": "City Cricket Club Vs Gauhati Town Club",
             "tournament": "GTC Spring T20 Cup, 2nd Edition, 2025",
             "match_id": 132417,
             "status": "NOT_STARTED",
@@ -590,25 +598,6 @@
             },
             "teams": [
                 {
-                    "name": "Gauhati Town Club",
-                    "shortName": "GTC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3f0909",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "City Cricket Club",
                     "shortName": "CCC",
                     "flag": {
@@ -616,6 +605,33 @@
                     },
                     "isWinner": null,
                     "color": "#ed1f24",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Gauhati Town Club",
+                    "shortName": "GTC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GATC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#3f0909",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
