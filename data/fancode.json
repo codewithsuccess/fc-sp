@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:03 AM 14-08-2025",
+    "last_updated": "01:30:04 AM 14-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 79,
-                            "overs": "13",
-                            "balls": "65",
+                            "runs": 88,
+                            "overs": "14.2",
+                            "balls": "72",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -155,9 +155,9 @@
                     "color": "#702963",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "4.4",
-                            "balls": "28",
+                            "runs": 44,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -242,9 +242,9 @@
                     "color": "#702963",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "4.4",
-                            "balls": "28",
+                            "runs": 44,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -325,8 +325,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "197469",
+                                "shortName": "H Choudhury",
+                                "isOwnGoal": false,
+                                "goalTime": "54'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
