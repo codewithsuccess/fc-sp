@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:30:29 PM 13-08-2025",
+    "last_updated": "03:37:28 PM 13-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 28,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 36,
+                            "overs": "4.2",
+                            "balls": "26",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -123,7 +123,7 @@
                             "runs": 191,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 6
                         }
                     ],
@@ -133,7 +133,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -145,14 +145,22 @@
                     },
                     "isWinner": null,
                     "color": "#ff3d3d",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -226,11 +234,11 @@
                     "color": "#E2D9CA",
                     "cricketScore": [
                         {
-                            "runs": 61,
-                            "overs": "3.5",
-                            "balls": "23",
+                            "runs": 67,
+                            "overs": "4.5",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -2522,74 +2530,6 @@
             }
         },
         {
-            "category": "Arm Wrestling",
-            "title": "Day 9",
-            "tournament": "Pro Panja League Season 2 2025",
-            "match_id": 132198,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132198_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/07/Pro-Panja_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Arm-Wrestling-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/sporty-match-card-bg.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132198_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 9",
-                    "shortName": "Day 9",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-PPL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gwalior",
-                    "shortName": "Gwalior",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
             "category": "Cricket",
             "title": "Zagreb Assassins Vs Zagreb Sokol",
             "tournament": "ECS Croatia, 2025",
@@ -2637,6 +2577,74 @@
                     },
                     "isWinner": null,
                     "color": "#163fd0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Arm Wrestling",
+            "title": "Day 9",
+            "tournament": "Pro Panja League Season 2 2025",
+            "match_id": 132198,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 August 2025 05:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132198_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/07/Pro-Panja_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Arm-Wrestling-1440-x-360.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/sporty-match-card-bg.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132198_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Day 9",
+                    "shortName": "Day 9",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-PPL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFFFF",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gwalior",
+                    "shortName": "Gwalior",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FFFFFF",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
