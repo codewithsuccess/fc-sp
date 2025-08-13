@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:19:29 PM 13-08-2025",
+    "last_updated": "03:26:29 PM 13-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,9 +41,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 2,
-                            "overs": "0.4",
-                            "balls": "4",
+                            "runs": 17,
+                            "overs": "2.1",
+                            "balls": "13",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -120,9 +120,9 @@
                     "color": "#df562f",
                     "cricketScore": [
                         {
-                            "runs": 185,
-                            "overs": "19.1",
-                            "balls": "115",
+                            "runs": 191,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -226,9 +226,9 @@
                     "color": "#E2D9CA",
                     "cricketScore": [
                         {
-                            "runs": 26,
-                            "overs": "1.2",
-                            "balls": "9",
+                            "runs": 42,
+                            "overs": "2.4",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -399,7 +399,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Southern Brave Women Vs Northern Superchargers Women",
+            "title": "Northern Superchargers Women Vs Southern Brave Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132266,
             "status": "NOT_STARTED",
@@ -419,25 +419,6 @@
             },
             "teams": [
                 {
-                    "name": "Southern Brave Women",
-                    "shortName": "SOB-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#97c8a5",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Northern Superchargers Women",
                     "shortName": "NOS-W",
                     "flag": {
@@ -445,6 +426,33 @@
                     },
                     "isWinner": null,
                     "color": "#b9a3c7",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Southern Brave Women",
+                    "shortName": "SOB-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SOUTHB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#97c8a5",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
