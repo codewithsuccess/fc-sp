@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:31:02 PM 14-08-2025",
+    "last_updated": "12:38:01 PM 14-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#dd7d1c",
                     "cricketScore": [
                         {
-                            "runs": 16,
-                            "overs": "1.2",
-                            "balls": "8",
+                            "runs": 24,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -363,7 +363,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Singapore Women Vs Cambodia Women",
+            "title": "Cambodia Women Vs Singapore Women",
             "tournament": "Cambodia Women tour of Singapore, 2025",
             "match_id": 133926,
             "status": "NOT_STARTED",
@@ -383,25 +383,6 @@
             },
             "teams": [
                 {
-                    "name": "Singapore Women",
-                    "shortName": "SIN-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bd0f00",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Cambodia Women",
                     "shortName": "CAM-W",
                     "flag": {
@@ -409,6 +390,33 @@
                     },
                     "isWinner": null,
                     "color": "#16369a",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Singapore Women",
+                    "shortName": "SIN-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SING@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bd0f00",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
