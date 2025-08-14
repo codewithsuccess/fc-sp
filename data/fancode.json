@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:44:31 PM 14-08-2025",
+    "last_updated": "09:51:28 PM 14-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#16b9b7",
                     "cricketScore": [
                         {
-                            "runs": 55,
-                            "overs": "6.4",
-                            "balls": "40",
+                            "runs": 57,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -155,11 +155,11 @@
                     "color": "#a0a0d4",
                     "cricketScore": [
                         {
-                            "runs": 89,
-                            "overs": "14",
-                            "balls": "70",
+                            "runs": 95,
+                            "overs": "15.1",
+                            "balls": "76",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -242,11 +242,11 @@
                     "color": "#ff0000",
                     "cricketScore": [
                         {
-                            "runs": 47,
-                            "overs": "4.2",
-                            "balls": "26",
+                            "runs": 51,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -276,7 +276,7 @@
             "title": "New Zealand Vs Lebanon",
             "tournament": "FIBA Asia Cup, 2025",
             "match_id": 133259,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "STARTED",
             "startTime": "14 August 2025 09:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -303,7 +303,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 12
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
@@ -322,7 +324,9 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
-                    "basketBallScore": null,
+                    "basketBallScore": {
+                        "points": 29
+                    },
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
@@ -903,7 +907,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Cecc Vs Keraniganj Challengers",
+            "title": "Keraniganj Challengers Vs Cecc",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132156,
             "status": "NOT_STARTED",
@@ -923,25 +927,6 @@
             },
             "teams": [
                 {
-                    "name": "CECC",
-                    "shortName": "CEC-A",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#bf9737",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Keraniganj Challengers",
                     "shortName": "KGC",
                     "flag": {
@@ -949,6 +934,33 @@
                     },
                     "isWinner": null,
                     "color": "#d50e25",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "CECC",
+                    "shortName": "CEC-A",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CECT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#bf9737",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2474,35 +2486,35 @@
             }
         },
         {
-            "category": "Baseball",
-            "title": "Baltimore Orioles Vs Seattle Mariners",
-            "tournament": "Major League Baseball, 2025",
-            "match_id": 132859,
+            "category": "Cricket",
+            "title": "Hungary Vs Norway",
+            "tournament": "ECI Norway, 2025",
+            "match_id": 133867,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "14 August 2025 10:35 PM",
+            "startTime": "15 August 2025 06:45 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133867_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132859_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133867_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Baltimore Orioles",
-                    "shortName": "BAO",
+                    "name": "Hungary",
+                    "shortName": "HUN",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BALTI@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ff8048",
-                    "cricketScore": null,
+                    "color": "#326b14",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2514,14 +2526,14 @@
                     }
                 },
                 {
-                    "name": "Seattle Mariners",
-                    "shortName": "SEM",
+                    "name": "Norway",
+                    "shortName": "NOR",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#11a6a8",
-                    "cricketScore": null,
+                    "color": "#ea392a",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2610,35 +2622,35 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Hungary Vs Norway",
-            "tournament": "ECI Norway, 2025",
-            "match_id": 133867,
+            "category": "Baseball",
+            "title": "Baltimore Orioles Vs Seattle Mariners",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132859,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "15 August 2025 06:45 PM",
+            "startTime": "14 August 2025 10:35 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+            "image": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133867_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133867_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132859_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132859_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Hungary",
-                    "shortName": "HUN",
+                    "name": "Baltimore Orioles",
+                    "shortName": "BAO",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-BALTI@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#326b14",
-                    "cricketScore": [],
+                    "color": "#ff8048",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2650,14 +2662,14 @@
                     }
                 },
                 {
-                    "name": "Norway",
-                    "shortName": "NOR",
+                    "name": "Seattle Mariners",
+                    "shortName": "SEM",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-SEATL@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#ea392a",
-                    "cricketScore": [],
+                    "color": "#11a6a8",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
