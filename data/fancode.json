@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "08:31:23 AM 15-08-2025",
+    "last_updated": "08:37:57 AM 15-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,11 +120,11 @@
                     "color": "#D9C113",
                     "cricketScore": [
                         {
-                            "runs": 155,
-                            "overs": "19.2",
-                            "balls": "116",
+                            "runs": 161,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -581,7 +581,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Melbourne Stars Academy Vs Melbourne Renegades Academy",
+            "title": "Melbourne Renegades Academy Vs Melbourne Stars Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133501,
             "status": "NOT_STARTED",
@@ -601,25 +601,6 @@
             },
             "teams": [
                 {
-                    "name": "Melbourne Stars Academy",
-                    "shortName": "MSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a8435",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Melbourne Renegades Academy",
                     "shortName": "MRA",
                     "flag": {
@@ -627,6 +608,33 @@
                     },
                     "isWinner": null,
                     "color": "#f6848b",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Melbourne Stars Academy",
+                    "shortName": "MSA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a8435",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
