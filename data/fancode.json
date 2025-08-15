@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:30:41 PM 15-08-2025",
+    "last_updated": "11:37:39 PM 15-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 14,
-    "upcoming_matches": 24,
+    "live_matches": 15,
+    "upcoming_matches": 23,
     "matches": [
         {
             "category": "Cricket",
@@ -68,9 +68,9 @@
                     "color": "#921b36",
                     "cricketScore": [
                         {
-                            "runs": 106,
-                            "overs": "14.1",
-                            "balls": "85",
+                            "runs": 126,
+                            "overs": "14.5",
+                            "balls": "89",
                             "status": "IN_PROGRESS",
                             "wickets": 7
                         }
@@ -155,11 +155,11 @@
                     "color": "#272993",
                     "cricketScore": [
                         {
-                            "runs": 170,
-                            "overs": "17.4",
-                            "balls": "106",
+                            "runs": 176,
+                            "overs": "18.5",
+                            "balls": "113",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -215,9 +215,9 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 80,
-                            "overs": "8.1",
-                            "balls": "41",
+                            "runs": 94,
+                            "overs": "10",
+                            "balls": "50",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -321,11 +321,11 @@
                     "color": "#138bc2",
                     "cricketScore": [
                         {
-                            "runs": 33,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 41,
+                            "overs": "4.3",
+                            "balls": "27",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -381,9 +381,9 @@
                     "color": "#be7d23",
                     "cricketScore": [
                         {
-                            "runs": 10,
-                            "overs": "1",
-                            "balls": "7",
+                            "runs": 34,
+                            "overs": "2.2",
+                            "balls": "15",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -960,6 +960,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133269_english_hls_b602cfedaf9139ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133269_english_hls_b602cfedaf9139ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/tKoas_smS8CKdGN5cT1-RA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Baseball",
+            "title": "Chicago Cubs Vs Pittsburgh Pirates",
+            "tournament": "Major League Baseball, 2025",
+            "match_id": 132862,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "15 August 2025 11:50 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_APP.png",
+                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_APP.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/04/MLB-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Baseball-1440-x-360.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132862_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132862_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Chicago Cubs",
+                    "shortName": "CHC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-CHIC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d64140",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pittsburgh Pirates",
+                    "shortName": "PBP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/bb-flags/FC-PITTS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#816305",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132862_english_hls_c8073a3a2e24405ta-di_h264/index.m3u8",
+            "dai_stream": "Unavailable",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132862_english_hls_c8073a3a2e24405ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132862_english_hls_c8073a3a2e24405ta-di_h264/index.m3u8",
+                "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2647,74 +2718,6 @@
                     },
                     "isWinner": null,
                     "color": "#d3b252",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Jinx Zagreb Vs Lavender Lionesses",
-            "tournament": "ECS-W Croatia, 2025",
-            "match_id": 134049,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134049_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_old_01.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-W-Croatia_Sporty_01.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134049_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Jinx Zagreb",
-                    "shortName": "JZ-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR5@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea6363",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Lavender Lionesses",
-                    "shortName": "LL-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR18@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea6363",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
