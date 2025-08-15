@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:26:39 AM 16-08-2025",
+    "last_updated": "01:30:40 AM 16-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#e87c03",
                     "cricketScore": [
                         {
-                            "runs": 119,
-                            "overs": "14.2",
-                            "balls": "72",
+                            "runs": 130,
+                            "overs": "15.4",
+                            "balls": "79",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -102,7 +102,7 @@
             "title": "Ncm Investment Vs Bader & Nie Cricket Club",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132159,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "15 August 2025 11:15 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -215,9 +215,9 @@
                     "color": "#bf9737",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 10,
+                            "overs": "0.4",
+                            "balls": "4",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -295,8 +295,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "588010",
+                                "shortName": "E Eyong",
+                                "isOwnGoal": false,
+                                "goalTime": "29'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
