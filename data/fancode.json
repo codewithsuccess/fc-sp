@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "02:19:59 AM 17-08-2025",
+    "last_updated": "02:26:59 AM 17-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -126,8 +126,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "493072",
+                                "shortName": "D L\u00f3pez",
+                                "isOwnGoal": false,
+                                "goalTime": "57'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -148,8 +155,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "219271",
+                                "shortName": "T Kubo",
+                                "isOwnGoal": false,
+                                "goalTime": "60'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
