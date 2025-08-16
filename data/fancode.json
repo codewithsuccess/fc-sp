@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:19:39 PM 16-08-2025",
+    "last_updated": "06:26:59 PM 16-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -147,9 +147,9 @@
                     "color": "#0f266e",
                     "cricketScore": [
                         {
-                            "runs": 95,
-                            "overs": "14.5",
-                            "balls": "89",
+                            "runs": 107,
+                            "overs": "16.1",
+                            "balls": "97",
                             "status": "IN_PROGRESS",
                             "wickets": 6
                         }
@@ -207,11 +207,11 @@
                     "color": "#d3b252",
                     "cricketScore": [
                         {
-                            "runs": 154,
-                            "overs": "16.5",
-                            "balls": "101",
+                            "runs": 163,
+                            "overs": "18",
+                            "balls": "108",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -286,9 +286,9 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "8.1",
-                            "balls": "49",
+                            "runs": 83,
+                            "overs": "9.3",
+                            "balls": "57",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -365,9 +365,9 @@
                     "color": "#ea392a",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "0.5",
-                            "balls": "5",
+                            "runs": 47,
+                            "overs": "3",
+                            "balls": "18",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -409,6 +409,77 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133871_english_hls_c147ebb5fa6943ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/SRZhrVkwR2-Jy8ML0JkQhA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Tungabhadra Warriors Vs Kakinada Kings",
+            "tournament": "Andhra Premier League, 2025",
+            "match_id": 132774,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "16 August 2025 06:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132774_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132774_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Tungabhadra Warriors",
+                    "shortName": "TBW",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff3d3d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kakinada Kings",
+                    "shortName": "KNK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#062642",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/WeBQds1cR3qDLuc7IZDdWg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WeBQds1cR3qDLuc7IZDdWg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -580,77 +651,6 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Tungabhadra Warriors Vs Kakinada Kings",
-            "tournament": "Andhra Premier League, 2025",
-            "match_id": 132774,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 06:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132774_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/APL-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132774_5529_TBW_KNK_fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132774_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Tungabhadra Warriors",
-                    "shortName": "TBW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TBW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff3d3d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kakinada Kings",
-                    "shortName": "KNK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#062642",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/WeBQds1cR3qDLuc7IZDdWg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132774_english_hls_569c672b5a24285ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/WeBQds1cR3qDLuc7IZDdWg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Kabaddi",
             "title": "Amaravati Crushers Vs Tirupati Raiders",
             "tournament": "Yuva Andhra Championship, 2025",
@@ -682,9 +682,9 @@
                     "cricketScore": null,
                     "kabaddiScore": {
                         "points": 40,
-                        "onFieldPlayers": 5,
+                        "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -705,10 +705,10 @@
                     "color": "#e26252",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 27,
+                        "points": 28,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1115,14 +1115,22 @@
                     },
                     "isWinner": null,
                     "color": "#b8b3ba",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -1156,7 +1164,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Trent Rockets Vs Southern Brave",
+            "title": "Southern Brave Vs Trent Rockets",
             "tournament": "The Hundred, 2025",
             "match_id": 132236,
             "status": "NOT_STARTED",
@@ -1176,25 +1184,6 @@
             },
             "teams": [
                 {
-                    "name": "Trent Rockets",
-                    "shortName": "TRT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d09b8a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Southern Brave",
                     "shortName": "SOB",
                     "flag": {
@@ -1202,6 +1191,33 @@
                     },
                     "isWinner": null,
                     "color": "#97c8a5",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Trent Rockets",
+                    "shortName": "TRT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TRENR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d09b8a",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
