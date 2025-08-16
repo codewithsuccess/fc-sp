@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:26:59 AM 16-08-2025",
+    "last_updated": "06:31:21 AM 16-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#3fd379",
                     "cricketScore": [
                         {
-                            "runs": 137,
-                            "overs": "18.1",
-                            "balls": "109",
+                            "runs": 147,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
-                            "wickets": 6
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -567,7 +567,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Melbourne Renegades Academy Vs Australian Capital Territory",
+            "title": "Australian Capital Territory Vs Melbourne Renegades Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133504,
             "status": "NOT_STARTED",
@@ -587,25 +587,6 @@
             },
             "teams": [
                 {
-                    "name": "Melbourne Renegades Academy",
-                    "shortName": "MRA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f6848b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Australian Capital Territory",
                     "shortName": "ACT",
                     "flag": {
@@ -613,6 +594,33 @@
                     },
                     "isWinner": null,
                     "color": "#D9C113",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Melbourne Renegades Academy",
+                    "shortName": "MRA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f6848b",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
