@@ -1,14 +1,14 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:44:36 PM 16-08-2025",
+    "last_updated": "05:51:35 PM 16-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 39,
-    "live_matches": 17,
-    "upcoming_matches": 22,
+    "live_matches": 15,
+    "upcoming_matches": 24,
     "matches": [
         {
             "category": "Cricket",
@@ -234,9 +234,9 @@
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
-                            "runs": 79,
-                            "overs": "14.1",
-                            "balls": "71",
+                            "runs": 84,
+                            "overs": "16.4",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -321,11 +321,11 @@
                     "color": "#0f266e",
                     "cricketScore": [
                         {
-                            "runs": 58,
-                            "overs": "7.2",
-                            "balls": "44",
+                            "runs": 63,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -346,93 +346,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133507_english_hls_d9fdb12efc69653ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133507_english_hls_d9fdb12efc69653ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/s5v9SwrSTJ6Ug-oo1IXaMA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Hungary Vs Norway",
-            "tournament": "ECI Norway, 2025",
-            "match_id": 133870,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 04:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133870_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133870_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Hungary",
-                    "shortName": "HUN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#326b14",
-                    "cricketScore": [
-                        {
-                            "runs": 128,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Norway",
-                    "shortName": "NOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#ea392a",
-                    "cricketScore": [
-                        {
-                            "runs": 129,
-                            "overs": "6.1",
-                            "balls": "37",
-                            "status": "IN_PROGRESS",
-                            "wickets": 1
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -468,9 +381,9 @@
                     "color": "#d3b252",
                     "cricketScore": [
                         {
-                            "runs": 68,
-                            "overs": "9.3",
-                            "balls": "57",
+                            "runs": 80,
+                            "overs": "10.4",
+                            "balls": "64",
                             "status": "IN_PROGRESS",
                             "wickets": 1
                         }
@@ -547,11 +460,11 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 9,
+                            "overs": "1.4",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -719,7 +632,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 42
+                        "points": 59
                     },
                     "hockeyScore": null,
                     "status": {
@@ -740,7 +653,7 @@
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": {
-                        "points": 29
+                        "points": 55
                     },
                     "hockeyScore": null,
                     "status": {
@@ -792,8 +705,8 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 12,
-                        "onFieldPlayers": 6,
+                        "points": 23,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
                     },
@@ -816,7 +729,7 @@
                     "color": "#e26252",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 5,
+                        "points": 7,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": true
@@ -1198,47 +1111,45 @@
             }
         },
         {
-            "category": "Football",
-            "title": "Sanfrecce Hiroshima Vs Gamba Osaka",
-            "tournament": "J League 2025",
-            "match_id": 132082,
+            "category": "Cricket",
+            "title": "Hungary Vs Norway",
+            "tournament": "ECI Norway, 2025",
+            "match_id": 133870,
             "status": "COMPLETED",
             "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 03:30 PM",
+            "startTime": "16 August 2025 04:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_APP.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132082_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132082_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133870_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECI-Norway,-2025_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133870_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Sanfrecce Hiroshima",
-                    "shortName": "HIR",
+                    "name": "Hungary",
+                    "shortName": "HUN",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SHI@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#544194",
-                    "cricketScore": null,
+                    "isWinner": false,
+                    "color": "#326b14",
+                    "cricketScore": [
+                        {
+                            "runs": 128,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "COMPLETED",
+                            "wickets": 5
+                        }
+                    ],
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 1,
-                        "goals": [
-                            {
-                                "id": "685433",
-                                "shortName": "S Nakamura",
-                                "isOwnGoal": false,
-                                "goalTime": "19'"
-                            }
-                        ]
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
@@ -1248,131 +1159,40 @@
                     }
                 },
                 {
-                    "name": "Gamba Osaka",
-                    "shortName": "OSK",
+                    "name": "Norway",
+                    "shortName": "NOR",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-GOS@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
                     },
-                    "isWinner": null,
-                    "color": "#003f76",
-                    "cricketScore": null,
+                    "isWinner": true,
+                    "color": "#ea392a",
+                    "cricketScore": [
+                        {
+                            "runs": 129,
+                            "overs": "6.1",
+                            "balls": "37",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
                     "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
+                    "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
             ],
             "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132082_english_hls_2b2252481216995ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
             "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132082_english_hls_2b2252481216995ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132082_english_hls_2b2252481216995ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Football",
-            "title": "Machida Zelvia Vs Cerezo Osaka",
-            "tournament": "J League 2025",
-            "match_id": 132080,
-            "status": "COMPLETED",
-            "streamingStatus": "STARTED",
-            "startTime": "16 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/04/J-League_2023.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Football_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132080_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132080_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Machida Zelvia",
-                    "shortName": "MZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-MZ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#248eff",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 3,
-                        "goals": [
-                            {
-                                "id": "184766",
-                                "shortName": "N Sang-Ho",
-                                "isOwnGoal": false,
-                                "goalTime": "21'"
-                            },
-                            {
-                                "id": "608091",
-                                "shortName": "K Hayashi",
-                                "isOwnGoal": false,
-                                "goalTime": "42'"
-                            },
-                            {
-                                "id": "218561",
-                                "shortName": "O Se-Hun",
-                                "isOwnGoal": false,
-                                "goalTime": "78'"
-                            }
-                        ]
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Cerezo Osaka",
-                    "shortName": "OSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-COS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#2a2a63",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": {
-                        "points": 0,
-                        "goals": []
-                    },
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132080_english_hls_8d009a10e438561ta-di_h264/index.m3u8",
-            "dai_stream": "Unavailable",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132080_english_hls_8d009a10e438561ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132080_english_hls_8d009a10e438561ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133870_english_hls_2ee1989e5934189ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/AMZ6XAjaT--yEBP4q3_R5g/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -2203,74 +2023,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Sbs Cc Vs Royal Trivianz",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132161,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "16 August 2025 10:15 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132161_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132161_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "SBS CC",
-                    "shortName": "SBS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ae3c22",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Royal Trivianz",
-                    "shortName": "RTZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea6363",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Mangaluru Dragons Vs Bengaluru Blasters",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132797,
@@ -2339,6 +2091,74 @@
         },
         {
             "category": "Cricket",
+            "title": "Sbs Cc Vs Royal Trivianz",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132161,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132161_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132161_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "SBS CC",
+                    "shortName": "SBS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SBCC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ae3c22",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Royal Trivianz",
+                    "shortName": "RTZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR9@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea6363",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "Khan Zalmi Kings Vs Phoenix Cricketers",
             "tournament": "KCC T10 Summer League, 2025",
             "match_id": 132162,
@@ -2385,6 +2205,74 @@
                     },
                     "isWinner": null,
                     "color": "#920b05",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Manchester Originals Women Vs Northern Superchargers Women",
+            "tournament": "The Hundred Women, 2025",
+            "match_id": 132272,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "17 August 2025 03:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132272_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132272_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Manchester Originals Women",
+                    "shortName": "MNR-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#adb6b9",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Northern Superchargers Women",
+                    "shortName": "NOS-W",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b9a3c7",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2522,74 +2410,6 @@
                     "isWinner": null,
                     "color": "#6183ca",
                     "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Manchester Originals Women Vs Northern Superchargers Women",
-            "tournament": "The Hundred Women, 2025",
-            "match_id": 132272,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "17 August 2025 03:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132272_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/06/The-Hundred_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132272_5506_MNR-W_NOS-W_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132272_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Manchester Originals Women",
-                    "shortName": "MNR-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MANCO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#adb6b9",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Northern Superchargers Women",
-                    "shortName": "NOS-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SUPERNC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b9a3c7",
-                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2862,6 +2682,142 @@
                     "isWinner": null,
                     "color": "#4caade",
                     "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Northern Territory Strike Vs Hobart Hurricanes Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133509,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "17 August 2025 09:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Northern Territory Strike",
+                    "shortName": "NTS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea9a3d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Hobart Hurricanes Academy",
+                    "shortName": "HHA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#771ad2",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Basketball",
+            "title": "Australia Vs Iran",
+            "tournament": "FIBA Asia Cup, 2025",
+            "match_id": 133297,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "16 August 2025 09:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Iran-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133297_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Iran-old.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Asia-Cup-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Basketball_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Iran-old.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Australia-vs-Iran--sporty.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133297_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Australia",
+                    "shortName": "AUS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-AUS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#002695",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Iran",
+                    "shortName": "IRN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/nb-flags/FC-IRAN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b81609",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
