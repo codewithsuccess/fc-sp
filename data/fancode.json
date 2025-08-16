@@ -1,102 +1,15 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:37:59 AM 17-08-2025",
+    "last_updated": "01:44:59 AM 17-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
     "total_matches": 38,
-    "live_matches": 14,
-    "upcoming_matches": 24,
+    "live_matches": 13,
+    "upcoming_matches": 25,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Phoenix Cricketers Vs Khan Zalmi Kings",
-            "tournament": "KCC T10 Summer League, 2025",
-            "match_id": 132162,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "17 August 2025 12:15 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-                "PLAYBACK": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_APP.png",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1/132162_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132162_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Phoenix Cricketers",
-                    "shortName": "PCT",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#920b05",
-                    "cricketScore": [
-                        {
-                            "runs": 78,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Khan Zalmi Kings",
-                    "shortName": "KZK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/DEF-CR14@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFF8F",
-                    "cricketScore": [
-                        {
-                            "runs": 74,
-                            "overs": "7",
-                            "balls": "42",
-                            "status": "IN_PROGRESS",
-                            "wickets": 2
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132162_english_hls_05cabd913156153ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/Nsc1SRoWS3WI137_6OcrxA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132162_english_hls_05cabd913156153ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132162_english_hls_05cabd913156153ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/Nsc1SRoWS3WI137_6OcrxA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Football",
             "title": "Alav\u00e9s Vs Levante",
@@ -129,8 +42,15 @@
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": {
-                        "points": 0,
-                        "goals": []
+                        "points": 1,
+                        "goals": [
+                            {
+                                "id": "178867",
+                                "shortName": "T Mart\u00ednez",
+                                "isOwnGoal": false,
+                                "goalTime": "36'"
+                            }
+                        ]
                     },
                     "basketBallScore": null,
                     "hockeyScore": null,
@@ -1138,15 +1058,15 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "17 August 2025 03:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web_1755374792875.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/132797_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web_1755374792875.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-App.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-Web_1755374792875.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132797_5530_MD_BB_fc-App_1755374803167.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132797_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -1478,15 +1398,15 @@
             "streamingStatus": "NOT_STARTED",
             "startTime": "17 August 2025 07:15 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web_1755374792844.jpg",
             "image_cdn": {
                 "TATAPLAY": "https://images.fancode.com/aig/match/v1/132798_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web.jpg",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web_1755374792844.jpg",
                 "PLAYBACK": null,
                 "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-App.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-Web_1755374792844.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132798_5530_MW_SS_fc-App_1755374802439.jpg",
                 "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132798_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
@@ -2673,6 +2593,74 @@
                     },
                     "isWinner": null,
                     "color": "#326b14",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Royal Oman Stallions Vs Muscat Thunders",
+            "tournament": "Oman D20 League, 2025",
+            "match_id": 133677,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "17 August 2025 09:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133677_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133677_5590_ROS_MUT_fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133677_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Royal Oman Stallions",
+                    "shortName": "ROS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ROS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d3b252",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Muscat Thunders",
+                    "shortName": "MUT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSCT@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#5438bd",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
