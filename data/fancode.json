@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "12:30:07 PM 17-08-2025",
+    "last_updated": "12:37:03 PM 17-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -10,93 +10,6 @@
     "live_matches": 6,
     "upcoming_matches": 32,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Hobart Hurricanes Academy Vs Northern Territory Strike",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133509,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "17 August 2025 09:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Hobart Hurricanes Academy",
-                    "shortName": "HHA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#771ad2",
-                    "cricketScore": [
-                        {
-                            "runs": 125,
-                            "overs": "19.3",
-                            "balls": "117",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Northern Territory Strike",
-                    "shortName": "NTS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#ea9a3d",
-                    "cricketScore": [
-                        {
-                            "runs": 127,
-                            "overs": "19",
-                            "balls": "114",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/OjtDE5ngRCulXwwJ1YM_IA/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OjtDE5ngRCulXwwJ1YM_IA/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
         {
             "category": "Cricket",
             "title": "Jinx Zagreb Vs Lavender Lionesses",
@@ -128,9 +41,9 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 20,
-                            "overs": "3.3",
-                            "balls": "21",
+                            "runs": 44,
+                            "overs": "4.4",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -177,6 +90,85 @@
             }
         },
         {
+            "category": "Cricket",
+            "title": "Sweden Vs Norway",
+            "tournament": "ECN Norway T20I, 2025",
+            "match_id": 133873,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "17 August 2025 12:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133873_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133873_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Sweden",
+                    "shortName": "SWE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#508be1",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Norway",
+                    "shortName": "NOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ea392a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/3eDL0pHyS326-k1KkvIrNw/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/3eDL0pHyS326-k1KkvIrNw/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
             "category": "Kabaddi",
             "title": "Kakinada Kraken Vs Bhimavaram Guardians",
             "tournament": "Yuva Andhra Championship, 2025",
@@ -207,10 +199,10 @@
                     "color": "#c1c1c1",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 25,
-                        "onFieldPlayers": 6,
+                        "points": 37,
+                        "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": true
+                        "raiding": null
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -231,10 +223,10 @@
                     "color": "#f9ba8d",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 31,
+                        "points": 35,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
-                        "raiding": null
+                        "raiding": true
                     },
                     "footballScore": null,
                     "basketBallScore": null,
@@ -324,6 +316,93 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/119158_english_hls_266b13747239688ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/119158_english_hls_266b13747239688ta-di_h264/index.m3u8",
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/iOxHyBcKSJmfbs8rd4NqYA/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Hobart Hurricanes Academy Vs Northern Territory Strike",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133509,
+            "status": "COMPLETED",
+            "streamingStatus": "STARTED",
+            "startTime": "17 August 2025 09:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133509_5574_NTS_HHA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133509_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Hobart Hurricanes Academy",
+                    "shortName": "HHA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#771ad2",
+                    "cricketScore": [
+                        {
+                            "runs": 125,
+                            "overs": "19.3",
+                            "balls": "117",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Northern Territory Strike",
+                    "shortName": "NTS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NTC@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#ea9a3d",
+                    "cricketScore": [
+                        {
+                            "runs": 127,
+                            "overs": "19",
+                            "balls": "114",
+                            "status": "IN_PROGRESS",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/OjtDE5ngRCulXwwJ1YM_IA/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133509_english_hls_7cf5a5a01689112ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/OjtDE5ngRCulXwwJ1YM_IA/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -870,85 +949,6 @@
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Sweden Vs Norway",
-            "tournament": "ECN Norway T20I, 2025",
-            "match_id": 133873,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "17 August 2025 12:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133873_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025,-2025_match-card_1755164479089.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECN-Norway-T20I,-2025_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133873_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Sweden",
-                    "shortName": "SWE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SWE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#508be1",
-                    "cricketScore": [
-                        {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "Norway",
-                    "shortName": "NOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NORW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ea392a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/3eDL0pHyS326-k1KkvIrNw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133873_english_hls_06c84d0a8881600ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/3eDL0pHyS326-k1KkvIrNw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
             }
         },
         {
