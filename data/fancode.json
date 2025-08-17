@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:19:39 PM 17-08-2025",
+    "last_updated": "03:26:40 PM 17-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -39,14 +39,22 @@
                     },
                     "isWinner": null,
                     "color": "#fea129",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 },
@@ -139,11 +147,11 @@
                     "color": "#ea392a",
                     "cricketScore": [
                         {
-                            "runs": 65,
-                            "overs": "8.2",
-                            "balls": "50",
+                            "runs": 70,
+                            "overs": "10",
+                            "balls": "60",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -349,9 +357,9 @@
                     "color": "#ea6363",
                     "cricketScore": [
                         {
-                            "runs": 31,
-                            "overs": "3.2",
-                            "balls": "20",
+                            "runs": 52,
+                            "overs": "4.4",
+                            "balls": "29",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -428,9 +436,9 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 10,
-                            "overs": "2.3",
-                            "balls": "15",
+                            "runs": 20,
+                            "overs": "3.4",
+                            "balls": "22",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -615,7 +623,7 @@
             "title": "Manchester Originals Women Vs Northern Superchargers Women",
             "tournament": "The Hundred Women, 2025",
             "match_id": 132272,
-            "status": "NOT_STARTED",
+            "status": "LIVE",
             "streamingStatus": "NOT_STARTED",
             "startTime": "17 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
