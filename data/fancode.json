@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:05:10 PM 17-08-2025",
+    "last_updated": "09:12:10 PM 17-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,11 +68,11 @@
                     "color": "#eba095",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "10",
-                            "balls": "50",
+                            "runs": 58,
+                            "overs": "11.4",
+                            "balls": "59",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -155,11 +155,11 @@
                     "color": "#b9a3c7",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "9",
-                            "balls": "45",
+                            "runs": 79,
+                            "overs": "10.4",
+                            "balls": "54",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 5
                         }
                     ],
                     "kabaddiScore": null,
@@ -218,7 +218,7 @@
                             "runs": 184,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 10
                         }
                     ],
@@ -228,7 +228,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -240,14 +240,22 @@
                     },
                     "isWinner": null,
                     "color": "#c3333e",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 6,
+                            "overs": "1",
+                            "balls": "6",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -294,9 +302,9 @@
                     "color": "#ffed00",
                     "cricketScore": [
                         {
-                            "runs": 59,
-                            "overs": "10",
-                            "balls": "60",
+                            "runs": 78,
+                            "overs": "11.3",
+                            "balls": "69",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -373,9 +381,9 @@
                     "color": "#311659",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 110,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -452,9 +460,9 @@
                     "color": "#311659",
                     "cricketScore": [
                         {
-                            "runs": 87,
-                            "overs": "7",
-                            "balls": "42",
+                            "runs": 110,
+                            "overs": "8.5",
+                            "balls": "53",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -602,11 +610,11 @@
                     "color": "#ea392a",
                     "cricketScore": [
                         {
-                            "runs": 25,
-                            "overs": "4.3",
-                            "balls": "27",
+                            "runs": 34,
+                            "overs": "6",
+                            "balls": "36",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -681,9 +689,9 @@
                     "color": "#5438bd",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "1",
-                            "balls": "6",
+                            "runs": 17,
+                            "overs": "2.4",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -1778,74 +1786,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Nepal Vs Melbourne Stars Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133511,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2025 07:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133511_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133511_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0f266e",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Melbourne Stars Academy",
-                    "shortName": "MSA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0a8435",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "New Delhi Tigers Vs North Delhi Strikers",
             "tournament": "Delhi Premier League, 2025",
             "match_id": 132489,
@@ -1892,6 +1832,74 @@
                     },
                     "isWinner": null,
                     "color": "#4686c7",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Nepal Vs Melbourne Stars Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133511,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2025 07:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133511_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133511_5574_NEP_MSA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133511_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0f266e",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Melbourne Stars Academy",
+                    "shortName": "MSA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MSA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0a8435",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
