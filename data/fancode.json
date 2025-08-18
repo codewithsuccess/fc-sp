@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:30:50 AM 18-08-2025",
+    "last_updated": "06:37:49 AM 18-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -442,7 +442,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Nepal Vs Melbourne Stars Academy",
+            "title": "Melbourne Stars Academy Vs Nepal",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133511,
             "status": "NOT_STARTED",
@@ -462,25 +462,6 @@
             },
             "teams": [
                 {
-                    "name": "Nepal",
-                    "shortName": "NEP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0f266e",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Melbourne Stars Academy",
                     "shortName": "MSA",
                     "flag": {
@@ -488,6 +469,33 @@
                     },
                     "isWinner": null,
                     "color": "#0a8435",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Nepal",
+                    "shortName": "NEP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NEP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0f266e",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
