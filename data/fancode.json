@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:30:39 PM 18-08-2025",
+    "last_updated": "01:37:36 PM 18-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -120,9 +120,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 2,
+                            "overs": "1.2",
+                            "balls": "8",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -199,7 +199,7 @@
                     "color": "#e6ae3e",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 12,
+                        "points": 15,
                         "onFieldPlayers": 7,
                         "totalFieldPlayers": 7,
                         "raiding": null
@@ -223,7 +223,7 @@
                     "color": "#ffcad6",
                     "cricketScore": null,
                     "kabaddiScore": {
-                        "points": 9,
+                        "points": 14,
                         "onFieldPlayers": 4,
                         "totalFieldPlayers": 7,
                         "raiding": true
@@ -667,7 +667,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Melbourne Renegades Academy Vs Pakistan Shaheens",
+            "title": "Pakistan Shaheens Vs Melbourne Renegades Academy",
             "tournament": "Top End T20 Series, 2025",
             "match_id": 133513,
             "status": "NOT_STARTED",
@@ -687,25 +687,6 @@
             },
             "teams": [
                 {
-                    "name": "Melbourne Renegades Academy",
-                    "shortName": "MRA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f6848b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Pakistan Shaheens",
                     "shortName": "PKS",
                     "flag": {
@@ -713,6 +694,33 @@
                     },
                     "isWinner": null,
                     "color": "#d8a918",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Melbourne Renegades Academy",
+                    "shortName": "MRA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f6848b",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
