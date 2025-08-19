@@ -1,13 +1,13 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "09:02:38 PM 19-08-2025",
+    "last_updated": "09:10:45 PM 19-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 39,
-    "live_matches": 8,
+    "total_matches": 38,
+    "live_matches": 7,
     "upcoming_matches": 31,
     "matches": [
         {
@@ -44,7 +44,7 @@
                             "runs": 172,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 6
                         }
                     ],
@@ -54,7 +54,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -66,14 +66,22 @@
                     },
                     "isWinner": null,
                     "color": "#c3333e",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0.1",
+                            "balls": "1",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -120,9 +128,9 @@
                     "color": "#272993",
                     "cricketScore": [
                         {
-                            "runs": 136,
-                            "overs": "17.2",
-                            "balls": "104",
+                            "runs": 150,
+                            "overs": "19",
+                            "balls": "114",
                             "status": "IN_PROGRESS",
                             "wickets": 5
                         }
@@ -226,9 +234,9 @@
                     "color": "#adb6b9",
                     "cricketScore": [
                         {
-                            "runs": 5,
-                            "overs": "1.1",
-                            "balls": "6",
+                            "runs": 22,
+                            "overs": "3.1",
+                            "balls": "16",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -313,9 +321,9 @@
                     "color": "#cf6063",
                     "cricketScore": [
                         {
-                            "runs": 64,
-                            "overs": "5.4",
-                            "balls": "34",
+                            "runs": 77,
+                            "overs": "7.4",
+                            "balls": "46",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -373,9 +381,9 @@
                     "color": "#bcbcbc",
                     "cricketScore": [
                         {
-                            "runs": 19,
-                            "overs": "3",
-                            "balls": "18",
+                            "runs": 63,
+                            "overs": "5.4",
+                            "balls": "34",
                             "status": "IN_PROGRESS",
                             "wickets": 3
                         }
@@ -452,9 +460,9 @@
                     "color": "#D11919",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0.1",
-                            "balls": "1",
+                            "runs": 12,
+                            "overs": "1.5",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -498,148 +506,6 @@
                 "dai_google_cdn": "https://dai.google.com/linear/hls/event/SjOva3nBSvq6SkSRaTQtHg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Arm Wrestling",
-            "title": "Day 15",
-            "tournament": "Pro Panja League Season 2 2025",
-            "match_id": 132449,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "19 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132449_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/07/Pro-Panja_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Arm-Wrestling-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/sporty-match-card-bg.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132449_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 15",
-                    "shortName": "Day 15",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-PPL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gwalior",
-                    "shortName": "Gwalior",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132449_english_hls_7c799390a862399ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/PXh0btv8T2iQb0blF95ljw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132449_english_hls_7c799390a862399ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132449_english_hls_7c799390a862399ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/PXh0btv8T2iQb0blF95ljw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Arm Wrestling",
-            "title": "Day 15",
-            "tournament": "Pro Panja League Season 2 2025",
-            "match_id": 132449,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "19 August 2025 05:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132449_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/07/Pro-Panja_Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Arm-Wrestling-1440-x-360.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/old-match-card-.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/sporty-match-card-bg.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132449_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Day 15",
-                    "shortName": "Day 15",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-PPL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gwalior",
-                    "shortName": "Gwalior",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/aw-flags/FC-LOC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#FFFFFF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "HINDI",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/132449_hindi_hls_b157e3e05c91456ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/oOTl_Yq5QlmEg2qk8f7TRw/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132449_hindi_hls_b157e3e05c91456ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132449_hindi_hls_b157e3e05c91456ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/oOTl_Yq5QlmEg2qk8f7TRw/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "HINDI"
             }
         },
         {
@@ -2730,6 +2596,74 @@
                     },
                     "isWinner": null,
                     "color": "#c2c8fd",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Phoenix Cricketers Vs Gujrat Cc",
+            "tournament": "KCC T10 Summer League, 2025",
+            "match_id": 132169,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "20 August 2025 10:15 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132169_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_match-card.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T10-Summer-League,-2025_Sporty_Match_card.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132169_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Phoenix Cricketers",
+                    "shortName": "PCT",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PHO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#920b05",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Gujrat CC",
+                    "shortName": "GCC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GCCK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#29a668",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
