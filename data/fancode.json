@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "01:46:38 AM 20-08-2025",
+    "last_updated": "01:54:38 AM 20-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#ae3c22",
                     "cricketScore": [
                         {
-                            "runs": 41,
-                            "overs": "5",
-                            "balls": "30",
+                            "runs": 65,
+                            "overs": "7",
+                            "balls": "42",
                             "status": "IN_PROGRESS",
                             "wickets": 4
                         }
@@ -2745,42 +2745,34 @@
         },
         {
             "category": "Cricket",
-            "title": "Shivamogga Lions Vs Gulbarga Mystics",
-            "tournament": "Maharaja T20 Trophy, 2025",
-            "match_id": 132801,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "19 August 2025 03:15 PM",
+            "title": "Melbourne Renegades Academy Vs Hobart Hurricanes Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133521,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2025 06:00 AM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/132801_5530_GMY_SS_fc-Web_1755374792996.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/132801_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/132801_5530_GMY_SS_fc-Web_1755374792996.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133521_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
                 "PLAYBACK": null,
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/07/Maharaja-Trophy-KSCA-T20-Tour-Logo.png",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
                 "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132801_5530_GMY_SS_fc-Web_1755374792996.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/132801_5530_GMY_SS_fc-App_1755374802403.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/132801_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133521_5574_MRA_HHA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133521_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "name": "Shivamogga Lions",
-                    "shortName": "SS",
+                    "name": "Melbourne Renegades Academy",
+                    "shortName": "MRA",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SHV@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RNE@2x.png"
                     },
-                    "isWinner": false,
-                    "color": "#D59A14",
-                    "cricketScore": [
-                        {
-                            "runs": 133,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 7
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#f6848b",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2792,29 +2784,21 @@
                     }
                 },
                 {
-                    "name": "Gulbarga Mystics",
-                    "shortName": "GMY",
+                    "name": "Hobart Hurricanes Academy",
+                    "shortName": "HHA",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GMY@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HURN@2x.png"
                     },
-                    "isWinner": true,
-                    "color": "#2d9dbb",
-                    "cricketScore": [
-                        {
-                            "runs": 135,
-                            "overs": "17",
-                            "balls": "102",
-                            "status": "IN_PROGRESS",
-                            "wickets": 3
-                        }
-                    ],
+                    "isWinner": null,
+                    "color": "#771ad2",
+                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 }
