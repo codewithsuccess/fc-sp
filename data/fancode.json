@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:31:14 PM 19-08-2025",
+    "last_updated": "03:38:56 PM 19-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -41,11 +41,11 @@
                     "color": "#D59A14",
                     "cricketScore": [
                         {
-                            "runs": 27,
-                            "overs": "2.5",
-                            "balls": "17",
+                            "runs": 35,
+                            "overs": "4.2",
+                            "balls": "26",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -123,7 +123,7 @@
                             "runs": 214,
                             "overs": "20",
                             "balls": "120",
-                            "status": "IN_PROGRESS",
+                            "status": "COMPLETED",
                             "wickets": 6
                         }
                     ],
@@ -133,7 +133,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -145,14 +145,22 @@
                     },
                     "isWinner": null,
                     "color": "#062642",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -357,9 +365,9 @@
                     "color": "#d48020",
                     "cricketScore": [
                         {
-                            "runs": 63,
-                            "overs": "6.2",
-                            "balls": "38",
+                            "runs": 77,
+                            "overs": "8.4",
+                            "balls": "52",
                             "status": "IN_PROGRESS",
                             "wickets": 2
                         }
@@ -818,7 +826,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Mtv Stallions Vs Masroor Sports Club",
+            "title": "Masroor Sports Club Vs Mtv Stallions",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134133,
             "status": "NOT_STARTED",
@@ -838,25 +846,6 @@
             },
             "teams": [
                 {
-                    "name": "MTV Stallions",
-                    "shortName": "MTV",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MTV-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#151515",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Masroor Sports Club",
                     "shortName": "MSC",
                     "flag": {
@@ -864,6 +853,33 @@
                     },
                     "isWinner": null,
                     "color": "#1ba10e",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "MTV Stallions",
+                    "shortName": "MTV",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MTV-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#151515",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
