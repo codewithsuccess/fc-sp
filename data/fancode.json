@@ -1,7 +1,7 @@
 {
     "Author": "DOCTOR_STRANGE",
     "name": "FanCode Live Matches API",
-    "last_updated": "05:30:19 PM 20-08-2025",
+    "last_updated": "05:38:18 PM 20-08-2025",
     "headers": {
         "User-Agent": "ReactNativeVideo/7.19.1 (Linux;Android/13) AndroidXMedia3/1.1.1",
         "Referer": "https://fancode.com/"
@@ -68,9 +68,9 @@
                     "color": "#2d9dbb",
                     "cricketScore": [
                         {
-                            "runs": 32,
-                            "overs": "2",
-                            "balls": "12",
+                            "runs": 43,
+                            "overs": "3.1",
+                            "balls": "19",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -155,9 +155,9 @@
                     "color": "#97c8a5",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 18,
+                            "overs": "2.1",
+                            "balls": "11",
                             "status": "IN_PROGRESS",
                             "wickets": 0
                         }
@@ -186,10 +186,265 @@
         },
         {
             "category": "Cricket",
+            "title": "Pakistan Shaheens Vs Adelaide Strikers Academy",
+            "tournament": "Top End T20 Series, 2025",
+            "match_id": 133520,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "20 August 2025 03:00 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133520_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-app.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133520_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Pakistan Shaheens",
+                    "shortName": "PKS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d8a918",
+                    "cricketScore": [
+                        {
+                            "runs": 202,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 6
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Adelaide Strikers Academy",
+                    "shortName": "ASA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#4caade",
+                    "cricketScore": [
+                        {
+                            "runs": 56,
+                            "overs": "8.4",
+                            "balls": "52",
+                            "status": "IN_PROGRESS",
+                            "wickets": 7
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Sg Findorff Vs Sc Europa",
+            "tournament": "ECS Germany, Kiel, 2025",
+            "match_id": 134138,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "20 August 2025 04:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134138_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134138_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "SG Findorff",
+                    "shortName": "SGF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FDF-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c5d15e",
+                    "cricketScore": [
+                        {
+                            "runs": 93,
+                            "overs": "10",
+                            "balls": "60",
+                            "status": "COMPLETED",
+                            "wickets": 8
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "SC Europa",
+                    "shortName": "SCE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCE-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#001C47",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/qpoiCTEaRp-EN4eZz09fFg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qpoiCTEaRp-EN4eZz09fFg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Kabaddi",
+            "title": "Amaravati Crushers Vs Vizag Commandos",
+            "tournament": "Yuva Andhra Championship, 2025",
+            "match_id": 133701,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "20 August 2025 05:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133701_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
+                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_Fc-App.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133701_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "Amaravati Crushers",
+                    "shortName": "AC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffcad6",
+                    "cricketScore": null,
+                    "kabaddiScore": {
+                        "points": 8,
+                        "onFieldPlayers": 7,
+                        "totalFieldPlayers": 7,
+                        "raiding": null
+                    },
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Vizag Commandos",
+                    "shortName": "VC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c2c8fd",
+                    "cricketScore": null,
+                    "kabaddiScore": {
+                        "points": 5,
+                        "onFieldPlayers": 4,
+                        "totalFieldPlayers": 7,
+                        "raiding": true
+                    },
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
+            "dai_stream": "https://dai.google.com/linear/hls/event/YwNALM0rREKBDo5it9QwQg/master.m3u8",
+            "STREAMING_CDN": {
+                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
+                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YwNALM0rREKBDo5it9QwQg/master.m3u8",
+                "cloudfront_cdn": "Unavailable",
+                "language": "ENGLISH"
+            }
+        },
+        {
+            "category": "Cricket",
             "title": "North Delhi Strikers Women Vs Central Delhi Queens",
             "tournament": "Delhi Women's Premier League, 2025",
             "match_id": 132974,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "20 August 2025 02:00 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -359,177 +614,11 @@
             }
         },
         {
-            "category": "Cricket",
-            "title": "Pakistan Shaheens Vs Adelaide Strikers Academy",
-            "tournament": "Top End T20 Series, 2025",
-            "match_id": 133520,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "20 August 2025 03:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133520_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
-                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2023/12/Tour-Placeholder.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133520_5574_PKS_ASA_fc-app.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133520_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Pakistan Shaheens",
-                    "shortName": "PKS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PKS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d8a918",
-                    "cricketScore": [
-                        {
-                            "runs": 202,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Adelaide Strikers Academy",
-                    "shortName": "ASA",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ADS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#4caade",
-                    "cricketScore": [
-                        {
-                            "runs": 50,
-                            "overs": "7.4",
-                            "balls": "46",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133520_english_hls_2f720f68a936620ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/ubTaOLAMQMa3Bcp_s1kYbg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Cricket",
-            "title": "Sg Findorff Vs Sc Europa",
-            "tournament": "ECS Germany, Kiel, 2025",
-            "match_id": 134138,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "20 August 2025 04:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134138_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134138_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "SG Findorff",
-                    "shortName": "SGF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FDF-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c5d15e",
-                    "cricketScore": [
-                        {
-                            "runs": 93,
-                            "overs": "10",
-                            "balls": "60",
-                            "status": "IN_PROGRESS",
-                            "wickets": 8
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                },
-                {
-                    "name": "SC Europa",
-                    "shortName": "SCE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/SCE-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#001C47",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/qpoiCTEaRp-EN4eZz09fFg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/134138_english_hls_72278b718876660ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/qpoiCTEaRp-EN4eZz09fFg/master.m3u8",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
             "category": "Football",
             "title": "Sanfrecce Hiroshima Vs Vissel Kobe",
             "tournament": "J League 2025",
             "match_id": 132098,
-            "status": "LIVE",
+            "status": "COMPLETED",
             "streamingStatus": "STARTED",
             "startTime": "20 August 2025 03:30 PM",
             "startDate": "01 January 1970 05:30 AM",
@@ -604,77 +693,6 @@
                 "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8",
                 "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/132098_english_hls_896ba105bf62872ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "language": "ENGLISH"
-            }
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Amaravati Crushers Vs Vizag Commandos",
-            "tournament": "Yuva Andhra Championship, 2025",
-            "match_id": 133701,
-            "status": "NOT_STARTED",
-            "streamingStatus": "STARTED",
-            "startTime": "20 August 2025 05:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/133701_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
-                "PLAYBACK": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Yuva-Andhra-Championship,-2025-Tour-Logo.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-min.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_fc-Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/133701_5591_AC_VC_Fc-App.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/133701_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "Amaravati Crushers",
-                    "shortName": "AC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-AC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffcad6",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Vizag Commandos",
-                    "shortName": "VC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-VC@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c2c8fd",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "adfree_stream": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
-            "dai_stream": "https://dai.google.com/linear/hls/event/YwNALM0rREKBDo5it9QwQg/master.m3u8",
-            "STREAMING_CDN": {
-                "Primary_Playback_URL": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-fdlive.fancode.com/mumbai/133701_english_hls_5197753b6775318ta-di_h264/index.m3u8",
-                "dai_google_cdn": "https://dai.google.com/linear/hls/event/YwNALM0rREKBDo5it9QwQg/master.m3u8",
                 "cloudfront_cdn": "Unavailable",
                 "language": "ENGLISH"
             }
@@ -1157,7 +1175,7 @@
         },
         {
             "category": "Cricket",
-            "title": "Vfb Fallersleben Vs Berlin Cc",
+            "title": "Berlin Cc Vs Vfb Fallersleben",
             "tournament": "ECS Germany, Kiel, 2025",
             "match_id": 134139,
             "status": "NOT_STARTED",
@@ -1177,25 +1195,6 @@
             },
             "teams": [
                 {
-                    "name": "VFB Fallersleben",
-                    "shortName": "VFB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VFB-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0F3276",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
                     "name": "Berlin CC",
                     "shortName": "BER",
                     "flag": {
@@ -1203,6 +1202,33 @@
                     },
                     "isWinner": null,
                     "color": "#9c1a1a",
+                    "cricketScore": [
+                        {
+                            "runs": 0,
+                            "overs": "0",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "VFB Fallersleben",
+                    "shortName": "VFB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/VFB-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0F3276",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2313,74 +2339,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Htb Cricket Vs Sg Findorff",
-            "tournament": "ECS Germany, Kiel, 2025",
-            "match_id": 134142,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "21 August 2025 02:45 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134142_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Sporty_Match_card_.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134142_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "name": "HTB Cricket",
-                    "shortName": "HTB",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HTB-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#948FAA",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "SG Findorff",
-                    "shortName": "SGF",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FDF-CR1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#c5d15e",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            }
-        },
-        {
-            "category": "Cricket",
             "title": "Bengaluru Blasters Vs Shivamogga Lions",
             "tournament": "Maharaja T20 Trophy, 2025",
             "match_id": 132806,
@@ -2428,6 +2386,74 @@
                     "isWinner": null,
                     "color": "#D59A14",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            }
+        },
+        {
+            "category": "Cricket",
+            "title": "Htb Cricket Vs Sg Findorff",
+            "tournament": "ECS Germany, Kiel, 2025",
+            "match_id": 134142,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "21 August 2025 02:45 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/134142_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ECSN-Men-(6).png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_Fallback_Old_match-card.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Match_card_.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ECS-Germany,-Kiel,-2025_Sporty_Match_card_.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/134142_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "name": "HTB Cricket",
+                    "shortName": "HTB",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/HTB-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#948FAA",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "SG Findorff",
+                    "shortName": "SGF",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FDF-CR1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#c5d15e",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
