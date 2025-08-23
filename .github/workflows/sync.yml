@@ -3,7 +3,10 @@ name: Sync Fork with Upstream
 on:
   schedule:
     - cron: "*/7 * * * *"  # runs every 7 minutes
-  workflow_dispatch:     # allows manual trigger
+  workflow_dispatch:       # allows manual trigger
+
+permissions:
+  contents: write   # ✅ allow pushing
 
 jobs:
   sync:
@@ -29,4 +32,5 @@ jobs:
         run: git merge upstream/main --allow-unrelated-histories --no-edit || true
 
       - name: Push changes to fork
-        run: git push origin main
+        run: |
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
